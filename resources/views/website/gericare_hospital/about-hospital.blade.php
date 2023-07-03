@@ -50,8 +50,6 @@ The key focus areas of our specialization include medication management, fall pr
 </div>
 </div>
 
-
-
 <div class="col-lg-12">
 
 <div class="serveces-doctrs">
