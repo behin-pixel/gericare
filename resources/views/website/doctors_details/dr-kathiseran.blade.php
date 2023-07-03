@@ -1,0 +1,146 @@
+@extends("website.layout.welcome")
+
+@section('content')
+
+
+<section class="inner-layer-banner">
+<div class="container">
+<div class="row">
+
+<div class="col-lg-12">
+<h1>Our Doctors</h1>
+<ul>
+<li><a href=""> Home </a></li>
+<li> > </li>
+<li> Geri Care Hospitals </li>
+<li> > </li>
+<li><a href=""> Doctors </a></li>
+<li> > </li>
+<li class="active">Dr. Kathiresan  </li>
+</ul>
+</div>
+
+</div>
+</div>
+</section>
+
+<section class="doctor-details-contest">
+<div class="container">
+<div class="row">
+
+<div class="col-lg-12">
+
+<div class="row">
+<div class="col-lg-7">
+
+<div class="row dctr-detilsbox">
+
+<div class="col-lg-4">
+<div class="doc-tor-img">
+<img src="{{ asset('/public/website/assets/images/doctor-img-9.jpg') }}" alt="" class="w-100">
+</div>
+</div>
+
+<div class="col-lg-8">
+<div class="doc-tor-cnt">
+<h3>Dr. Kathiresan <span>Senior Surgical Oncologist</span></h3>
+<h4><img src="{{ asset('/public/website/assets/images/expe.png') }}" alt="" class=""> Experience <span> 20+ Years</span></h4>
+<h4><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> Education <span>MBBS, MS (General Surgery), MCh( Surgical Oncology) 
+</span></h4>
+<h4><img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class=""> Languages <span> Tamil, English</span></h4>
+<h4><img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class=""> Locations <span> T Nagar</span></h4>
+</div>
+</div>
+
+</div>
+
+<div class="main-contdvshon">
+<h4>Doctor's Profile</h4>
+<p>Dr Kathiresan is a reputed senior surgical oncologist from Chennai. He did his undergraduate(MBBS) from Madras Medical College and then went on to pursue  post graduation in General Surgery(MS) (Gen.Surg) at Madras Medical College. After a brief stint as senior resident in the Department of Plastic Surgery, Govt. Royapettah Hospital, he did his super specialization(MCh) in surgical oncology at Cancer Institute (WIA), Adyar, Chennai in 2002 and successfully completed his “super specialty” course in 2005. After completion he continued at Cancer Institute (WIA) as faculty in the Department of Surgical Oncology.
+</p>
+<p>Attracted by the special interest in “Bone and Soft Tissue Tumors”, he designed innovative newer prosthesis which improved the quality of life of patients with bone tumors. He was heading the division of “Musculoskeletal and Genitourinary Oncology” for a period of 7 years. He is not only an eminent teacher in the field of oncology but also was an examiner in Surgical Oncology in various Medical Universities across the India. He has extensive experience in Neo Bladder reconstruction after radical cystectomy of urinary bladder cancer (Making a new pouch to function as urinary bladder after removal)</p>
+<p>Being associated with renowned cancer care hospitals Dr.Kathiresan was awarded 'Best Doctor Award' from the Tamil Nadu, Dr.M.G.R Medical University, Chennai in September 2012.
+</p>
+<p>He has presented many research papers in National and International Conferences and received Best Paper awards.
+</p>
+<p>He has delivered Lectures as Faculty in multiple National and International Conferences. He has published more than 20 papers in peer reviewed National and International Journals. He is also a reviewer in few Journals.
+</p>
+</div>
+
+<div class="main-contdvshon">
+<h4>Education</h4>
+<ul>
+<li>MBBS  Kilpauk Medical College 1998</li>
+<li>DGO  Madras Medical College 2003</li>
+<li>MD Geriatrics -  Madras Medical College 2008</li>
+<li> Fellowship Certificate in Diabetology MV hospitals 2009</li>
+
+</ul>
+</div>
+
+<div class="main-contdvshon">
+<h4>Professional Work</h4>
+<ul>
+<li>14 years specialist in performing limb salvage surgeries for patients with Bone and Soft Tissue Sarcomas and Neo bladder reconstruction for patients with bladder cancers.
+</li>
+
+</ul>
+</div>
+
+
+
+</div>
+
+<div class="col-lg-5">
+    
+<div class="form-detilsbox text-center">
+<h4>Book Your Appointment</h4>
+<form class="appointment-form" name="AppointmentForm" method="post" onSubmit="return valid_chk4()" action="#" id="AppointmentForm">
+								<input type="hidden" name="form_name" value="book_an_appointment" >
+  							<div class="row"> 
+                                
+								<div class="col-sm-12 col-md-12 col-lg-12"> 
+									<input type="text" name="name" id="aname" class="form-control" placeholder="Dr.Kathiresan" readonly/>
+								</div>
+                                
+								<div class="col-sm-12 col-md-12 col-lg-12"> 
+									<input type="text" name="name" id="aname" class="form-control" placeholder="Name *" />
+								</div> 
+								<div class="col-sm-12 col-md-12 col-lg-12"> 
+									<input type="email" name="email" id="aemail" class="form-control" placeholder="Email *" />
+								</div>
+								<div class="col-sm-12 col-md-12 col-lg-12"> 
+									<input type="tel" id="aphone" name="phone" value="" class="form-control" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*?)\..*/g, '$1');" maxlength="10" placeholder="Phone *">
+								</div>
+								<div class="col-sm-12 col-md-6 col-lg-6">
+									<div class="datepicker date"> 
+										<input type="text" placeholder="Select Date" name="appointment_date" class="form-control" id="fecha1 " placeholder="Date *">
+										<div class="input-group-append">
+										<span class="input-group-text"><i class="fa fa-calendar"></i></span>
+										</div>
+									</div>
+								</div>
+								<div class="col-sm-12 col-md-6 col-lg-6"> 
+									<input type="text" class="form-control" name="appointment_time"  id="timepicker"/ placeholder="Select Time *">
+								</div> 
+								<div class="col-sm-12 col-md-12 col-lg-12"> 
+									<textarea class="form-control" name="details" placeholder="Message"></textarea>
+								</div>
+								<div class="col-sm-12 col-md-12 col-lg-12">
+                                        <div class="form-data cnt text-center clearfix"><input type="submit" name="submit" value="Submit"> </div>
+										</div>
+							</div>
+						</form>
+</div>
+
+</div>
+
+</div>
+</div>
+
+</div>
+</div>
+</section>
+ 
+
+@endsection
