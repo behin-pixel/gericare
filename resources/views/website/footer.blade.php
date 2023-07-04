@@ -22,10 +22,10 @@
 				<div class="quick-links">
 					<h4>Quick links</h4>
 						<ul>
-							<li><a href="">Home</a></li>
-							<li><a href="">About Us</a></li> 
-							<li><a href="">Services</a></li> 
-							<li><a href="">Gallery</a></li>    
+							<li><a href="{{ url('/') }}">Home</a></li>
+							<li><a href="{{ url('/gericare-hospital/about-hospital') }}">About Us</a></li> 
+							<li><a href="{{ url('/gericare-assisted-living/about-assisted-living/#servce-cre') }}">Services</a></li> 
+							<li><a href="{{ url('/in-news/gallery') }}">Gallery</a></li>    
 						</ul>
 				</div>
 				<div class="quick-links spce-nded"> 
@@ -39,10 +39,10 @@
 				<div class="quick-links">
 					<h4>Services</h4>
 						<ul>
-							<li><a href="">Geri Care Hospital</a></li> 
-							<li><a href="">Geri Care Assisted Living</a></li>
-							<li><a href="">Geri Care Clinics</a></li> 
-							<li><a href="">Geri Care Home Care</a></li> 
+							<li><a href="{{ url('/gericare-hospital/about-hospital') }}">Geri Care Hospital</a></li> 
+							<li><a href="{{ url('/gericare-assisted-living/about-assisted-living') }}">Geri Care Assisted Living</a></li>
+							<li><a href="{{ url('/gericare-clinics/about-clinics') }}">Geri Care Clinics</a></li> 
+							<li><a href="{{ url('/gericare-homecare/about-homecare') }}">Geri Care Home Care</a></li> 
 						</ul>
 				</div>
                         <div class="contact-links">
@@ -67,11 +67,7 @@
 
 <div class="flaoting-rays">
 <div class="menu-inrt">
-<ul>
-<!-- <li>
-<a href="{{ url('book-appointment') }}"><img src="{{ asset('/public/website/assets/images/ap.png') }}"></a>
-<span><a href="{{ url('book-appointment') }}">Book Appointment</a></span>
-</li> -->
+<ul> 
 <li>
 <a href="{{ url('/gericare-hospital/hospital-doctors') }}"><img src="{{ asset('/public/website/assets/images/do.png') }}"></a>
 <span><a href="{{ url('/gericare-hospital/hospital-doctors') }}">Find a Doctor</a></span>
@@ -79,11 +75,7 @@
 <li>
 <a href="{{ url('contact-us') }}"><img src="{{ asset('/public/website/assets/images/lo.png') }}"></a>
 <span><a href="{{ url('contact-us') }}">Locate us</a></span>
-</li>
-<!-- <li>
-<a href="tel:+914440614061"><img src="{{ asset('/public/website/assets/images/ca.png') }}"></a>
-<span><a href="tel:+914440614061">Call us</a></span>
-</li>  -->
+</li> 
 </ul>
 </div>
 </div>

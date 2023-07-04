@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@200;300;400;500;600;700;800;900;1000&family=Red+Hat+Display:wght@300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700&family=Mulish:wght@200;300;400;500;600;700;800;900;1000&family=Red+Hat+Display:wght@300;400;500;600;700;800;900&display=swap');
 
 body {
-    font-family: 'Mulish', sans-serif;
+    font-family: 'Inter', sans-serif;
     color: #848484;
     background: #FFF;
     font-size: 16px;
@@ -114,7 +114,7 @@ a:hover {
 }
 
 * {
-    font-family: 'Mulish', sans-serif;
+    font-family: 'Inter', sans-serif;
     outline: none !important;
 }
 
@@ -142,8 +142,8 @@ a:hover {
 
 .common-para p {
     font-weight: 400;
-    font-size: 18px;
-    line-height: 26px;
+    font-size: 17px;
+    line-height: 25px;
     color: rgba(0, 0, 0, 0.8);
     margin-bottom: 30px;
 }
@@ -417,12 +417,12 @@ a:hover {
 }
 
 .carousel .carousel-caption span {
-    font-size: 18px;
-    line-height: 28px;
+    font-size: 22px;
+    line-height: 32px;
     color: #FFF;
     font-weight: 400;
-    text-transform: inherit;
-    font-family: 'Mulish', sans-serif;
+    font-family: 'Red Hat Display', sans-serif;
+    text-transform: inherit; 
     margin-bottom: 30px;
     display: block;
 }
@@ -745,7 +745,7 @@ section {
 .gertiarics span {
     display: block;
     font-weight: 700;
-    font-size: 18px;
+    font-size: 17px;
     color: #000000;
     line-height: 26px;
 }
@@ -1028,7 +1028,7 @@ section {
 .form-data.cnt input {
     border: 0;
     border-radius: 4px;
-    font-family: 'Red Hat Display', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     height: 45px;
     padding: 6px 16px;
@@ -1039,7 +1039,7 @@ section {
 .form-data.cnt textarea {
     border: 0;
     border-radius: 4px;
-    font-family: 'Red Hat Display', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     height: 140px;
     padding: 6px 16px;
@@ -1055,7 +1055,7 @@ section {
     -moz-border-top-colors: none;
     border: 0;
     border-radius: 4px;
-    font-family: 'Red Hat Display', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     height: 45px;
     padding: 6px 16px;
@@ -1070,7 +1070,7 @@ section {
     display: inline-block;
     padding: 12px 20px 33px;
     position: relative;
-    font-family: 'Red Hat Display', sans-serif;
+    font-family: 'Inter', sans-serif;
     background: #17161A;
     color: #fff;
     font-weight: 600;
@@ -1417,9 +1417,9 @@ img.moby {
 .banner-liners ul li {
     list-style: none;
     font-weight: 400;
-    font-size: 18px;
+    font-size: 14px;
     color: rgba(255, 255, 255, 0.5);
-    line-height: 26px;
+    line-height: 22px;
 }
 
 .banner-liners ul li a:hover {
@@ -1432,16 +1432,16 @@ img.moby {
 
 .banner-liners ul li a {
     font-weight: 400;
-    font-size: 18px;
+    font-size: 14px;
     color: rgba(255, 255, 255, 0.5);
-    line-height: 26px;
+    line-height: 22px;
 }
 
 .seconday-paragraph {
     font-weight: 400;
-    font-size: 18px;
+    font-size: 17px;
     color: rgba(0, 0, 0, 0.8);
-    line-height: 26px;
+    line-height: 25px;
 }
 
 .home-gericare .seconday-paragraph {
@@ -1504,9 +1504,9 @@ img.moby {
 .servce p {
     font-weight: 400;
     margin: 10px 0 0px;
-    font-size: 16px;
+    font-size: 15px;
     color: rgba(0, 0, 0, 0.8);
-    line-height: 26px;
+    line-height: 25px;
     margin-bottom: 10px;
 }
 .servce a {
@@ -1636,6 +1636,8 @@ img.moby {
 .main-srvcestr .minrester p {
     margin: 15px 0;
     color: #000;
+    font-size: 14px;
+    line-height: 22px;
 }
 .main-srvcestr .minrester a img {
     width: auto;
@@ -2703,13 +2705,13 @@ ul.press-roomr li span.bts-non {
 .dctrm-deitals h3 {
     font-weight: 700;
     margin: 0;
-    font-size: 24px;
+    font-size: 21px;
     color: #7C164B;
     line-height: 28px;
 }
 
 .doctors-page .tab-content .dctrs-detls .dctrm-deitals h4 {
-    font-family: 'Red Hat Display', sans-serif;
+    font-family: 'Inter', sans-serif;
     margin-bottom: 10px;
     font-weight: 400;
     font-size: 14px;
@@ -2763,7 +2765,8 @@ ul.press-roomr li span.bts-non {
     font-size: 14px;
     color: #666666;
     line-height: 19px;
-    margin-bottom: 15px;
+    margin-bottom: 10px;
+    font-family: 'Inter', sans-serif;
 }
 
 .dctrm-deitals h5 img {
@@ -2830,15 +2833,15 @@ ul.press-roomr li span.bts-non {
     display: inline-block;
     color: rgba(255, 255, 255, 0.5);
     font-weight: 400;
-    font-size: 18px;
-    line-height: 26px;
+    font-size: 14px;
+    line-height: 22px;
 }
 .inner-layer-banner ul li a {
     display: inline-block;
     color: rgba(255, 255, 255, 0.5);
     font-weight: 400;
-    font-size: 18px;
-    line-height: 26px;
+    font-size: 14px;
+    line-height: 22px;
 }
 .inner-layer-banner ul li a:hover {
     color: #fff;
@@ -2935,8 +2938,7 @@ ul.press-roomr li span.bts-non {
 .doc-tor-cnt h3 span {
     font-weight: 500;
     color: #666666;
-    font-size: 16px;
-    font-family: 'Red Hat Display', sans-serif;
+    font-size: 14px; 
     line-height: 21px;
     display: block;
     margin-bottom: 20px;
@@ -2945,9 +2947,9 @@ ul.press-roomr li span.bts-non {
 .doc-tor-cnt h4 {
     font-weight: 400;
     color: #666666;
-    margin: 0 0 25px;
-    font-size: 16px;
-    font-family: 'Red Hat Display', sans-serif;
+    margin: 0 0 15px;
+    font-size: 14px;
+    font-family: 'Inter', sans-serif;
     line-height: 21px;
     position: relative;
 }
@@ -2977,10 +2979,8 @@ ul.press-roomr li span.bts-non {
 }
 
 .main-contdvshon p {
-    font-weight: 400;
-    font-size: 18px;
-    color: rgba(0, 0, 0, 0.8);
-    line-height: 26px;
+    font-weight: 400; 
+    color: rgba(0, 0, 0, 0.8); 
 }
 
 .main-contdvshon ul {
@@ -2991,11 +2991,9 @@ ul.press-roomr li span.bts-non {
     display: inline-block;
     position: relative;
     padding-left: 15px;
-    font-weight: 400;
-    font-size: 18px;
+    font-weight: 400; 
     color: rgba(0, 0, 0, 0.8);
-    margin-bottom: 20px;
-    line-height: 26px;
+    margin-bottom: 15px; 
     width: 100%;
 }
 .main-contdvshon ul li:before {
@@ -3065,10 +3063,10 @@ ul.press-roomr li span.bts-non {
 } 
 .facity-img p {
     font-weight: 400;
-    font-size: 15px;
+    font-size: 16px;
     color: #fff;
     line-height:24px;
-    font-family: 'Red Hat Display', sans-serif;
+    font-family: 'Inter', sans-serif;
     text-align: left;
 } 
 .facity-content-underimg {
@@ -3743,13 +3741,13 @@ ul.list-of-services li:hover img {
         text-align: left;}
 .revew-box{box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);background-color: #fff; border-radius: 4px;padding: 25px;margin:15px;}
 
-.rev-cnt{margin: 20px 0px;}
+.rev-cnt{margin: 20px 0px;color:rgba(0, 0, 0, 0.8);}
 
 .rev-img h4{margin: 0px;font-weight: 700; 
     font-family: 'Red Hat Display', sans-serif;
-    font-size: 16px;
+    font-size: 15px;
     color: #7C164B;
-    line-height: 21px;}
+    line-height: 24px;}
 
 .rev-img h4 span{display:block;font-weight: 400;  
     font-size: 14px;

@@ -324,7 +324,7 @@
 <img src="{{ asset('/public/website/assets/images/half-star.png') }}" alt="" class="">
 </div>
 <div class="rev-cnt">
-"Gericare is the best! The care they took of my father was so good, I have switched to them for my health care also. The caregivers are truly compassionate and efficient. They keep track of all the appointments and make sure no one is kept waiting. The doctors are experienced and kind and I cannot say enough in praise of the hospital."
+“Gericare is the best! The care they took of my father was so good, I have switched to them for my health care also. The caregivers are truly compassionate and efficient. They keep track of all the appointments and make sure no one is kept waiting. The doctors are experienced and kind and I cannot say enough in praise of the hospital.”
 </div>
 <div class="rev-img">
 <h4>Kalyani Komal <span> Chennai </span></h4>
@@ -366,10 +366,10 @@
 <img src="{{ asset('/public/website/assets/images/half-star.png') }}" alt="" class="">
 </div>
 <div class="rev-cnt">
-Geri care hospital doctors, nurses, physios,insurance team and the entire staff are curtious. I wanted to thank Dr. LPR, Dr Ashwin, Dr Guru Balaji, Nursing staff Jhansi in OP, Prakash (Physio), Nurse Bharathi amd team who have supported my father over the past few years.
+“Gericare call centre staff serve with a smile. Though one cannot see the smile on the telcon, one can visualize that they serve, fix appointments, answer all the queries patiently and politely. Exceptional service, Thanks”
 </div>
 <div class="rev-img">
-<h4>Karthick Venkatraman <span> Chennai </span></h4>
+<h4>Vythialingam Iyer <span> Chennai </span></h4>
 </div>
 <div class="rev-goog d-flex align-items-center justify-content-center">
 <img src="{{ asset('/public/website/assets/images/gog.png') }}" alt="" class="">
@@ -387,10 +387,10 @@ Geri care hospital doctors, nurses, physios,insurance team and the entire staff 
 <img src="{{ asset('/public/website/assets/images/half-star.png') }}" alt="" class="">
 </div>
 <div class="rev-cnt">
-Fantastic service from hospital staff including all doctors.Special mention to Dr UP Srinivas , Surgical Gastroenterologist . Extremely kind and compassionate towards patients. Responds to all queries patiently and spends time explaining the problem and the proposed treatment. Also would like to appreciate the friendly and supportive insurance staff(Monica). Overall thumbs up to the team.
+“My mother is in Gericare Assisted living post spinal surgery since december 2022. I am very surprised to know about this place as they have everything in the infrastructure for elderly people. Rooms are very spacious, calm and clean .They provided great support for my mom in terms of providing her medicine, food and help in the bed. Hats off to the Physiotherapist at Gericare who has done excellent therapy for my mom - who is now walking with walker support.”
 </div>
 <div class="rev-img">
-<h4>Deepa Shivakumar <span> Chennai </span></h4>
+<h4>Preethi Chandrasekar <span> Chennai </span></h4>
 </div>
 <div class="rev-goog d-flex align-items-center justify-content-center">
 <img src="{{ asset('/public/website/assets/images/gog.png') }}" alt="" class="">
@@ -408,10 +408,10 @@ Fantastic service from hospital staff including all doctors.Special mention to D
 <img src="{{ asset('/public/website/assets/images/half-star.png') }}" alt="" class="">
 </div>
 <div class="rev-cnt">
-This hospital is a blessing in disguise. Human emotions and care are given priority. Dr. Rejiv Rajendran, Dr.Kadhiresan and Dr. Rajkumar treatment my mother with utmost care and competency. All the staff and nurses are very kind and courteous. Reg Insurance, Monika does a neat job every time. She is very kind and right on time. Overall, Gericare is a blessing for elders.
+“I had to put my Mom into a rehab facility and scouted for a decent one with good care and amenities. Luckily I came across Gericare. A very caring and compassionate assisted living facility with great staffs and Doctors. They ensure the elders are treated with great respect and care. Provide all medical aid to help them recover soon. I discharged my mom after rehab and now her confidence level has improved a lot. Thanks to everyone in Gericare.”
 </div>
 <div class="rev-img">
-<h4>Anuradha Madhan <span> Chennai </span></h4>
+<h4>Vinoth Kumar <span> Chennai </span></h4>
 </div>
 <div class="rev-goog d-flex align-items-center justify-content-center">
 <img src="{{ asset('/public/website/assets/images/gog.png') }}" alt="" class="">
@@ -429,10 +429,136 @@ This hospital is a blessing in disguise. Human emotions and care are given prior
 <img src="{{ asset('/public/website/assets/images/half-star.png') }}" alt="" class="">
 </div>
 <div class="rev-cnt">
-Ideal hospital for senior citizens. Not crowded and you get excellent personal attention. Dr. Ashwin Subramaniam and Dr. Guru Balaji were awesome. Support staff were very courteous. Specific mention to be made of Ms. Monica who handles insurance. She is efficient and gets things organised on time - prerequisite for senior citizens.
+“Geri Care assisted living is an excellent facility for old age citizens. The care team along with admin, Ms. Yashoda were very cordial and provided excellent service. The facility is clean and bright. It has all the amenities for speedy recovery of patients.”
 </div>
 <div class="rev-img">
-<h4>Sreenivasan Janakiraman <span> Chennai </span></h4>
+<h4>Sriram Gopalan <span> Chennai </span></h4>
+</div>
+<div class="rev-goog d-flex align-items-center justify-content-center">
+<img src="{{ asset('/public/website/assets/images/gog.png') }}" alt="" class="">
+</div>
+
+</div>   
+
+<div class="revew-box text-center">
+
+<div class="rev-rat d-flex align-items-center justify-content-center">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/half-star.png') }}" alt="" class="">
+</div>
+<div class="rev-cnt">
+“Received best service from Geri Care Anna Nagar Clinic. And nurses caring for patients - very excellent. They are treated in a friendly manner. Doctors are well experienced and treated us well. I wish them all success in the future.”
+</div>
+<div class="rev-img">
+<h4>Raj Kamal <span> Chennai </span></h4>
+</div>
+<div class="rev-goog d-flex align-items-center justify-content-center">
+<img src="{{ asset('/public/website/assets/images/gog.png') }}" alt="" class="">
+</div>
+
+</div>    
+
+<div class="revew-box text-center">
+
+<div class="rev-rat d-flex align-items-center justify-content-center">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/half-star.png') }}" alt="" class="">
+</div>
+<div class="rev-cnt">
+“Reception is very courteous. The doctors are very patient in hearing and very efficient in diagnosis. Physio is also good.”
+</div>
+<div class="rev-img">
+<h4>Venkatachalam K <span> Chennai </span></h4>
+</div>
+<div class="rev-goog d-flex align-items-center justify-content-center">
+<img src="{{ asset('/public/website/assets/images/gog.png') }}" alt="" class="">
+</div>
+
+</div>    
+
+<div class="revew-box text-center">
+
+<div class="rev-rat d-flex align-items-center justify-content-center">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/half-star.png') }}" alt="" class="">
+</div>
+<div class="rev-cnt">
+“I regularly go to this place and I am happy with the support of the support staff as well as doctors.”
+</div>
+<div class="rev-img">
+<h4>Kuppurao Balaji <span> Chennai </span></h4>
+</div>
+<div class="rev-goog d-flex align-items-center justify-content-center">
+<img src="{{ asset('/public/website/assets/images/gog.png') }}" alt="" class="">
+</div>
+
+</div>    
+
+<div class="revew-box text-center">
+
+<div class="rev-rat d-flex align-items-center justify-content-center">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/half-star.png') }}" alt="" class="">
+</div>
+<div class="rev-cnt">
+“One of the best places for doctors of top notch quality for senior citizens. The care that the attenders show, the best of doctors in geriatric care, the facilities are all very satisfying.. home visits are also very comfortable.. our goto place for geriatric care!”
+</div>
+<div class="rev-img">
+<h4>Aparna Subramanian <span> Chennai </span></h4>
+</div>
+<div class="rev-goog d-flex align-items-center justify-content-center">
+<img src="{{ asset('/public/website/assets/images/gog.png') }}" alt="" class="">
+</div>
+
+</div>    
+
+<div class="revew-box text-center">
+
+<div class="rev-rat d-flex align-items-center justify-content-center">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/half-star.png') }}" alt="" class="">
+</div>
+<div class="rev-cnt">
+“We used a variety of Geri Care services in my father's last weeks: doctor visits, nursing care, attendants, equipment rental, and attending to medical situations as they came up. For every one of these, we were very happy with the quality of care, the prompt communications and the extremely professional manner in which everything was handled. It made a very difficult time easier to deal with. I would recommend Geri Care very highly and without reservation.”
+</div>
+<div class="rev-img">
+<h4>Pakku Thaath <span> Chennai </span></h4>
+</div>
+<div class="rev-goog d-flex align-items-center justify-content-center">
+<img src="{{ asset('/public/website/assets/images/gog.png') }}" alt="" class="">
+</div>
+
+</div>     
+
+<div class="revew-box text-center">
+
+<div class="rev-rat d-flex align-items-center justify-content-center">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/half-star.png') }}" alt="" class="">
+</div>
+<div class="rev-cnt">
+Extremely satisfied with both the quality of caregivers and the supervisory support. All caregivers were extremely professional, sincere, committed and diligent.
+</div>
+<div class="rev-img">
+<h4>P Venkatesh <span> Chennai </span></h4>
 </div>
 <div class="rev-goog d-flex align-items-center justify-content-center">
 <img src="{{ asset('/public/website/assets/images/gog.png') }}" alt="" class="">

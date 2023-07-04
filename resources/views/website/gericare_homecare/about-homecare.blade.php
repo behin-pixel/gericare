@@ -286,8 +286,92 @@ Request Call Back
 </div>
 </section>
 
+<section class="why-love">
+<div class="container">
+<div class="row justify-content-center">
 
-@include('website.bottomformhomecare')
+<div class="col-lg-12">
+
+<div class="common-heading text-center">
+<h2>Why People Love Us</h2>
+</div>
+
+<div class="google-revews">   
+
+<div class="revew-box text-center">
+
+<div class="rev-rat d-flex align-items-center justify-content-center">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/half-star.png') }}" alt="" class="">
+</div>
+<div class="rev-cnt">
+“One of the best places for doctors of top notch quality for senior citizens. The care that the attenders show, the best of doctors in geriatric care, the facilities are all very satisfying.. home visits are also very comfortable.. our goto place for geriatric care!”
+</div>
+<div class="rev-img">
+<h4>Aparna Subramanian <span> Chennai </span></h4>
+</div>
+<div class="rev-goog d-flex align-items-center justify-content-center">
+<img src="{{ asset('/public/website/assets/images/gog.png') }}" alt="" class="">
+</div>
+
+</div>    
+
+<div class="revew-box text-center">
+
+<div class="rev-rat d-flex align-items-center justify-content-center">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/half-star.png') }}" alt="" class="">
+</div>
+<div class="rev-cnt">
+“We used a variety of Geri Care services in my father's last weeks: doctor visits, nursing care, attendants, equipment rental, and attending to medical situations as they came up. For every one of these, we were very happy with the quality of care, the prompt communications and the extremely professional manner in which everything was handled. It made a very difficult time easier to deal with. I would recommend Geri Care very highly and without reservation.”
+</div>
+<div class="rev-img">
+<h4>Pakku Thaath <span> Chennai </span></h4>
+</div>
+<div class="rev-goog d-flex align-items-center justify-content-center">
+<img src="{{ asset('/public/website/assets/images/gog.png') }}" alt="" class="">
+</div>
+
+</div>     
+
+<div class="revew-box text-center">
+
+<div class="rev-rat d-flex align-items-center justify-content-center">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/half-star.png') }}" alt="" class="">
+</div>
+<div class="rev-cnt">
+Extremely satisfied with both the quality of caregivers and the supervisory support. All caregivers were extremely professional, sincere, committed and diligent.
+</div>
+<div class="rev-img">
+<h4>P Venkatesh <span> Chennai </span></h4>
+</div>
+<div class="rev-goog d-flex align-items-center justify-content-center">
+<img src="{{ asset('/public/website/assets/images/gog.png') }}" alt="" class="">
+</div>
+
+</div> 
+
+</div>
+
+</div>
+
+</div>
+
+</div> 
+</section>
+
+
+@include('website.bottomform')
 
 @include('website.mobilebottomform')
 

@@ -100,7 +100,7 @@ Our facility houses a comprehensive range of services and amenities that provide
 
 <picture>
   <source media="(min-width: 800px)" srcset="{{ asset('/public/website/assets/images/ass.jpg') }}">
-  <img src="{{ asset('/public/website/assets/images/ass-mob.png') }}"  class="img-responsive" alt="" > 
+  <img src="{{ asset('/public/website/assets/images/ass-mob.jpg') }}"  class="img-responsive" alt="" > 
 </picture>
 
 </div>
@@ -287,65 +287,79 @@ Our facility houses a comprehensive range of services and amenities that provide
 
 <li>
 <div class="geric-img">
-<img src="{{ asset('/public/website/assets/images/icn-2.png') }}" alt="" class=""> 
+<img src="{{ asset('/public/website/assets/images/icn-1.png') }}" alt="" class=""> 
 </div>
 <span> Daily Doctor visit </span>    
 </li>
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-4.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-1.png') }}" alt="" class=""> 
   </div>
   <span> Medication management </span>    
 </li>
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-5.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-1.png') }}" alt="" class=""> 
   </div>
   <span> 24 x 7 skilled nursing availability </span>    
 </li>
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-6.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-1.png') }}" alt="" class=""> 
   </div>
   <span> Nutritiously Curated Food </span>    
 </li>
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-3.png') }}" alt="" class=""> 
-  </div>
-  <span> Weekly Geriatrician visit & medical review </span>    
-</li>
-
-<li>
-<div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-7.png') }}" alt="" class=""> 
-  </div>
-  <span> Indoor & outdoor recreational activities </span>    
-</li>
-
-<li>
-<div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-8.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-1.png') }}" alt="" class=""> 
   </div>
   <span> Group yoga & physiotherapy </span>    
 </li>
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-8.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-1.png') }}" alt="" class=""> 
   </div>
   <span> Periodic Whatsapp communication </span>    
 </li>
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-8.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-1.png') }}" alt="" class=""> 
   </div>
   <span> Outside specialist consultations  </span>    
+</li>
+
+<li>
+<div class="geric-img">
+  <img src="{{ asset('/public/website/assets/images/icn-1.png') }}" alt="" class=""> 
+  </div>
+  <span> 24 x 7 emergency coordination </span>    
+</li>
+
+<li>
+<div class="geric-img">
+  <img src="{{ asset('/public/website/assets/images/icn-1.png') }}" alt="" class=""> 
+  </div>
+  <span> Three levels of Nursing Care  </span>    
+</li>
+
+<li>
+<div class="geric-img">
+  <img src="{{ asset('/public/website/assets/images/icn-1.png') }}" alt="" class=""> 
+  </div>
+  <span> Weekly Geriatrician visit & medical review </span>    
+</li>
+
+<li>
+<div class="geric-img">
+  <img src="{{ asset('/public/website/assets/images/icn-1.png') }}" alt="" class=""> 
+  </div>
+  <span> Indoor & outdoor recreational activities </span>    
 </li>
 
 <li>
@@ -357,37 +371,23 @@ Our facility houses a comprehensive range of services and amenities that provide
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-8.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-1.png') }}" alt="" class=""> 
   </div>
   <span> Fully furnished elder-friendly accomodations </span>    
 </li>
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-8.png') }}" alt="" class=""> 
-  </div>
-  <span> 24 x 7 emergency coordination </span>    
-</li>
-
-<li>
-<div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-8.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-1.png') }}" alt="" class=""> 
   </div>
   <span> Geriatrician reviewed, individualized, care plans </span>    
 </li>
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-8.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-1.png') }}" alt="" class=""> 
   </div>
   <span> Nutritious vegetarian diet meals & mid-day snacks </span>    
-</li>
-
-<li>
-<div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-8.png') }}" alt="" class=""> 
-  </div>
-  <span> Three levels of Nursing Care  </span>    
 </li>
 
 </ul> 
@@ -543,7 +543,7 @@ Our facility houses a comprehensive range of services and amenities that provide
 <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
 <div class="pseofmnd">
 We do whatever it takes <br>to make you feel at home.<br>
-To experience our Assisted Living facility, call us today!
+<span>To experience our Assisted Living facility, call us today!</span>
 </div>
 </div>
 
@@ -572,7 +572,93 @@ Request Call Back
 </section>
 
 
-@include('website.bottomformassisted')
+
+<section class="why-love">
+<div class="container">
+<div class="row justify-content-center">
+
+<div class="col-lg-12">
+
+<div class="common-heading text-center">
+<h2>Why People Love Us</h2>
+</div>
+
+<div class="google-revews">    
+
+<div class="revew-box text-center">
+
+<div class="rev-rat d-flex align-items-center justify-content-center">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/half-star.png') }}" alt="" class="">
+</div>
+<div class="rev-cnt">
+“My mother is in Gericare Assisted living post spinal surgery since december 2022. I am very surprised to know about this place as they have everything in the infrastructure for elderly people. Rooms are very spacious, calm and clean .They provided great support for my mom in terms of providing her medicine, food and help in the bed. Hats off to the Physiotherapist at Gericare who has done excellent therapy for my mom - who is now walking with walker support.”
+</div>
+<div class="rev-img">
+<h4>Preethi Chandrasekar <span> Chennai </span></h4>
+</div>
+<div class="rev-goog d-flex align-items-center justify-content-center">
+<img src="{{ asset('/public/website/assets/images/gog.png') }}" alt="" class="">
+</div>
+
+</div>  
+
+<div class="revew-box text-center">
+
+<div class="rev-rat d-flex align-items-center justify-content-center">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/half-star.png') }}" alt="" class="">
+</div>
+<div class="rev-cnt">
+“I had to put my Mom into a rehab facility and scouted for a decent one with good care and amenities. Luckily I came across Gericare. A very caring and compassionate assisted living facility with great staffs and Doctors. They ensure the elders are treated with great respect and care. Provide all medical aid to help them recover soon. I discharged my mom after rehab and now her confidence level has improved a lot. Thanks to everyone in Gericare.”
+</div>
+<div class="rev-img">
+<h4>Vinoth Kumar <span> Chennai </span></h4>
+</div>
+<div class="rev-goog d-flex align-items-center justify-content-center">
+<img src="{{ asset('/public/website/assets/images/gog.png') }}" alt="" class="">
+</div>
+
+</div>   
+
+<div class="revew-box text-center">
+
+<div class="rev-rat d-flex align-items-center justify-content-center">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/half-star.png') }}" alt="" class="">
+</div>
+<div class="rev-cnt">
+“Geri Care assisted living is an excellent facility for old age citizens. The care team along with admin, Ms. Yashoda were very cordial and provided excellent service. The facility is clean and bright. It has all the amenities for speedy recovery of patients.”
+</div>
+<div class="rev-img">
+<h4>Sriram Gopalan <span> Chennai </span></h4>
+</div>
+<div class="rev-goog d-flex align-items-center justify-content-center">
+<img src="{{ asset('/public/website/assets/images/gog.png') }}" alt="" class="">
+</div>
+
+</div> 
+
+</div>
+
+</div>
+
+</div>
+
+</div> 
+</section>
+
+
+@include('website.bottomform')
 
 @include('website.mobilebottomform')
 

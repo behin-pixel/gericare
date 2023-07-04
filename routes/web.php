@@ -65,12 +65,14 @@ Route::get('/gericare-hospital/hospital-doctors/dr-balamurugan-b',[PageViewContr
 
 Route::get('/gericare-hospital/hospital-doctors/dr-sridevi',[PageViewController::class,'drSrideviPage'])->name('doctors-details.dr-sridevi'); 
 
-
 Route::get('/gericare-hospital/hospital-doctors/dr-susovan',[PageViewController::class,'drSusovanPage'])->name('doctors-details.dr-susovan'); 
 
 Route::get('/gericare-hospital/hospital-doctors/dr-vasanth',[PageViewController::class,'drVasanthPage'])->name('doctors-details.dr-vasanth');
+
 Route::get('/gericare-hospital/hospital-doctors/dr-ashwin',[PageViewController::class,'drAshwinPage'])->name('doctors-details.dr-ashwin'); 
+
 Route::get('/gericare-hospital/hospital-doctors/dr-manicka-saravanan',[PageViewController::class,'drManickaSaravananPage'])->name('doctors-details.dr-manicka-saravanan');
+
 Route::get('/gericare-hospital/hospital-doctors/dr-tinu-thamby',[PageViewController::class,'drTinuThambyPage'])->name('doctors-details.dr-tinu-thamby');
 
 Route::get('/gericare-hospital/hospital-doctors/dr-srinivas-rajkumar',[PageViewController::class,'drSrinivasRajkumarPage'])->name('doctors-details.dr-srinivas-rajkumar'); 
