@@ -13,8 +13,7 @@ class AddStatusRemarkCareers extends Migration
      */
     public function up()
     {
-        Schema::table('careers', function (Blueprint $table) {
-            $table->string('status')->after('message')->nullable();
+        Schema::table('careers', function (Blueprint $table) {         
             $table->longText('remark')->after('status')->nullable();
         });
     }

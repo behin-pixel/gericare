@@ -31,7 +31,7 @@
 
 	<!-- dateTimepicker styles -->
     <link rel="stylesheet" type="text/css" href="{{ asset('/public/website/assets/css/mdtimepicker.min.css') }}">
-
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
 
     <link rel="stylesheet" type="text/css" href="{{ asset('/public/website/assets/css/header.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('/public/website/assets/css/main.css') }}">
@@ -101,12 +101,50 @@
 	<script type="text/javascript" src="{{ asset('/public/website/assets/js/additional-methods.js') }}"></script>  
 	<!-- jAlert -->    
 	<script type="text/javascript" src="{{ asset('/public/website/assets/js/sweetalert.min.js') }}"></script>
-	
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
     <script src="{{ asset('/public/website/assets/js/main.js') }}"></script>	 
     <script src="{{ asset('/public/website/assets/js/mdtimepicker.min.js') }}"></script>	 
     <script src="{{ asset('/public/website/assets/js/jquery.mapit.js') }}"></script>	 
     <script src="{{ asset('/public/website/assets/js/initializers.js') }}"></script>	 
+    @yield('addon_script')
+    <script>
+      $(document).ready(function() {
+          $('#timepicker').mdtimepicker(); //Initializes the time picker
+      });
 
+      $(".price").keypress(function(e) {
+          if (String.fromCharCode(e.keyCode).match(/[^.0-9]/g)) return false;
+      });
+      $('#AppointmentForm').submit(function() {
+          event.preventDefault();
+          var formData = $('#AppointmentForm').serialize();
+          $('#submit_btn').prop('disabled', 'true');
+
+          $.ajax({
+              url: "{{ route('appointment.form.submit') }}",
+              type: 'POST',
+              data: formData,
+              beforeSend: function() {},
+              success: function(res) {
+
+                  $('#submit_btn').prop('disabled', 'false');
+                  $("#submit_btn").attr("disabled", false);
+
+                  if (res.error == 0) {
+                      toastr.success('Success', res.message);
+                      $('#AppointmentForm')[0].reset();
+                  } else {
+                      if (res.message) {
+
+                          toastr.error("Error", res.message);
+
+                      }
+                  }
+              }
+          })
+      })
+  </script>
     <script>
   $(document).ready(function(){
     $('#timepicker').mdtimepicker(); //Initializes the time picker

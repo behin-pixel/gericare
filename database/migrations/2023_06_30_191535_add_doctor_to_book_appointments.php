@@ -4,7 +4,7 @@ use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
-class AddStatusBookAppointments extends Migration
+class AddDoctorToBookAppointments extends Migration
 {
     /**
      * Run the migrations.
@@ -13,8 +13,9 @@ class AddStatusBookAppointments extends Migration
      */
     public function up()
     {
-        Schema::table('book_appointments', function (Blueprint $table) {          
-            $table->longText('remark')->after('status')->nullable();
+        Schema::table('book_appointments', function (Blueprint $table) {
+            $table->string('doctor_name')->nullable()->after('appointment_services');
+            $table->unsignedBigInteger('doctor_id')->nullable()->after('doctor_name');
         });
     }
 
@@ -26,7 +27,8 @@ class AddStatusBookAppointments extends Migration
     public function down()
     {
         Schema::table('book_appointments', function (Blueprint $table) {
-            //
+            $table->dropColumn('doctor_name');
+            $table->dropColumn('doctor_id');
         });
     }
 }

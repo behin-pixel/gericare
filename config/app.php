@@ -163,6 +163,7 @@ return [
         Illuminate\Validation\ValidationServiceProvider::class,
         Illuminate\View\ViewServiceProvider::class,
         Maatwebsite\Excel\ExcelServiceProvider::class,
+        OwenIt\Auditing\AuditingServiceProvider::class,
 
         /*
          * Package Service Providers...
