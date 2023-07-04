@@ -115,7 +115,8 @@ within 24 hours.</span>
 </div> 
 
 <div class="">
-								<form class="appointment-form" name="AppointmentForm" method="post" onSubmit="return valid_chk4()" action="#" id="AppointmentForm">
+								<form class="appointment-form" name="AppointmentForm" method="post"  action="#" id="AppointmentForm">
+									@csrf
 								<input type="hidden" name="form_name" value="book_an_appointment" >
   							<div class="row">
 								<div class="col-sm-12 col-md-6 col-lg-6">
