@@ -5,7 +5,7 @@
 <section class="inner-banner p-0">
 
 <div class="">
-<img src="{{ asset('/public/website/assets/images/banners/news&events.jpg') }}" alt="" class="w-100" />
+<img src="{{ asset('/public/website/assets/images/banners/news.jpg') }}" alt="" class="w-100" />
 </div> 
 
 <div class="banner-liners">
@@ -18,7 +18,9 @@
 <ul>
 <li><a href="../">Home</a></li>   
 <li> > </li>  
-<li>Career</li>   
+<li>News Room</li>      
+<li> > </li>  
+<li class="active">News & Events</li>     
 </ul>
 </div>
 </div>

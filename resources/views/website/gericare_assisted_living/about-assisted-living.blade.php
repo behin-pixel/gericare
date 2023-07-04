@@ -43,10 +43,8 @@ under the expert care of Geriatricans</span>
 to assist those in need. </h2>
 </div>
 <div class="seconday-paragraph text-center">
-In a revolutionary attempt, we at Geri care offer 24/7 Assisted Living designed to cater to the specific needs of older adults who require medical attention and support in their day to day lives. 
-Our facility houses a comprehensive range of services and amenities that provide residents with utmost comfort, safety and a homely atmosphere under the supervision of professional experts. <br><br>
-
-The constant availability of care helps alleviate concerns and provides peace of mind to both residents and their families.<br>
+In a revolutionary attempt, we at Geri Care offer 24/7 Assisted Living designed to cater to the specific needs of older adults who require medical attention and support in their day to day lives. 
+Our facility houses a comprehensive range of services and amenities that provide residents with utmost comfort, safety and a homely atmosphere under the supervision of professional experts. The constant availability of care helps alleviate concerns and provides peace of mind to both residents and their families.<br>
 </div>
 </div>
 
@@ -59,21 +57,21 @@ The constant availability of care helps alleviate concerns and provides peace of
 <div class="servce">
 <img src="{{ asset('/public/website/assets/images/icon-1.png') }}" alt="" class="" />
 <h4> Meet our Experts  </h4>
-<p> Interact with our Assisted Living team of experts. </p>
+<p> Interact with our Assisted Living <br>team of experts. </p>
 <a href="{{ url('/gericare-hospital/hospital-doctors') }}"> View All Doctors <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
 </div>
 
 <div class="servce">
 <img src="{{ asset('/public/website/assets/images/icon-2.png') }}" alt="" class="" />
 <h4> Locate our Facility </h4>
-<p> Find an Assisted Living Center near your home </p>
-<a href="#add-res-bar"> View on maps <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
+<p> Find an Assisted Living Center <br>near your home </p>
+<a href="#add-res-bar"> View On Maps <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
 </div>
 
 <div class="servce">
 <img src="{{ asset('/public/website/assets/images/icon-3.png') }}" alt="" class="" />
-<h4> Make a Visit </h4>
-<p> Schedule an appointment to check out our facility </p>
+<h4> Book your visit </h4>
+<p> Schedule an appointment to <br>check out our facility </p>
 <a href="{{ url('book-appointment') }}"> Book Your Appointment <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
 </div>
 
@@ -165,7 +163,7 @@ The constant availability of care helps alleviate concerns and provides peace of
 <div class="spotlght-lists text-end">
 <img class="resp-onsive" src="{{ asset('/public/website/assets/images/Rehabilitative-_-Restorative-care-transformed.jpeg') }}" alt="" >
 <div class="common-heads text-drk aos-init aos-animate" data-aos="fade-right" data-aos-duration="1000">
-<h2> Rehabilitative & Restorative care </h2>
+<h2> Rehabilitative & Restorative Care </h2>
 </div>
 
 <div class="common-parra text-drk aos-init aos-animate" data-aos="fade-right" data-aos-duration="1000">
@@ -198,7 +196,7 @@ The constant availability of care helps alleviate concerns and provides peace of
 <img class="resp-onsive" src="{{ asset('/public/website/assets/images/Dementia-care-transformed.jpeg') }}" alt="" >
 
 <div class="common-heads aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
-<h2> Dementia care </h2>
+<h2> Dementia Care </h2>
 </div>
 
 <div class="common-parra aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
@@ -312,84 +310,84 @@ The constant availability of care helps alleviate concerns and provides peace of
 <div class="geric-img">
   <img src="{{ asset('/public/website/assets/images/icn-6.png') }}" alt="" class=""> 
   </div>
-  <span> Nutritious Dietitian Curated Food menu </span>    
+  <span> Nutritiously Curated Food </span>    
 </li>
 
 <li>
 <div class="geric-img">
   <img src="{{ asset('/public/website/assets/images/icn-3.png') }}" alt="" class=""> 
   </div>
-  <span> Weekly Geriatrician Doctor visit and medical review </span>    
+  <span> Weekly Geriatrician visit & medical review </span>    
 </li>
 
 <li>
 <div class="geric-img">
   <img src="{{ asset('/public/website/assets/images/icn-7.png') }}" alt="" class=""> 
   </div>
-  <span> Indoor and outdoor recreational activities </span>    
+  <span> Indoor & outdoor recreational activities </span>    
 </li>
 
 <li>
 <div class="geric-img">
   <img src="{{ asset('/public/website/assets/images/icn-8.png') }}" alt="" class=""> 
   </div>
-  <span> Group Yoga and Group Physiotherapy </span>    
+  <span> Group yoga & physiotherapy </span>    
 </li>
 
 <li>
 <div class="geric-img">
   <img src="{{ asset('/public/website/assets/images/icn-8.png') }}" alt="" class=""> 
   </div>
-  <span> Periodic communication to family members on Whatsapp. </span>    
+  <span> Periodic Whatsapp communication </span>    
 </li>
 
 <li>
 <div class="geric-img">
   <img src="{{ asset('/public/website/assets/images/icn-8.png') }}" alt="" class=""> 
   </div>
-  <span> Outside Specialist Consultations on a need basis  </span>    
+  <span> Outside specialist consultations  </span>    
 </li>
 
 <li>
 <div class="geric-img">
 <img src="{{ asset('/public/website/assets/images/icn-1.png') }}" alt="" class=""> 
 </div>
-<span> Initial Comprehensive Geriatric Assessment (CGA) of the client </span>    
+<span> Initial Comprehensive Geriatric Assessment (CGA) </span>    
 </li>
 
 <li>
 <div class="geric-img">
   <img src="{{ asset('/public/website/assets/images/icn-8.png') }}" alt="" class=""> 
   </div>
-  <span> Fully furnished elder friendly Single AC accommodation or twin sharing accommodation for couples </span>    
+  <span> Fully furnished elder-friendly accomodations </span>    
 </li>
 
 <li>
 <div class="geric-img">
   <img src="{{ asset('/public/website/assets/images/icn-8.png') }}" alt="" class=""> 
   </div>
-  <span> 24 x 7 emergency coordination for admission in your preferred hospitals, if any, in case of emergencies </span>    
+  <span> 24 x 7 emergency coordination </span>    
 </li>
 
 <li>
 <div class="geric-img">
   <img src="{{ asset('/public/website/assets/images/icn-8.png') }}" alt="" class=""> 
   </div>
-  <span> Geriatrician reviewed, individualized, care plan customized for each resident by a team of Doctors, Nurses, Physiotherapist & Dietician </span>    
+  <span> Geriatrician reviewed, individualized, care plans </span>    
 </li>
 
 <li>
 <div class="geric-img">
   <img src="{{ asset('/public/website/assets/images/icn-8.png') }}" alt="" class=""> 
   </div>
-  <span> Nutritious vegetarian diet meals (3 times a day) and mid-day snacks prepared at in-house kitchens supervised by a certified Dietician. All delivered at room for those in need </span>    
+  <span> Nutritious vegetarian diet meals & mid-day snacks </span>    
 </li>
 
 <li>
 <div class="geric-img">
   <img src="{{ asset('/public/website/assets/images/icn-8.png') }}" alt="" class=""> 
   </div>
-  <span> Three Levels of Nursing Care determined by our Geriatric Care team for the betterment of the resident  </span>    
+  <span> Three levels of Nursing Care  </span>    
 </li>
 
 </ul> 
@@ -516,7 +514,7 @@ The constant availability of care helps alleviate concerns and provides peace of
 <h4> Geri Care Assisted Living - RA Puram </h4>
  <p>New #10, Old #23, 7th Main Road, <br> RA Puram, Chennai - 600028</p>
 <!-- <p> No.8, Dr. Nair Road, Behind Vani<br> Mahal, T.Nagar, Chennai - 600 017 </p> -->
-<a href="https://goo.gl/maps/j6n7agMHAkr19NEf8" target="_blank"> View on map <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
+<a href="https://goo.gl/maps/j6n7agMHAkr19NEf8" target="_blank"> View On Map <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
 </div>
 </div>
 
@@ -526,7 +524,7 @@ The constant availability of care helps alleviate concerns and provides peace of
 <h4> Geri Care Assisted Living - Thoraipakkam </h4>
 <p>AKS Residency, Balamurugan Garden 1st Main Road, <br> Thoraipakkam, Chennai-600097</p>
 <!-- <p> 100 Feet Velachery, 100 Feet Rd, Ward F,<br> Block 17, Adambakkam, Chennai - 600 088 </p> -->
-<a href="https://goo.gl/maps/eZNZbkaZcb3gtZqE7" target="_blank"> View on map <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
+<a href="https://goo.gl/maps/eZNZbkaZcb3gtZqE7" target="_blank"> View On Map <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
 </div>
 </div> 
 
@@ -544,7 +542,7 @@ The constant availability of care helps alleviate concerns and provides peace of
 
 <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
 <div class="pseofmnd">
-We do whatever it takes to make you feel at home.<br>
+We do whatever it takes <br>to make you feel at home.<br>
 To experience our Assisted Living facility, call us today!
 </div>
 </div>
@@ -560,7 +558,7 @@ To experience our Assisted Living facility, call us today!
 </a>
 </li>
 <li>
-<a href="">
+<a href="" data-bs-toggle="modal" data-bs-target="#exampleModalCenter">
 <img src="{{ asset('/public/website/assets/images/call-cta.png') }}" alt="" class="" /> 
 Request Call Back
 </a>

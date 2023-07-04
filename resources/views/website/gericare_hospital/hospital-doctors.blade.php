@@ -181,7 +181,7 @@ for Senior Citizens</span>
     <div class="dctrm-deitals">
     <h3> Dr. V. Srinivas </h3>
     <h4> Senior Consultant Geriatrician </h4>
-    <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> MD, MRCP (UK), DIP.Geriatric Medicine (UK) </h5>
+    <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> MD, MRCP (UK), DIP. Geriatric Medicine (UK) </h5>
     <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class=""> T.Nagar, Velachery, Adyar  </h5>
     <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class="">  Tamil, English, Telugu, Hindi  </h5>
     <a href="{{ url('/gericare-hospital/hospital-doctors/dr-srinivas') }}">Book Appointment</a>
@@ -720,7 +720,7 @@ Bring You Peace of Mind
 </a>
 </li>
 <li>
-<a href="">
+<a href="" data-bs-toggle="modal" data-bs-target="#exampleModalCenter">
 <img src="{{ asset('/public/website/assets/images/call-cta.png') }}" alt="" class="" /> 
 Request Call Back
 </a>

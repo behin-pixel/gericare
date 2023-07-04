@@ -678,7 +678,7 @@ Chennai, Tamil Nadu 600088</p>
 <div class="pseofmnd">
 We Do Whatever It Takes To<br> 
 Bring You Peace of Mind<br>
-To experience it, call us today.
+<span>To experience it, call us today.</span>
 </div>
 </div>
 
@@ -693,7 +693,7 @@ To experience it, call us today.
 </a>
 </li>
 <li>
-<a href="">
+<a href="" data-bs-toggle="modal" data-bs-target="#exampleModalCenter">
 <img src="{{ asset('/public/website/assets/images/call-cta.png') }}" alt="" class="" /> 
 Request Call Back
 </a>

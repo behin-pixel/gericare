@@ -248,7 +248,7 @@ To experience our care, call us today!
 </a>
 </li>
 <li>
-<a href="">
+<a href="" data-bs-toggle="modal" data-bs-target="#exampleModalCenter">
 <img src="{{ asset('/public/website/assets/images/call-cta.png') }}" alt="" class="" /> 
 Request Call Back
 </a>

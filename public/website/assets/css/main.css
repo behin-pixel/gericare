@@ -3160,6 +3160,13 @@ ul.press-roomr li span.bts-non {
     text-align: left;
 }
 
+.pseofmnd span {
+    display: block;
+    font-weight: 400;
+    font-size: 28px;
+    margin-top: 10px;
+  }
+
 .pseofmnd-lst ul li a img {
     position: absolute;
     left: 15px;
@@ -3766,7 +3773,79 @@ ul.list-of-services li:hover img {
     .media-toolkit .servce h4{margin-bottom: 0px;font-size: 14px;line-height: 26px;color:#5d5d5d;}
     .media-toolkit .servce p{margin: 8px 0px;font-size: 14px;}
 
+    .modal.fade .modal-dialog.modal-dialog-zoom {
+        -webkit-transform: translate(0, 0) scale(.5);
+        transform: translate(0, 0) scale(.5);
+    }
+    
+    .modal.show .modal-dialog.modal-dialog-zoom {
+        -webkit-transform: translate(0, 0) scale(1);
+        transform: translate(0, 0) scale(1);
+    }
+    
+    .modal-backdrop {
+        z-index: 9990;
+    }
+    
+    .modal {
+        z-index: 9999;
+    }
+    
+    .modal .modal-header {
+        background: #7C164B;
+        padding: 10px 15px;
+    }
+    
+    .modal .modal-header h5.modal-title {
+        font-size: 20px;
+        font-weight: 600;
+        color: #fff;
+    }
+    
+    .modal .modal-header .close {
+        padding: 0px;
+        margin: 0px;
+        opacity: 1;
+        text-shadow: none;
+        color: #fff;
+    }
+    
+    .modal .modal-header .productclose {
+        padding: 0px;
+        margin: 0px;
+        opacity: 1;
+        background: transparent;
+        border: none;
+        font-size: 22px;
+        text-shadow: none;
+        color: #fff;
+    }
 
+    button.close {
+        padding: 0;
+        background-color: transparent;
+        border: 0;
+      }
+      .close {
+        font-size: 1.5rem;
+        font-weight: 700;
+        line-height: 1; 
+      }
+
+      .modal-body button.submit-btn{display: inline-block;
+        padding: 8px 25px;
+        position: relative;
+        font-family: 'Red Hat Display', sans-serif;
+        background: #17161A;
+        font-size: 16px;
+        color: #fff;transition:all 0.5s ease;
+        font-weight: 600;
+        border-radius: 4px;
+        z-index: 10;border: none;
+        overflow: hidden;}
+
+        .modal-body button.submit-btn:hover{background: #7C164B;transition:all 0.5s ease;}
+    
 
 
 
@@ -5358,11 +5437,11 @@ img.resp-onsive {
 }
 .gallery-img a span{
     font-weight: 700;
-    margin-bottom: 10px;
-    font-family: 'Red Hat Display', sans-serif;
-    font-size: 18px;
+    margin-bottom: 10px; 
+    font-size: 15px;
     color: #7C164B;
     line-height: 21px;
+    display: block;
 }
 .gallery-img a img{
     margin-bottom: 10px;
