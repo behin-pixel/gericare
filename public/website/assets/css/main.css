@@ -402,9 +402,9 @@ a:hover {
     line-height: 52px;
     color: #FFF;
     font-weight: 700;
-    text-transform: capitalize;
-    max-width: 550px;
-    margin-bottom: 30px;
+    text-transform: inherit;
+    max-width: 600px;
+    margin-bottom:5px;
 }
 #homeCarousel.carousel .carousel-item.active {
     display: flex !important;
@@ -421,7 +421,7 @@ a:hover {
     line-height: 28px;
     color: #FFF;
     font-weight: 400;
-    text-transform: capitalize;
+    text-transform: inherit;
     font-family: 'Mulish', sans-serif;
     margin-bottom: 30px;
     display: block;
@@ -1953,8 +1953,7 @@ ul.contact-socials li a.linkedin:hover {
 
 .dark-gray-bg input.form-control,
 .dark-gray-bg select.form-control {
-    height: 50px;
-    line-height: 50px;
+    height: 50px; 
     padding: 5px 10px;
     border-radius: 4px;
     border: 1px solid rgba(0, 0, 0, 0.15);
@@ -2108,6 +2107,8 @@ form.appointment-form .btn-group button.multiselect {
     align-items: center;
     color: rgba(255, 255, 255, 0.5);
 }
+select.form-control {
+    cursor: pointer;}
 
 input.form-control,
 select.form-control {
@@ -2120,6 +2121,8 @@ select.form-control {
     box-shadow: none !important;
     margin-bottom: 20px;
 }
+
+.panel-of-experts{background-color: #eeeeee;}
 
 textarea.form-control {
     height: 100px;

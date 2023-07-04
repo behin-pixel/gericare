@@ -16,10 +16,9 @@
       
       <img src="{{ asset('/public/website/assets/images/banners/Mobile-Banner-1.jpg') }}" alt="" class="moby w-100 d-block d-lg-none" />
       <div class="carousel-caption animated animatedFadeInUp fadeInUp">
-        <h1 class="text-blue">Age Confidently</h1>
-        <span class="text-blue">Entrust yourself with the Geriatric experts, <br>
-        in a safe and comforting hospital environment</span>
-        <a href="{{ url('/gericare-hospital/about-hospital') }}">Explore More</a>
+        <h1 class="text-blue">Entrust yourself with Geriatricians</h1>
+        <span class="text-blue">in the most comforting environment.</span>
+    <a href="{{ url('/gericare-hospital/hospital-doctors') }}">Explore More</a>
       </div>
     </div> 
 
@@ -27,10 +26,9 @@
   <img src="{{ asset('/public/website/assets/images/banners/Banner-2.jpg') }}" alt="" class="w-100 d-none d-lg-block" />
   <img src="{{ asset('/public/website/assets/images/banners/Mobile-Banner-2.jpg') }}" alt="" class="w-100 d-block d-lg-none" />
   <div class="carousel-caption animated animatedFadeInUp fadeInUp">
-    <h1 class="text-blue">Age Comfortably</h1>
-    <span class="text-blue">Experience the pinnacle of safety and warmth<br>
-    In our esteemed Assisted Living facility.  </span>
-    <a href="{{ url('/gericare-assisted-living/about-assisted-living') }}">Explore More</a>
+    <h1 class="text-blue">Meet the experts of 360 care</h1>
+    <span class="text-blue">that reflects passion & utmost respect!</span>
+        <a href="{{ url('/gericare-hospital/about-hospital') }}">Explore More</a>
   </div>
 </div> 
 
@@ -38,10 +36,9 @@
   <img src="{{ asset('/public/website/assets/images/banners/Banner-3.jpg') }}" alt="" class="w-100 d-none d-lg-block" />
   <img src="{{ asset('/public/website/assets/images/banners/Mobile-Banner-3.jpg') }}" alt="" class="w-100 d-block d-lg-none" />
   <div class="carousel-caption animated animatedFadeInUp fadeInUp">
-    <h1 class="text-blue">Age Independently</h1>
-    <span class="text-blue">Retain your individuality and sense of personal freedom <br>
-    with our Home care services. </span>
-    <a href="{{ url('/gericare-homecare/about-homecare') }}">Explore More</a>
+    <h1 class="text-blue">Care that lasts forever</h1>
+    <span class="text-blue">and a sense of personal freedom.</span>
+    <a href="{{ url('/gericare-assisted-living/about-assisted-living') }}">Explore More</a>
   </div>
 </div> 
 
@@ -163,11 +160,11 @@
 <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12"> 
 <div class="expert-cnt">
 <div class="common-heading">
-<h2>The Haven of Expert Care</h2>
+<h2>Transforming Lives through Personalized Care</h2>
 </div>
 
 <div class="common-para">
-<p>Established by a team of qualified and compassionate Geriatricians, with more than three decades of experience, Geri Care brings distinct and dedicated senior care services of global standards within the confines of your own home. We serve the elders in your family with utmost respect and compassion and give them the same kind of warmth and care that you would.</p>
+<p>Geri Care, a name that resonates with comprehensive medical, nursing and physiotherapy treatments, has been operating in the realm of specialised geriatric care services for more than three decades. </p>
 </div>
 
 <div class="common-button drk">
@@ -443,16 +440,6 @@ Ideal hospital for senior citizens. Not crowded and you get excellent personal a
 
 </div> 
 
-
-
-
-
-
-
-
-
-
-
 </div>
 
 </div>
@@ -468,7 +455,7 @@ Ideal hospital for senior citizens. Not crowded and you get excellent personal a
 
 <div class="col-lg-12 text-center">
 <div class="common-heading">
-<h2>One of a Kind Geriatric Care</h2>
+<h2>One-of-a-kind Geriatric Care</h2>
 </div>
 <div class="common-para">
 <p>Introducing India's first-ever multi-specialty hospital designed exclusively for senior citizens, offering a comprehensive range of specialized medical services tailored to meet the unique healthcare needs of seniors.</p>
@@ -483,105 +470,105 @@ Ideal hospital for senior citizens. Not crowded and you get excellent personal a
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-1.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-2.png') }}" alt="" class=""> 
   </div>
   <span> Geriatric Oncology </span>    
 </li>
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-2.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-1.png') }}" alt="" class=""> 
   </div>
   <span> Geriatric Cardiology  </span>    
 </li>
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-3.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-9.png') }}" alt="" class=""> 
   </div>
   <span> Geriatric Urology </span>    
 </li>
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-3.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-4.png') }}" alt="" class=""> 
   </div>
   <span> Orthogeriatrics </span>    
 </li>
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-4.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-5.png') }}" alt="" class=""> 
   </div>
   <span> Gasteroentrology </span>    
 </li>
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-5.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-6.png') }}" alt="" class=""> 
   </div>
   <span> Neurology </span>    
 </li>
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-6.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-7.png') }}" alt="" class=""> 
   </div>
   <span> Surgery </span>    
 </li>
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-7.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-8.png') }}" alt="" class=""> 
   </div>
   <span> Pulmonology </span>    
 </li>
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-8.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-10.png') }}" alt="" class=""> 
   </div>
   <span> ICU </span>    
 </li>
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-8.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-11.png') }}" alt="" class=""> 
   </div>
   <span> Dermatology </span>    
 </li>
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-8.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-12.png') }}" alt="" class=""> 
   </div>
   <span> Vascular Surgery </span>    
 </li>
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-8.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-13.png') }}" alt="" class=""> 
   </div>
   <span> Uro Gynaecology </span>    
 </li>
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-8.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-3.png') }}" alt="" class=""> 
   </div>
   <span> Lab Services </span>    
 </li>
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-8.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-14.png') }}" alt="" class=""> 
   </div>
   <span> Physiotherapy </span>    
 </li>
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-8.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-15.png') }}" alt="" class=""> 
   </div>
   <span> Nephrology and Dialysis 24x7 </span>    
 </li>
@@ -664,7 +651,7 @@ Ideal hospital for senior citizens. Not crowded and you get excellent personal a
 <div class="col-lg-12">
 
 <div class="common-heading text-center">
-<h2>Our Recent Blogs</h2>
+<h2>Geri Care Diaries</h2>
 </div>
 
 <div class="blogs-strture">

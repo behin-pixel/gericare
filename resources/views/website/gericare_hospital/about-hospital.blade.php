@@ -373,14 +373,14 @@ chosen for you</h2>
 <ul>
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-1.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-2.png') }}" alt="" class=""> 
   </div>
   <span> Geriatric Oncology </span>    
 </li>
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-2.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-1.png') }}" alt="" class=""> 
   </div>
   <span> Geriatric Cardiology </span>    
 </li>
@@ -393,7 +393,7 @@ chosen for you</h2>
 <ul>
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-3.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-9.png') }}" alt="" class=""> 
   </div>
   <span> Geriatric Urology </span>    
 </li>
@@ -433,14 +433,14 @@ chosen for you</h2>
 <ul>
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-1.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-7.png') }}" alt="" class=""> 
   </div>
   <span> Surgery </span>    
 </li>
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-2.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-8.png') }}" alt="" class=""> 
   </div>
   <span> Pulmonology </span>    
 </li>
@@ -453,15 +453,15 @@ chosen for you</h2>
 <ul>
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-1.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-10.png') }}" alt="" class=""> 
   </div>
-  <span> Geriatric Psychiatry </span>    
+  <span> ICU </span>    
 </li> 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-1.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-11.png') }}" alt="" class=""> 
   </div>
-  <span> Uro Gynaecology </span>    
+  <span> Dermatology </span>    
 </li> 
 </ul>
 
@@ -472,16 +472,16 @@ chosen for you</h2>
 <ul>
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-1.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-12.png') }}" alt="" class=""> 
   </div>
-  <span> Dermatology </span>    
+  <span> Vascular Surgery </span>    
 </li>
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-1.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-13.png') }}" alt="" class=""> 
   </div>
-  <span> Vascular Surgery </span>    
+  <span> Uro Gynaecology </span>    
 </li>
 </ul>
 
@@ -492,16 +492,30 @@ chosen for you</h2>
 <ul>
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-1.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-3.png') }}" alt="" class=""> 
   </div>
-  <span> Physiotherapy </span>    
+  <span> Lab Services </span>    
 </li>
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-1.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-14.png') }}" alt="" class=""> 
   </div>
-  <span> Nephrology </span>    
+  <span> Physiotherapy </span>    
+</li>
+</ul>
+
+</div>  
+
+<div class="deptmnt gentric-systems">
+
+<ul> 
+
+<li>
+<div class="geric-img">
+  <img src="{{ asset('/public/website/assets/images/icn-15.png') }}" alt="" class=""> 
+  </div>
+  <span> Nephrology and Dialysis 24x7 </span>    
 </li>
 </ul>
 
@@ -692,6 +706,152 @@ Request Call Back
 </div>
 </section>
 
+<section class="why-love">
+<div class="container">
+<div class="row justify-content-center">
+
+<div class="col-lg-12">
+
+<div class="common-heading text-center">
+<h2>Why People Love Us</h2>
+</div>
+
+<div class="google-revews"> 
+
+<div class="revew-box text-center">
+
+<div class="rev-rat d-flex align-items-center justify-content-center">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/half-star.png') }}" alt="" class="">
+</div>
+<div class="rev-cnt">
+A five star hospital in all aspects. Wonderful care by Doctors. Caring Nurse and meticulous housekeeping. The hospital is very clean and neat. Thank Dr N Lakshmiapthy Ramesh and Dr A. Ashwin Subramaniam for their treatment. My 83 years father with Covid positive, pnemonia and is now  ready  to get back home.  A reliable hospital who has excellent coordination within their department.
+</div>
+<div class="rev-img">
+<h4>Geetha VEdaraman <span> Chennai </span></h4>
+</div>
+<div class="rev-goog d-flex align-items-center justify-content-center">
+<img src="{{ asset('/public/website/assets/images/gog.png') }}" alt="" class="">
+</div>
+
+</div> 
+
+<div class="revew-box text-center">
+
+<div class="rev-rat d-flex align-items-center justify-content-center">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/half-star.png') }}" alt="" class="">
+</div>
+<div class="rev-cnt">
+Geri care is the best hospital for elderly. They take utmost care of the elderly and don't admit patients unnecessarily. Uma Maheshwari OP's timely help led us to consult Dr.Ashwin who is very professional,motivating and kind.
+</div>
+<div class="rev-img">
+<h4>Thara Somesh <span> Chennai </span></h4>
+</div>
+<div class="rev-goog d-flex align-items-center justify-content-center">
+<img src="{{ asset('/public/website/assets/images/gog.png') }}" alt="" class="">
+</div>
+
+</div>  
+
+<div class="revew-box text-center">
+
+<div class="rev-rat d-flex align-items-center justify-content-center">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/half-star.png') }}" alt="" class="">
+</div>
+<div class="rev-cnt">
+Geri care hospital doctors, nurses, physios,insurance team and the entire staff are curtious. I wanted to thank Dr. LPR, Dr Ashwin, Dr Guru Balaji, Nursing staff Jhansi in OP, Prakash (Physio), Nurse Bharathi amd team who have supported my father over the past few years.
+</div>
+<div class="rev-img">
+<h4>Karthick Venkatraman <span> Chennai </span></h4>
+</div>
+<div class="rev-goog d-flex align-items-center justify-content-center">
+<img src="{{ asset('/public/website/assets/images/gog.png') }}" alt="" class="">
+</div>
+
+</div>  
+
+<div class="revew-box text-center">
+
+<div class="rev-rat d-flex align-items-center justify-content-center">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/half-star.png') }}" alt="" class="">
+</div>
+<div class="rev-cnt">
+Fantastic service from hospital staff including all doctors.Special mention to Dr UP Srinivas , Surgical Gastroenterologist . Extremely kind and compassionate towards patients. Responds to all queries patiently and spends time explaining the problem and the proposed treatment. Also would like to appreciate the friendly and supportive insurance staff(Monica). Overall thumbs up to the team.
+</div>
+<div class="rev-img">
+<h4>Deepa Shivakumar <span> Chennai </span></h4>
+</div>
+<div class="rev-goog d-flex align-items-center justify-content-center">
+<img src="{{ asset('/public/website/assets/images/gog.png') }}" alt="" class="">
+</div>
+
+</div>  
+
+<div class="revew-box text-center">
+
+<div class="rev-rat d-flex align-items-center justify-content-center">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/half-star.png') }}" alt="" class="">
+</div>
+<div class="rev-cnt">
+This hospital is a blessing in disguise. Human emotions and care are given priority. Dr. Rejiv Rajendran, Dr.Kadhiresan and Dr. Rajkumar treatment my mother with utmost care and competency. All the staff and nurses are very kind and courteous. Reg Insurance, Monika does a neat job every time. She is very kind and right on time. Overall, Gericare is a blessing for elders.
+</div>
+<div class="rev-img">
+<h4>Anuradha Madhan <span> Chennai </span></h4>
+</div>
+<div class="rev-goog d-flex align-items-center justify-content-center">
+<img src="{{ asset('/public/website/assets/images/gog.png') }}" alt="" class="">
+</div>
+
+</div>   
+
+<div class="revew-box text-center">
+
+<div class="rev-rat d-flex align-items-center justify-content-center">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/half-star.png') }}" alt="" class="">
+</div>
+<div class="rev-cnt">
+Ideal hospital for senior citizens. Not crowded and you get excellent personal attention. Dr. Ashwin Subramaniam and Dr. Guru Balaji were awesome. Support staff were very courteous. Specific mention to be made of Ms. Monica who handles insurance. She is efficient and gets things organised on time - prerequisite for senior citizens.
+</div>
+<div class="rev-img">
+<h4>Sreenivasan Janakiraman <span> Chennai </span></h4>
+</div>
+<div class="rev-goog d-flex align-items-center justify-content-center">
+<img src="{{ asset('/public/website/assets/images/gog.png') }}" alt="" class="">
+</div>
+
+</div> 
+
+</div>
+
+</div>
+
+</div>
+
+</div> 
+</section>
 
 @include('website.bottomform')
 
