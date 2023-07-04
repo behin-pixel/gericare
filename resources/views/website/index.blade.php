@@ -324,10 +324,10 @@
 <img src="{{ asset('/public/website/assets/images/half-star.png') }}" alt="" class="">
 </div>
 <div class="rev-cnt">
-A five star hospital in all aspects. Wonderful care by Doctors. Caring Nurse and meticulous housekeeping. The hospital is very clean and neat. Thank Dr N Lakshmiapthy Ramesh and Dr A. Ashwin Subramaniam for their treatment. My 83 years father with Covid positive, pnemonia and is now  ready  to get back home.  A reliable hospital who has excellent coordination within their department.
+"Gericare is the best! The care they took of my father was so good, I have switched to them for my health care also. The caregivers are truly compassionate and efficient. They keep track of all the appointments and make sure no one is kept waiting. The doctors are experienced and kind and I cannot say enough in praise of the hospital."
 </div>
 <div class="rev-img">
-<h4>Geetha VEdaraman <span> Chennai </span></h4>
+<h4>Kalyani Komal <span> Chennai </span></h4>
 </div>
 <div class="rev-goog d-flex align-items-center justify-content-center">
 <img src="{{ asset('/public/website/assets/images/gog.png') }}" alt="" class="">
@@ -345,10 +345,10 @@ A five star hospital in all aspects. Wonderful care by Doctors. Caring Nurse and
 <img src="{{ asset('/public/website/assets/images/half-star.png') }}" alt="" class="">
 </div>
 <div class="rev-cnt">
-Geri care is the best hospital for elderly. They take utmost care of the elderly and don't admit patients unnecessarily. Uma Maheshwari OP's timely help led us to consult Dr.Ashwin who is very professional,motivating and kind.
+“The Geri Care team has been looking after my dad with much care and proper treatment. Thank You Geri Care! The whole team is professional and prompt with their quality of service and follow ups. I was referred to this service through my neighbors who were very satisfied with the services given. This is a good option when the patient cannot be transferred easily to a hospital and back. Glad to have taken this service.”
 </div>
 <div class="rev-img">
-<h4>Thara Somesh <span> Chennai </span></h4>
+<h4>AG Cecil Rozario <span> Chennai </span></h4>
 </div>
 <div class="rev-goog d-flex align-items-center justify-content-center">
 <img src="{{ asset('/public/website/assets/images/gog.png') }}" alt="" class="">
