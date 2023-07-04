@@ -283,10 +283,5 @@ class PageViewController extends Controller
     {
         return view('website.thanks-contactus');
     } 
-    public function BookAnAppointmentPage()
-    {
-        return view('website.book-an-appointment');
-    } 
-
-
+   
 }
