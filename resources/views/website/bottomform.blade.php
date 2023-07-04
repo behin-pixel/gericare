@@ -12,23 +12,23 @@
     @csrf
     <input type="hidden" name="from" value="homepage">
     <div class="frm-fields row clearfix">
-        <div class="col-lg-12 col-md-12 col-sm-12 ">
+        <div class="col-lg-6 col-md-6 col-sm-12 ">
             <div class="form-data cnt clearfix">
-                <input type="text" placeholder="Name" id="name" name="name" required>
+                <input type="text" placeholder="Name*" id="name" name="name" required>
             </div>
         </div>
-        <div class="col-lg-12 col-md-12 col-sm-12">
+        <div class="col-lg-6 col-md-6 col-sm-12">
             <div class="form-data cnt clearfix">
                 <input type="text" placeholder="Email" id="email" name="email" required>
             </div>
         </div>
-        <div class="col-lg-12 col-md-12 col-sm-12">
+        <div class="col-lg-6 col-md-6 col-sm-12">
             <div class="form-data cnt clearfix">
-                <input type="text" placeholder="Phone" class="price" id="mobile_no"
+                <input type="text" placeholder="Phone*" class="price" id="mobile_no"
                     name="mobile_no" required maxlength="10">
             </div>
         </div>
-        <div class="col-lg-12 col-md-12 col-sm-12 ">
+        <div class="col-lg-6 col-md-6 col-sm-12 ">
             <div class="form-data cnt clearfix">
                 <select class="form-control " id="service" name="service">
                     <option value="">Select Your Service</option>
