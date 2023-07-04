@@ -32,7 +32,18 @@ class PageViewController extends Controller
     {
         return view('website.doctors_details.dr-vasanth');
     }
-
+    public function drAshwinPage()
+    {
+        return view('website.doctors_details.dr-ashwin');
+    }
+    public function drManickaSaravananPage()
+    {
+        return view('website.doctors_details.dr-manicka-saravanan');
+    }
+    public function drTinuThambyPage()
+    {
+        return view('website.doctors_details.dr-tinu-thamby');
+    }
     public function drSrinivasRajkumarPage()
     {
         return view('website.doctors_details.dr-srinivas-rajkumar');

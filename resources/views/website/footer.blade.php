@@ -15,7 +15,7 @@
 							<a href="https://instagram.com/geri_care_chennai?igshid=MzRlODBiNWFlZA==" target="_blank"> <i class="fa fa-instagram" aria-hidden="true"></i> </a>
 							</li>
 							<li>
-							<a href=" https://www.youtube.com/@geri_care_chennai" target="_blank"> <i class="fa fa-youtube" aria-hidden="true"></i> </a>
+							<a href="https://www.youtube.com/@geri_care_chennai" target="_blank"> <i class="fa fa-youtube-play" aria-hidden="true"></i> </a>
 							</li>
 						</ul>
 				</div>

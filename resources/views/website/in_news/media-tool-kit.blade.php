@@ -29,15 +29,52 @@
 
 <section class="media-toolkit">
 <div class="container">
-<div class="row">
+<div class="row justify-content-center">
 
-<div class="col-lg-12">
+<div class="col-lg-10">
+
 <div class="common-heading text-center">
 <h2>By downloading and using any of these logos,<br> you agree to do so without making any modifications.</h2>
-</div>
-<div class="logos-lsts">
+</div> 
 
-</div>
+<div class="serveces-doctrs">
+
+<div class="servce text-center">
+<img src="{{ asset('/public/website/assets/images/logo.png') }}" alt="" class="w-100" />
+<h4> Available formats  </h4>
+<p> Jpeg | Png | Svg </p>
+<a href="{{ url('/gericare-hospital/hospital-doctors') }}"> Download <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
+</div> 
+
+<div class="servce text-center">
+<img src="{{ asset('/public/website/assets/images/logo-1.png') }}" alt="" class="logo-offet" />
+<h4> Available formats  </h4>
+<p> Jpeg | Png | Svg </p>
+<a href="{{ url('/gericare-hospital/hospital-doctors') }}"> Download <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
+</div> 
+
+<div class="servce text-center">
+<img src="{{ asset('/public/website/assets/images/logo-2.png') }}" alt="" class="logo-offet" />
+<h4> Available formats  </h4>
+<p> Jpeg | Png | Svg </p>
+<a href="{{ url('/gericare-hospital/hospital-doctors') }}"> Download <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
+</div>  
+
+<div class="servce text-center">
+<img src="{{ asset('/public/website/assets/images/logo-3.png') }}" alt="" class="logo-offet" />
+<h4> Available formats  </h4>
+<p> Jpeg | Png | Svg </p>
+<a href="{{ url('/gericare-hospital/hospital-doctors') }}"> Download <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
+</div>  
+
+<div class="servce text-center">
+<img src="{{ asset('/public/website/assets/images/logo-4.png') }}" alt="" class="logo-offet" />
+<h4> Available formats  </h4>
+<p> Jpeg | Png | Svg </p>
+<a href="{{ url('/gericare-hospital/hospital-doctors') }}"> Download <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
+</div> 
+
+</div>  
 
 </div>
 

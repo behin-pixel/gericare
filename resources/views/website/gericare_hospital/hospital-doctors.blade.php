@@ -157,6 +157,23 @@ for Senior Citizens</span>
     <div class="tab-pane fade show active" id="v-pills-1" role="tabpanel" aria-labelledby="v-pills-1-tab">
 
     <h4>Geriatrics</h4>
+
+    <div class="dctrs-detls">
+    <div class="dctrm-img">
+    <img src="{{ asset('/public/website/assets/images/doctor-img-2.jpg') }}" alt="" class="">
+    </div>
+    <div class="dctrm-deitals">
+    <h3> Dr N. Lakshmipathy Ramesh  </h3>
+    <h4> Senior Consultant Geriatrician </h4>
+    <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> MBBS, M.D (Geriatrics), PGD (Diabetes) </h5>
+    <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class=""> T.Nagar, Velachery, Adyar  </h5>
+    <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class="">  Tamil, English, Telugu  </h5>
+    <a href="{{ url('/gericare-hospital/hospital-doctors/dr-lakshmipathy') }}">Book Appointment</a>
+    <a href="{{ url('/gericare-hospital/hospital-doctors/dr-lakshmipathy') }}">View Profile</a>
+    </div>
+    </div>
+
+
     <div class="dctrs-detls">
     <div class="dctrm-img">
     <img src="{{ asset('/public/website/assets/images/doctor-img-1.jpg') }}" alt="" class="">
@@ -172,20 +189,7 @@ for Senior Citizens</span>
     </div>
     </div>
      
-    <div class="dctrs-detls">
-    <div class="dctrm-img">
-    <img src="{{ asset('/public/website/assets/images/doctor-img-2.jpg') }}" alt="" class="">
-    </div>
-    <div class="dctrm-deitals">
-    <h3> Dr N. Lakshmipathy Ramesh  </h3>
-    <h4> Senior Consultant Geriatrician </h4>
-    <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> MBBS, M.D (Geriatrics), PGD (Diabetes) </h5>
-    <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class=""> T.Nagar, Velachery, Adyar  </h5>
-    <a href="{{ url('/gericare-hospital/hospital-doctors/dr-lakshmipathy') }}">Book Appointment</a>
-    <a href="{{ url('/gericare-hospital/hospital-doctors/dr-lakshmipathy') }}">View Profile</a>
-    </div>
-    </div>
-     
+      
     <div class="dctrs-detls">
      <div class="dctrm-img">
      <img src="{{ asset('/public/website/assets/images/magesh.jpg') }}" alt="" class="">
@@ -195,8 +199,24 @@ for Senior Citizens</span>
      <h4> Consultant Geriatrician  </h4>
      <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> MBBS, MRCP, CCT (Int. Med. & Geriatrics), FRCP </h5>
      <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class=""> T.Nagar, Velachery, Adyar  </h5>
+     <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class="">  English, Tamil  </h5>
      <a href="{{ url('/gericare-hospital/hospital-doctors/dr-magesh ') }}">Book Appointment</a>
      <a href="{{ url('/gericare-hospital/hospital-doctors/dr-magesh') }}">View Profile</a>
+     </div>
+     </div>
+
+     <div class="dctrs-detls">
+     <div class="dctrm-img">
+     <img src="{{ asset('/public/website/assets/images/doctor-img-3.jpg') }}" alt="" class="">
+     </div>
+     <div class="dctrm-deitals">
+     <h3> Dr. Ashwin Subramaniam </h3>
+     <h4> Senior Consultant- Internal Medicine & Diabetologist  </h4>
+     <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> MBBS RMMC, DNB (Internal Medicine), MRCP (UK)</h5>
+     <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class=""> T. Nagar</h5>
+     <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class="">  English, Tamil  </h5>
+     <a href="{{ url('/gericare-hospital/hospital-doctors/dr-ashwin') }}">Book Appointment</a>
+     <a href="{{ url('/gericare-hospital/hospital-doctors/dr-ashwin') }}">View Profile</a>
      </div>
      </div>
 
@@ -210,28 +230,14 @@ for Senior Citizens</span>
      <h4> Consultant Geriatrician  </h4>
      <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> MD (Geriatrics) </h5>
      <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class="">  Adyar & Velachery  </h5>
+     <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class="">  Tamil, English  </h5>
      <a href="{{ url('/gericare-hospital/hospital-doctors/dr-vasanth') }}">Book Appointment</a>
      <a href="{{ url('/gericare-hospital/hospital-doctors/dr-vasanth') }}">View Profile</a>
      </div>
      </div>
 
 
-     <div class="dctrs-detls">
-     <div class="dctrm-img">
-     <img src="{{ asset('/public/website/assets/images/doctor-img-3.jpg') }}" alt="" class="">
-     </div>
-     <div class="dctrm-deitals">
-     <h3> Dr. Ashwin Subramaniam </h3>
-     <h4> Physician & Diabetologist  </h4>
-     <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> MBBS, DNB (General Medicine), DIP. DIAB</h5>
-     <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class="">     </h5>
-     <a href="#">Book Appointment</a>
-     <a href="">View Profile</a>
-     </div>
-     </div>
-        
-     
-     <div class="dctrs-detls">
+    <div class="dctrs-detls">
      <div class="dctrm-img">
      <img src="{{ asset('/public/website/assets/images/doctor-img-5.jpg') }}" alt="" class="">
      </div>
@@ -240,8 +246,24 @@ for Senior Citizens</span>
      <h4> Consultant Geriatrician  </h4>
      <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class="">  MBBS, MD (Geriatrics), DGO  </h5>
      <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class=""> Home visit on appointment basis</h5>
+     <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class="">  Tamil, English, Hindi  </h5>
      <a href="{{ url('/gericare-hospital/hospital-doctors/dr-anupama') }}">Book Appointment</a>
      <a href="{{ url('/gericare-hospital/hospital-doctors/dr-anupama') }}">View Profile</a>
+     </div>
+     </div>
+
+     <div class="dctrs-detls">
+     <div class="dctrm-img">
+     <img src="{{ asset('/public/website/assets/images/no-img.jpg') }}" alt="" class="">
+     </div>
+     <div class="dctrm-deitals">
+     <h3> Dr S Manicka Saravanan  </h3>
+     <h4> Consultant Geriatrician  </h4>
+     <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class="">  MBBS, MD (Geriatrics)  </h5>
+     <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class="">  Velachery</h5>
+     <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class="">  Tamil, English, Hindi</h5>
+     <a href="{{ url('/gericare-hospital/hospital-doctors/dr-manicka-saravanan') }}">Book Appointment</a>
+     <a href="{{ url('/gericare-hospital/hospital-doctors/dr-manicka-saravanan') }}">View Profile</a>
      </div>
      </div>
 
@@ -255,6 +277,7 @@ for Senior Citizens</span>
      <h4> Consultant Geriatrician  </h4>
      <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class="">  MBBS, MD (Geriatrics)  </h5>
      <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class=""> Velachery</h5>
+     <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class="">   Tamil, English  </h5>
      <a href="{{ url('/gericare-hospital/hospital-doctors/dr-arulmozhiselvan') }}">Book Appointment</a>
      <a href="{{ url('/gericare-hospital/hospital-doctors/dr-arulmozhiselvan') }}">View Profile</a>
      </div>
@@ -269,10 +292,16 @@ for Senior Citizens</span>
      <h4> Consultant Geriatrician  </h4>
      <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class="">  MBBS, MD (Geriatrics)  </h5>
      <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class="">  Anna Nagar</h5>
+     <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class="">   Tamil, English  </h5>
      <a href="{{ url('/gericare-hospital/hospital-doctors/dr-flora-alex') }}">Book Appointment</a>
      <a href="{{ url('/gericare-hospital/hospital-doctors/dr-flora-alex') }}">View Profile</a>
      </div>
      </div>
+
+
+   
+
+
 
     </div>
 
@@ -411,8 +440,10 @@ for Senior Citizens</span>
         <h3> Mrs. Tinu Thamby T  </h3>
         <h4> Clinical Psychologist  </h4>
         <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> B.A., M.Sc., M.Phil (Clinical Psychology) </h5>
-        <a href="#">Book Appointment</a>
-        <a href="#">View Profile</a>
+        <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class="">   </h5>
+     <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class="">   </h5>
+        <a href="{{ url('/gericare-hospital/hospital-doctors/dr-tinu-thamby') }}">Book Appointment</a>
+        <a href="{{ url('/gericare-hospital/hospital-doctors/dr-tinu-thamby') }}">View Profile</a>
         </div>
         </div>
          

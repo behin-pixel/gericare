@@ -16,7 +16,7 @@
 <li> > </li>
 <li><a href=""> Doctors </a></li>
 <li> > </li>
-<li class="active"> Dr. Ashwin </li>
+<li class="active"> Dr Ashwin Subramaniam </li>
 </ul>
 </div>
 
@@ -43,72 +43,50 @@
 
 <div class="col-lg-8">
 <div class="doc-tor-cnt">
-<h3>Dr. Ashwin<span>Geriatrician, Founder & Director</span></h3>
-<h4><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> Experience <span> 30+ Years</span></h4>
-<h4><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> Education <span>Physician & Diabetologist</span></h4>
-<h4><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> Languages <span> Tamil, English, Hindi</span></h4>
+<h3>Dr Ashwin Subramaniam<span>Senior Consultant- Internal Medicine & Diabetologist</span></h3>
+<h4><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> Experience <span> 16+ Years</span></h4>
+<h4><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> Education <span>MBBS RMMC, DNB(Internal Medicine), MRCP(UK)</span></h4>
+<h4><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> Languages <span> English, Tamil</span></h4>
+<h4><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> Location <span> T Nagar</span></h4>
 </div>
 </div>
 
 </div>
 
 <div class="main-contdvshon">
-<h4>Profile</h4>
-<p>Dr. V. Srinivas is a leading Geriatrician with over three decades of clinical practice in India and the UK. He is the Founder Director of Geri Care organization. He obtained MRCP degree (1992) and diploma in Geriatric medicine (1991) from the Royal College of physicians, UK. He already had MD in General Medicine (1988) and MBBS (1984) from Kilpauk Medical College Chennai.</p>
+<h4>Doctor's Profile</h4>
+<p>Dr. Ashwin is a highly respected general physician and diabetologist based in Chennai, India. With extensive experience in his field, he has garnered a reputation for his ability to handle complex medical problems, both acute and chronic, particularly in elderly patients.</p>
+
+
+<p>He has special interest in lifestyle diseases like Diabetes Mellitus, Hypertension, Dyslipidemia and  infectious diseases like Hepatitis & HIV. </p>
+
+<p>He has presided in various seminars and CME, educating the junior doctors in approach towards Elderly patients. He regularly conducts Public outreach programs to raise awareness in elderly patients about maintaining a healthy lifestyle. He has shown leadership in setting up and running the acute medical unit for the elderly. He has excellent bedside manners and sound knowledge of ethical standards in delivering medical care.</p>
 </div>
 
 <div class="main-contdvshon">
-<h4>Detailed Experience</h4>
+<h4>Education</h4>
 <ul>
-<li>Consultant Psychiatrist, Department of Psychiatry at Gericare Hospital, Chennai (06/2022 – Present)</li>
-<li>Consultant Psychiatrist, Department of Psychiatry at Kauvery Hospital, Chennai (12/2021 - 05/2022)</li>
-<li>Consultant Psychiatrist,Psychiatry and Deaddiction Services at Malout Deaddiction Centre, Punjab (12/2020 - 11/2021)</li>
+<li>MBBS RMMC, Annamalai University, Chidambaram (2005)</li>
+<li>DNB (Internal Medicine)  - National Board of Examinations, New Delhi (2010)</li>
+<li>MRCP (UK)- Royal College of Physicians, United Kingdom (2011)</li>
 </ul>
 </div>
 
 <div class="main-contdvshon">
-<h4>Professional Memberships</h4>
+<h4>Awards and Affiliation</h4>
 <ul>
-<li>Indian Psychiatric Society</li>
-<li>Indian Psychiatric Society – North Zone</li>
+<li>Dr.Harnath Memorial Award for the BEST POST GRADUATE in Internal Medicine by Apollo Hospitals, Chennai (2008)</li>
 </ul>
 </div>
 
 <div class="main-contdvshon">
-<h4>Awards & Accolades</h4>
+<h4>Memberships</h4>
 <ul>
-<li>Murugappan award by Indian Psychiatric Society for best thesis work. - ANCIPS 2019</li>
-<li>Prefrontal Cortical Activity In Children With ADHD: A Functional Near Infrared Spectroscopy
- (fNIRS) Study</li>
+<li>Association of Physicians of India - Life member</li>
+<li>Indian Medical Association (IMA)</li>
 </ul>
 </div>
-
-<div class="main-contdvshon">
-<h4>Work and Presentations</h4>
-<ul>
-<li>Conducted one among the initial studies in the country on to assess prefrontal cortical activity using fNIRS in children with ADHD as a part of MD Thesis.</li>
-<li>Speaker on Childhood Dissociation in Trauma Conclave in AIIMS, New Delhi</li>
-<li>Speaker on fNIRS : Scope and Limitations in IIT-AIIMS Joint Workshop conducted at NBRC, Gurgaon</li>
-</ul>
-</div>
-
-<div class="main-contdvshon">
-<h4>Research and Publications</h4>
-<ul>
-<li>Rajkumar S, Balhara YP, Sarkar S. Cannabis-induced psychosis or Cannabis-associated psychosis: Diagnostically no clear winner. J Mental Health Hum Behav 2016;21:55-7</li>
-<li>Kumar S, Singh S, Singh K, Rajkumar S, Balhara YPS. Prevalence and pattern of problematic internet use among engineering students from different colleges in India. Indian J Psychiatry. 2019 Nov-Dec;61(6):578-583</li>
-<li>Balhara YPS, Kumar S, Singh S, Singh K, Rajkumar S. Challenges with use of internet use duration criteria as a marker of problematic internet use: Observations based on the receiver-operator curve-based analysis of data from the students. Asian J Psychiatr. 2021 Oct;64:102770. doi:10.1016/j.ajp.2021.102770. Epub 2021 Jul 14. PMID: 34274816.</li>
-</ul>
-</div>
-
-<div class="main-contdvshon">
-<h4>Additional information</h4>
-<ul>
-<li>Was part of team as Research Officer, developing Online Course module on Methadone Maintenance Treatment by NDDTC, New Delhi</li>
-<li>Organized multiple conferences/CMEs/national symposium including World Congress of Social Psychiatry, 2016 , Neuromodulation Workshop and Certificate Course - 2018 , 2019 under guidance of Department of Psychiatry and NDDTC, AIIMS.</li>
-<li>Elected General Secretary of RDA AIIMS, 2020</li>
-</ul>
-</div>
+ 
 
 </div>
 
@@ -121,7 +99,7 @@
   							<div class="row"> 
                                 
 								<div class="col-sm-12 col-md-12 col-lg-12"> 
-									<input type="text" name="name" id="aname" class="form-control" placeholder="Dr.Srinivas" readonly/>
+									<input type="text" name="name" id="aname" class="form-control" placeholder="Dr Ashwin Subramaniam" value="Dr Ashwin Subramaniam" readonly/>
 								</div>
                                 
 								<div class="col-sm-12 col-md-12 col-lg-12"> 

@@ -43,16 +43,16 @@ in improving the elderly lives.</span>
 									<p class="contact-icons"><img src="{{ asset('/public/website/assets/images/contact-icon4.png') }}" alt="" class="" /><a href="mailto:enquiry@gericare.in" target="_blank" class="text-white">enquiry@gericare.in</a></p>
 									<ul class="contact-socials">
 										<li>
-											<a class="facebook" href="" target="_blank"> <i class="fa fa-facebook" aria-hidden="true"></i> </a>
+											<a class="facebook" href="https://www.facebook.com/GeriCareChennai" target="_blank"> <i class="fa fa-facebook" aria-hidden="true"></i> </a>
 										</li>
 										<li>
-											<a class="twitter" href="" target="_blank"> <i class="fa fa-twitter" aria-hidden="true"></i> </a>
+											<a class="linkedin" href="https://www.linkedin.com/company/gericarehospital/" target="_blank"> <i class="fa fa-linkedin" aria-hidden="true"></i> </a>
 										</li>
 										<li>
-											<a class="instagram" href="" target="_blank"> <i class="fa fa-instagram" aria-hidden="true"></i> </a>
+											<a class="instagram" href="https://instagram.com/geri_care_chennai?igshid=MzRlODBiNWFlZA==" target="_blank"> <i class="fa fa-instagram" aria-hidden="true"></i> </a>
 										</li>			
 										<li>
-											<a class="youtube" href="" target="_blank"> <i class="fa fa-youtube-play" aria-hidden="true"></i> </a>
+											<a class="youtube" href="https://www.youtube.com/@geri_care_chennai" target="_blank"> <i class="fa fa-youtube-play" aria-hidden="true"></i> </a>
 										</li> 
 									</ul> 
 								</div>

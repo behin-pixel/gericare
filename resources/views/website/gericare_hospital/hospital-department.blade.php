@@ -42,7 +42,7 @@
 <div class="row dctr-detilsbox  ">
         <div class=" col-md-4 col-lg-4">
             <div class="doc-tor-img">
-                <img src="{{ asset('/public/website/assets/images/Mobile--Geriatric-Oncology.jpg') }}" alt="" class="w-100">
+                <img src="{{ asset('/public/website/assets/images/department-1.jpg') }}" alt="" class="w-100">
             </div>
         </div>
         <div class="col-md-8 col-lg-8">
@@ -58,7 +58,7 @@
 <div class="row dctr-detilsbox   mt-4">
         <div class=" col-md-4 col-lg-4">
             <div class="doc-tor-img">
-                <img src="{{ asset('/public/website/assets/images/Mobile-Geriatric-Cardiology.jpg') }}" alt="" class="w-100">
+                <img src="{{ asset('/public/website/assets/images/department-2.jpg') }}" alt="" class="w-100">
             </div>
         </div>
         <div class="col-md-8 col-lg-8">
@@ -74,7 +74,7 @@
 <div class="row dctr-detilsbox   mt-4">
         <div class=" col-md-4 col-lg-4">
             <div class="doc-tor-img">
-                <img src="{{ asset('/public/website/assets/images/department.jpg') }}" alt="" class="w-100">
+                <img src="{{ asset('/public/website/assets/images/department-3.jpg') }}" alt="" class="w-100">
             </div>
         </div>
         <div class="col-md-8 col-lg-8">
@@ -90,7 +90,7 @@
 <div class="row dctr-detilsbox   mt-4">
         <div class=" col-md-4 col-lg-4">
             <div class="doc-tor-img">
-                <img src="{{ asset('/public/website/assets/images/Mobie--Orthogeriatrics.jpg') }}" alt="" class="w-100">
+                <img src="{{ asset('/public/website/assets/images/department-4.jpg') }}" alt="" class="w-100">
             </div>
         </div>
         <div class="col-md-8 col-lg-8">
@@ -106,7 +106,7 @@
 <div class="row dctr-detilsbox   mt-4">
         <div class=" col-md-4 col-lg-4">
             <div class="doc-tor-img">
-                <img src="{{ asset('/public/website/assets/images/mobile--Gastroenterology.jpg') }}" alt="" class="w-100">
+                <img src="{{ asset('/public/website/assets/images/department-5.jpg') }}" alt="" class="w-100">
             </div>
         </div>
         <div class="col-md-8 col-lg-8">
@@ -122,7 +122,7 @@
 <div class="row dctr-detilsbox   mt-4">
         <div class=" col-md-4 col-lg-4">
             <div class="doc-tor-img">
-                <img src="{{ asset('/public/website/assets/images/department.jpg') }}" alt="" class="w-100">
+                <img src="{{ asset('/public/website/assets/images/department-6.jpg') }}" alt="" class="w-100">
             </div>
         </div>
         <div class="col-md-8 col-lg-8">
@@ -138,7 +138,7 @@
 <div class="row dctr-detilsbox   mt-4">
         <div class=" col-md-4 col-lg-4">
             <div class="doc-tor-img">
-                <img src="{{ asset('/public/website/assets/images/department.jpg') }}" alt="" class="w-100">
+                <img src="{{ asset('/public/website/assets/images/department-7.jpg') }}" alt="" class="w-100">
             </div>
         </div>
         <div class="col-md-8 col-lg-8">
@@ -154,7 +154,7 @@
 <div class="row dctr-detilsbox   mt-4">
         <div class=" col-md-4 col-lg-4">
             <div class="doc-tor-img">
-                <img src="{{ asset('/public/website/assets/images/department.jpg') }}" alt="" class="w-100">
+                <img src="{{ asset('/public/website/assets/images/department-8.jpg') }}" alt="" class="w-100">
             </div>
         </div>
         <div class="col-md-8 col-lg-8">
@@ -170,7 +170,7 @@
 <div class="row dctr-detilsbox   mt-4">
         <div class=" col-md-4 col-lg-4">
             <div class="doc-tor-img">
-                <img src="{{ asset('/public/website/assets/images/department.jpg') }}" alt="" class="w-100">
+                <img src="{{ asset('/public/website/assets/images/department-9.jpg') }}" alt="" class="w-100">
             </div>
         </div>
         <div class="col-md-8 col-lg-8">
@@ -186,7 +186,7 @@
 <div class="row dctr-detilsbox   mt-4">
         <div class=" col-md-4 col-lg-4">
             <div class="doc-tor-img">
-                <img src="{{ asset('/public/website/assets/images/department.jpg') }}" alt="" class="w-100">
+                <img src="{{ asset('/public/website/assets/images/department-10.jpg') }}" alt="" class="w-100">
             </div>
         </div>
         <div class="col-md-8 col-lg-8">
@@ -202,7 +202,7 @@
 <div class="row dctr-detilsbox   mt-4">
         <div class=" col-md-4 col-lg-4">
             <div class="doc-tor-img">
-                <img src="{{ asset('/public/website/assets/images/department.jpg') }}" alt="" class="w-100">
+                <img src="{{ asset('/public/website/assets/images/department-11.jpg') }}" alt="" class="w-100">
             </div>
         </div>
         <div class="col-md-8 col-lg-8">
@@ -218,7 +218,7 @@
 <div class="row dctr-detilsbox   mt-4">
         <div class=" col-md-4 col-lg-4">
             <div class="doc-tor-img">
-                <img src="{{ asset('/public/website/assets/images/department.jpg') }}" alt="" class="w-100">
+                <img src="{{ asset('/public/website/assets/images/department-12.jpg') }}" alt="" class="w-100">
             </div>
         </div>
         <div class="col-md-8 col-lg-8">
@@ -234,7 +234,7 @@
 <div class="row dctr-detilsbox   mt-4">
         <div class=" col-md-4 col-lg-4">
             <div class="doc-tor-img">
-                <img src="{{ asset('/public/website/assets/images/department.jpg') }}" alt="" class="w-100">
+                <img src="{{ asset('/public/website/assets/images/department-13.jpg') }}" alt="" class="w-100">
             </div>
         </div>
         <div class="col-md-8 col-lg-8">
@@ -250,7 +250,7 @@
 <div class="row dctr-detilsbox   mt-4">
         <div class=" col-md-4 col-lg-4">
             <div class="doc-tor-img">
-                <img src="{{ asset('/public/website/assets/images/department.jpg') }}" alt="" class="w-100">
+                <img src="{{ asset('/public/website/assets/images/department-14.jpg') }}" alt="" class="w-100">
             </div>
         </div>
         <div class="col-md-8 col-lg-8">
@@ -266,7 +266,7 @@
 <div class="row dctr-detilsbox   mt-4">
         <div class=" col-md-4 col-lg-4">
             <div class="doc-tor-img">
-                <img src="{{ asset('/public/website/assets/images/department.jpg') }}" alt="" class="w-100">
+                <img src="{{ asset('/public/website/assets/images/department-15.jpg') }}" alt="" class="w-100">
             </div>
         </div>
         <div class="col-md-8 col-lg-8">
