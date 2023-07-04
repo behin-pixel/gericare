@@ -32,9 +32,10 @@
             <div class="form-data cnt clearfix">
                 <select class="form-control " id="service" name="service">
                     <option value="">Select Your Service</option>
-                    <option value="Service-1">Service-1</option>
-                    <option value="Service-2">Service-2</option>
-                    <option value="Service-3">Service-3</option>
+                    <option value="Geri Care Hospital">Geri Care Hospital</option>
+                    <option value="Geri Care Assisted Living">Geri Care Assisted Living</option>
+                    <option value="Geri Care Clinics">Geri Care Clinics</option>	
+                    <option value="Geri Care Home Care">Geri Care Home Care</option>	
                     <option value="Others">Others</option>
                 </select>
             </div>

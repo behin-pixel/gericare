@@ -488,6 +488,7 @@ $(".accordion").on("hide.bs.collapse show.bs.collapse", e => {
       slidesToShow: 3,
       dots: true,
       slidesToScroll: 1,
+      adaptiveHeight: true,
       responsive: [
         {
           breakpoint: 1400,

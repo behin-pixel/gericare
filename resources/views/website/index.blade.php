@@ -841,28 +841,7 @@ Nov 04 2019
 
 @include('website.bottomform')
 
-
-<section class="mobile-only-view call-acton">
-<div class="container">
-<div class="row">
-
-<div class="col-lg-12">
-
-<span>
-24x7 Ambulance Service Available
-</span>
-
-<div class="common-button">
-<a href=""><img src="{{ asset('/public/website/assets/images/call.png') }}" alt="" class=""> +91 44 4061 4061</a>
-</div>
-
-</div>
-
-</div>
-</div>
-</section>
-
-<section class="mobile-only-view people-lovers">
+<!-- <section class="mobile-only-view people-lovers">
 <div class="container">
 <div class="row">
 
@@ -908,7 +887,7 @@ Nov 04 2019
 
 </div>
 </div>
-</section>
+</section> -->
 
 <section class="mobile-only-view kind-geritaic-center">
 <div class="container">
@@ -937,7 +916,7 @@ Nov 04 2019
 <div class="ger-care">
 <img src="{{ asset('/public/website/assets/images/Mobile-Geriatric-Cardiology.jpg') }}" alt="" class="w-100">
 <div class="ger-cntnt text-start">
-<h4>Geriatric Cardiology</h4>
+<h4>Geriatric Oncology </h4>
 <p>This is a field of medicine that specializes on the treatment of heart diseases in older patients.</p>
 <a href="">Read More <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class=""></a>
 </div>
@@ -991,7 +970,7 @@ Nov 04 2019
 </div>
 </section>
 
-<section class="mobile-only-view press-rpomm">
+<!-- <section class="mobile-only-view press-rpomm">
 <div class="container">
 <div class="row">
  
@@ -1029,10 +1008,30 @@ Nov 04 2019
 
 </div>
 </div>
-</section>
+</section> -->
 
 
 @include('website.mobilebottomform')
+
+<section class="mobile-only-view call-acton">
+<div class="container">
+<div class="row">
+
+<div class="col-lg-12">
+
+<span>
+24x7 Ambulance Service Available
+</span>
+
+<div class="common-button">
+<a href=""><img src="{{ asset('/public/website/assets/images/call.png') }}" alt="" class=""> +91 44 4061 4061</a>
+</div>
+
+</div>
+
+</div>
+</div>
+</section>
 
 @include('website.bottommap')
 

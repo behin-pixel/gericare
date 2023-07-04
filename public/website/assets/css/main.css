@@ -122,7 +122,7 @@ a:hover {
     font-family: 'Red Hat Display', sans-serif;
     font-weight: 700;
     font-size: 30px;
-    line-height: 42px;
+    line-height: 1.4;
     color: #7C164B;
     margin-bottom: 40px;
 }
@@ -1387,7 +1387,7 @@ img.moby {
 .banner-liners {
     position: absolute;
     width: 100%;
-    top: 20%;
+    top: 30%;
 }
 
 .banner-liners h4 {
@@ -3130,9 +3130,8 @@ ul.press-roomr li span.bts-non {
 .pseofmnd {
     font-weight: 700;
     color: #fff;
-    font-size: 34px;
-    font-family: 'Red Hat Display', sans-serif;
-    line-height: 42px;
+    font-size:40px; 
+    line-height:1.2;
 }
 
 .pseofmnd-lst ul {
@@ -3156,12 +3155,13 @@ ul.press-roomr li span.bts-non {
     background-color: #fff;
     display: inline-block;
     text-align: left;
+    border-radius: 4px;
 }
 
 .pseofmnd span {
     display: block;
     font-weight: 400;
-    font-size: 28px;
+    font-size: 24px;
     margin-top: 10px;
   }
 
@@ -3847,7 +3847,7 @@ ul.list-of-services li:hover img {
         .book-apptmnt .gentric-systems ul{grid-template-columns: repeat(2, 1fr);}
     
 
-
+.doc-tor-img img{border-radius: 4px;margin-bottom: 20px;}
 
 
 
@@ -4156,10 +4156,7 @@ ul.list-of-services li:hover img {
     }
     .age-bars::before {
         left: -20px;
-    }
-    .banner-liners {
-        top: 19%;
-    }
+    } 
     .banner-liners h4 {
         font-size: 26px;
         line-height: 39px;
@@ -4330,11 +4327,7 @@ ul.list-of-services li:hover img {
     .inner-banner img {
         object-fit: cover;
         height: 250px;
-    }
-
-    .inner-banner .banner-liners {
-        top: 17%
-    }
+    } 
     .inner-banner .banner-liners h4 {
         font-size: 18px;
         line-height: 30px;
@@ -4680,12 +4673,7 @@ ul.list-of-services li:hover img {
       .our-faacilities .gentric-systems ul {
         grid-template-columns: repeat(2, 1fr);
       }
-    .banner-liners ul li a {
-        font-size: 16px;
-    }
-    .banner-liners ul li {
-        font-size: 16px;
-    }
+    
 
     #homeCarousel.carousel .carousel-caption {
         padding: 50px 40px;
@@ -4834,7 +4822,7 @@ img.resp-onsive {
     }
     .flaoting-rays ul li {
         height: auto;
-        width: 25%;
+        width: 50%;
         background-color: transparent;
         margin: 0;
         padding: 10px 0 0;
@@ -5004,6 +4992,7 @@ img.resp-onsive {
 
 
 @media(max-width: 680px) {
+    .form-detilsbox{margin-left: 0px;}
     
     
     .gentric-systems ul {
@@ -5029,8 +5018,10 @@ img.resp-onsive {
     }
 
     .pseofmnd {
-        font-size: 22px;
-        line-height: 36px;
+        font-size: 26px; 
+    }
+    .pseofmnd span{
+        font-size: 20px; 
     }
     .ambulance-runing h4 {
         text-align: center;
@@ -5079,6 +5070,13 @@ img.resp-onsive {
 }
 
 @media(max-width: 580px) {
+    .pseofmnd-lst.text-end {
+        text-align: center !important;
+        margin-top: 40px;
+      }
+    .peace-of-mind{padding: 80px 0;text-align:center;}
+    .cont-mob-frm {
+        margin: 0px auto 0;}
     .location-fixer .serveces-doctrs {
         grid-template-columns: repeat(1, 1fr);
     }
@@ -5151,7 +5149,7 @@ img.resp-onsive {
     }
 
     .common-heading h2 {
-        font-size: 24px;
+        font-size: 26px;
         margin-bottom: 15px;
     }
     .common-button a {
@@ -5188,10 +5186,10 @@ img.resp-onsive {
     }
     .carousel .carousel-caption h1 {
         font-size: 22px;
-        margin-bottom: 10px;
+        margin-bottom: 0px;
     }
     .carousel .carousel-caption span {
-        margin-bottom: 10px;
+        margin-bottom:20px;
     }
     #homeCarousel.carousel .carousel-caption {
         bottom: auto;
