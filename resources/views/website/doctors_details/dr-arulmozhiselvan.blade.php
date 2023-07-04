@@ -104,7 +104,8 @@
     
 <div class="form-detilsbox text-center">
 <h4>Book Your Appointment</h4>
-<form class="appointment-form" name="AppointmentForm" method="post" onSubmit="return valid_chk4()" action="#" id="AppointmentForm">
+<form class="appointment-form" name="AppointmentForm" method="post"  action="#" id="AppointmentForm">
+	@csrf
 								<input type="hidden" name="form_name" value="book_an_appointment" >
   							<div class="row"> 
                                 
