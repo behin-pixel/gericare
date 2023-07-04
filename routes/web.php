@@ -65,6 +65,7 @@ Route::get('/gericare-hospital/hospital-doctors/dr-balamurugan-b',[PageViewContr
 
 Route::get('/gericare-hospital/hospital-doctors/dr-sridevi',[PageViewController::class,'drSrideviPage'])->name('doctors-details.dr-sridevi'); 
 
+
 Route::get('/gericare-hospital/hospital-doctors/dr-susovan',[PageViewController::class,'drSusovanPage'])->name('doctors-details.dr-susovan'); 
 
 Route::get('/gericare-hospital/hospital-doctors/dr-vasanth',[PageViewController::class,'drVasanthPage'])->name('doctors-details.dr-vasanth');
@@ -153,7 +154,7 @@ Route::get('/in-news/video-gallery',[PageViewController::class,'VideoGalleryPage
 
 Route::get('contact-us',[PageViewController::class,'contactUsPage'])->name('contact-us');
 
-Route::get('book-an-appointment',[PageViewController::class,'BookAnAppointmentPage'])->name('book-an-appointment');
+Route::get('book-appointment',[PageViewController::class,'bookAppointmentPage'])->name('book-appointment');
 
 Route::get('thanks-contactus',[PageViewController::class,'ThanksContactusPage'])->name('thanks-contactus');
 

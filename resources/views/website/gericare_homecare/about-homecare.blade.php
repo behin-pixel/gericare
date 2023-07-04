@@ -36,12 +36,14 @@ Geriatricians </span>
 
 <div class="col-lg-12">
 <div class="common-heading text-center">
-<h2>Comprehensive Geriatric Care at<br> Home for your Loved Ones</h2>
+<h2>Comprehensive Geriatric Care <br>at Home for your Loved Ones</h2>
 </div>
 <div class="seconday-paragraph text-center">
-At Geri Care, we conduct comprehensive evaluation at the patient's home to assess their overall health and well-being. This evaluation includes assessing the patient's medical history, conducting physical examinations, evaluating their living conditions, functional status, and social support.<br> 
+At Geri Care, we conduct comprehensive evaluation at the patient's home to assess their overall health and well-being. <br>This evaluation includes assessing the patient's medical history, conducting physical examinations, evaluating their living conditions, functional status, and social support.<br> 
 
-Our care plans involve collaboration with a multidisciplinary team consisting of doctors, nurses, physiotherapists, and caregivers to execute the plan and improve the quality of life for the elderly patient. Additionally, the team can provide counseling to the family if they are uncertain about hospitalizing their loved ones.<br>
+<br>Our care plans involve collaboration with a multidisciplinary team consisting of doctors, nurses, physiotherapists, <br>and caregivers to execute the plan and improve the quality of life for the elderly patient.<br>
+ 
+<br>Additionally, the team can provide counseling to the family if they are uncertain about hospitalizing their loved ones.<br>
 
 Our experienced caregivers have been delivering affordable and reliable care in the comfort of patients’ homes since 2018.
 </div>
@@ -55,21 +57,21 @@ Our experienced caregivers have been delivering affordable and reliable care in 
 
 <div class="servce">
 <img src="{{ asset('/public/website/assets/images/icon-1.png') }}" alt="" class="" />
-<h4> Our Doctors </h4>
-<p> Select a doctor and schedule an appointment. </p>
+<h4> Meet Our Experts </h4>
+<p> Select a doctor and schedule <br>an appointment. </p>
 <a href="{{ url('/gericare-hospital/hospital-doctors') }}"> View All Doctors <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
 </div>
 
 <div class="servce">
 <img src="{{ asset('/public/website/assets/images/icon-2.png') }}" alt="" class="" />
-<h4> Our Location </h4>
+<h4> Access our Location </h4>
 <p> No.8, Dr. Nair Road, Behind Vani Mahal, T.Nagar, Chennai - 600 017 </p>
-<a href="{{ url('contact-us') }}"> View on maps <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
+<a href="{{ url('contact-us') }}"> View On Maps <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
 </div>
 
 <div class="servce">
 <img src="{{ asset('/public/website/assets/images/icon-3.png') }}" alt="" class="" />
-<h4> Appointments </h4>
+<h4> Book a Visit </h4>
 <p> Book your appointment with us for a smooth and hassle free experience </p>
 <a href="{{ url('book-appointment') }}"> Book Your Appointment <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
 </div>
@@ -117,7 +119,7 @@ Our experienced caregivers have been delivering affordable and reliable care in 
 <div class="col-lg-12">
 
 <div class="common-heading text-center">
-<h2>Choose your Type of Home Care </h2>
+<h2> Home Care that Suits You </h2>
 </div>
 
 <div class="servce-strture"> 
@@ -134,8 +136,8 @@ Our experienced caregivers have been delivering affordable and reliable care in 
 <div class="main-srvcestr">
 <img src="{{ asset('/public/website/assets/images/Psychiatrist-Home-Visit.jpg') }}" alt="" class="" />
 <div class="minrester">
-<h4>Psychiatrist Home Visit</h4>
-<p>During these visits, we assess symptoms, prescribe appropriate medications ...</p>
+<h4>Psychiatrist Home Visits</h4>
+<p>During these visits, our psychiatrist will assess symptoms, prescribe appropriate medications ...</p>
 <a href="{{ url('/gericare-homecare/service-we-offer/psychiatrist-home-visit') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
 </div>
 </div>
@@ -143,7 +145,7 @@ Our experienced caregivers have been delivering affordable and reliable care in 
 <div class="main-srvcestr">
 <img src="{{ asset('/public/website/assets/images/Orthopedician-Home-Visit.jpg') }}" alt="" class="" />
 <div class="minrester">
-<h4>Orthopedician Home Visit</h4>
+<h4>Orthopedician Home Visits</h4>
 <p>Our Orthopedic specialists visit patients at their homes to assess and manage ...</p>
 <a href="{{ url('/gericare-homecare/service-we-offer/orthopedician-home-visit') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
 </div>
@@ -152,8 +154,8 @@ Our experienced caregivers have been delivering affordable and reliable care in 
 <div class="main-srvcestr">
 <img src="{{ asset('/public/website/assets/images/Dentist-Home-Visit.jpg') }}" alt="" class="" />
 <div class="minrester">
-<h4>Dentist Home Visit</h4>
-<p> Our geriatric dentistry experts offer dental care at the patient's home, by performing ...</p>
+<h4>Dentist Home Visits</h4>
+<p> Our Geriatric Dentistry expert offers dental care at the patient's home, by performing ...</p>
 <a href="{{ url('/gericare-homecare/service-we-offer/dentist-home-visit') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
 </div>
 </div>
@@ -188,7 +190,7 @@ Our experienced caregivers have been delivering affordable and reliable care in 
 <div class="main-srvcestr">
 <img src="{{ asset('/public/website/assets/images/Wound-Care-and-Dressing.jpg') }}" alt="" class="" />
 <div class="minrester">
-<h4>Wound Care and Dressing</h4>
+<h4>Wound Care & Dressing</h4>
 <p>Skilled healthcare professionals can provide wound care and dressing services ...</p>
 <a href="{{ url('/gericare-homecare/service-we-offer/wound-care-dressing') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
 </div>
@@ -254,8 +256,9 @@ Our experienced caregivers have been delivering affordable and reliable care in 
 
 <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
 <div class="pseofmnd">
-We Do Whatever It Takes To<br> 
-Bring You Peace of Mind
+We do whatever it takes <br> 
+to bring you peace of mind.<br>
+To enjoy your freedom, call us today.
 </div>
 </div>
 

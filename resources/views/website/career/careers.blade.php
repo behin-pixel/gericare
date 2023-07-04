@@ -12,9 +12,8 @@
 <div class="container">
 <div class="row">
 <div class="col-lg-12">
-<h4>we are passionate
-<span>about enabling a congenial <br>
-work atmosphere.</span>
+<h4>Join Geri Care's community
+<span>of passionate caregivers</span>
 </h4>
 <ul>
 <li><a href="./">Home</a></li>   
@@ -36,7 +35,8 @@ work atmosphere.</span>
 						<div class="row align-items-center">
 							<div class="col-sm-12 col-md-12 col-lg-6 col-xl-5" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
 								<div class="orange-bg shadow pad-30 pb-0 text-center">
-									<h2 class="h3 text-white mar-bot-20 text-center casrtmzed">Explore your opportunities at Geri Care, where the best minds work together as a winning team.</h2>
+									<h2 class="h3 text-white mar-bot-20 text-center casrtmzed">Explore your passion and unlock your potential at Geri Care, where expert minds work together!</h2>
+								
 									<img src="{{ asset('/public/website/assets/images/careers.png') }}" alt="" class="img-fluid">
 								</div>
 							</div>

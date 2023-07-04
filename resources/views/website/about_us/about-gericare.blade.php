@@ -72,7 +72,7 @@ Personalized Care</h2>
 <div class="vision-ftntion">
 <img src="{{ asset('/public/website/assets/images/vision.png') }}" alt="" class="vis-this" />
 <h4>Our Vision</h4>
-<p>To make Geriatric Care accessible to larger masses of senior citizens<br> and their families, and to enhance the quality of their life, promote<br> independence, well being and dignity.</p>
+<p>To make Geriatric Care accessible to larger masses of senior citizens<br> and their families, and to enhance the quality of their life, <br>promote independence, well being and dignity.</p>
 </div>
 </div>
 
@@ -102,7 +102,7 @@ Personalized Care</h2>
 
 <div class="col-lg-12">
 <div class="common-heading text-center">
-<h2>The Continuum of 360 Care for the Grown up Community.</h2>
+<h2>The Continuum of 360 Care for the Grown up Community</h2>
 </div>
 </div>
 
@@ -120,14 +120,14 @@ Personalized Care</h2>
 
 <div class="cario-seters">
 <span><img src="{{ asset('/public/website/assets/images/cardio-2.png') }}" alt="" class="" /></span>
-<h4>A Multi-disciplinary Approach</h4>
+<h4>Multi-disciplinary Approach</h4>
 <p>We bring cutting-edge research and innovative approaches to the forefront of excellence in geriatric care, alongside the combined care and expertise of doctors, nurses, counsellors, lab technicians, wardens and caregivers.</p>
 </div>
 
 <div class="cario-seters">
 <span><img src="{{ asset('/public/website/assets/images/cardio-3.png') }}" alt="" class="" /></span>
 <h4>Unique Health Culture</h4>
-<p>Highly regarded for its distinctive culture of treating every client with care, compassion, dignity and respect, Geri Care is also valued for its holistic approach and tailored treatment plans that form part of its fabric.</p>
+<p>Highly regarded for our distinctive culture of treating every client with care, compassion, dignity and respect, we are also valued for our holistic approach and tailored treatment plans.</p>
 </div>
 
 <div class="cario-seters">
@@ -148,8 +148,9 @@ Personalized Care</h2>
 
 <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
 <div class="pseofmnd">
-We Do Whatever It Takes To<br> 
-Bring You Peace of Mind
+We do whatever it takes <br> 
+to enhance the quality of your life.<br>
+To experience well-being, call us today.
 </div>
 </div>
 

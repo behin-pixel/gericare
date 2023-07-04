@@ -137,4 +137,25 @@ class PageViewController extends Controller
     {
         return view('website.in_news.news-events');
     } 
+    public function GalleryPage()
+    {
+        return view('website.in_news.gallery');
+    } 
+    public function VideoGalleryPage()
+    {
+        return view('website.in_news.video-gallery');
+    } 
+    public function MediaToolKitPage()
+    {
+        return view('website.in_news.media-tool-kit');
+    } 
+    public function CarrerThanksPage()
+    {
+        return view('website.carrer-thanks');
+    } 
+    public function ThanksContactusPage()
+    {
+        return view('website.thanks-contactus');
+    } 
+   
 }

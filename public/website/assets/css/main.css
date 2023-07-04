@@ -3845,6 +3845,8 @@ ul.list-of-services li:hover img {
         overflow: hidden;}
 
         .modal-body button.submit-btn:hover{background: #7C164B;transition:all 0.5s ease;}
+
+        .book-apptmnt .gentric-systems ul{grid-template-columns: repeat(2, 1fr);}
     
 
 

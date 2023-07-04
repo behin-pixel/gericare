@@ -14,7 +14,7 @@
 <div class="col-lg-12">
 <h4>Contact us today for a better tomorrow.
 <span>We have the proven ability <br>
-in improving the elderly lives.</span>
+to improve the lives of the elderly.</span>
 </h4>
 <ul>
 <li><a href="./">Home</a></li>   
@@ -109,11 +109,11 @@ in improving the elderly lives.</span>
 <img src="{{ asset('/public/website/assets/images/icon-2.png') }}" alt="" class="" />
 <h4> Geri Care Hospital </h4>
 <span class="text-center"> T Nagar </span>
-<p> No.8, Dr.Nair road, Behind Vani mahal,<br> T Nagar, Chennai 600017</p>
+<p> No.8, Dr.Nair road, Behind Vani Mahal,<br> T Nagar, Chennai 600017</p>
 <a href="https://goo.gl/maps/u6K6owxWtpxry8EV8" target="_blank"> Locate Us <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a> 
 
 <span class="text-center"> Velachery </span>
-<p>100 Feet Velachery inner ring road,<br> Ward F, Block 17, Adambakkam, <br> Chennai, Tamil Nadu 600088</p>
+<p>100 Feet Velachery Inner Ring Road,<br> Ward F, Block 17, Adambakkam, <br> Chennai, Tamil Nadu 600088</p>
 <a href="https://goo.gl/maps/KFAt8ytkXKEeuxZ59" target="_blank"> Locate Us <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
 </div> 
 
@@ -121,10 +121,10 @@ in improving the elderly lives.</span>
 <img src="{{ asset('/public/website/assets/images/icon-2.png') }}" alt="" class="" />
 <h4> Geri Care Clinics </h4>
 <span class="text-center"> Adyar </span>
-<p> 21, 1st avenue, Indira Nagar,<br> Adyar, Chennai 600020</p>
+<p> 21, 1st Avenue, Indira Nagar,<br> Adyar, Chennai 600020</p>
 <a href="https://goo.gl/maps/iZ6WNkecYyEqYKBZ6" target="_blank"> Locate Us <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a> 
 
-<span class="text-center"> Anna nagar </span>
+<span class="text-center"> Anna Nagar </span>
 <p>Plot no.3698, Q Block-100, 3rd Avenue,  <br> Anna Nagar, Chennai, Tamil Nadu 600040</p>
 <a href="https://goo.gl/maps/FLwu1wnwvRHQEqdb7" target="_blank"> Locate Us <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
 </div>
@@ -133,7 +133,7 @@ in improving the elderly lives.</span>
 <img src="{{ asset('/public/website/assets/images/icon-2.png') }}" alt="" class="" />
 <h4> Geri Care Assisted Living </h4>
 <span class="text-center"> Thoraipakam </span>
-<p> Balamurugan Garden 1st main road,<br> Thoraipakkam, Chennai - 600 097</p>
+<p> Balamurugan Garden 1st Main Road,<br> Thoraipakkam, Chennai - 600 097</p>
 <a href="https://goo.gl/maps/eZNZbkaZcb3gtZqE7" target="_blank"> Locate Us <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a> 
 
 <span class="text-center"> RA Puram </span>
