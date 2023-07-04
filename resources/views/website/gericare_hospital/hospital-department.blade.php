@@ -48,7 +48,7 @@
         <div class="col-md-8 col-lg-8">
             <div class="servrse-contest-p p-0">
                 <h3>Geriatric Oncology </h3>
-                         <p>Specialized care for elderly cancer patients, combining oncology expertise with geriatric medicine to ensure personalized and comprehensive treatment. Equipped with a team of Medical oncologists and Surgical Oncologists and a dedicated Tumour Board, the Geriatric Oncology department offers 360 degree care right from hospital to homcare for elderly patients.</p>
+                         <p>Specialized care for elderly cancer patients, combining oncology expertise with geriatric medicine to ensure personalized and comprehensive treatment. Equipped with a team of Medical Oncologists and Surgical Oncologists and a dedicated Tumour Board, the Geriatric Oncology department offers 360 degree care right from hospital to homecare for elderly patients.</p>
                     <div class="minrester-link">
                     <a href="{{ url('/gericare-hospital/hospital-doctors') }}"   tabindex="0">Fina a doctor<img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="" class=""></a>
                     </div>   
@@ -96,7 +96,7 @@
         <div class="col-md-8 col-lg-8">
             <div class="servrse-contest-p p-0">
                 <h3>Orthogeriatrics </h3>
-                         <p>Our Orthogeriatrics department offers comprehensive orthopedic care designed specifically for elderly patients, promoting timely and effective management of hip fractures and age-related musculoskeletal conditions such OA and osteoporosis.</p>
+                         <p>Our Orthogeriatrics department offers comprehensive orthopedic care designed specifically for elderly patients, promoting timely and effective management of hip fractures and age-related musculoskeletal conditions such as OA and osteoporosis.</p>
                          <div class="minrester-link">
                        <a href="{{ url('/gericare-hospital/hospital-doctors') }}"   tabindex="0">Fina a doctor<img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="" class=""></a>
                     </div>  
@@ -176,7 +176,7 @@
         <div class="col-md-8 col-lg-8">
             <div class="servrse-contest-p p-0">
                 <h3>ICU </h3>
-                         <p>At our Geriatric ICU, we offer individualized and advanced critical care for older adults, addressing complex medical needs and age-specific considerations to deliver exceptional support and promote recovery. First Hospital in India to respect patient’s advanced healthcare directives.</p>
+                         <p>At our Geriatric ICU, we offer individualized and advanced critical care for older adults, addressing complex medical needs and age-specific considerations to deliver exceptional support and promote recovery. We are one of India's first hospitals to respect patient’s advanced healthcare directives.</p>
                     <div class="minrester-link">
                        <a href="{{ url('/gericare-hospital/hospital-doctors') }}"   tabindex="0">Fina a doctor<img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="" class=""></a>
                     </div>  
