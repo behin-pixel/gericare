@@ -101,4 +101,26 @@
 
 <div class="whatsapp-chat">	 <a href="https://api.whatsapp.com/send?phone=914440614061&amp;text=Hello GERICARE, I have something to ask..." target="_blank" class="font-semiBold"> <span><i class="fa fa-whatsapp"></i>   </span> </a></div>
 
-<a href="#" class="back-to-top"><i class="fa fa-angle-up" aria-hidden="true"></i></a>
+<a href="#" class="back-to-top" data-bs-toggle="modal" data-bs-target="#exampleModalCenter"><i class="fa fa-angle-up" aria-hidden="true"></i></a>
+
+<button type="button" class="btn btn-primary">
+    Vertically centered modal
+  </button>
+
+  <div class="modal fade" id="exampleModalCenter" tabindex="-1" aria-labelledby="exampleModalCenterTitle" >
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalCenterTitle">Modal title</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <p>This is a vertically centered modal.</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Save changes</button>
+      </div>
+    </div>
+  </div>
+</div>

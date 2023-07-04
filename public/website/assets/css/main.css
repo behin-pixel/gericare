@@ -1507,6 +1507,7 @@ img.moby {
     font-size: 16px;
     color: rgba(0, 0, 0, 0.8);
     line-height: 26px;
+    margin-bottom: 10px;
 }
 .servce a {
     font-weight: 600;
@@ -1723,6 +1724,7 @@ img.moby {
     border-radius: 4px;
     padding-bottom: 50px;
     position: relative;
+    background: #fff;
   }
 
 .dr-panel img {
@@ -2851,7 +2853,7 @@ ul.press-roomr li span.bts-non {
 
 .flaoting-rays {
     position: fixed;
-    right: 0;
+    right: -3px;
     width: 65px;
     height: 265px;
     top: 20%;

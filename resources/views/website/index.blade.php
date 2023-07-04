@@ -133,7 +133,7 @@
 <div class="logos-pot">
 <img src="{{ asset('/public/website/assets/images/logo-3.png') }}" alt="">
 </div>
-<span>Get immediate and timely care from our experts in the comfort of your home. Book your appointment with our doctors for comprehensive consulting</span>
+<span>Get immediate and timely care from our experts in the comfort of your home. Book your appointment with our doctors for comprehensive consulting.</span>
 <div class="red-mre">
 <a href="{{ url('/gericare-homecare/about-homecare') }}">Read More <img src="{{ asset('/public/website/assets/images/red-mre.png') }}" alt=""></div></a>
 </div>
@@ -458,7 +458,7 @@ Ideal hospital for senior citizens. Not crowded and you get excellent personal a
 <h2>One-of-a-kind Geriatric Care</h2>
 </div>
 <div class="common-para">
-<p>Introducing India's first-ever multi-specialty hospital designed exclusively for senior citizens, offering a comprehensive range of specialized medical services tailored to meet the unique healthcare needs of seniors.</p>
+<p>Introducing India's first-ever multi-specialty hospital designed exclusively for senior citizens, offering<br> a comprehensive range of specialized medical services tailored to meet the unique healthcare needs of seniors.</p>
 </div> 
 
 </div>
@@ -578,7 +578,7 @@ Ideal hospital for senior citizens. Not crowded and you get excellent personal a
 </div>
 
 <div class="common-button drk text-center">
-<a href="{{ url('/gericare-hospital/hospital-department') }}">Explore Gericare Hospitals</a>
+<a href="{{ url('/gericare-hospital/hospital-department') }}">Explore Our Departments</a>
 </div>
 
 </div>
@@ -662,7 +662,7 @@ Ideal hospital for senior citizens. Not crowded and you get excellent personal a
 Nov 04 2019
 </div>
 <div class="minrester">
-<h4>India’s Leading Geriatricians Now in Your Parent’s Living Room!</h4>
+<h4>India’s Leading Geriatricians now in your parent’s Living Room!</h4>
 <p>According to Indian Ageing Report 2017, 12 crore adults – almost the population of Japan....</p>
 <a href="https://www.gericare.in/blog/general/indias-leading-geriatricians-now-in-your-parents-living-room/" target="_blank">Read More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
 </div>
@@ -698,35 +698,11 @@ Nov 04 2019
 Nov 04 2019
 </div>
 <div class="minrester">
-<h4>Are you forgetting Dementia?</h4>
+<h4>Feel at Home with India’s First Homecare run by Specialist Geriatricians</h4>
 <p>We know what it feels like to leave aging parents home alone during an important official visit. We....</p>
 <a href="https://www.gericare.in/blog/general/feel-at-home-with-indias-first-homecare-run-by-specialist-geriatricians/" target="_blank">Read More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
 </div>
-</div>
-
-<div class="main-srvcestr">
-<img src="{{ asset('/public/website/assets/images/blog-img-1.jpg') }}" alt="" class="" />
-<div class="dmy">
-Nov 04 2019
-</div>
-<div class="minrester">
-<h4>India’s Leading Geriatricians Now in Your Parent’s Living Room!</h4>
-<p>According to Indian Ageing Report 2017, 12 crore adults – almost the population of Japan....</p>
-<a href="https://www.gericare.in/blog/general/indias-leading-geriatricians-now-in-your-parents-living-room/" target="_blank">Read More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
-</div>
 </div> 
-
-<div class="main-srvcestr">
-<img src="{{ asset('/public/website/assets/images/blog-img-2.jpg') }}" alt="" class="" />
-<div class="dmy">
-Nov 04 2019
-</div>
-<div class="minrester">
-<h4>Are you forgetting Dementia?</h4>
-<p>Dr.K.Vasanth MD (Geriatrics) about memory problems in elderly. I have memory loss!! ... </p>
-<a href="https://www.gericare.in/blog/general/are-you-forgetting-dementia/" target="_blank">Read More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
-</div>
-</div>  
 
 </div>
 
