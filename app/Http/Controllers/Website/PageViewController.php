@@ -252,6 +252,10 @@ class PageViewController extends Controller
     {
         return view('website.testimonials');
     }
+    public function videotestimonialPage()
+    {
+        return view('website.videotestimonials');
+    }
     public function faqPage()
     {
         return view('website.faq');

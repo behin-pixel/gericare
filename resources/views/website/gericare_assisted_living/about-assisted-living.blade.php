@@ -5,7 +5,7 @@
 <section class="inner-banner p-0">
 
 <div class="">
-<img src="{{ asset('/public/website/assets/images/banners/Banner-assisted.jpg') }}" alt="" class="w-100" />
+<img src="{{ asset('/public/website/assets/images/banners/assisted.jpg') }}" alt="" class="w-100" />
 </div> 
 
 <div class="banner-liners">
@@ -551,7 +551,7 @@ We do whatever it takes <br>to make you feel at home.<br>
 <div class="pseofmnd-lst text-end">
 <ul>
 <li>
-<a href="">
+<a href="https://api.whatsapp.com/send?phone=914440614061&text=Hello GERICARE, I have something to ask..." target="_blank">
 <img src="{{ asset('/public/website/assets/images/wp-cta.png') }}" alt="" class="" />
 <span>24*7 SERVICE AVAILABLE</span>  
 +91 44 4061 4061

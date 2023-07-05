@@ -713,7 +713,7 @@ Bring You Peace of Mind
 <div class="pseofmnd-lst text-end">
 <ul>
 <li>
-<a href="">
+<a href="https://api.whatsapp.com/send?phone=914440614061&text=Hello GERICARE, I have something to ask..." target="_blank">
 <img src="{{ asset('/public/website/assets/images/wp-cta.png') }}" alt="" class="" />
 <span>24*7 SERVICE AVAILABLE</span>  
 +91 44 4061 4061

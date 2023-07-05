@@ -363,6 +363,13 @@ $(".accordion").on("hide.bs.collapse show.bs.collapse", e => {
           },
         },
         {
+          breakpoint: 1100,
+          settings: {
+            slidesToShow: 3,
+            slidesToScroll: 1,
+          },
+        },
+        {
           breakpoint: 960,
           settings: {
             slidesToShow: 3,
@@ -487,9 +494,9 @@ $(".accordion").on("hide.bs.collapse show.bs.collapse", e => {
       slidesToScroll: 1,
       responsive: [
         {
-          breakpoint: 1400,
+          breakpoint: 1200,
           settings: {
-            slidesToShow: 4,
+            slidesToShow: 3,
             slidesToScroll: 1,
           },
         },
@@ -503,7 +510,7 @@ $(".accordion").on("hide.bs.collapse show.bs.collapse", e => {
         {
           breakpoint: 600,
           settings: {
-            slidesToShow: 2,
+            slidesToShow: 1,
             slidesToScroll: 1,
           },
         },
@@ -534,7 +541,7 @@ $(".accordion").on("hide.bs.collapse show.bs.collapse", e => {
           },
         }, 
         {
-          breakpoint: 1000,
+          breakpoint: 1100,
           settings: {
             slidesToShow: 2,
             slidesToScroll: 1,

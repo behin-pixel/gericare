@@ -961,7 +961,7 @@ Nov 04 2019
 </div>
 
 <div class="common-button drk">
-<a href="">Explore Gericare Hospitals</a>
+<a href="{{ url('/gericare-hospital/hospital-department') }}">Explore Our Departments</a>
 </div>
 
 </div>

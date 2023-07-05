@@ -166,6 +166,7 @@ Route::get('carrer-thanks',[PageViewController::class,'CarrerThanksPage'])->name
 Route::get('careers',[PageViewController::class,'careerPage'])->name('careers');
 
 Route::get('testimonials',[PageViewController::class,'testimonialPage'])->name('testimonials'); 
+Route::get('videotestimonials',[PageViewController::class,'videotestimonialPage'])->name('videotestimonials'); 
 
 Route::get('faq',[PageViewController::class,'faqPage'])->name('faq'); 
 

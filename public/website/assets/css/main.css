@@ -1624,6 +1624,9 @@ img.moby {
     display: inline-block;
     color: #7C164B;
 }
+
+.gericare-services.blog-datas .main-srvcestr .minrester h4 {min-height: 65px;}
+
 .main-srvcestr .minrester h4 {
     font-weight: 700;
     margin-bottom: 10px;
@@ -1631,7 +1634,7 @@ img.moby {
     font-size: 18px;
     color: #7C164B;
     line-height: 21px;
-    min-height: 65px;
+    
 }
 .main-srvcestr .minrester p {
     margin: 15px 0;
@@ -1693,7 +1696,13 @@ img.moby {
 }
 .gericare-deprtmnts .gentric-systems ul {
     grid-template-columns: repeat(1, 1fr);
-}
+    margin: 0px 10px;
+  }
+
+  .gericare-deprtmnts .gentric-systems span {
+    padding-left: 45px;font-size: 14px;
+  }
+  
 
 .deptmnt {
     margin: 0 10px;
@@ -2176,7 +2185,7 @@ textarea.form-control {
 .testimonials {
     margin-bottom: 40px;
     position: relative;
-    padding: 20px 20px 30px 80px;
+    padding: 20px 20px 30px 20px;
     border-radius: 5px;
     background: #fff;
     border-left: 5px solid transparent;
@@ -2229,13 +2238,8 @@ textarea.form-control {
     color: #17161A;
 }
 
-.testimonials img {
-    position: absolute;
-    left: 20px;
-    top: 20px;
-    max-width: 40px;
-    border-radius: 50%;
-    border: 1px solid rgba(0, 0, 0, 0.2);
+.testimonials .rev-rat img {
+    margin-bottom: 10px;
 }
 
 .mCSB_scrollTools .mCSB_draggerContainer:before {
@@ -3849,6 +3853,42 @@ ul.list-of-services li:hover img {
 
 .doc-tor-img img{border-radius: 4px;margin-bottom: 20px;}
 
+.top-tbulars ul{padding: 0px;margin: 0px;border-bottom:2px solid #eae5e5;margin-bottom: 50px;padding-bottom: 10px;} 
+
+.top-tbulars ul li {
+    position: relative;
+    display: inline-block;padding: 0px 20px;
+    font-weight: 700;
+    color: #7C164B; 
+    font-size: 24px;
+    font-family: 'Red Hat Display', sans-serif;
+    line-height: 42px; 
+  }
+
+  .top-tbulars ul li::before {
+    position: absolute;
+    content: "";
+    left: 0;
+    bottom: -12px;
+    height: 4px;
+    width: 0;
+    background-color: #7C164B;
+    transition: all 0.5s ease;
+  }
+
+  .top-tbulars ul li.act:before { 
+    width: 100%; 
+  }
+
+  .top-tbulars ul li:hover:before { 
+    width: 100%; 
+    transition: all 0.5s ease;
+  }
+
+
+  .top-tbulars ul li a{color:#998F94;}
+  .top-tbulars ul li a:hover{color:#7C164B;}
+
 
 
 
@@ -4022,10 +4062,7 @@ ul.list-of-services li:hover img {
     }
     .vertical-tabdetails #v-pills-tab {
         margin-top: 20px !important;
-    }
-    .gentric-systems ul li {
-        padding: 35px 35px 35px 20px;
-    }
+    } 
     #testimonailas.carousel {
         width: 80%;
     }
@@ -4035,6 +4072,20 @@ ul.list-of-services li:hover img {
 }
 
 
+@media(max-width: 1400px) {
+
+    .banner-liners { 
+        top:20%;
+    }
+    #cssmenu>ul>li { 
+        margin-right:20px;
+    }
+
+    .container, .container-lg, .container-md, .container-sm, .container-xl {
+        max-width: 95%;
+      }
+
+}
 @media(max-width: 1300px) {
     .container, .container-lg, .container-md, .container-sm {
         max-width: 98%;
@@ -4072,10 +4123,7 @@ ul.list-of-services li:hover img {
         font-size: 14px;
         line-height: 20px;
         margin-bottom: 0;
-    }
-    .gentric-systems ul li {
-        padding: 35px 30px 35px 20px;
-    }
+    } 
     .vertical-tabdetails #v-pills-tab {
         margin-right: 85px !important;
         margin-top: 25px !important;
@@ -4139,6 +4187,36 @@ ul.list-of-services li:hover img {
 }
 
 @media(max-width: 1100px) { 
+    
+
+    .book-apptmnt .col-lg-5 {
+        padding-top: 0px;
+        display: none;
+    }
+    .book-apptmnt .gentric-systems ul {
+        grid-template-columns: repeat(1, 1fr);
+      }
+
+    .leader-shipment .col-lg-7 {
+        flex: 0 0 auto;
+        width: 75%;
+      }
+
+      ul.press-roomr li{width:30%;}
+
+    .seconday-paragraph.text-center br{display: none;}
+
+    .pseofmnd{font-size: 32px;}
+
+    .mision-ftntion, .vision-ftntion{padding: 80px 30px;}
+    
+
+    .world-facilities p br{display: none;}
+    .panell-drts{grid-template-columns: repeat(3, 1fr);}
+    #cssmenu ul ul{left: -40px;}
+    #cssmenu > ul > li {
+        margin-right: 5px;
+      }
     .clinics-lsts { 
         grid-template-columns: repeat(2, 1fr); 
       }
@@ -4257,9 +4335,37 @@ ul.list-of-services li:hover img {
     .rechus-frms {
         width: 85%;
     }
+    
+
+    .book-apptmnt::before {
+        width: 100%;
+        top: 0;
+        bottom: auto;
+        height: 100%;
+    }
 }
 
 @media(max-width: 1000px) {
+    .top-socials li:last-child a{padding: 7px 0px 7px 20px;}
+    #cssmenu ul ul {
+        left: 0;
+      }
+      .form-detilsbox { 
+        margin-left: 0;
+        margin-top: 50px;
+      }
+
+    .comunity-center .col-lg-5 img{margin-bottom: 30px;}
+
+    .vision-ftntion {padding: 60px 50px 60px 100px;}
+    .mision-ftntion {padding: 60px 100px 60px 50px;}
+
+    .abts-lyrs-imgs img{width:100%;}
+
+    img.btm-flw{display: none;}
+
+    .vision-ftntion .vis-this{width:30%;}
+    .mision-ftntion .mis-this{width:30%;}
     
     .gentric-systems ul {
         grid-template-columns: repeat(2, 1fr);
@@ -4309,17 +4415,6 @@ ul.list-of-services li:hover img {
     }
 
 
-    .book-apptmnt .col-lg-5 {
-        padding-top: 80px;
-    }
-
-    .book-apptmnt::before {
-        width: 100%;
-        top: 0;
-        bottom: auto;
-        height: 40%;
-    }
-
     .book-appontmnt {
         padding-left: 0;
     }
@@ -4354,10 +4449,9 @@ ul.list-of-services li:hover img {
         padding: 2px 0 20px;
     }
 
-    .top-bar .justify-content-start,
-    .top-bar .justify-content-sm-end {
-        justify-content: center !important;
-    }
+    .top-bar .justify-content-start, .top-bar .justify-content-sm-end {
+        justify-content: end center !important;
+      }
 
     .top-bar ul.top-socials {
         margin-top: 15px;
@@ -4655,6 +4749,16 @@ ul.list-of-services li:hover img {
 }
 
 @media(max-width: 890px) {
+    .pseofmnd-lst ul li:last-child a {
+        padding: 20px 15px 20px 65px;
+      }
+
+    .pseofmnd-lst ul li a {padding: 14px 15px 14px 65px;}
+
+    .pseofmnd-lst ul li:last-child a{padding: 12px 15px 12px 63px;}
+    
+    .vision-ftntion p {
+        font-size: 16px;}
 
     .event-layer .spotlght-lists {
         padding-left:30px;
@@ -4710,10 +4814,46 @@ ul.list-of-services li:hover img {
     ul.why-choose-icons li {
         width: 33.33%;
     }
+
+    .pseofmnd {
+        font-size: 28px;
+      }
+      .pseofmnd span{font-size: 20px;}
+
 }
 
 @media(max-width: 800px) {
+    .pseofmnd-lst ul li:last-child a {
+        padding: 20px 44px 20px 59px;
+      }
+
+    .pseofmnd-lst ul li{display: block;}
+
+   
+      .pseofmnd-lst ul li:last-child a img {
+        top: 14px;}
+
+.peace-of-mind .col-md-8 {
+    flex: 0 0 auto;
+    width: 100%;
+    text-align: center;
+  }
+.peace-of-mind .col-md-4 {
+    flex: 0 0 auto;
+    width: 100%;
+    text-align: center;
+  }
     
+    .vision-ftntion h4,.mision-ftntion h4{font-size: 26px;line-height: 1.4;margin-bottom: 5px;}
+    .vision-ftntion br, .mision-ftntion br{display: none;}
+    .vision-ftntion {padding:30px;}
+    .mision-ftntion {padding:30px;}
+    .vision-ftntion{text-align: center;}
+    .mision-ftntion{text-align: center;}
+
+    .vision-ftntion .vis-this {position: relative;margin-bottom: 30px;}
+    .mision-ftntion .mis-this {position: relative;margin-bottom: 30px;}
+
     .prcess-img img{width:auto;}
     .clinics-lsts {
         grid-template-columns: repeat(1, 1fr);
@@ -4762,14 +4902,15 @@ img.resp-onsive {
     }
     .pseofmnd-lst ul {
         display: flex;
-        align-items: center;
-    }
+        align-items: center !important;
+        justify-content: center;
+      }
     .pseofmnd-lst ul li {
         margin-bottom: 0;
         margin-right: 20px;
     }
     .pseofmnd-lst.text-end {
-        text-align: left !important;
+        text-align: center !important;
         margin-top: 30px;
     }
 
@@ -4861,7 +5002,7 @@ img.resp-onsive {
 
 
     .book-apptmnt::before {
-        height: 49% !important;
+        height: 100% !important;
     }
     .top-bar {
         padding: 5px 0 25px;
@@ -4975,6 +5116,8 @@ img.resp-onsive {
 
 
 @media(max-width: 767px) {
+    .facity-img p{font-size:14px;}
+    .cario-seters{margin-left: 0px;margin-top: 30px;}
 
 
     .vertical-tabdetails #v-pills-tabContent { width: 100%;}
@@ -4986,12 +5129,23 @@ img.resp-onsive {
     ul.press-roomr li { width: 48%; margin: 5px;}
     ul.press-release li {width: 48%; margin: 5px;}
 
+    .facity-content-underimg {
+        position: relative; 
+        width: 100%; 
+        left: 0;
+        text-align: left;
+        bottom: 0;
+        background: #7C164B;
+        padding: 15px 20px;
+      }
+
 }
 
 
 
 
 @media(max-width: 680px) {
+
     .form-detilsbox{margin-left: 0px;}
     
     
@@ -5070,6 +5224,11 @@ img.resp-onsive {
 }
 
 @media(max-width: 580px) {
+
+    .inner-layer-banner h1{font-size:22px;}
+
+    .top-tbulars ul li{font-size: 18px;line-height: 26px;}
+
     .pseofmnd-lst.text-end {
         text-align: center !important;
         margin-top: 40px;
@@ -5322,6 +5481,9 @@ img.resp-onsive {
 }
 
 @media(max-width: 480px) {
+    .top-tbulars ul li {
+        font-size: 16px;padding: 0px 10px;
+      }
     .panell-drts {
         grid-template-columns: repeat(2, 1fr);
     }
@@ -5334,11 +5496,7 @@ img.resp-onsive {
 
     .age-stemp {
         grid-template-columns: repeat(1, 1fr);
-    }
-
-    .ambulance-runing .ambuloo img {
-        width: 60%;
-    }
+    } 
 
     .flaoting-rays ul li span a {
         font-size: 8px;

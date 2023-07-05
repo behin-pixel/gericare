@@ -45,35 +45,35 @@
 <img src="{{ asset('/public/website/assets/images/logo.png') }}" alt="" class="w-100" />
 <h4> Available formats  </h4>
 <p> JPG | PNG | SVG </p>
-<a href="{{ url('/gericare-hospital/hospital-doctors') }}"> Download <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
+<a href="{{ url('/public/website/uploads/gericare.zip') }}"> Download <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
 </div> 
 
 <div class="servce text-center">
 <img src="{{ asset('/public/website/assets/images/logo-1.png') }}" alt="" class="logo-offet" />
 <h4> Available formats  </h4>
 <p> JPG | PNG | SVG </p>
-<a href="{{ url('/gericare-hospital/hospital-doctors') }}"> Download <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
+<a href="{{ url('/public/website/uploads/gericare-assisted-living.zip') }}"> Download <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
 </div> 
 
 <div class="servce text-center">
 <img src="{{ asset('/public/website/assets/images/logo-2.png') }}" alt="" class="logo-offet" />
 <h4> Available formats  </h4>
 <p> JPG | PNG | SVG </p>
-<a href="{{ url('/gericare-hospital/hospital-doctors') }}"> Download <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
+<a href="{{ url('/public/website/uploads/gericare-hospital.zip') }}"> Download <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
 </div>  
 
 <div class="servce text-center">
 <img src="{{ asset('/public/website/assets/images/logo-3.png') }}" alt="" class="logo-offet" />
 <h4> Available formats  </h4>
 <p> JPG | PNG | SVG </p>
-<a href="{{ url('/gericare-hospital/hospital-doctors') }}"> Download <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
+<a href="{{ url('/public/website/uploads/gericare-homecare.zip') }}"> Download <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
 </div>  
 
 <div class="servce text-center">
 <img src="{{ asset('/public/website/assets/images/logo-4.png') }}" alt="" class="logo-offet" />
 <h4> Available formats  </h4>
 <p> JPG | PNG | SVG </p>
-<a href="{{ url('/gericare-hospital/hospital-doctors') }}"> Download <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
+<a href="{{ url('/public/website/uploads/gericare-clinic.zip') }}"> Download <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
 </div> 
 
 </div>  

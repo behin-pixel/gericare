@@ -258,7 +258,7 @@ Our experienced caregivers have been delivering affordable and reliable care in 
 <div class="pseofmnd">
 We do whatever it takes <br> 
 to bring you peace of mind.<br>
-To enjoy your freedom, call us today.
+<span>To enjoy your freedom, call us today.</span>
 </div>
 </div>
 
@@ -266,7 +266,7 @@ To enjoy your freedom, call us today.
 <div class="pseofmnd-lst text-end">
 <ul>
 <li>
-<a href="">
+<a href="https://api.whatsapp.com/send?phone=914440614061&text=Hello GERICARE, I have something to ask..." target="_blank">
 <img src="{{ asset('/public/website/assets/images/wp-cta.png') }}" alt="" class="" />
 <span>24*7 SERVICE AVAILABLE</span>  
 +91 44 4061 4061
