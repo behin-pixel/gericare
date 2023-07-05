@@ -9,7 +9,8 @@
 
 <div class="cntr-frm">
 
-<form onsubmit="return valid_chk3()" name="form3" method="post" action="" id="form3">
+<form  name="form3" method="post" action="" id="request_call_back222">
+  <input type="hidden" name="from" value="request_call_bac222k">
 
 <div class="common-heading text-center">
 <h2>Looking for a <br /> 
@@ -61,3 +62,40 @@ Consultation With Us</h2>
 </div>
 </div>
 </section>
+@section('addon_script')
+    <script>
+         
+        $(".price").keypress(function(e) {
+            if (String.fromCharCode(e.keyCode).match(/[^.0-9]/g)) return false;
+        });
+        $('#request_call_back').submit(function() {
+            event.preventDefault();
+            var formData = $('#request_call_back').serialize();
+            $('#save-btn').prop('disabled', 'true');
+
+            $.ajax({
+                url: "{{ route('consultant.form.submit') }}",
+                type: 'POST',
+                data: formData,
+                beforeSend: function() {
+                },
+                success: function(res) {
+
+                    $('#save-btn').prop('disabled', 'false');
+                    $("#save-btn").attr("disabled", false);
+
+                    if (res.error == 0) {
+                        toastr.success('Success', res.message);
+                        $('#request_call_back')[0].reset();
+                    } else {
+                        if (res.message) {
+
+                            toastr.error("Error", res.message);
+
+                        }
+                    }
+                }
+            })
+        })
+    </script>
+@endsection

@@ -6,6 +6,8 @@ use App\Http\Controllers\Controller;
 use App\Models\Enquiries;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Validator;
+use Illuminate\Support\Facades\Mail;
+ use App\Mail\EnquiryMail;
 
 class ConsultantFormController extends Controller
 {
@@ -21,8 +23,8 @@ class ConsultantFormController extends Controller
             'email' => 'required',
             'mobile_no' => 'required',
             'from' => 'required',
-            'service' => 'required_if:from,=,homepage',
-            'subject' => 'required_if:from,=,contact',
+            'services' => 'required_if:from,=,homepage',
+            //'subject' => 'required_if:from,=,contact',
             'message' => 'required',
         ]);
 
@@ -34,9 +36,30 @@ class ConsultantFormController extends Controller
             $ins['email'] = $request->email;
             $ins['moble_no'] = $request->mobile_no;
             $ins['message'] = $request->message;
-            $ins['services'] = $request->service ?? null;
+            $ins['services'] = $request->services ?? null;
             $ins['subject'] = $request->subject ?? null;
             Enquiries::create($ins);
+
+            if($request->from == 'contact')
+            {
+                $subject='Website Online Contact Us Enquiry';
+            }   
+            else
+            {
+                $subject='Website Online Consult Enquiry';
+            }
+            $mailData = [
+                'type'=> $request->from,
+                'services' => $request->services,
+                'name' => $request->name,
+                'email' =>  $request->email,
+                'mobile_no' =>$request->mobile_no,
+                'message' => $request->message,
+                'subject' => $subject
+            ];
+           // dd($mailData);
+             
+            Mail::to(env('CLIENT_MAIL'))->send(new EnquiryMail($mailData));
             $error                      = 0;
             $message                    = 'Form submitted successfully';
         } else {
@@ -45,4 +68,39 @@ class ConsultantFormController extends Controller
         }
         return response()->json(['error' => $error, 'message' => $message ]);
     }
+    public function submitConsultantReqForm(Request $request)
+    {
+
+        $validator      = Validator::make($request->all(), [
+            'ecustomername' => 'required',          
+            'emobileno' => 'required',
+           
+        ]);
+
+        if ($validator->passes()) {
+            $ins = [];
+            $ins['name'] = $request->ecustomername;         
+            $ins['moble_no'] = $request->emobileno;
+            $ins['type'] = $request->from;
+         
+            Enquiries::create($ins);
+            $mailData = [
+                'type' => 'request_call_back',
+                'name' => $request->ecustomername,
+                'mobile_no' =>$request->emobileno,
+                'subject' => 'Website Online Request Call Back Enquiry'
+            ];
+           // dd($mailData);
+             
+            Mail::to(env('CLIENT_MAIL'))->send(new EnquiryMail($mailData));
+            $error                      = 0;
+            $message                    = 'Form submitted successfully';
+        } else {
+            $error                      = 1;
+            $message                    = $validator->errors()->all();
+        }
+        return response()->json(['error' => $error, 'message' => $message ]);
+    }
+    
+
 }

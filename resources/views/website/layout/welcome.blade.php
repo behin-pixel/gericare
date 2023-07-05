@@ -33,6 +33,7 @@
     <link rel="stylesheet" type="text/css" href="{{ asset('/public/website/assets/css/mdtimepicker.min.css') }}">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
 
+
     <link rel="stylesheet" type="text/css" href="{{ asset('/public/website/assets/css/header.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('/public/website/assets/css/main.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('/public/website/assets/css/footer.css') }}">
@@ -107,6 +108,8 @@
     <script src="{{ asset('/public/website/assets/js/mdtimepicker.min.js') }}"></script>	 
     <script src="{{ asset('/public/website/assets/js/jquery.mapit.js') }}"></script>	 
     <script src="{{ asset('/public/website/assets/js/initializers.js') }}"></script>	 
+
+
     @yield('addon_script')
     <script>
       $(document).ready(function() {
@@ -116,7 +119,40 @@
       $(".price").keypress(function(e) {
           if (String.fromCharCode(e.keyCode).match(/[^.0-9]/g)) return false;
       });
+
+      $('#request_call_back').submit(function() {
+            event.preventDefault();
+            var formData = $('#request_call_back').serialize();
+            $('#save-btn').prop('disabled', 'true');
+
+            $.ajax({
+                url: "{{ route('consultant.form.req_submit') }}",
+                type: 'POST',
+                data: formData,
+                beforeSend: function() {
+                },
+                success: function(res) {
+
+                    $('#save-btn').prop('disabled', 'false');
+                    $("#save-btn").attr("disabled", false);
+
+                    if (res.error == 0) {
+                        toastr.success('Success', res.message);
+                        $('#request_call_back')[0].reset();
+                    } else {
+                        if (res.message) {
+
+                            toastr.error("Error", res.message);
+
+                        }
+                    }
+                }
+            })
+        })
+
+
       $('#AppointmentForm').submit(function() {
+        
           event.preventDefault();
           var formData = $('#AppointmentForm').serialize();
           $('#submit_btn').prop('disabled', 'true');

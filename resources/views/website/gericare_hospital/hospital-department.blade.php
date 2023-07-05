@@ -288,22 +288,26 @@
     
 <div class="form-detilsbox text-center">
 <h4>Book Your Appointment</h4>
-<form class="appointment-form" name="AppointmentForm" method="post" onSubmit="return valid_chk4()" action="#" id="AppointmentForm">
-								<input type="hidden" name="form_name" value="book_an_appointment" >
-  							<div class="row"> 
+<form class="appointment-form" name="AppointmentForm" method="post" action="#" id="AppointmentForm">
+    @csrf
+                            <input type="hidden" name="from" id="from" value="departments">
+								<input type="hidden" name="form_name" value="book_an_appointment_departments" >
+                               
+  							    <div class="row"> 
                                 
 								<!-- <div class="col-sm-12 col-md-12 col-lg-12"> 
 									<input type="text" name="name" id="aname" class="form-control" placeholder="Dr.Srinivas" readonly/>
 								</div> -->
                                 
 								<div class="col-sm-12 col-md-12 col-lg-12"> 
-									<input type="text" name="name" id="aname" class="form-control" placeholder="Name *" />
-								</div> 
+									<input type="text" name="name" id="aname" required class="form-control" placeholder="Name *" />
+                                    
+                                </div> 
 								<div class="col-sm-12 col-md-12 col-lg-12"> 
 									<input type="email" name="email" id="aemail" class="form-control" placeholder="Email *" />
 								</div>
 								<div class="col-sm-12 col-md-12 col-lg-12"> 
-									<input type="tel" id="aphone" name="phone" value="" class="form-control" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*?)\..*/g, '$1');" maxlength="10" placeholder="Phone *">
+									<input type="tel" id="aphone" name="mobile_no" value="" class="form-control" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*?)\..*/g, '$1');" maxlength="10" placeholder="Phone *">
 								</div>
 								<div class="col-sm-12 col-md-6 col-lg-6">
 									<div class="datepicker date"> 
@@ -320,7 +324,7 @@
 									<textarea class="form-control" name="details" placeholder="Message"></textarea>
 								</div>
 								<div class="col-sm-12 col-md-12 col-lg-12">
-                                        <div class="form-data cnt text-center clearfix"><input type="submit" name="submit" value="Submit"> </div>
+                                        <div class="form-data cnt text-center clearfix"><input type="submit" id="appoi_submit-btn" name="submit" value="Submit"> </div>
 										</div>
 							</div>
 						</form>
@@ -334,5 +338,4 @@
 </div>
 </div>
 </section>
-
 @endsection

@@ -43,7 +43,8 @@
 							<div class="col-sm-12 col-md-12 col-lg-6 col-xl-7" data-aos="fade-right" data-aos-delay="200" data-aos-duration="1000">
 								<div class="pad-30">
 								<h2 class="h3 mar-bot-20">Join with Us!</h2>
-								<form onSubmit="return valid_chk3()" class="contact-form" name="rental" method="POST" action="#" enctype="multipart/form-data" id="contactForm">
+								<form id="career_form" enctype="multipart/form-data">
+									@csrf
 								<input type="hidden" name="form_name" value="career" >
 								<div class="row">
 										<div class="col-sm-12 col-md-12 col-lg-6">
@@ -52,7 +53,7 @@
 										</div>
 										<div class="col-sm-12 col-md-12 col-lg-6">
 											<label class="text-dark">Phone<span class="text-danger">*</span></label>
-											<input type="tel" name="phone" value="" class="form-control jsrequired" required oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*?)\..*/g, '$1');" maxlength="10"/>
+											<input type="tel" name="mobile" value="" class="form-control jsrequired" required oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*?)\..*/g, '$1');" maxlength="10"/>
 										</div>
 										<div class="col-sm-12 col-md-12 col-lg-6">
 											<label class="text-dark">Email<span class="text-danger">*</span></label>
@@ -80,7 +81,7 @@
 											<textarea class="form-control" name="cover_letter"></textarea>
 										</div>
 										<div class="col-sm-12 col-md-12 col-lg-12">
-                                        <div class="form-data cnt text-start clearfix"><input type="submit" name="submit" value="Submit"> </div>
+                                        <div class="form-data cnt text-start clearfix"><input id="submit_btn" type="submit" name="submit" value="Submit"> </div>
 										</div>
 									</div>
 									</form>
@@ -94,3 +95,42 @@
 	</section>
 
 @endsection
+@section('addon_script')
+<script>
+        $(".price").keypress(function(e) {
+            if (String.fromCharCode(e.keyCode).match(/[^.0-9]/g)) return false;
+        });
+        $('#career_form').submit(function() {
+            event.preventDefault();
+			var forms = $('#career_form')[0];
+            var formData = new FormData(forms);
+            $('#submit_btn').prop('disabled', 'true');
+
+            $.ajax({
+                url: "{{ route('career.form.submit') }}",
+                type: 'POST',
+                data: formData,
+				processData: false,
+                contentType: false,
+                beforeSend: function() {
+                },
+                success: function(res) {
+
+                    $('#submit_btn').prop('disabled', 'false');
+                    $("#submit_btn").attr("disabled", false);
+
+                    if (res.error == 0) {
+                        toastr.success('Success', res.message);
+                        $('#career_form')[0].reset();
+                    } else {
+                        if (res.message) {
+
+                            toastr.error("Error", res.message);
+
+                        }
+                    }
+                }
+            })
+        })
+    </script>
+	@endsection

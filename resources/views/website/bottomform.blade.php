@@ -30,7 +30,7 @@
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12 ">
             <div class="form-data cnt clearfix">
-                <select class="form-control " id="service" name="service">
+                <select class="form-control " id="service" name="services">
                     <option value="">Select Your Service</option>
                     <option value="Geri Care Hospital">Geri Care Hospital</option>
                     <option value="Geri Care Assisted Living">Geri Care Assisted Living</option>

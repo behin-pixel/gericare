@@ -9,6 +9,8 @@ use Illuminate\Support\Facades\File;
 use Illuminate\Support\Facades\Storage;
 use Illuminate\Support\Facades\Validator;
 use Illuminate\Support\Str;
+use Illuminate\Support\Facades\Mail;
+use App\Mail\CareerMail;
 
 class CareerController extends Controller
 {
@@ -34,8 +36,7 @@ class CareerController extends Controller
             
             $ins['designation'] = $request->designation;
             $ins['relevant_experience'] = $request->experience;
-            $ins['message'] = '';
-
+            $ins['message'] = $request->cover_letter;            
             if ($request->hasFile('upload_resume')) {
 
                 $files = $request->file('upload_resume');
@@ -50,6 +51,24 @@ class CareerController extends Controller
 
             Career::create($ins);
 
+            $subject=$request->name.' Carrer Mail ';
+           
+            $mailData = [
+                'designation' => $request->designation,
+                'name' => $request->name,
+                'email' =>  $request->email,
+                'mobile_no' =>$request->mobile,
+                'cover_letter' => $request->cover_letter,
+                'subject' => $subject,
+                'experience'=>  $request->experience,
+                'filename' =>$imageName
+            ];
+           // dd($mailData);
+           $file=$request->file('upload_resume');
+             
+            Mail::to(env('CLIENT_MAIL'))->send(new CareerMail($mailData,$file));
+
+           
             $error                      = 0;
             $message                    = 'Job submitted successfully';
 

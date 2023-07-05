@@ -6,6 +6,8 @@ use App\Http\Controllers\Controller;
 use App\Models\BookAppointment;
 use Illuminate\Support\Facades\Validator;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Mail;
+use App\Mail\AppointmentMail;
 
 class BookAppointmentController extends Controller
 {
@@ -23,6 +25,7 @@ class BookAppointmentController extends Controller
             'mobile_no' => 'required',
             'details' => 'required',
         ]);
+       // dd($request->doctor_name);
 
         if ($validator->passes()) {
             // $appointment_time = date('H:i:s', strtotime($request->appointment_time));
@@ -39,6 +42,42 @@ class BookAppointmentController extends Controller
             $ins['message'] = $request->details ?? null;
             $ins['enquiry_from_ip'] = $request->ip();
             BookAppointment::create($ins);
+
+            if($request->from == 'departments')
+            {
+                $subject='Website Online Department Page Appointment';
+                //$services=$request->services;
+                $services='';
+                $doctor_name='';
+            }   
+            else if($request->from == 'service_appointment')
+            {
+                $subject='Website Online Header Appointment';
+                $services=$request->services;
+                $doctor_name='';
+            }
+            else
+            { 
+                $subject='Website Online Doctor Appointment';
+                $services=$request->services;
+                $doctor_name=$request->doctor_name;
+
+            }
+            $mailData = [
+                'type'=> $request->from,
+                'services' => $services,
+                'doctor_name' => $doctor_name,
+                'name' => $request->name,
+                'email' =>  $request->email,
+                'mobile_no' =>$request->mobile_no,
+                'message' => $request->details ,
+                'subject' => $subject,
+                'appointment_date' => $request->appointment_date,
+                'appointment_time' =>  date('H:i:s', strtotime($request->appointment_time))
+            ];
+           // dd($mailData);
+             
+            Mail::to(env('CLIENT_MAIL'))->send(new AppointmentMail($mailData));
 
             $error                      = 0;
             $message                    = 'Appointment Book request submitted successfully';

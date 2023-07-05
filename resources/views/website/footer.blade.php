@@ -105,17 +105,59 @@
                         </button>
       </div>
       <div class="modal-body">
-                    <input type="hidden" name="epagename" id="epagename" value="Home"> 
-						<div class="position-relative">
-						<input type="text" class="form-control jsrequired" name="ecustomername" id="ecustomername" placeholder="Name*">
-						</div>
-						<div class="position-relative">
-						<input type="tel" class="form-control jsrequired" name="emobileno" onkeypress="return isNumber(event)" id="emobileno" placeholder="Phone Number*">
-						</div> 
-						<div class="text-right">
-							<button type="button" onclick="btnenqsaveQuote()" class="submit-btn">Submit</button>
-						</div>
-                    </div>
+		<form name="request_call_back"  id="request_call_back">
+			@csrf
+			<input type="hidden" name="epagename" id="epagename" value="Home"> 
+			<input type="hidden" name="from" value="request_call_back">
+			<div class="position-relative">
+				<input type="text" class="form-control jsrequired" name="ecustomername" id="ecustomername" placeholder="Name*">
+			</div>
+			<div class="position-relative">
+				<input type="tel" class="form-control jsrequired" name="emobileno" onkeypress="return isNumber(event)" id="emobileno" placeholder="Phone Number*">
+			</div> 
+			<div class="text-right">
+				<button type="submit" id="save-btn" class="submit-btn">Submit</button>
+			</div>
+		</form>
+    </div>
     </div>
   </div>
-</div>  
+</div>  	
+
+@section('addon_script')
+    <script>
+         
+        $(".price").keypress(function(e) {
+            if (String.fromCharCode(e.keyCode).match(/[^.0-9]/g)) return false;
+        });
+        // $('#request_call_back').submit(function() {
+        //     event.preventDefault();
+        //     var formData = $('#request_call_back').serialize();
+        //     $('#save-btn').prop('disabled', 'true');
+
+        //     $.ajax({
+        //         url: "{{ route('consultant.form.req_submit') }}",
+        //         type: 'POST',
+        //         data: formData,
+        //         beforeSend: function() {
+        //         },
+        //         success: function(res) {
+
+        //             $('#save-btn').prop('disabled', 'false');
+        //             $("#save-btn").attr("disabled", false);
+
+        //             if (res.error == 0) {
+        //                 toastr.success('Success', res.message);
+        //                 $('#request_call_back')[0].reset();
+        //             } else {
+        //                 if (res.message) {
+
+        //                     toastr.error("Error", res.message);
+
+        //                 }
+        //             }
+        //         }
+        //     })
+        // })
+    </script>
+@endsection

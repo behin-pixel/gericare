@@ -60,8 +60,11 @@ to improve the lives of the elderly.</span>
 							<div class="col-sm-12 col-md-12 col-lg-6 col-xl-7" data-aos="fade-right" data-aos-delay="200" data-aos-duration="1000">
 								<div class="pad-30">
 								<h2 class="h3 mar-bot-20">Send us a Message</h2>
-								<form  onSubmit="return valid_chk1()" class="contact-form" name="contactForm" method="post" action="#" id="contactForm">
-                				<input type="hidden" name="form_name" value="contact" >
+								<form  class="contact-form" name="contactForm" method="post" action="#" id="contact_form">
+                					@csrf
+									<input type="hidden" name="form_name" value="contact" >
+									<input type="hidden" name="from" value="contact" >
+									from
                                 <div class="row">
 										<div class="col-sm-12 col-md-12 col-lg-6">
 											<label class="text-dark">Name (required)<span class="text-danger">*</span></label>
@@ -69,7 +72,7 @@ to improve the lives of the elderly.</span>
 										</div>
 										<div class="col-sm-12 col-md-12 col-lg-6">
 											<label class="text-dark">Phone (required)<span class="text-danger">*</span></label>
-											<input type="tel" name="phone" id="aphone" value="" class="form-control" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*?)\..*/g, '$1');" maxlength="10"/>
+											<input type="tel" name="mobile_no" id="aphone" value="" class="form-control" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*?)\..*/g, '$1');" maxlength="10"/>
 										</div>
 										<div class="col-sm-12 col-md-12 col-lg-6">
 											<label class="text-dark">Email (required)<span class="text-danger">*</span></label>
@@ -90,7 +93,8 @@ to improve the lives of the elderly.</span>
 											<textarea class="form-control" name="message"></textarea>
 										</div>
 										<div class="col-sm-12 col-md-12 col-lg-12">
-                                        <div class="form-data cnt text-start clearfix"><input type="submit" name="submit" value="Submit"> </div>
+                                        <div class="form-data cnt text-start clearfix">
+											<input type="submit" id="save-btn" name="submit" value="Submit"> </div>
 										</div>
 									</div>
 									</form>
@@ -153,4 +157,41 @@ to improve the lives of the elderly.</span>
 	<iframe class="orange-bg px-0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d31100.559364997906!2d80.254106!3d12.999337!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5267853522f365%3A0x1dc3e7d7a2a95d9!2sGeri%20Care%20%7C%20Home%20Care%20%26%20Consultation!5e0!3m2!1sen!2sin!4v1685613981219!5m2!1sen!2sin"  style="border:0; height: 500px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>	
 	</section>
 
+@endsection
+@section('addon_script')
+    <script>
+         
+        $(".price").keypress(function(e) {
+            if (String.fromCharCode(e.keyCode).match(/[^.0-9]/g)) return false;
+        });
+        $('#contact_form').submit(function() {
+            event.preventDefault();
+            var formData = $('#contact_form').serialize();
+            $('#save-btn').prop('disabled', 'true');
+
+            $.ajax({
+                url: "{{ route('consultant.form.submit') }}",
+                type: 'POST',
+                data: formData,
+                beforeSend: function() {
+                },
+                success: function(res) {
+
+                    $('#save-btn').prop('disabled', 'false');
+                    $("#save-btn").attr("disabled", false);
+
+                    if (res.error == 0) {
+                        toastr.success('Success', res.message);
+                        $('#contact_form')[0].reset();
+                    } else {
+                        if (res.message) {
+
+                            toastr.error("Error", res.message);
+
+                        }
+                    }
+                }
+            })
+        })
+    </script>
 @endsection
