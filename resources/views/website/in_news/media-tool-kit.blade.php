@@ -44,35 +44,35 @@
 <div class="servce text-center">
 <img src="{{ asset('/public/website/assets/images/logo.png') }}" alt="" class="w-100" />
 <h4> Available formats  </h4>
-<p> Jpeg | Png | Svg </p>
+<p> JPG | PNG | SVG </p>
 <a href="{{ url('/gericare-hospital/hospital-doctors') }}"> Download <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
 </div> 
 
 <div class="servce text-center">
 <img src="{{ asset('/public/website/assets/images/logo-1.png') }}" alt="" class="logo-offet" />
 <h4> Available formats  </h4>
-<p> Jpeg | Png | Svg </p>
+<p> JPG | PNG | SVG </p>
 <a href="{{ url('/gericare-hospital/hospital-doctors') }}"> Download <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
 </div> 
 
 <div class="servce text-center">
 <img src="{{ asset('/public/website/assets/images/logo-2.png') }}" alt="" class="logo-offet" />
 <h4> Available formats  </h4>
-<p> Jpeg | Png | Svg </p>
+<p> JPG | PNG | SVG </p>
 <a href="{{ url('/gericare-hospital/hospital-doctors') }}"> Download <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
 </div>  
 
 <div class="servce text-center">
 <img src="{{ asset('/public/website/assets/images/logo-3.png') }}" alt="" class="logo-offet" />
 <h4> Available formats  </h4>
-<p> Jpeg | Png | Svg </p>
+<p> JPG | PNG | SVG </p>
 <a href="{{ url('/gericare-hospital/hospital-doctors') }}"> Download <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
 </div>  
 
 <div class="servce text-center">
 <img src="{{ asset('/public/website/assets/images/logo-4.png') }}" alt="" class="logo-offet" />
 <h4> Available formats  </h4>
-<p> Jpeg | Png | Svg </p>
+<p> JPG | PNG | SVG </p>
 <a href="{{ url('/gericare-hospital/hospital-doctors') }}"> Download <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
 </div> 
 

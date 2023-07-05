@@ -12,7 +12,7 @@
 <ul>
 <li><a href=""> Home </a></li>
 <li> > </li>
-<li> Geri Care Hospitals </li>
+<li> About Us </li>
 <li> > </li>
 <li><a href=""> Leadership </a></li>
 <li> > </li>
@@ -126,7 +126,7 @@
   							<div class="row"> 
                                 
 								<div class="col-sm-12 col-md-12 col-lg-12"> 
-									<input type="text" name="name" id="aname" class="form-control" placeholder="Dr.Srinivas" readonly/>
+									<input type="text" name="name" id="aname" class="form-control" placeholder="Dr V. Srinivas" value="Dr V. Srinivas" readonly/>
 								</div>
                                 
 								<div class="col-sm-12 col-md-12 col-lg-12"> 

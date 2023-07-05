@@ -102,7 +102,7 @@ within 24 hours.</span>
 </div>
 
 <div class="common-button drk mt-40">
-<a href="">Explore Gericare Hospitals</a>
+<a href="{{ url('/gericare-hospital/hospital-department') }}">Explore Our Departments</a>
 </div>
 </div>
 
@@ -120,30 +120,19 @@ within 24 hours.</span>
 								<input type="hidden" name="form_name" value="book_an_appointment" >
   							<div class="row">
 								<div class="col-sm-12 col-md-6 col-lg-6">
-									<label class="text-light">Appointment For (required)<span class="text-danger">*</span></label>
+									<label class="text-light">Appointment For </label>
 									<select class="form-control jsrequired" id="services" name="services">
                     <option value="">Select your Service</option>
-                    <option value="Doctor Visit">Geri Care Hospital</option>
-										<option value="Nursing Care">Geri Care Assisted Living</option>
-										<option value="Physio Care">Geri Care Consultation</option>	
-										<optgroup label="Geri Homecare">
-										<option value="Doctor Visit">Doctor Visit</option>
-										<option value="Nursing Care">Nursing Care</option>
-										<option value="Physio Care">Physio Care</option>		
-										<option value="Attender Assistance">Attender Assistance</option>
-										<option value="Geriatric Counselling">Geriatric Counselling</option>
-										<option value="Home Blood Collection">Home Blood Collection</option>
-										<option value="Lab Test">Lab Test</option>
-										<option value="Vaccination">Vaccination</option>
-										<option value="Dental Services">Dental Services</option>
-										<option value="Medicine Delivery">Medicine Delivery</option>
-										<option value="Non-Emergency Ambulance">Non-Emergency Ambulance</option>
-										 </optgroup>
+                    <option value="Geri Care Hospital">Geri Care Hospital</option>
+										<option value="Geri Care Assisted Living">Geri Care Assisted Living</option>
+										<option value="Geri Care Clinics">Geri Care Clinics</option>	
+										<option value="Geri Care Home Care">Geri Care Home Care</option>	
+										 
 										</select>
 								</div>
 								<div class="col-sm-12 col-md-6 col-lg-6">
 									<div class="datepicker date">
-										<label class="text-light">Appointment Date (required)<span class="text-danger">*</span></label>	
+										<label class="text-light">Appointment Date </label>	
 										<input type="text" placeholder="Select Date" name="appointment_date" class="form-control" id="fecha1">
 										<div class="input-group-append">
 										<span class="input-group-text"><i class="fa fa-calendar"></i></span>
@@ -151,19 +140,19 @@ within 24 hours.</span>
 									</div>
 								</div>
 								<div class="col-sm-12 col-md-6 col-lg-6">
-									<label class="text-light">Appointment Time (required)<span class="text-danger">*</span></label>	
+									<label class="text-light">Appointment Time </label>	
 									<input type="text" class="form-control" name="appointment_time"  id="timepicker"/>
 								</div> 
 								<div class="col-sm-12 col-md-6 col-lg-6">
-									<label class="text-light">Name (required)<span class="text-danger">*</span></label>
+									<label class="text-light">Name<span class="text-danger">*</span></label>
 									<input type="text" name="name" id="aname" class="form-control" />
 								</div>
 								<div class="col-sm-12 col-md-6 col-lg-6">
-									<label class="text-light">Email (required)<span class="text-danger">*</span></label>
+									<label class="text-light">Email </label>
 									<input type="email" name="email" id="aemail" class="form-control" />
 								</div>
 								<div class="col-sm-12 col-md-6 col-lg-6">
-									<label class="text-light">Phone Number (required)<span class="text-danger">*</span></label>
+									<label class="text-light">Phone Number<span class="text-danger">*</span></label>
 									<input type="tel" id="aphone" name="phone" value="" class="form-control" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*?)\..*/g, '$1');" maxlength="10">
 								</div> 
 								<div class="col-sm-12 col-md-12 col-lg-12">

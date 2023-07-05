@@ -47,15 +47,15 @@
 								<input type="hidden" name="form_name" value="career" >
 								<div class="row">
 										<div class="col-sm-12 col-md-12 col-lg-6">
-											<label class="text-dark">Name (required)<span class="text-danger">*</span></label>
+											<label class="text-dark">Name<span class="text-danger">*</span></label>
 											<input type="text" name="name" value="" class="form-control jsrequired" required/>
 										</div>
 										<div class="col-sm-12 col-md-12 col-lg-6">
-											<label class="text-dark">Phone (required)<span class="text-danger">*</span></label>
+											<label class="text-dark">Phone<span class="text-danger">*</span></label>
 											<input type="tel" name="phone" value="" class="form-control jsrequired" required oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*?)\..*/g, '$1');" maxlength="10"/>
 										</div>
 										<div class="col-sm-12 col-md-12 col-lg-6">
-											<label class="text-dark">Email (required)<span class="text-danger">*</span></label>
+											<label class="text-dark">Email<span class="text-danger">*</span></label>
 											<input type="email" name="email" value="" class="form-control jsrequired" required/>
 										</div>
 										<div class="col-sm-12 col-md-12 col-lg-6">
