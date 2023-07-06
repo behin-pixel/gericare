@@ -48,7 +48,7 @@
 <h4>It will also offer preventive geriatric check up at home reducing the waiting time at the hospital for consultation.</h4>
 <span class="bts-non">The Hindu</span>
 <div class="common-button drk">
-<a href="{{ url('news-detail') }}">Know More</a>
+<a href="https://www.thehindu.com/news/cities/chennai/specialiased-hospital-for-geriatric-care-launched-in-chennai/article33133381.ece" target="_blank">Know More</a>
 </div>
 </div> 
 
