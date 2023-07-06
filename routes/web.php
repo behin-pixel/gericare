@@ -23,10 +23,10 @@ Route::group(['prefix' => 'laravel-filemanager', 'middleware' => ['auth_users']]
     \UniSharp\LaravelFilemanager\Lfm::routes();
 });
  Route::get('/', function(){
-     return view('website.index');
- });
+      return view('website.index');
+  });
 
-// Route::get('/',[ConsultantFormController::class,'index'])->name('home');
+//  Route::get('/',[ConsultantFormController::class,'index'])->name('home');
 
 // Route::get('/hospitals/gericare-hospitals',function(){
 //     return view('website.hospitals.gericare-hospitals');

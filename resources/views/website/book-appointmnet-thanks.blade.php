@@ -33,7 +33,7 @@
 <h5>Your form has been submitted successfully!</h5>
 <p>We’ll get in touch with you shortly..</p>
 <div class="common-button drk">
-<a href="./">Go to Home</a>
+<a href="{{route('/')}}">Go to Home</a>
 </div>
 </div>
 
