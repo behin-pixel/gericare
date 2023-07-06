@@ -116,29 +116,29 @@
                   <a href="{{ url('about-gericare') }}">About Geri Care</a>
                 </li> 
                 <li class="@if(request()->routeIs(['about-us.leadership-team'])) active @endif">
-                  <a href="{{ url('/about-us/leadership-team') }}">Leadership Team</a>
+                  <a href="{{ url('leadership') }}">Leadership Team</a>
                 </li> 
                 <li class="@if(request()->routeIs(['about-us.awards-achievements'])) active @endif">
                   <a href="#">Download Brochure</a>
                 </li> 
               </ul>
             </li>
-            <li id="corporate-menu" class="@if(request()->routeIs(['in-news.news-events','in-news.media-gallery'])) active @endif"><a href="{{ url('/in-news/news-events') }}">News Room</a>
+            <li id="corporate-menu" class="@if(request()->routeIs(['in-news.news-events','in-news.media-gallery'])) active @endif"><a href="{{ url('news-and-events') }}">News Room</a>
               <ul>
                <li class="@if(request()->routeIs(['in-news.news-events'])) active @endif">
-                  <a href="{{ url('/in-news/news-events') }}">News & Events</a>
+                  <a href="{{ url('news-and-events') }}">News & Events</a>
                 </li> 
                 <li class="@if(request()->routeIs(['in-news.media-gallery'])) active @endif">
-                  <a href="{{ url('/in-news/media-gallery') }}">Media</a>
+                  <a href="{{ url('media-gallery') }}">Media</a>
                 </li>
                 <li class="@if(request()->routeIs(['in-news.media-tool-kit'])) active @endif">
                   <a href="{{ url('/in-news/media-tool-kit') }}">Media Tool Kit</a>
                 </li>
                 <li class="@if(request()->routeIs(['in-news.video-gallery'])) active @endif">
-                  <a href="{{ url('/in-news/video-gallery') }}">Videos</a>
+                  <a href="{{ url('video-gallery') }}">Videos</a>
                 </li>
                 <li class="@if(request()->routeIs(['in-news.gallery'])) active @endif">
-                  <a href="{{ url('/in-news/gallery') }}">Gallery</a>
+                  <a href="{{ url('gallery') }}">Gallery</a>
                 </li>
                 <li class="@if(request()->routeIs(['in-news.blog'])) active @endif">
                   <a href="#">Blog</a>

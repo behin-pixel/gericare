@@ -5,7 +5,7 @@
 <section class="inner-banner p-0">
 
 <div class="">
-<img src="{{ asset('/public/website/assets/images/banners/ned-kit.jpg') }}" alt="" class="w-100" />
+<img src="{{ asset('/public/website/assets/images/banners/news.jpg') }}" alt="" class="w-100" />
 </div> 
 
 <div class="banner-liners">

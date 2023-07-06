@@ -547,8 +547,8 @@ chosen for you</h2>
 <span>Senior Consultant Geriatrician</span>
 </div> 
 <div class="de-detl-btn">
-<a href="{{ url('our-doctors/dr-lakshmipathy') }}"> Book Appointment </a>
-<a href="{{ url('our-doctors/dr-lakshmipathy') }}"> <i class="fa fa-eye" aria-hidden="true"></i> </a>
+<a href="{{ url('dr-lakshmipathy-ramesh') }}"> Book Appointment </a>
+<a href="{{ url('dr-lakshmipathy-ramesh') }}"> <i class="fa fa-eye" aria-hidden="true"></i> </a>
 </div>
 </div>
 
@@ -560,8 +560,8 @@ chosen for you</h2>
 </div> 
 <div class="de-detl-btn">
 <!-- <a href="{{ url('book-appointment') }}"> Book Appointment </a> -->
-<a href="{{ url('our-doctors/dr-srinivas') }}">Book Appointment</a>
-<a href="{{ url('our-doctors/dr-srinivas') }}"> <i class="fa fa-eye" aria-hidden="true"></i> </a>
+<a href="{{ url('dr-srinivas') }}">Book Appointment</a>
+<a href="{{ url('dr-srinivas') }}"> <i class="fa fa-eye" aria-hidden="true"></i> </a>
 </div>
 </div>
 
@@ -572,13 +572,13 @@ chosen for you</h2>
 <span>Consultant Geriatrician</span>
 </div> 
 <div class="de-detl-btn">
-<a href="{{ url('our-doctors/dr-magesh ') }}"> Book Appointment </a>
-<a href="{{ url('our-doctors/dr-magesh ') }}"> <i class="fa fa-eye" aria-hidden="true"></i> </a>
+<a href="{{ url('dr-magesh ') }}"> Book Appointment </a>
+<a href="{{ url('dr-magesh ') }}"> <i class="fa fa-eye" aria-hidden="true"></i> </a>
 </div>
 </div>
 
 <div class="dr-panel">
-<img src="{{ asset('/public/website/assets/images/doctor-img-3.jpg') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/doctor-img-3.jpg') }}" alt="Dr. Ashwin Subramaniam, Senior Consultant- Internal Medicine & Diabetologist" class="">
 <div class="de-detl">
 <h4>Dr. Ashwin</h4>
 <span> Physician & Diabetologist </span>
@@ -596,8 +596,8 @@ chosen for you</h2>
 <span>Consultant Geriatrician</span>
 </div> 
 <div class="de-detl-btn">
-<a href="{{ url('our-doctors/dr-vasanth') }}"> Book Appointment </a>
-<a href="{{ url('our-doctors/dr-vasanth') }}"> <i class="fa fa-eye" aria-hidden="true"></i> </a>
+<a href="{{ url('dr-vasanth') }}"> Book Appointment </a>
+<a href="{{ url('dr-vasanth') }}"> <i class="fa fa-eye" aria-hidden="true"></i> </a>
 </div>
 </div> 
 

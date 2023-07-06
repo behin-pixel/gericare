@@ -183,7 +183,7 @@ Our experienced caregivers have been delivering affordable and reliable care in 
 <div class="minrester">
 <h4>Outpatient Antibiotic Administration </h4>
 <p>In cases where patients require intravenous antibiotic therapy but do not need ...</p>
-<a href="{{ url('/gericare-homecare/service-we-offer/outpatient-antibiotic-administration') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
+<a href="{{ url('outpatient-parenteral-antimicrobial-administration') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
 </div>
 </div>
 
@@ -192,7 +192,7 @@ Our experienced caregivers have been delivering affordable and reliable care in 
 <div class="minrester">
 <h4>Wound Care & Dressing</h4>
 <p>Skilled healthcare professionals can provide wound care and dressing services ...</p>
-<a href="{{ url('/gericare-homecare/service-we-offer/wound-care-dressing') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
+<a href="{{ url('wound-care-dressing') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
 </div>
 </div>
 
@@ -201,7 +201,7 @@ Our experienced caregivers have been delivering affordable and reliable care in 
 <div class="minrester">
 <h4>ECG at Home</h4>
 <p>Electrocardiogram (ECG) is a common diagnostic test for assessing heart function. ...</p>
-<a href="{{ url('/gericare-homecare/service-we-offer/ecg-at-home') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
+<a href="{{ url('ecg-test-at-home') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
 </div>
 </div>
 
@@ -210,7 +210,7 @@ Our experienced caregivers have been delivering affordable and reliable care in 
 <div class="minrester">
 <h4>Skilled Nursing Care</h4>
 <p>Our skilled nurses can perform various medical tasks, including wound care, ...</p>
-<a href="{{ url('/gericare-homecare/service-we-offer/skilled-nursing-care') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
+<a href="{{ url('nursing-care') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
 </div>
 </div>
 
@@ -219,7 +219,7 @@ Our experienced caregivers have been delivering affordable and reliable care in 
 <div class="minrester">
 <h4>Home Sample Collection</h4>
 <p>To avoid the inconvenience of visiting a laboratory or clinic, healthcare  ...</p>
-<a href="{{ url('/gericare-homecare/service-we-offer/home-sample-collection') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
+<a href="{{ url('nursing-care') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
 </div>
 </div>
 
@@ -228,7 +228,7 @@ Our experienced caregivers have been delivering affordable and reliable care in 
 <div class="minrester">
 <h4>Live-in Care</h4>
 <p>For patients who require round-the-clock care, nursing attendants can ...</p>
-<a href="{{ url('/gericare-homecare/service-we-offer/live-in-care') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
+<a href="{{ url('live-in-elderly-care') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
 </div>
 </div>
 
@@ -237,7 +237,7 @@ Our experienced caregivers have been delivering affordable and reliable care in 
 <div class="minrester">
 <h4>Care for Bedridden Patients</h4>
 <p> Our skilled nurses and nursing attendants can provide care for bedridden ...</p>
-<a href="{{ url('/gericare-homecare/service-we-offer/care-for-bedridden-patients') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
+<a href="{{ url('care-for-bedridden-elderly-at-home') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
 </div>
 </div>
 

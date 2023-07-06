@@ -168,8 +168,8 @@ for Senior Citizens</span>
     <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> MBBS, M.D (Geriatrics), PGD (Diabetes) </h5>
     <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class=""> T.Nagar, Velachery, Adyar  </h5>
     <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class="">  Tamil, English, Telugu  </h5>
-    <a href="{{ url('our-doctors/dr-lakshmipathy') }}">Book Appointment</a>
-    <a href="{{ url('our-doctors/dr-lakshmipathy') }}">View Profile</a>
+    <a href="{{ url('dr-lakshmipathy-ramesh') }}">Book Appointment</a>
+    <a href="{{ url('dr-lakshmipathy-ramesh') }}">View Profile</a>
     </div>
     </div>
 
@@ -184,15 +184,15 @@ for Senior Citizens</span>
     <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> MD, MRCP (UK), DIP. Geriatric Medicine (UK) </h5>
     <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class=""> T.Nagar, Velachery, Adyar  </h5>
     <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class="">  Tamil, English, Telugu, Hindi  </h5>
-    <a href="{{ url('our-doctors/dr-srinivas') }}">Book Appointment</a>
-    <a href="{{ url('our-doctors/dr-srinivas') }}">View Profile</a>
+    <a href="{{ url('dr-srinivas') }}">Book Appointment</a>
+    <a href="{{ url('dr-srinivas') }}">View Profile</a>
     </div>
     </div>
      
       
     <div class="dctrs-detls">
      <div class="dctrm-img">
-     <img src="{{ asset('/public/website/assets/images/magesh.jpg') }}" alt="" class="">
+     <img src="{{ asset('/public/website/assets/images/magesh.jpg') }}" alt="Dr. Magesh R - Consultant Geriatrician" class="">
      </div>
      <div class="dctrm-deitals">
      <h3> Dr. Magesh R </h3>
@@ -200,14 +200,14 @@ for Senior Citizens</span>
      <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> MBBS, MRCP, CCT (Int. Med. & Geriatrics), FRCP </h5>
      <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class=""> T.Nagar, Velachery, Adyar  </h5>
      <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class="">  English, Tamil  </h5>
-     <a href="{{ url('our-doctors/dr-magesh ') }}">Book Appointment</a>
-     <a href="{{ url('our-doctors/dr-magesh') }}">View Profile</a>
+     <a href="{{ url('dr-magesh ') }}">Book Appointment</a>
+     <a href="{{ url('dr-magesh') }}">View Profile</a>
      </div>
      </div>
 
      <div class="dctrs-detls">
      <div class="dctrm-img">
-     <img src="{{ asset('/public/website/assets/images/doctor-img-3.jpg') }}" alt="" class="">
+     <img src="{{ asset('/public/website/assets/images/doctor-img-3.jpg') }}" alt="Dr. Ashwin Subramaniam, Senior Consultant- Internal Medicine & Diabetologist" class="">
      </div>
      <div class="dctrm-deitals">
      <h3> Dr. Ashwin Subramaniam </h3>
@@ -215,15 +215,15 @@ for Senior Citizens</span>
      <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> MBBS RMMC, DNB (Internal Medicine), MRCP (UK)</h5>
      <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class=""> T. Nagar</h5>
      <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class="">  English, Tamil  </h5>
-     <a href="{{ url('our-doctors/dr-ashwin') }}">Book Appointment</a>
-     <a href="{{ url('our-doctors/dr-ashwin') }}">View Profile</a>
+     <a href="{{ url('dr-ashwin-subramaniam') }}">Book Appointment</a>
+     <a href="{{ url('dr-ashwin-subramaniam') }}">View Profile</a>
      </div>
      </div>
 
 
     <div class="dctrs-detls">
      <div class="dctrm-img">
-     <img src="{{ asset('/public/website/assets/images/doctor-img-4.jpg') }}" alt="" class="">
+     <img src="{{ asset('/public/website/assets/images/doctor-img-4.jpg') }}" alt="Dr. K. Vasanth - Consultant Geriatrician" class="">
      </div>
      <div class="dctrm-deitals">
      <h3> Dr. K. Vasanth </h3>
@@ -231,15 +231,15 @@ for Senior Citizens</span>
      <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> MD (Geriatrics) </h5>
      <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class="">  Adyar & Velachery  </h5>
      <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class="">  Tamil, English  </h5>
-     <a href="{{ url('our-doctors/dr-vasanth') }}">Book Appointment</a>
-     <a href="{{ url('our-doctors/dr-vasanth') }}">View Profile</a>
+     <a href="{{ url('dr-vasanth') }}">Book Appointment</a>
+     <a href="{{ url('dr-vasanth') }}">View Profile</a>
      </div>
      </div>
 
 
     <div class="dctrs-detls">
      <div class="dctrm-img">
-     <img src="{{ asset('/public/website/assets/images/doctor-img-5.jpg') }}" alt="" class="">
+     <img src="{{ asset('/public/website/assets/images/doctor-img-5.jpg') }}" alt="Dr. K. Anupuma - Consultant Geriatrician" class="">
      </div>
      <div class="dctrm-deitals">
      <h3> Dr. K. Anupuma </h3>
@@ -247,8 +247,8 @@ for Senior Citizens</span>
      <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class="">  MBBS, MD (Geriatrics), DGO  </h5>
      <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class=""> Home visit on appointment basis</h5>
      <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class="">  Tamil, English, Hindi  </h5>
-     <a href="{{ url('our-doctors/dr-anupama') }}">Book Appointment</a>
-     <a href="{{ url('our-doctors/dr-anupama') }}">View Profile</a>
+     <a href="{{ url('dr-anupuma') }}">Book Appointment</a>
+     <a href="{{ url('dr-anupuma') }}">View Profile</a>
      </div>
      </div>
 
@@ -262,8 +262,8 @@ for Senior Citizens</span>
      <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class="">  MBBS, MD (Geriatrics)  </h5>
      <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class="">  Velachery</h5>
      <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class="">  Tamil, English, Hindi</h5>
-     <a href="{{ url('our-doctors/dr-manicka-saravanan') }}">Book Appointment</a>
-     <a href="{{ url('our-doctors/dr-manicka-saravanan') }}">View Profile</a>
+     <a href="{{ url('dr-manicka-saravanan') }}">Book Appointment</a>
+     <a href="{{ url('dr-manicka-saravanan') }}">View Profile</a>
      </div>
      </div>
 
@@ -278,8 +278,8 @@ for Senior Citizens</span>
      <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class="">  MBBS, MD (Geriatrics)  </h5>
      <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class=""> Velachery</h5>
      <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class="">   Tamil, English  </h5>
-     <a href="{{ url('our-doctors/dr-arulmozhiselvan') }}">Book Appointment</a>
-     <a href="{{ url('our-doctors/dr-arulmozhiselvan') }}">View Profile</a>
+     <a href="{{ url('dr-arulmozhiselvan') }}">Book Appointment</a>
+     <a href="{{ url('dr-arulmozhiselvan') }}">View Profile</a>
      </div>
      </div>
 
@@ -293,8 +293,8 @@ for Senior Citizens</span>
      <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class="">  MBBS, MD (Geriatrics)  </h5>
      <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class="">  Anna Nagar</h5>
      <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class="">   Tamil, English  </h5>
-     <a href="{{ url('our-doctors/dr-flora-alex') }}">Book Appointment</a>
-     <a href="{{ url('our-doctors/dr-flora-alex') }}">View Profile</a>
+     <a href="{{ url('dr-flora-alex') }}">Book Appointment</a>
+     <a href="{{ url('dr-flora-alex') }}">View Profile</a>
      </div>
      </div>
 
@@ -594,8 +594,8 @@ for Senior Citizens</span>
         <h4>Consultant Psychiatrist  </h4>
         <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> M.D (Psychiatry)</h5>
         <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class=""> T.Nagar, Velachery, Adyar</h5>
-        <a href="{{ url('our-doctors/dr-srinivas-rajkumar') }}">Book Appointment</a>
-        <a href="{{ url('our-doctors/dr-srinivas-rajkumar') }}">View Profile</a>
+        <a href="{{ url('dr-srinivas-rajkumar') }}">Book Appointment</a>
+        <a href="{{ url('dr-srinivas-rajkumar') }}">View Profile</a>
         </div>
         </div>
 

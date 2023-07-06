@@ -25,7 +25,7 @@
 							<li><a href="{{ url('/') }}">Home</a></li>
 							<li><a href="{{ url('gericare-hospital') }}">About Us</a></li> 
 							<li><a href="{{ url('assisted-living/#servce-cre') }}">Services</a></li> 
-							<li><a href="{{ url('/in-news/gallery') }}">Gallery</a></li>    
+							<li><a href="{{ url('gallery') }}">Gallery</a></li>    
 						</ul>
 				</div>
 				<div class="quick-links spce-nded"> 
