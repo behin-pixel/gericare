@@ -140,7 +140,8 @@
                     $("#save-btn").attr("disabled", false);
 
                     if (res.error == 0) {
-                        toastr.success('Success', res.message);
+                       // toastr.success('Success', res.message);
+                       window.location.href = '{{ route("callback.thanks")}}';
                         $('#request_call_back')[0].reset();
                     } else {
                         if (res.message) {

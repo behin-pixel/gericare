@@ -31,6 +31,11 @@ Route::get('/', function(){
 Route::get('gericare-hospital',[PageViewController::class,'aboutHospitalPage'])->name('gericare-hospital.about-hospital');
 
 Route::post('/consultant/form/save',[ConsultantFormController::class,'submitConsultantForm'])->name('consultant.form.submit');
+Route::get('/contact/thanks',[ConsultantFormController::class,'contactThanks'])->name('contact.thanks');
+Route::get('/consultant/thanks',[ConsultantFormController::class,'consultantThanks'])->name('consultant.thanks');
+Route::get('/callback/thanks',[ConsultantFormController::class,'callBackThanks'])->name('callback.thanks');
+Route::get('/career/thanks',[ConsultantFormController::class,'careerThanks'])->name('career.thanks');
+
 Route::post('/consultant/req_form/save',[ConsultantFormController::class,'submitConsultantReqForm'])->name('consultant.form.req_submit');
 Route::post('/appointment/form/save',[BookAppointmentController::class,'saveAppointment'])->name('appointment.form.submit');
 Route::post('/career/form/save',[CareerController::class,'applyJob'])->name('career.form.submit');

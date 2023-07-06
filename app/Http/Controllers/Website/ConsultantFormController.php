@@ -62,11 +62,13 @@ class ConsultantFormController extends Controller
             Mail::to(env('CLIENT_MAIL'))->send(new EnquiryMail($mailData));
             $error                      = 0;
             $message                    = 'Form submitted successfully';
+            $from_page                  =   $request->from; 
         } else {
             $error                      = 1;
             $message                    = $validator->errors()->all();
+            $from_page                  =    $request->from;
         }
-        return response()->json(['error' => $error, 'message' => $message ]);
+        return response()->json(['error' => $error, 'message' => $message,'from_page' =>  $from_page ]);
     }
     public function submitConsultantReqForm(Request $request)
     {
@@ -100,6 +102,22 @@ class ConsultantFormController extends Controller
             $message                    = $validator->errors()->all();
         }
         return response()->json(['error' => $error, 'message' => $message ]);
+    }
+    public function contactThanks()
+    {
+        return view('website.thanks-contactus');
+    }
+    public function consultantThanks()
+    {
+        return view('website.cosunlt-thanks');
+    }
+    public function callBackThanks()
+    {
+        return view('website.request-call-back-thanks');
+    }
+    public function careerThanks()
+    {
+        return view('website.carrer-thanks');
     }
     
 

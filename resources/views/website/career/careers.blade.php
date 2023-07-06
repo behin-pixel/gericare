@@ -120,7 +120,8 @@
                     $("#submit_btn").attr("disabled", false);
 
                     if (res.error == 0) {
-                        toastr.success('Success', res.message);
+						window.location.href = '{{ route("career.thanks")}}';
+                        //toastr.success('Success', res.message);
                         $('#career_form')[0].reset();
                     } else {
                         if (res.message) {

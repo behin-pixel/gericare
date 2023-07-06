@@ -82,7 +82,12 @@
                     $("#save-btn").attr("disabled", false);
 
                     if (res.error == 0) {
-                        toastr.success('Success', res.message);
+                       // if(res.from_page=='homepage')
+						
+                       //{						
+							window.location.href = '{{ route("consultant.thanks")}}';
+						//}	
+                      //  toastr.success('Success', res.message);
                         $('#consult_form')[0].reset();
                     } else {
                         if (res.message) {

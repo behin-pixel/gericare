@@ -14,12 +14,12 @@
 <div class="col-lg-12">
 <h4>Contact us today for a better tomorrow.
 <span>We have the proven ability <br>
-to improve the lives of the elderly.</span>
+in improving the elderly lives.</span>
 </h4>
 <ul>
 <li><a href="./">Home</a></li>   
 <li> > </li>  
-<li>Contact Us</li>   
+<li>Thanks Contact Us</li>   
 </ul>
 </div>
 </div>
@@ -43,16 +43,16 @@ to improve the lives of the elderly.</span>
 									<p class="contact-icons"><img src="{{ asset('/public/website/assets/images/contact-icon4.png') }}" alt="" class="" /><a href="mailto:enquiry@gericare.in" target="_blank" class="text-white">enquiry@gericare.in</a></p>
 									<ul class="contact-socials">
 										<li>
-											<a class="facebook" href="https://www.facebook.com/GeriCareChennai" target="_blank"> <i class="fa fa-facebook" aria-hidden="true"></i> </a>
+											<a class="facebook" href="" target="_blank"> <i class="fa fa-facebook" aria-hidden="true"></i> </a>
 										</li>
 										<li>
-											<a class="linkedin" href="https://www.linkedin.com/company/gericarehospital/" target="_blank"> <i class="fa fa-linkedin" aria-hidden="true"></i> </a>
+											<a class="twitter" href="" target="_blank"> <i class="fa fa-twitter" aria-hidden="true"></i> </a>
 										</li>
 										<li>
-											<a class="instagram" href="https://instagram.com/geri_care_chennai?igshid=MzRlODBiNWFlZA==" target="_blank"> <i class="fa fa-instagram" aria-hidden="true"></i> </a>
+											<a class="instagram" href="" target="_blank"> <i class="fa fa-instagram" aria-hidden="true"></i> </a>
 										</li>			
 										<li>
-											<a class="youtube" href="https://www.youtube.com/@geri_care_chennai" target="_blank"> <i class="fa fa-youtube-play" aria-hidden="true"></i> </a>
+											<a class="youtube" href="" target="_blank"> <i class="fa fa-youtube-play" aria-hidden="true"></i> </a>
 										</li> 
 									</ul> 
 								</div>
@@ -60,11 +60,8 @@ to improve the lives of the elderly.</span>
 							<div class="col-sm-12 col-md-12 col-lg-6 col-xl-7" data-aos="fade-right" data-aos-delay="200" data-aos-duration="1000">
 								<div class="pad-30">
 								<h2 class="h3 mar-bot-20">Send us a Message</h2>
-								<form  class="contact-form" name="contactForm" method="post" action="#" id="contact_form">
-                					@csrf
-									<input type="hidden" name="form_name" value="contact" >
-									<input type="hidden" name="from" value="contact" >
-									
+								<form  onSubmit="return valid_chk1()" class="contact-form" name="contactForm" method="post" action="#" id="contactForm">
+                				<input type="hidden" name="form_name" value="contact" >
                                 <div class="row">
 										<div class="col-sm-12 col-md-12 col-lg-6">
 											<label class="text-dark">Name (required)<span class="text-danger">*</span></label>
@@ -72,29 +69,22 @@ to improve the lives of the elderly.</span>
 										</div>
 										<div class="col-sm-12 col-md-12 col-lg-6">
 											<label class="text-dark">Phone (required)<span class="text-danger">*</span></label>
-											<input type="tel" name="mobile_no" id="aphone" value="" class="form-control" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*?)\..*/g, '$1');" maxlength="10"/>
+											<input type="tel" name="phone" id="aphone" value="" class="form-control" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*?)\..*/g, '$1');" maxlength="10"/>
 										</div>
 										<div class="col-sm-12 col-md-12 col-lg-6">
 											<label class="text-dark">Email (required)<span class="text-danger">*</span></label>
 											<input type="email" name="email" id="aemail" value="" class="form-control"/>
 										</div>
 										<div class="col-sm-12 col-md-12 col-lg-6">
-											<label class="text-dark">Services (required)<span class="text-danger">*</span></label>
-											<select class="form-control jsrequired" id="services" name="services">
-    <option value="">Select your Service</option>
-    <option value="Geri Care Hospital">Geri Care Hospital</option>
-    <option value="Geri Care Assisted Living">Geri Care Assisted Living</option>
-    <option value="Geri Care Clinics">Geri Care Clinics</option>	
-    <option value="Geri Care Home Care">Geri Care Home Care</option>										 
-    </select>
+											<label class="text-dark">Subject (required)<span class="text-danger">*</span></label>
+											<input type="text" name="subject" id="asubject" value="" class="form-control"/>
 										</div>
 										<div class="col-sm-12 col-md-12 col-lg-12">
 											<label class="text-dark">Message</label>
 											<textarea class="form-control" name="message"></textarea>
 										</div>
 										<div class="col-sm-12 col-md-12 col-lg-12">
-                                        <div class="form-data cnt text-start clearfix">
-											<input type="submit" id="save-btn" name="submit" value="Submit"> </div>
+                                        <div class="form-data cnt text-start clearfix"><input type="submit" name="submit" value="Submit"> </div>
 										</div>
 									</div>
 									</form>
@@ -113,11 +103,11 @@ to improve the lives of the elderly.</span>
 <img src="{{ asset('/public/website/assets/images/icon-2.png') }}" alt="" class="" />
 <h4> Geri Care Hospital </h4>
 <span class="text-center"> T Nagar </span>
-<p> No.8, Dr.Nair road, Behind Vani Mahal,<br> T Nagar, Chennai 600017</p>
+<p> No.8, Dr.Nair road, Behind Vani mahal,<br> T Nagar, Chennai 600017</p>
 <a href="https://goo.gl/maps/u6K6owxWtpxry8EV8" target="_blank"> Locate Us <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a> 
 
 <span class="text-center"> Velachery </span>
-<p>100 Feet Velachery Inner Ring Road,<br> Ward F, Block 17, Adambakkam, <br> Chennai, Tamil Nadu 600088</p>
+<p>100 Feet Velachery inner ring road,<br> Ward F, Block 17, Adambakkam, <br> Chennai, Tamil Nadu 600088</p>
 <a href="https://goo.gl/maps/KFAt8ytkXKEeuxZ59" target="_blank"> Locate Us <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
 </div> 
 
@@ -125,10 +115,10 @@ to improve the lives of the elderly.</span>
 <img src="{{ asset('/public/website/assets/images/icon-2.png') }}" alt="" class="" />
 <h4> Geri Care Clinics </h4>
 <span class="text-center"> Adyar </span>
-<p> 21, 1st Avenue, Indira Nagar,<br> Adyar, Chennai 600020</p>
+<p> 21, 1st avenue, Indira Nagar,<br> Adyar, Chennai 600020</p>
 <a href="https://goo.gl/maps/iZ6WNkecYyEqYKBZ6" target="_blank"> Locate Us <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a> 
 
-<span class="text-center"> Anna Nagar </span>
+<span class="text-center"> Anna nagar </span>
 <p>Plot no.3698, Q Block-100, 3rd Avenue,  <br> Anna Nagar, Chennai, Tamil Nadu 600040</p>
 <a href="https://goo.gl/maps/FLwu1wnwvRHQEqdb7" target="_blank"> Locate Us <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
 </div>
@@ -137,7 +127,7 @@ to improve the lives of the elderly.</span>
 <img src="{{ asset('/public/website/assets/images/icon-2.png') }}" alt="" class="" />
 <h4> Geri Care Assisted Living </h4>
 <span class="text-center"> Thoraipakam </span>
-<p> Balamurugan Garden 1st Main Road,<br> Thoraipakkam, Chennai - 600 097</p>
+<p> Balamurugan Garden 1st main road,<br> Thoraipakkam, Chennai - 600 097</p>
 <a href="https://goo.gl/maps/eZNZbkaZcb3gtZqE7" target="_blank"> Locate Us <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a> 
 
 <span class="text-center"> RA Puram </span>
@@ -157,45 +147,4 @@ to improve the lives of the elderly.</span>
 	<iframe class="orange-bg px-0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d31100.559364997906!2d80.254106!3d12.999337!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5267853522f365%3A0x1dc3e7d7a2a95d9!2sGeri%20Care%20%7C%20Home%20Care%20%26%20Consultation!5e0!3m2!1sen!2sin!4v1685613981219!5m2!1sen!2sin"  style="border:0; height: 500px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>	
 	</section>
 
-@endsection
-@section('addon_script')
-    <script>
-         
-        $(".price").keypress(function(e) {
-            if (String.fromCharCode(e.keyCode).match(/[^.0-9]/g)) return false;
-        });
-        $('#contact_form').submit(function() {
-            event.preventDefault();
-            var formData = $('#contact_form').serialize();
-            $('#save-btn').prop('disabled', 'true');
-
-            $.ajax({
-                url: "{{ route('consultant.form.submit') }}",
-                type: 'POST',
-                data: formData,
-                beforeSend: function() {
-                },
-                success: function(res) {
-
-                    $('#save-btn').prop('disabled', 'false');
-                    $("#save-btn").attr("disabled", false);
-
-                    if (res.error == 0) {
-						if(res.from_page=='contact')
-						{						
-							window.location.href = '{{ route("contact.thanks")}}';
-						}						
-                       // toastr.success('Success', res.message);
-                        $('#contact_form')[0].reset();
-                    } else {
-                        if (res.message) {
-
-                            toastr.error("Error", res.message);
-
-                        }
-                    }
-                }
-            })
-        })
-    </script>
 @endsection
