@@ -102,7 +102,7 @@ within 24 hours.</span>
 </div>
 
 <div class="common-button drk mt-40">
-<a href="{{ url('/gericare-hospital/hospital-department') }}">Explore Our Departments</a>
+<a href="{{ url('hospital-departments') }}">Explore Our Departments</a>
 </div>
 </div>
 

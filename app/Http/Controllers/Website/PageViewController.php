@@ -9,7 +9,10 @@ class PageViewController extends Controller
 {
     public function aboutHospitalPage()
     {
-        return view('website.gericare_hospital.about-hospital');
+        $title = 'Best Home Healthcare In Chennai | Geriatrician Near Me';
+        $decription = 'Geri Care provides top-notch home healthcare services in Chennai with expert Geriatricians for senior citizens. Book an appointment now for personalized care.';
+        $keyword = '';
+        return view('website.gericare_hospital.about-hospital', compact('title', 'decription', 'keyword'));  
     }
     public function hospitalDepartmentPage()
     {
@@ -114,7 +117,10 @@ class PageViewController extends Controller
 
     public function aboutAssistedLivingPage()
     {
-        return view('website.gericare_assisted_living.about-assisted-living');
+        $title = 'Assisted Living In Chennai for Senior Citizens - Geri Care';
+        $decription = 'Get exceptional skilled nursing facility In chennai at Geri Care Assisted Living. Our residential arrangements for the elderly offer respite care, rehabilitative care, and more.';
+        $keyword = '';
+        return view('website.gericare_assisted_living.about-assisted-living', compact('title', 'decription', 'keyword')); 
     }
     public function assistedLivingServicePage()
     {
@@ -163,7 +169,10 @@ class PageViewController extends Controller
     
     public function geriatricPhysiotherapyatHomePage()
     {
-        return view('website.homecare_services.geriatric-physiotherapy-at-home');
+        $title = 'Best Physiotherapy at Home in Chennai - Geri Care';
+        $decription = 'Experience convenient home physiotherapy in Chennai with Geri Care. Our expert therapists provide personalized care and rehabilitation services.';
+        $keyword = '';
+        return view('website.homecare_services.geriatric-physiotherapy-at-home', compact('title', 'decription', 'keyword')); 
     }
     public function psychiatristHomeVisitPage()
     {
@@ -199,7 +208,10 @@ class PageViewController extends Controller
     }
     public function SkilledNursingCarePage()
     {
-        return view('website.homecare_services.skilled-nursing-care');
+        $title = 'Best Home Care Nursing Service in Chennai - Geri Care';
+        $decription = 'Geri Care offers top-notch nursing care for seniors at home. Our qualified nurses provide warm, affectionate support, both physically and psychologically.';
+        $keyword = '';
+        return view('website.homecare_services.skilled-nursing-care', compact('title', 'decription', 'keyword'));  
     }
     public function HomeSampleCollectionPage()
     {
@@ -279,6 +291,18 @@ class PageViewController extends Controller
     public function MediaToolKitPage()
     {
         return view('website.in_news.media-tool-kit');
+    } 
+    public function bookAppointmentThanksPage()
+    {
+        return view('website.book-appointmnet-thanks');
+    } 
+    public function requestcallbackThanksPage()
+    {
+        return view('website.request-call-back-thanks');
+    } 
+    public function doctorAppointmnetThanksPage()
+    {
+        return view('doctor-appointmnet-thanks');
     } 
     public function CarrerThanksPage()
     {

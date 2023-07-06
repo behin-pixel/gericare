@@ -37,7 +37,7 @@
 
 <div class="col-lg-4">
 <div class="doc-tor-img">
-<img src="{{ asset('/public/website/assets/images/magesh.jpg') }}" alt="" class="w-100">
+<img src="{{ asset('/public/website/assets/images/magesh.jpg') }}" alt="Dr. Magesh R - Consultant Geriatrician" class="w-100">
 </div>
 </div>
 

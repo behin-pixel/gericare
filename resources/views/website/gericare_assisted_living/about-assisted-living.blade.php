@@ -58,7 +58,7 @@ Our facility houses a comprehensive range of services and amenities that provide
 <img src="{{ asset('/public/website/assets/images/icon-1.png') }}" alt="" class="" />
 <h4> Meet our Experts  </h4>
 <p> Interact with our Assisted Living <br>team of experts. </p>
-<a href="{{ url('/gericare-hospital/hospital-doctors') }}"> View All Doctors <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
+<a href="{{ url('our-doctors') }}"> View All Doctors <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
 </div>
 
 <div class="servce">
@@ -264,7 +264,7 @@ Our facility houses a comprehensive range of services and amenities that provide
 			  
 </div>
 </div>
-<a id="ass-faci"></a>
+<a id="facilities-amenities"></a>
 </div>
 </div>
 </section>   
@@ -287,105 +287,105 @@ Our facility houses a comprehensive range of services and amenities that provide
 
 <li>
 <div class="geric-img">
-<img src="{{ asset('/public/website/assets/images/icn-1.png') }}" alt="" class=""> 
+<img src="{{ asset('/public/website/assets/images/fac-1.png') }}" alt="" class=""> 
 </div>
 <span> Daily Doctor visit </span>    
 </li>
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-1.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/fac-2.png') }}" alt="" class=""> 
   </div>
   <span> Medication management </span>    
 </li>
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-1.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/fac-3.png') }}" alt="" class=""> 
   </div>
   <span> 24 x 7 skilled nursing availability </span>    
 </li>
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-1.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/fac-4.png') }}" alt="" class=""> 
   </div>
   <span> Nutritiously Curated Food </span>    
 </li>
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-1.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/fac-5.png') }}" alt="" class=""> 
   </div>
   <span> Group yoga & physiotherapy </span>    
 </li>
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-1.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/fac-6.png') }}" alt="" class=""> 
   </div>
   <span> Periodic Whatsapp communication </span>    
 </li>
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-1.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/fac-7.png') }}" alt="" class=""> 
   </div>
   <span> Outside specialist consultations  </span>    
 </li>
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-1.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/fac-8.png') }}" alt="" class=""> 
   </div>
   <span> 24 x 7 emergency coordination </span>    
 </li>
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-1.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/fac-9.png') }}" alt="" class=""> 
   </div>
   <span> Three levels of Nursing Care  </span>    
 </li>
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-1.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/fac-10.png') }}" alt="" class=""> 
   </div>
   <span> Weekly Geriatrician visit & medical review </span>    
 </li>
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-1.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/fac-11.png') }}" alt="" class=""> 
   </div>
   <span> Indoor & outdoor recreational activities </span>    
 </li>
 
 <li>
 <div class="geric-img">
-<img src="{{ asset('/public/website/assets/images/icn-1.png') }}" alt="" class=""> 
+<img src="{{ asset('/public/website/assets/images/fac-12.png') }}" alt="" class=""> 
 </div>
 <span> Initial Comprehensive Geriatric Assessment (CGA) </span>    
 </li>
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-1.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/fac-13.png') }}" alt="" class=""> 
   </div>
   <span> Fully furnished elder-friendly accomodations </span>    
 </li>
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-1.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/fac-14.png') }}" alt="" class=""> 
   </div>
   <span> Geriatrician reviewed, individualized, care plans </span>    
 </li>
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-1.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/fac-15.png') }}" alt="" class=""> 
   </div>
   <span> Nutritious vegetarian diet meals & mid-day snacks </span>    
 </li>

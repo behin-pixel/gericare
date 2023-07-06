@@ -51,7 +51,7 @@ In addition to general medical care, we conduct comprehensive assessments and tr
 <img src="{{ asset('/public/website/assets/images/icon-1.png') }}" alt="" class="" />
 <h4> Meet our Experts </h4>
 <p> Find a doctor for a comprehensive assessment of your health </p>
-<a href="{{ url('/gericare-hospital/hospital-doctors') }}"> View All Doctors <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
+<a href="{{ url('our-doctors') }}"> View All Doctors <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
 </div>
 
 <div class="servce">

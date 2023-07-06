@@ -18,7 +18,7 @@
       <div class="carousel-caption animated animatedFadeInUp fadeInUp">
         <h1 class="text-blue">Entrust yourself with Geriatricians</h1>
         <span class="text-blue">in the most comforting environment.</span>
-    <a href="{{ url('/gericare-hospital/hospital-doctors') }}">Explore More</a>
+    <a href="{{ url('our-doctors') }}">Explore More</a>
       </div>
     </div> 
 
@@ -28,7 +28,7 @@
   <div class="carousel-caption animated animatedFadeInUp fadeInUp">
     <h1 class="text-blue">Meet the experts of 360 care</h1>
     <span class="text-blue">that reflects passion & utmost respect!</span>
-        <a href="{{ url('/gericare-hospital/about-hospital') }}">Explore More</a>
+        <a href="{{ url('gericare-hospital') }}">Explore More</a>
   </div>
 </div> 
 
@@ -38,7 +38,7 @@
   <div class="carousel-caption animated animatedFadeInUp fadeInUp">
     <h1 class="text-blue">Care that lasts forever</h1>
     <span class="text-blue">and a sense of personal freedom.</span>
-    <a href="{{ url('/gericare-assisted-living/about-assisted-living') }}">Explore More</a>
+    <a href="{{ url('assisted-living') }}">Explore More</a>
   </div>
 </div> 
 
@@ -66,7 +66,7 @@
 </div>
 <span>Where internationally renowned Geriatricians take a multidisciplinary and passionate approach to the treatment and rehabilitation of seniors.</span>
 <div class="red-mre">
-<a href="{{ url('/gericare-hospital/about-hospital') }}">Read More <img src="{{ asset('/public/website/assets/images/red-mre.png') }}" alt=""></div></a>
+<a href="{{ url('gericare-hospital') }}">Read More <img src="{{ asset('/public/website/assets/images/red-mre.png') }}" alt=""></div></a>
 </div>
 </div> 
 
@@ -89,7 +89,7 @@
 </div>
 <span>Enjoy a first-of-its-kind, 24 x 7 Assisted Living & Skilled Nursing Home services, under the expert care of Geriatricians.</span>
 <div class="red-mre">
-<a href="{{ url('/gericare-assisted-living/about-assisted-living') }}">Read More <img src="{{ asset('/public/website/assets/images/red-mre.png') }}" alt=""></div></a>
+<a href="{{ url('assisted-living') }}">Read More <img src="{{ asset('/public/website/assets/images/red-mre.png') }}" alt=""></div></a>
 </div>
 </div> 
 
@@ -112,7 +112,7 @@
 </div>
 <span>Get expert geriatric care in a peripheral clinic, and avoid long waiting hours in hospitals for minor issues.</span>
 <div class="red-mre">
-<a href="{{ url('/gericare-clinics/about-clinics') }}">Read More <img src="{{ asset('/public/website/assets/images/red-mre.png') }}" alt=""></div></a>
+<a href="{{ url('about-clinics') }}">Read More <img src="{{ asset('/public/website/assets/images/red-mre.png') }}" alt=""></div></a>
 </div>
 </div> 
 
@@ -135,7 +135,7 @@
 </div>
 <span>Get immediate and timely care from our experts in the comfort of your home. Book your appointment with our doctors for comprehensive consulting.</span>
 <div class="red-mre">
-<a href="{{ url('/gericare-homecare/about-homecare') }}">Read More <img src="{{ asset('/public/website/assets/images/red-mre.png') }}" alt=""></div></a>
+<a href="{{ url('homecare') }}">Read More <img src="{{ asset('/public/website/assets/images/red-mre.png') }}" alt=""></div></a>
 </div>
 </div> 
 
@@ -168,7 +168,7 @@
 </div>
 
 <div class="common-button drk">
-<a href="{{ url('/gericare-hospital/about-hospital') }}">Know More</a>
+<a href="{{ url('gericare-hospital') }}">Know More</a>
 </div>
 
 </div>
@@ -704,7 +704,7 @@ Extremely satisfied with both the quality of caregivers and the supervisory supp
 </div>
 
 <div class="common-button drk text-center">
-<a href="{{ url('/gericare-hospital/hospital-department') }}">Explore Our Departments</a>
+<a href="{{ url('hospital-departments') }}">Explore Our Departments</a>
 </div>
 
 </div>
@@ -961,7 +961,7 @@ Nov 04 2019
 </div>
 
 <div class="common-button drk">
-<a href="{{ url('/gericare-hospital/hospital-department') }}">Explore Our Departments</a>
+<a href="{{ url('hospital-departments') }}">Explore Our Departments</a>
 </div>
 
 </div>
