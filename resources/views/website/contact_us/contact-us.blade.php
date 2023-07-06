@@ -64,7 +64,7 @@ to improve the lives of the elderly.</span>
                 					@csrf
 									<input type="hidden" name="form_name" value="contact" >
 									<input type="hidden" name="from" value="contact" >
-									from
+									
                                 <div class="row">
 										<div class="col-sm-12 col-md-12 col-lg-6">
 											<label class="text-dark">Name (required)<span class="text-danger">*</span></label>

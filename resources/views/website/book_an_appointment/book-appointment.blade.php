@@ -132,17 +132,17 @@ within 24 hours.</span>
 										</select>
 								</div>
 								<div class="col-sm-12 col-md-6 col-lg-6">
-									<div class="datepicker date">
+									<div class=" date">
 										<label class="text-light">Appointment Date </label>	
-										<input type="text" placeholder="Select Date" name="appointment_date" class="form-control" id="fecha1">
+										<input type="date" placeholder="Select Date" name="appointment_date" class="form-control" id="fecha1">
 										<div class="input-group-append">
 										<span class="input-group-text"><i class="fa fa-calendar"></i></span>
 										</div>
 									</div>
 								</div>
 								<div class="col-sm-12 col-md-6 col-lg-6">
-									<label class="text-light">Appointment Time </label>	
-									<input type="text" class="form-control" name="appointment_time"  id="timepicker"/>
+									<label class="text-light">Appointment Time (HH:MM:DAY)</label>	
+									<input type="time" class="form-control" placeholder="HH/MM" name="appointment_time"  id=""/>
 								</div> 
 								<div class="col-sm-12 col-md-6 col-lg-6">
 									<label class="text-light">Name<span class="text-danger">*</span></label>
