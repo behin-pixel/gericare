@@ -40,7 +40,7 @@
         @endif --}}
         @if (permission_check('BOOK_AN_APPOINTMENT_INDEX') )
         <li>
-            <a href="{{ route('book-an-appointment.index') }}" class="nav-link text-white {{ Route::is([
+            <a href="{{ route('reports.doctorapp.report') }}" class="nav-link text-white {{ Route::is([
                     'book-an-appointment.index',
                     'book-an-appointment.show',
                 ]) ? "active" : "" }}">
@@ -80,7 +80,7 @@
        
         <li>
             <a href="{{ route('media-release.index') }}" class="nav-link text-white {{ Route::is(['media-release.index', 'media-release.edit', 'media-release.create']) ? "active" : "" }}">
-                <i class="fa fa-cog"></i>Manage Media Release
+                <i class="fa fa-cog"></i>Media Release
             </a>
         </li>
          <li>
@@ -90,14 +90,14 @@
         </li>
         @if (permission_check('DEPARTMENT_INDEX') || permission_check('JOB_POST_INDEX') || permission_check('CAREERS_INDEX')  )
         <li>
-            <a href="{{ route('department.index') }}" class="nav-link text-white {{ Route::is(['department.index', 'department.edit', 'department.create','job-post.index','job-post.create','job-post.edit','careers.index','careers.view']) ? "active" : "" }}">
+            <a href="{{ route('reports.career.report') }}" class="nav-link text-white {{ Route::is(['reports.career.report']) ? "active" : "" }}">
                 <i class="fa fa-cog"></i>Manage Careers
             </a>
         </li>
         @endif
         @if (permission_check('CONTACT_US_INDEX'))
         <li>
-            <a href="{{ route('contact-us.index') }}" class="nav-link text-white {{ Route::is(['contact-us.index' , 'contact-us.view']) ? "active" : "" }}">
+            <a href="{{ route('reports.contact.report') }}" class="nav-link text-white {{ Route::is(['contact-us.index' , 'contact-us.view']) ? "active" : "" }}">
                 <i class="fa fa-cog"></i>Manage Contact
             </a>
         </li>
@@ -117,6 +117,18 @@
             </a>
         </li>
         @endif
+
+     <li>
+            <a href="{{ route('reports.index') }}" class="nav-link text-white {{ Route::is(['reports.index']) ? "active" : "" }}">
+                <i class="fa fa-cog"></i>Consult Report
+            </a>
+        </li>
+      
+        <li>
+            <a href="{{ route('reports.callback.report') }}" class="nav-link text-white {{ Route::is(['reports.callback.report']) ? "active" : "" }}">
+                <i class="fa fa-cog"></i>Call Back Report
+            </a>
+        </li>
     </ul>
     <hr>
     <div class="dropdown p-3 pt-0">
@@ -143,6 +155,8 @@
             <li><hr class="dropdown-divider"></li>
             <li><a class="dropdown-item" href="#" onclick="return document.getElementById('logout_form').submit()">Sign out</a></li>
         </ul>
+
+     
     </div>
 </div>
 

@@ -13,6 +13,7 @@ use App\Http\Controllers\Admin\DoctorsController;
 use App\Http\Controllers\Admin\HospitalLabManagementController;
 use App\Http\Controllers\Admin\ClinicalLabManagementController;
 use App\Http\Controllers\Admin\ProfileController;
+use App\Http\Controllers\Admin\ReportsController;
 use App\Http\Controllers\Admin\HealthCheckupController;
 use App\Http\Controllers\Admin\TestController;
 use App\Http\Controllers\Admin\UserController;
@@ -103,6 +104,23 @@ Route::middleware(['auth_users'])->group(function () {
             Route::delete('/delete/{id}', [MediaReleaseController::class, 'delete'])->name('media-release.delete');  
             // Route::post('/export', [TestimonialController::class, 'exportData'])->name('testimonial.export');
     
+        });
+
+        Route::group(['prefix'=>'reports'],function(){
+            Route::get('/',[ReportsController::class,'index'])->name('reports.index');          
+            Route::get('/consult/export', [ReportsController::class, 'exportConsultReport'])->name('consult.reports.export');
+            Route::get('/contact/report',[ReportsController::class,'contactReport'])->name('reports.contact.report');
+            Route::get('/contact/export', [ReportsController::class, 'exportContactReport'])->name('contact.reports.export');
+            Route::get('/callback/report',[ReportsController::class,'callBackReport'])->name('reports.callback.report');
+            Route::get('/callback/export', [ReportsController::class, 'exportCallBackReport'])->name('callback.reports.export');      
+            Route::get('/doctorapp/report',[ReportsController::class,'docotorAppointmentReport'])->name('reports.doctorapp.report');
+            Route::get('/doctorapp/export', [ReportsController::class, 'exportdocotorAppointmentReport'])->name('doctorapp.reports.export'); 
+            Route::get('/departmentapp/report',[ReportsController::class,'departmentAppointmentReport'])->name('reports.departmentapp.report');
+            Route::get('/departmentapp/export', [ReportsController::class, 'exportdepartmentAppointmentReport'])->name('departmentapp.reports.export');      
+            Route::get('/serviceapp/report',[ReportsController::class,'serviceAppointmentReport'])->name('reports.serviceapp.report');
+            Route::get('/serviceapp/export', [ReportsController::class, 'exportServiceAppointmentReport'])->name('serviceapp.reports.export'); 
+            Route::get('/career/report',[ReportsController::class,'careerReport'])->name('reports.career.report');
+            Route::get('/career/export', [ReportsController::class, 'exportCareerReport'])->name('career.reports.export');      
         });
 
         Route::group(['prefix'=>'video'],function(){

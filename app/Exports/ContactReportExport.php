@@ -2,33 +2,32 @@
 
 namespace App\Exports;
 
-use App\Models\Career;
+
+use App\Models\Enquiries;
 use Maatwebsite\Excel\Concerns\FromCollection;
 use Maatwebsite\Excel\Concerns\WithHeadings;
 
-class CareerExport implements FromCollection,WithHeadings
+class ContactReportExport implements FromCollection,WithHeadings
 {
     /**
     * @return \Illuminate\Support\Collection
     */
-    
-   
     public function collection()
     {
-       
-        return Career::select('name','email','mobile','designation','relevant_experience','message','created_at')
+        return Enquiries::select('name','email','moble_no','services','message','created_at')->where('type','contact')->orderBy('id', 'DESC')
         ->get();
+
     }
     public function headings(): array
     {
         return [
             'Name',
             'Email',
-            'Mobile',           
-            'Designation',
-            'Relevant Experience',
-            'Cover Letter',
-            'Submitted Date',
+            'Mobile No',
+            'Service Type',
+            'Message',
+            'Enquiry Date',
+            
         ];
     }
 }
