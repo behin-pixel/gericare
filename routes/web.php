@@ -181,6 +181,8 @@ Route::get('request-call-back-thanks',[PageViewController::class,'requestcallbac
 
 Route::get('doctor-appointmnet-thanks',[PageViewController::class,'doctorAppointmnetThanksPage'])->name('doctor-appointmnet-thanks');
 
+Route::get('consult-thanks',[PageViewController::class,'consultThanksPage'])->name('consult-thanks');
+
 
 Route::get('careers',[PageViewController::class,'careerPage'])->name('careers');
 
@@ -188,4 +190,5 @@ Route::get('testimonials',[PageViewController::class,'testimonialPage'])->name('
 Route::get('videotestimonials',[PageViewController::class,'videotestimonialPage'])->name('videotestimonials'); 
 
 Route::get('faq',[PageViewController::class,'faqPage'])->name('faq'); 
+Route::get('news-detail',[PageViewController::class,'newsDetailPage'])->name('news-detail'); 
 

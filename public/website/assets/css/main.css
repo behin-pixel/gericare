@@ -3896,7 +3896,10 @@ ul.list-of-services li:hover img {
 
   .table-content table td{padding:20px 15px;vertical-align: middle;}
 
+.news-evnts-btns .common-button a {margin-left: 15px;padding: 11px 15px;}
+.news-evnts-btns a {font-size: 14px;}
 
+.tank-you-cont h4{font-size: 36px;color:#7C164B;font-weight: 700;font-family: 'Red Hat Display', sans-serif;margin-bottom: 0px;}
 
 
 
