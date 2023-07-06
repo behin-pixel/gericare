@@ -6,7 +6,9 @@
 <section class="inner-layer-banner">
 <div class="container">
 <div class="row">
-
+ @php 
+$name='Dr Sreedevi';
+@endphp 
 <div class="col-lg-12">
 <h1>Our Doctors</h1>
 <ul>

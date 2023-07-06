@@ -19,7 +19,9 @@
 <li class="active"> Dr. K. Anupuma  </li>
 </ul>
 </div>
-
+@php 
+$name='Dr Anupama';
+@endphp 
 </div>
 </div>
 </section>

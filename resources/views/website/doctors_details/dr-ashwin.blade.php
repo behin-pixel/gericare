@@ -2,7 +2,9 @@
 
 @section('content')
 
-
+@php 
+$name='Dr Ashwin Subramaniam';
+@endphp 
 <section class="inner-layer-banner">
 <div class="container">
 <div class="row">

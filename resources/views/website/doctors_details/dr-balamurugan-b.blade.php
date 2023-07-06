@@ -23,7 +23,9 @@
 </div>
 </div>
 </section>
-
+@php 
+$name='Dr Balamurugan B';
+@endphp 
 <section class="doctor-details-contest">
 <div class="container">
 <div class="row">
