@@ -66,6 +66,7 @@ class NewsAndEventsController extends Controller
         {
             mkdir($path, 0777, true);
         }
+        
         $imageName = '';
         if($request->hasfile('image'))
         {
@@ -78,14 +79,38 @@ class NewsAndEventsController extends Controller
                     $imageName = $name;
                 }
         }
+        $filePathGallery = 'files/news_event/gallery_image';
+        $pathGallery = public_path($filePathGallery); 
+        if(!file_exists($pathGallery))
+        {
+            mkdir($pathGallery, 0777, true);
+        }
+        $galleryImageName = '';
+        if($request->hasfile('gallery_image'))
+        {
+            $file = $request->file('gallery_image');
+                if($file->extension() ==  "png" || "jpg" || "jpeg")
+                {
+                    $name = $file->getClientOriginalName();
+                    $name = str_replace([' ','(',')','-'],'',$name);
+                    $file->move(public_path('files/news_event/gallery_image/'), $name);  
+                    $galleryImageName = $name;
+                }
+        }
         // dd($imageName);
         $result = NewsEvent::create([
-            'title'       => $request->title,
-            'slug'        => Str::slug($request->title),
-            'image'       =>    $imageName,
-            'description' => $request->description,
-            'posted_by'   => auth_user()->name,
+            'title'                 => $request->title,
+            'slug'                  => Str::slug($request->title),
+            'image'                 => $imageName,
+            'gallery_image'         => $galleryImageName,
+            'description'           => $request->description,
+            'date'                  => $request->date,
+            'referral_link'         => $request->reference_link,
+            'video_link'            => $request->video_link,
+            'posted_by'             => auth_user()->name,
         ]);
+        
+        
         if($result) {
             Flash::success(__('action.created',['type' => 'News & Events']));
         }
@@ -148,11 +173,27 @@ class NewsAndEventsController extends Controller
                     $imageName = $name;
                 }
         }
+        $galleryImageName = '';
+        if($request->hasfile('gallery_image'))
+        {
+            $fileGallery = $request->file('gallery_image');
+                if($fileGallery->extension() ==  "png" || "jpg" || "jpeg")
+                {
+                    $nameGallery = $fileGallery->getClientOriginalName();
+                    $nameGallery = str_replace([' ','(',')','-'],'',$nameGallery);
+                    $fileGallery->move(public_path('files/news_event/gallery_image/'), $nameGallery);  
+                    $galleryImageName = $nameGallery;
+                }
+        }
         $result = NewsEvent::findOrFail($id)->update([
-            'title'       => $request->title,
-            'slug'        => Str::slug($request->title),
-            'image'       => $imageName,
-            'description' => $request->description,
+            'title'                 => $request->title,
+            'slug'                  => Str::slug($request->title),
+            'image'                 => $imageName,
+            'gallery_image'         => $galleryImageName,
+            'description'           => $request->description,
+            'date'                  => $request->date,
+            'referral_link'         => $request->reference_link,
+            'video_link'            => $request->video_link,
             'posted_by'   => auth_user()->name,
         ]);
         if($result) {

@@ -16,14 +16,14 @@
 <div class="row mb-3 text_area">
     <label class="col-2 text-end col-form-label">Description *</label>
     <div class="col-10">
-        <textarea class="form-control" name="description" id="description" > {{ $data->description ?? '' }}</textarea>
+        <textarea class="form-control ckeditor" name="description" id="description" > {{ $data->description ?? '' }}</textarea>
         
     </div>
 </div>
 
 
 <div class="row mb-3">
-    <label class="col-2 text-end col-form-label">Designation </label>
+    <label class="col-2 text-end col-form-label">Location </label>
     <div class="col-10">
         <input type="text" name="designation" id="designation" value="{{ $data->designation ?? '' }}" class="form-control">
 
@@ -40,6 +40,25 @@
     <label class="col-2 text-end col-form-label">Photo</label>
     <div class="col-10">
         <input type="file" class="form-control" name="file"  id="attachment" accept="image/*">
+    </div>
+</div>
+<div class="row mb-3">
+    <label class="col-2 text-end col-form-label">Type</label>
+    <div class="col-10">
+       <select name="type" id="type" class="form-control" >
+            <option value="">Select Type</option>
+            <option @if(@isset($data->type))@if($data->type=='General') selected @endif @endif value="General">General</option>
+            <option @if(@isset($data->type))@if($data->type=='Hospital') selected @endif @endif value="Hospital">Hospital</option>
+            <option @if(@isset($data->type))@if($data->type=='Clinic') selected @endif @endif value="Clinic">Clinic</option>
+            <option @if(@isset($data->type))@if($data->type=='Assisted Living') selected @endif  @endif value="Assisted Living">Assisted Living</option>
+            <option @if(@isset($data->type))@if($data->type=='Homecare') selected @endif @endif value="Homecare">Homecare</option>  
+       </select>
+    </div>
+</div>
+<div class="row mb-3">
+    <label class="col-2 text-end col-form-label">Video Link</label>
+    <div class="col-10">
+        <input type="text" name="video_link" id="video_link" value="{{ $data->video_link ?? '' }}" class="form-control">
     </div>
 </div>
 <div class="row mb-3">

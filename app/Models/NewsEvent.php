@@ -15,6 +15,10 @@ class NewsEvent extends Model
         'description',
         'image',
         'posted_by',
+        'date',
+        'gallery_image',
+        'referral_link',
+        'video_link'
     ];
     public function getCreatedAtAttribute($value) {
         return Carbon::parse($value)->format('d M Y');

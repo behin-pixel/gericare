@@ -27,6 +27,8 @@ use App\Http\Controllers\DashboardController;
 use App\Http\Controllers\NewsAndEventsController;
 use App\Http\Controllers\Admin\NewsLetterController;
 use App\Http\Controllers\Admin\TestimonialController;
+use App\Http\Controllers\Admin\MediaReleaseController;
+use App\Http\Controllers\Admin\VideosController;
 use App\Http\Controllers\ApiController;
 use App\Http\Controllers\ConditionController;
 use App\Http\Controllers\CustomersController;
@@ -92,6 +94,27 @@ Route::middleware(['auth_users'])->group(function () {
             Route::get('edit/{id}', [NewsAndEventsController::class, 'edit'])->name('news-and-events.edit');
             Route::delete('delete/{id?}', [NewsAndEventsController::class, 'destroy'])->name('news-and-events.destroy');
         });
+
+        Route::group(['prefix'=>'media-release'],function(){
+            Route::get('/',[MediaReleaseController::class,'index'])->name('media-release.index');
+            Route::get('/create', [MediaReleaseController::class, 'create'])->name('media-release.create'); 
+            Route::post('create/{id?}', [MediaReleaseController::class, 'store'])->name('media-release.store');    
+            Route::get('/edit/{id}', [MediaReleaseController::class, 'edit'])->name('media-release.edit'); 
+            Route::delete('/delete/{id}', [MediaReleaseController::class, 'delete'])->name('media-release.delete');  
+            // Route::post('/export', [TestimonialController::class, 'exportData'])->name('testimonial.export');
+    
+        });
+
+        Route::group(['prefix'=>'video'],function(){
+            Route::get('/',[VideosController::class,'index'])->name('video.index');
+            Route::get('/create', [VideosController::class, 'create'])->name('video.create'); 
+            Route::post('create/{id?}', [VideosController::class, 'store'])->name('video.store');    
+            Route::get('/edit/{id}', [VideosController::class, 'edit'])->name('video.edit'); 
+            Route::delete('/delete/{id}', [VideosController::class, 'delete'])->name('video.delete');  
+            // Route::post('/export', [TestimonialController::class, 'exportData'])->name('testimonial.export');
+    
+        });
+
         Route::group(['prefix' => 'news-letter'],function(){
             Route::get('/', [NewsLetterController::class, 'index'])->name('news-letter.index');
             Route::get('/{id}', [NewsLetterController::class, 'show'])->name('news-letter.show');

@@ -70,6 +70,8 @@ class TestimonialController extends Controller
                 $data  ->  given_by         =  $request->given_by;
                 $data  ->  date             =  $request->date;
                 $data  ->  status           =  $request->status;
+                $data  ->  type             =  $request->type;
+                $data  ->  video_link       =  $request->video_link;
                
                 $data  ->  save();
             }

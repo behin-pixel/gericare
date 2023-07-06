@@ -77,6 +77,17 @@
             </a>
         </li>
         @endif
+       
+        <li>
+            <a href="{{ route('media-release.index') }}" class="nav-link text-white {{ Route::is(['media-release.index', 'media-release.edit', 'media-release.create']) ? "active" : "" }}">
+                <i class="fa fa-cog"></i>Manage Media Release
+            </a>
+        </li>
+         <li>
+            <a href="{{ route('video.index') }}" class="nav-link text-white {{ Route::is(['video.index', 'video.edit', 'video.create']) ? "active" : "" }}">
+                <i class="fa fa-cog"></i>Manage Video
+            </a>
+        </li>
         @if (permission_check('DEPARTMENT_INDEX') || permission_check('JOB_POST_INDEX') || permission_check('CAREERS_INDEX')  )
         <li>
             <a href="{{ route('department.index') }}" class="nav-link text-white {{ Route::is(['department.index', 'department.edit', 'department.create','job-post.index','job-post.create','job-post.edit','careers.index','careers.view']) ? "active" : "" }}">
