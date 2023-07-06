@@ -7,12 +7,16 @@ use App\Models\Enquiries;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Validator;
 use Illuminate\Support\Facades\Mail;
- use App\Mail\EnquiryMail;
+use App\Mail\EnquiryMail;
+use App\Models\Testimonial;
 
 class ConsultantFormController extends Controller
 {
     public function index(Request $request)
     {
+        $testimonial=Testimonial::where('status','1')->get();
+
+        return view('website.index',compact('testimonial'));
     }
 
     public function submitConsultantForm(Request $request)
@@ -118,6 +122,18 @@ class ConsultantFormController extends Controller
     public function careerThanks()
     {
         return view('website.carrer-thanks');
+    }
+    public function doctorAppThanks()
+    {
+        return view('website.doctor-appointmnet-thanks');
+    }
+    public function serviceAppThanks()
+    {
+        return view('website.service-appointmnet-thanks');
+    }
+    public function departmentAppThanks()
+    {
+        return view('website.book-appointmnet-thanks');
     }
     
 

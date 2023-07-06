@@ -81,12 +81,14 @@ class BookAppointmentController extends Controller
 
             $error                      = 0;
             $message                    = 'Appointment Book request submitted successfully';
+            $from_page                  =   $request->from; 
 
         } else {
             $error                      = 1;
             $message                    = $validator->errors()->all();
+            $from_page                  =   $request->from; 
         }
-        return response()->json(['error' => $error, 'message' => $message ]);
+        return response()->json(['error' => $error, 'message' => $message, 'from_page'  => $from_page ]);
 
     }
 

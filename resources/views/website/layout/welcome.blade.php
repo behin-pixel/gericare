@@ -172,7 +172,19 @@
                   $("#submit_btn").attr("disabled", false);
 
                   if (res.error == 0) {
-                      toastr.success('Success', res.message);
+                      //toastr.success('Success', res.message);
+                      if(res.from_page=='departments')
+                      {
+                        window.location.href = '{{ route("career.thanks")}}';
+                      }
+                      else if(res.from_page=='service_appointment')
+                      {
+                        window.location.href = '{{ route("career.thanks")}}';
+                      }
+                      else
+                      {
+                        window.location.href = '{{ route("doctorapp.thanks")}}';
+                      }
                       $('#AppointmentForm')[0].reset();
                   } else {
                       if (res.message) {

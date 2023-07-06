@@ -22,9 +22,12 @@ use Illuminate\Support\Facades\Route;
 Route::group(['prefix' => 'laravel-filemanager', 'middleware' => ['auth_users']], function () {
     \UniSharp\LaravelFilemanager\Lfm::routes();
 });
-Route::get('/', function(){
-    return view('website.index');
-});
+// Route::get('/', function(){
+//     return view('website.index');
+// });
+
+Route::get('/',[ConsultantFormController::class,'index'])->name('home');
+
 // Route::get('/hospitals/gericare-hospitals',function(){
 //     return view('website.hospitals.gericare-hospitals');
 // });
@@ -35,6 +38,9 @@ Route::get('/contact/thanks',[ConsultantFormController::class,'contactThanks'])-
 Route::get('/consultant/thanks',[ConsultantFormController::class,'consultantThanks'])->name('consultant.thanks');
 Route::get('/callback/thanks',[ConsultantFormController::class,'callBackThanks'])->name('callback.thanks');
 Route::get('/career/thanks',[ConsultantFormController::class,'careerThanks'])->name('career.thanks');
+Route::get('/doctorapp/thanks',[ConsultantFormController::class,'doctorAppThanks'])->name('doctorapp.thanks');
+Route::get('/serviceapp/thanks',[ConsultantFormController::class,'serviceAppThanks'])->name('serviceapp.thanks');
+Route::get('/departapp/thanks',[ConsultantFormController::class,'departmentAppThanks'])->name('departapp.thanks');
 
 Route::post('/consultant/req_form/save',[ConsultantFormController::class,'submitConsultantReqForm'])->name('consultant.form.req_submit');
 Route::post('/appointment/form/save',[BookAppointmentController::class,'saveAppointment'])->name('appointment.form.submit');

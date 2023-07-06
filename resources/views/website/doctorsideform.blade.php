@@ -7,7 +7,7 @@
   							<div class="row"> 
                                 
 								<div class="col-sm-12 col-md-12 col-lg-12"> 
-									<input type="text" name="doctor_name" id="aname" class="form-control" value="Dr.Anupuma" readonly/>
+									<input type="text" name="doctor_name" id="aname" class="form-control" value="{{$name ??''}}" readonly/>
 								</div>
                                 
 								<div class="col-sm-12 col-md-12 col-lg-12"> 
