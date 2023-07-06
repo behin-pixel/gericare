@@ -2123,6 +2123,11 @@ form.appointment-form .btn-group button.multiselect {
 select.form-control {
     cursor: pointer;}
 
+    input[type="time"] {
+        cursor: pointer;
+background: #fff url('../images/clk.png') no-repeat scroll 95% center;
+      }
+
 input.form-control,
 select.form-control {
     height: 50px;
@@ -3890,6 +3895,8 @@ ul.list-of-services li:hover img {
   .top-tbulars ul li a:hover{color:#7C164B;}
 
   .table-content table td{padding:20px 15px;vertical-align: middle;}
+
+
 
 
 

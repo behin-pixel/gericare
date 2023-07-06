@@ -130,6 +130,10 @@ within 24 hours.</span>
 										<option value="Geri Care Home Care">Geri Care Home Care</option>	
 										 
 										</select>
+								</div> 
+								<div class="col-sm-12 col-md-6 col-lg-6">
+									<label class="text-light">Name<span class="text-danger">*</span></label>
+									<input type="text" name="name" id="aname" class="form-control" />
 								</div>
 								<div class="col-sm-12 col-md-6 col-lg-6">
 									<div class=" date">
@@ -143,10 +147,6 @@ within 24 hours.</span>
 								<div class="col-sm-12 col-md-6 col-lg-6">
 									<label class="text-light">Appointment Time (HH:MM:DAY)</label>	
 									<input type="time" class="form-control" placeholder="HH/MM" name="appointment_time"  id=""/>
-								</div> 
-								<div class="col-sm-12 col-md-6 col-lg-6">
-									<label class="text-light">Name<span class="text-danger">*</span></label>
-									<input type="text" name="name" id="aname" class="form-control" />
 								</div>
 								<div class="col-sm-12 col-md-6 col-lg-6">
 									<label class="text-light">Email </label>
