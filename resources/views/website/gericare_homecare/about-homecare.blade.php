@@ -59,7 +59,7 @@ Our experienced caregivers have been delivering affordable and reliable care in 
 <img src="{{ asset('/public/website/assets/images/icon-1.png') }}" alt="" class="" />
 <h4> Meet Our Experts </h4>
 <p> Select a doctor and schedule <br>an appointment. </p>
-<a href="{{ url('/gericare-hospital/hospital-doctors') }}"> View All Doctors <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
+<a href="{{ url('our-doctors') }}"> View All Doctors <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
 </div>
 
 <div class="servce">
@@ -129,7 +129,7 @@ Our experienced caregivers have been delivering affordable and reliable care in 
 <div class="minrester">
 <h4>Geriatric Physiotherapy at Home</h4>
 <p>Geriatric physiotherapy involves specialized physical therapy techniques ...</p>
-<a href="{{ url('/gericare-homecare/service-we-offer/geriatric-physiotherapy-at-home') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
+<a href="{{ url('physio-care') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
 </div>
 </div>
 
@@ -138,7 +138,7 @@ Our experienced caregivers have been delivering affordable and reliable care in 
 <div class="minrester">
 <h4>Psychiatrist Home Visits</h4>
 <p>During these visits, our psychiatrist will assess symptoms, prescribe appropriate medications ...</p>
-<a href="{{ url('/gericare-homecare/service-we-offer/psychiatrist-home-visit') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
+<a href="{{ url('psychiatrist-for-home-visit') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
 </div>
 </div>
 
@@ -147,7 +147,7 @@ Our experienced caregivers have been delivering affordable and reliable care in 
 <div class="minrester">
 <h4>Orthopedician Home Visits</h4>
 <p>Our Orthopedic specialists visit patients at their homes to assess and manage ...</p>
-<a href="{{ url('/gericare-homecare/service-we-offer/orthopedician-home-visit') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
+<a href="{{ url('orthopedician-home-visit') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
 </div>
 </div>
 
@@ -156,7 +156,7 @@ Our experienced caregivers have been delivering affordable and reliable care in 
 <div class="minrester">
 <h4>Dentist Home Visits</h4>
 <p> Our Geriatric Dentistry expert offers dental care at the patient's home, by performing ...</p>
-<a href="{{ url('/gericare-homecare/service-we-offer/dentist-home-visit') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
+<a href="{{ url('dentist-at-home') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
 </div>
 </div>
 
@@ -165,7 +165,7 @@ Our experienced caregivers have been delivering affordable and reliable care in 
 <div class="minrester">
 <h4>IV Fluids Monitoring</h4>
 <p>In certain situations, such as dehydration or specific medical conditions, the administration ...</p>
-<a href="{{ url('/gericare-homecare/service-we-offer/iv-fluids-monitoring') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
+<a href="{{ url('iv-fluids-monitoring') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
 </div>
 </div>
 
@@ -174,7 +174,7 @@ Our experienced caregivers have been delivering affordable and reliable care in 
 <div class="minrester">
 <h4>Urinary Catheterization</h4>
 <p>When appropriate, our professionals can perform urinary catheterization at home. ...</p>
-<a href="{{ url('/gericare-homecare/service-we-offer/urinary-catheterization') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
+<a href="{{ url('urinary-catheterization-at-home') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
 </div>
 </div>
 

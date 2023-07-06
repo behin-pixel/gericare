@@ -57,7 +57,7 @@ The key focus areas of our specialization include medication management, fall pr
 <img src="{{ asset('/public/website/assets/images/icon-1.png') }}" alt="" class="" />
 <h4> Meet our Experts </h4>
 <p> Choose a Geriatric Expert for a Consultation </p>
-<a href="{{ url('/gericare-hospital/hospital-doctors') }}"> View All Doctors <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
+<a href="{{ url('our-doctors') }}"> View All Doctors <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
 </div>
 
 <div class="servce">
@@ -135,7 +135,7 @@ The key focus areas of our specialization include medication management, fall pr
 
 </div>
 
-<a  id="hospital-faclitiys"></a>
+<a  id="hospital-facilities"></a>
 </div>
 </div>
 </section>
@@ -547,8 +547,8 @@ chosen for you</h2>
 <span>Senior Consultant Geriatrician</span>
 </div> 
 <div class="de-detl-btn">
-<a href="{{ url('/gericare-hospital/hospital-doctors/dr-lakshmipathy') }}"> Book Appointment </a>
-<a href="{{ url('/gericare-hospital/hospital-doctors/dr-lakshmipathy') }}"> <i class="fa fa-eye" aria-hidden="true"></i> </a>
+<a href="{{ url('our-doctors/dr-lakshmipathy') }}"> Book Appointment </a>
+<a href="{{ url('our-doctors/dr-lakshmipathy') }}"> <i class="fa fa-eye" aria-hidden="true"></i> </a>
 </div>
 </div>
 
@@ -560,8 +560,8 @@ chosen for you</h2>
 </div> 
 <div class="de-detl-btn">
 <!-- <a href="{{ url('book-appointment') }}"> Book Appointment </a> -->
-<a href="{{ url('/gericare-hospital/hospital-doctors/dr-srinivas') }}">Book Appointment</a>
-<a href="{{ url('/gericare-hospital/hospital-doctors/dr-srinivas') }}"> <i class="fa fa-eye" aria-hidden="true"></i> </a>
+<a href="{{ url('our-doctors/dr-srinivas') }}">Book Appointment</a>
+<a href="{{ url('our-doctors/dr-srinivas') }}"> <i class="fa fa-eye" aria-hidden="true"></i> </a>
 </div>
 </div>
 
@@ -572,8 +572,8 @@ chosen for you</h2>
 <span>Consultant Geriatrician</span>
 </div> 
 <div class="de-detl-btn">
-<a href="{{ url('/gericare-hospital/hospital-doctors/dr-magesh ') }}"> Book Appointment </a>
-<a href="{{ url('/gericare-hospital/hospital-doctors/dr-magesh ') }}"> <i class="fa fa-eye" aria-hidden="true"></i> </a>
+<a href="{{ url('our-doctors/dr-magesh ') }}"> Book Appointment </a>
+<a href="{{ url('our-doctors/dr-magesh ') }}"> <i class="fa fa-eye" aria-hidden="true"></i> </a>
 </div>
 </div>
 
@@ -596,15 +596,15 @@ chosen for you</h2>
 <span>Consultant Geriatrician</span>
 </div> 
 <div class="de-detl-btn">
-<a href="{{ url('/gericare-hospital/hospital-doctors/dr-vasanth') }}"> Book Appointment </a>
-<a href="{{ url('/gericare-hospital/hospital-doctors/dr-vasanth') }}"> <i class="fa fa-eye" aria-hidden="true"></i> </a>
+<a href="{{ url('our-doctors/dr-vasanth') }}"> Book Appointment </a>
+<a href="{{ url('our-doctors/dr-vasanth') }}"> <i class="fa fa-eye" aria-hidden="true"></i> </a>
 </div>
 </div> 
 
 </div>
 
 <div class="cmn-brdrd-btn text-center">
-<a href="{{ url('/gericare-hospital/hospital-doctors') }}"> View All Doctors </a>
+<a href="{{ url('our-doctors') }}"> View All Doctors </a>
 </div>
 
 </div>

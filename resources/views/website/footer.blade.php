@@ -23,8 +23,8 @@
 					<h4>Quick links</h4>
 						<ul>
 							<li><a href="{{ url('/') }}">Home</a></li>
-							<li><a href="{{ url('/gericare-hospital/about-hospital') }}">About Us</a></li> 
-							<li><a href="{{ url('/gericare-assisted-living/about-assisted-living/#servce-cre') }}">Services</a></li> 
+							<li><a href="{{ url('gericare-hospital') }}">About Us</a></li> 
+							<li><a href="{{ url('assisted-living/#servce-cre') }}">Services</a></li> 
 							<li><a href="{{ url('/in-news/gallery') }}">Gallery</a></li>    
 						</ul>
 				</div>
@@ -39,10 +39,10 @@
 				<div class="quick-links">
 					<h4>Services</h4>
 						<ul>
-							<li><a href="{{ url('/gericare-hospital/about-hospital') }}">Geri Care Hospital</a></li> 
-							<li><a href="{{ url('/gericare-assisted-living/about-assisted-living') }}">Geri Care Assisted Living</a></li>
-							<li><a href="{{ url('/gericare-clinics/about-clinics') }}">Geri Care Clinics</a></li> 
-							<li><a href="{{ url('/gericare-homecare/about-homecare') }}">Geri Care Home Care</a></li> 
+							<li><a href="{{ url('gericare-hospital') }}">Geri Care Hospital</a></li> 
+							<li><a href="{{ url('assisted-living') }}">Geri Care Assisted Living</a></li>
+							<li><a href="{{ url('about-clinics') }}">Geri Care Clinics</a></li> 
+							<li><a href="{{ url('homecare') }}">Geri Care Home Care</a></li> 
 						</ul>
 				</div>
                         <div class="contact-links">
@@ -69,8 +69,8 @@
 <div class="menu-inrt">
 <ul> 
 <li>
-<a href="{{ url('/gericare-hospital/hospital-doctors') }}"><img src="{{ asset('/public/website/assets/images/do.png') }}"></a>
-<span><a href="{{ url('/gericare-hospital/hospital-doctors') }}">Find a Doctor</a></span>
+<a href="{{ url('our-doctors') }}"><img src="{{ asset('/public/website/assets/images/do.png') }}"></a>
+<span><a href="{{ url('our-doctors') }}">Find a Doctor</a></span>
 </li>
 <li>
 <a href="{{ url('contact-us') }}"><img src="{{ asset('/public/website/assets/images/lo.png') }}"></a>
