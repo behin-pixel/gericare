@@ -63,13 +63,13 @@
             </a>
         </li>
         @endif --}}
-        @if (   permission_check('BANNER_INDEX') || permission_check('ORGAN_INDEX') || permission_check('MEDIA_INDEX')  )
+        <!-- @if (   permission_check('BANNER_INDEX') || permission_check('ORGAN_INDEX') || permission_check('MEDIA_INDEX')  )
         <li>
             <a href="{{ route('banner.index') }}" class="nav-link text-white {{ Route::is(['banner.edit', 'banner.create', 'banner.index','organ.index','organ.update','organ.edit','organ.create','media.index','media.update','media.edit','media.create']) ? "active" : "" }}">
                 <i class="fa fa-cog"></i>Master
             </a>
         </li>
-        @endif
+        @endif -->
         @if (permission_check('TESTIMONIAL_INDEX'))
         <li>
             <a href="{{ route('testimonial.index') }}" class="nav-link text-white {{ Route::is(['testimonial.index', 'testimonial.edit', 'testimonial.create']) ? "active" : "" }}">

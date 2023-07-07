@@ -528,8 +528,8 @@ for Senior Citizens</span>
         <h4>Senior Consultant Nephrologist </h4>
         <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> M.B.B.S., MD (General Medicine), DM (Nephrology)</h5>
         <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class=""> Velachery </h5>
-        <a href="#">Book Appointment</a>
-        <a href="#">View Profile</a>
+        <a href="{{ url('our-doctors/dr-balamurugan-b') }}">Book Appointment</a>
+        <a href="{{ url('our-doctors/dr-balamurugan-b') }}">View Profile</a>
         </div>
         </div>
       </div>
