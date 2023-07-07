@@ -19,7 +19,7 @@ class CareerController extends Controller
 
         $validator      = Validator::make($request->all(), [          
             'name' => 'required',
-            'email' => 'required||email|unique:careers',
+            'email' => 'required',
             'mobile' => 'required',
            // 'designation' => 'required',
             //'experience' => 'required',
