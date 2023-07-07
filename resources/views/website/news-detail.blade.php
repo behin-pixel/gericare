@@ -53,7 +53,7 @@ Gericare Hospital was commissioned by senior geriatrician V.S. Natarajan, cardio
 </div>
 <div class="news-evnts-btns d-flex">
 <div class="cmn-brdrd-btn">
-<a href=" "> Watch Video </a>
+<a data-fancybox="gallery5" href="https://www.youtube.com/embed/fT7G1hF3YLU"  data-caption="Nalanthana with Geriatrician Dr. Srinivasan | Sun Life Show"> Watch Video </a>
 </div>
 <div class="common-button drk">
 <a href="https://www.thehindu.com/news/cities/chennai/specialiased-hospital-for-geriatric-care-launched-in-chennai/article33133381.ece" target="_blank">Know More</a>

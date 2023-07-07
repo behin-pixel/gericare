@@ -3903,6 +3903,14 @@ ul.list-of-services li:hover img {
 
 .tank-you-cont h4{font-size: 36px;color:#7C164B;font-weight: 700;font-family: 'Red Hat Display', sans-serif;margin-bottom: 0px;}
 
+.gm-ui-hover-effect {
+    opacity: .8 !important;
+  }
+
+.gm-ui-hover-effect > span {background-color: #fff !important; }
+button.gm-ui-hover-effect:hover{opacity: 1 !important;}
+button.gm-ui-hover-effect{background-color:#ff0000 !important;top:0 !important;right:0 !important;}
+
 
 
 
