@@ -29,9 +29,17 @@ class CareerMail extends Mailable
     public function build()
     {
         $image_name=$this->mailData['filename'];
-        $location = storage_path("app/public/career/".$image_name);
-         return $this->subject($this->mailData['subject'])
-        ->view('mail.career_mail')->attach($location);
+        if( $image_name!='')
+        {
+            $location = storage_path("app/public/career/".$image_name);
+            return $this->subject($this->mailData['subject'])
+           ->view('mail.career_mail')->attach($location);
+        }
+       else
+       {      
+        return $this->subject($this->mailData['subject'])
+       ->view('mail.career_mail');
+       }
   
     }
 }
