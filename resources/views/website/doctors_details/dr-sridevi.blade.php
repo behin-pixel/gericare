@@ -39,7 +39,7 @@ $name='Dr Sreedevi';
 
 <div class="col-lg-4">
 <div class="doc-tor-img">
-<img src="{{ asset('/public/website/assets/images/doctor-img-21.jpg') }}" alt="" class="w-100">
+<img src="{{ asset('/public/website/assets/images/doctor-img-29.jpg') }}" alt="" class="w-100">
 </div>
 </div>
 

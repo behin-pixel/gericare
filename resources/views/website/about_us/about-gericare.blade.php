@@ -37,11 +37,10 @@ in the Country.</span>
 <div class="col-lg-6">
 <div class="">
 <div class="common-heading">
-<h2>Transforming Lives Through <br>
-Personalized Care</h2>
+<h2>Transforming Lives through<br> Personalized Care</h2>
 </div>
 <div class="common-para">
-<p>Geri Care, a name that resonates with comprehensive medical, nursing and physiotherapy treatments, has been operating in the realm of specialised geriatric care services for more than three decades. </p>
+<p>Gaeri Care, a name that resonates with extensive medical, nursing and physiotherapy treatments has been operating in the realm of specialized geriatric care services for more than three decades. </p>
 <p>From personalised home care to clinical interventions, and hospital services to assisted living during and after recovery, Geri Care is a continuum of 360 care that reflects utmost respect for the trade and compassion for fellow human beings.</p>
 </div>
 </div>
@@ -115,25 +114,25 @@ Personalized Care</h2>
 <div class="cario-seters">
 <span><img src="{{ asset('/public/website/assets/images/cardio-1.png') }}" alt="" class="" /></span>
 <h4>Expert Geriatricians</h4>
-<p>Our geriatric professionals have received training from reputable institutions and served as Consultants in prestigious hospitals in the UK, and provided exceptional care and training to doctors and allied health professionals.</p>
+<p>Our Geriatric professionals have undergone exemplary training at renowned institutions including Madras Medical College (MMC) in Chennai and the All India Institute of Medical Sciences (AIIMS) in New Delhi. Additionally, they have gained valuable experience as consultants in esteemed hospitals overseas, particularly in the United Kingdom (UK). </p>
 </div> 
 
 <div class="cario-seters">
 <span><img src="{{ asset('/public/website/assets/images/cardio-2.png') }}" alt="" class="" /></span>
 <h4>Multi-disciplinary Approach</h4>
-<p>We bring cutting-edge research and innovative approaches to the forefront of excellence in geriatric care, alongside the combined care and expertise of doctors, nurses, counsellors, lab technicians, wardens and caregivers.</p>
+<p>We bring cutting-edge research and innovative approaches to the forefront of excellence in geriatric care.</p>
 </div>
 
 <div class="cario-seters">
 <span><img src="{{ asset('/public/website/assets/images/cardio-3.png') }}" alt="" class="" /></span>
 <h4>Unique Health Culture</h4>
-<p>Highly regarded for our distinctive culture of treating every client with care, compassion, dignity and respect, we are also valued for our holistic approach and tailored treatment plans.</p>
+<p>We prioritize tailored treatment plans and comprehensive care to ensure a remarkable hospital experience.</p>
 </div>
 
 <div class="cario-seters">
 <span><img src="{{ asset('/public/website/assets/images/cardio-4.png') }}" alt="" class="" /></span>
 <h4>Continuity of Care</h4>
-<p>We adopt a continued and uninterrupted approach to care in the form of specialised clinics, inpatient care options and rehabilitation services for recovery, either at home or in assisted living facilities.</p>
+<p>From acute hospital care to our day hospital and outpatient clinics, along with personalized rehabilitation and assisted living options, we ensure the highest level of medical support and comfort.</p>
 </div> 
 
 </div>

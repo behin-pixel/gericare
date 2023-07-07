@@ -17,16 +17,11 @@
 
 <div class="col-lg-12">
 <div class="common-heading text-center">
-<h2>India’s 1<sup>st</sup> Multi-speciality Hospital<br> envisioned by 
+<h2>India’s 1<sup>st</sup> Multi-Speciality Hospital<br> envisioned by 
 Expert Geriatricians</h2>
 </div>
 <div class="seconday-paragraph text-center">
-Pioneers in multi-speciality, exclusively dedicated to the healthcare requirements of the elderly, Geri Care understands the complexities and common health conditions associated with aging - Dementia, Cardiovascular diseases, Arthritis, and Mobility issues to name a few - and it is this specialized knowledge that helps us tailor plans and preventive measures.<br> <br> 
-
-Equipped with state-of-the-art diagnostic facilities, specialized equipment, and cutting-edge technology to support accurate diagnosis and effective treatment, our hospitals offer a comprehensive range of services encompassing preventive care, chronic disease management, acute care, 
-and post-operative care.<br> <br> 
-
-The key focus areas of our specialization include medication management, fall prevention, pain management, and palliative care and it is here that our expertise is best reflected by way of best possible care. 
+Geri Care, India's 1<sup>st</sup> multi-speciality hospital, is the visionary brainchild of renowned geriatricians, Dr. LPR and Dr. Srinivas. Their extensive experience and expertise have enabled them to assemble a team of professionals from various medical disciplines who possess a deep understanding of the complexities and common health conditions associated with the elderly. <br><br>Unlike traditional hospitals, our revolutionary approach involves a cohesive and coordinated team that collaboratively designs personalized care plans, eliminating the need for multiple consultations with minimal or no coordination. At Geri Care, we are dedicated to redefining elderly healthcare with a truly comprehensive and integrated approach. 
 </div>
 </div>
 
@@ -86,7 +81,12 @@ The key focus areas of our specialization include medication management, fall pr
 
 <div class="age-layer">
 <h4>Expert Geriatricians </h4>
-<p>Our geriatric professionals have received training from reputable institutions & served as Consultants in prestigious hospitals in the UK</p>
+<p>Our Geriatric professionals have undergone exemplary training at renowned institutions including Madras Medical College (MMC) in Chennai and the All India Institute of Medical Sciences (AIIMS) in New Delhi. Additionally, they have gained valuable experience as consultants in esteemed hospitals overseas, particularly in the United Kingdom (UK). </p>
+</div>
+
+<div class="age-layer">
+<h4>Continuity of Care</h4>
+<p>From acute hospital care to our day hospital and outpatient clinics, along with personalized rehabilitation and assisted living options, we ensure the highest level of medical support and comfort.</p>
 </div>
 
 <div class="age-layer">
@@ -96,13 +96,10 @@ The key focus areas of our specialization include medication management, fall pr
 
 <div class="age-layer">
 <h4>Unique Health Culture</h4>
-<p>We are valued for our holistic approach and tailored treatment plans that form part of a holistic healing experience.</p>
+<p>We prioritize tailored treatment plans and comprehensive care to ensure a remarkable hospital experience.</p>
 </div>
 
-<div class="age-layer">
-<h4>Continuity of Care</h4>
-<p>We adopt a continued and uninterrupted approach to treatments, that is unique to Geri Care.</p>
-</div>
+
 
 </div> 
 

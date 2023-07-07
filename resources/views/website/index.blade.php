@@ -87,7 +87,7 @@
 <div class="logos-pot">
 <img src="{{ asset('/public/website/assets/images/logo-1.png') }}" alt="">
 </div>
-<span>Enjoy a first-of-its-kind, 24 x 7 Assisted Living & Skilled Nursing Home services, under the expert care of Geriatricians.</span>
+<span>Experience the first-of-its-kind, 24x7 Assisted living & skilled nursing home services from the expert care of Geriatricians.</span>
 <div class="red-mre">
 <a href="{{ url('assisted-living') }}">Read More <img src="{{ asset('/public/website/assets/images/red-mre.png') }}" alt=""></div></a>
 </div>
@@ -110,7 +110,7 @@
 <div class="logos-pot">
 <img src="{{ asset('/public/website/assets/images/logo-4.png') }}" alt="">
 </div>
-<span>Get expert geriatric care in a peripheral clinic, and avoid long waiting hours in hospitals for minor issues.</span>
+<span>Experience the best geriatric care now - Say goodbye to long waits and hello to exceptional treatment at Geri Care Clinic! Book your appointment today.</span>
 <div class="red-mre">
 <a href="{{ url('about-clinics') }}">Read More <img src="{{ asset('/public/website/assets/images/red-mre.png') }}" alt=""></div></a>
 </div>
@@ -164,7 +164,7 @@
 </div>
 
 <div class="common-para">
-<p>Geri Care, a name that resonates with comprehensive medical, nursing and physiotherapy treatments, has been operating in the realm of specialised geriatric care services for more than three decades. </p>
+<p>Gaeri Care, a name that resonates with extensive medical, nursing and physiotherapy treatments has been operating in the realm of specialized geriatric care services for more than three decades. </p>
 </div>
 
 <div class="common-button drk">

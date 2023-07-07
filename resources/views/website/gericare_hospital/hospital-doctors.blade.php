@@ -5,7 +5,7 @@
 <section class="inner-banner p-0">
 
 <div class="">
-<img src="{{ asset('/public/website/assets/images/banners/inner-banner-1.jpg') }}" alt="" class="w-100" />
+<img src="{{ asset('/public/website/assets/images/banners/inner-banner-8.jpg') }}" alt="" class="w-100" />
 </div> 
 
 <div class="banner-liners">
@@ -210,7 +210,7 @@ Uro Gynaecology
       
     <div class="dctrs-detls">
      <div class="dctrm-img">
-     <img src="{{ asset('/public/website/assets/images/magesh.jpg') }}" alt="Dr. Magesh R - Consultant Geriatrician" class="">
+     <img src="{{ asset('/public/website/assets/images/dcv.jpg') }}" alt="Dr. Magesh R - Consultant Geriatrician" class="w-100">
      </div>
      <div class="dctrm-deitals">
      <h3> Dr. Magesh R </h3>
@@ -453,7 +453,7 @@ Uro Gynaecology
 
         <div class="dctrs-detls">
         <div class="dctrm-img">
-        <img src="{{ asset('/public/website/assets/images/no-img.jpg') }}" alt="" class="">
+        <img src="{{ asset('/public/website/assets/images/doctor-img-28.jpg') }}" alt="" class="">
         </div>
         <div class="dctrm-deitals">
         <h3> Dr Srinivas Rajkumar T </h3>
@@ -486,7 +486,7 @@ Uro Gynaecology
         <h4>Geriatric Psychology</h4>
         <div class="dctrs-detls">
         <div class="dctrm-img">
-        <img src="{{ asset('/public/website/assets/images/no-img.jpg') }}" alt="" class="">
+        <img src="{{ asset('/public/website/assets/images/doctor-img-30.jpg') }}" alt="" class="">
         </div>
         <div class="dctrm-deitals">
         <h3> Mrs. Tinu Thamby T  </h3>
@@ -621,7 +621,7 @@ Uro Gynaecology
         </div>
         <div class="dctrs-detls">
         <div class="dctrm-img">
-        <img src="{{ asset('/public/website/assets/images/doctor-img-21.jpg') }}" alt="" class="">
+        <img src="{{ asset('/public/website/assets/images/doctor-img-29.jpg') }}" alt="" class="">
         </div>
         <div class="dctrm-deitals">
         <h3>Dr. Sreedevi</h3>

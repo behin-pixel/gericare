@@ -43,8 +43,8 @@ under the expert care of Geriatricans</span>
 to assist those in need. </h2>
 </div>
 <div class="seconday-paragraph text-center">
-In a revolutionary attempt, we at Geri Care offer 24/7 Assisted Living designed to cater to the specific needs of older adults who require medical attention and support in their day to day lives. 
-Our facility houses a comprehensive range of services and amenities that provide residents with utmost comfort, safety and a homely atmosphere under the supervision of professional experts. The constant availability of care helps alleviate concerns and provides peace of mind to both residents and their families.<br>
+In an innovative endeavor, Geri Care offers 24/7 Assisted Living and Skilled Nursing Facility in Chennai, specifically designed to cater to the specific needs of older adults who require medical attention and support in their day-to-day lives. Our state-of-the-art facility houses a comprehensive range of services and amenities that provide residents in Chennai, ensuring utmost comfort, safety, and a homely atmosphere. Our professional experts, and our dedicated team provides constant availability of care, alleviating concerns and offering peace of mind to both residents and their families. <br> <br> 
+Choose Geri Care for trusted Assisted Living and Skilled Nursing Facility in Chennai, where personalized care and well-being are our top priorities.<br>
 </div>
 </div>
 
@@ -70,7 +70,7 @@ Our facility houses a comprehensive range of services and amenities that provide
 
 <div class="servce">
 <img src="{{ asset('/public/website/assets/images/icon-3.png') }}" alt="" class="" />
-<h4> Book your visit </h4>
+<h4> Book your Visit </h4>
 <p> Schedule an appointment to <br>check out our facility </p>
 <a href="{{ url('book-appointment') }}"> Book Your Appointment <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
 </div>
@@ -200,7 +200,7 @@ Our facility houses a comprehensive range of services and amenities that provide
 </div>
 
 <div class="common-parra aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
-<p>At Geri Care, we acknowledge the unique challenges faced by individuals with Dementia/Alzheimer's and tailored plans to cater to their specific needs. Our person-centered approach takes into account personal history, preferences, and abilities, and ensures that residents feel valued, respected, and empowered in their daily lives.</p>
+<p>At Geri Care, our Dementia Care goes beyond objective assessments. Our dedicated team of Geriatricians, Psychiatrists, and Psychologists ensures a comprehensive evaluation of physical and mental health. We prioritize individualized care, considering hobbies, interests, and lifestyle to create a tailored activity schedule. As dementia progresses our care plan evolves but never compromising on meeting our patients' needs.</p>
 </div> 
 			  
 </div>

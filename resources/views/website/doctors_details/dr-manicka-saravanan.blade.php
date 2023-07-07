@@ -124,7 +124,41 @@
 <h4>Conference presentations</h4> 
 
 <ul>
-<li>Subramanian MS, Singh V, Chatterjee P, Dwivedi SN, Dey AB. Prevalence and predictors of falls in a health-seeking older population: An outpatient-based study. Aging Med. 2020;00:1–7. https ://doi.org/10.1002/agm2.12096</li>
+<li><storng><em>AGS Annual meet, Los Angeles; May 2023</em></strong><br>
+<strong>Biological aging Index score (BAIS); Development of a predictive model to quantify biological age.</strong><br>
+Bhattarai Urza, Chatterjee Prasun, Gautam Arun, Saravanan Manicka, Khan Maroof, Dey A B
+</li>
+
+	<li><storng>1st WCFPS, Kuala Lumpur December 2019</strong><br>
+	<strong>Correlates of falls in health-seeking older Indian population.</strong><br>
+	Manicka Saravanan Subramanian, Vishwajeet Singh, Prashun Chatterjee, Sadanand Dwivedi, Aparajit Ballav Dey
+</li>
+
+<li><storng>15th EuGMS, Krakow September 2019</strong><br>
+	<strong>Frailty in the health-seeking older population: Findings from an Indian registry.</strong><br>
+	Subramanian Manicka Saravanan, Gunasekaran Venugopalan, Chatterjee Prashun, Sadanand Dwivedi, Dey Aparajit Ballav
+</li>
+
+<li><storng>21st IAGG, San Francisco;July 2017</strong><br>
+	<strong>Assessment of gait and balance in older Indians.</strong><br>
+	Manicka Saravanann, Prashun Chatterjee, Avinash Chakrawarty, A.B.Dey
+</li>
+
+
+<li><storng>Indian Ageing congress, November 2016</strong><br>
+	<strong>Assessment of gait and balance in the oldest old.</strong><br>
+	Manicka Saravanan, Prashun Chatterjee, Avinash Chakrawarty, A.B.Dey
+</li>
+
+<li><storng>3rd International conference on Gerontology and Geriatric Medicine (ICGGM) and international network for the prevention of Elder Abuse (INPEA); New Delhi November 2015</strong><br>
+	<strong>A study of functionality and cognitive decline in the oldest old.</strong><br>
+	Manicka Saravanan S, Akash Kumar Ambashtha, AB Dey
+</li>
+
+<li><storng>12th annual conference of the Indian Academy of Geriatrics (IAG); GERICON September 2015; Chandigarh</strong><br>
+	<strong>Validation of new clinical protocols for detection of frailty among older Indians.</strong><br>
+	Manicka Saravanan S, Venugopalan G, Navinath Mohan, AB Dey
+</li>
 
 
 </ul>
@@ -133,47 +167,7 @@
 
 
 
-<table class="table table-bordered"> 
-  <tbody>
-    <tr> 
-      <td><b>Biological aging Index score (BAIS); Development of a predictive model to quantify biological age</b> <br>
-	  <br>Bhattarai Urza, Chatterjee Prasun, Gautam Arun, Saravanan Manicka, Khan Maroof, Dey A B</td>
-      <td>AGS Annual meet, Los Angeles; May 2023</td>
-    </tr> 
-    <tr> 
-      <td><b>Correlates of falls in health-seeking older Indian population</b> <br>
-	  <br><b>Manicka Saravanan Subramanian</b>, Vishwajeet Singh, Prashun Chatterjee, Sadanand Dwivedi, Aparajit Ballav Dey</td>
-      <td>1st WCFPS, Kuala Lumpur December 2019</td>
-    </tr>  
-    <tr> 
-      <td><b>Frailty in the health-seeking older population: Findings from an Indian registry</b> <br>
-	  <br><b>Subramanian Manicka Saravanan</b>, Gunasekaran Venugopalan, Chatterjee Prashun, Sadanand Dwivedi, Dey Aparajit Ballav</td>
-      <td>15th EuGMS, Krakow September 2019 </td>
-    </tr>  
-    <tr> 
-      <td><b>Assessment of gait and balance in older Indians</b> <br>
-	  <br><b>Manicka Saravanann</b>, Prashun Chatterjee, Avinash Chakrawarty, A.B.Dey</td>
-      <td>21st IAGG, San Francisco;July 2017</td>
-    </tr>   
-    <tr> 
-      <td><b>Assessment of gait and balance in the oldest old</b> <br>
-	  <br><b>Manicka Saravanan</b>, Prashun Chatterjee, Avinash Chakrawarty, A.B.Dey</td>
-      <td>Indian Ageing congress, November 2016</td>
-    </tr>    
-    <tr> 
-      <td><b>A study of functionality and cognitive decline in the oldest old</b> <br>
-	  <br><b>Manicka Saravanan S</b>, Akash Kumar Ambashtha, AB Dey</td>
-      <td>3rd International conference on Gerontology and Geriatric Medicine (ICGGM) and international network for the prevention of Elder Abuse (INPEA); New Delhi November 2015</td>
-    </tr>     
-    <tr> 
-      <td><b>Validation of new clinical protocols for detection of frailty among older Indians</b> <br>
-	  <br><b>Manicka Saravanan S</b>, Venugopalan G, Navinath Mohan, AB Dey</td>
-      <td>12th annual conference of the Indian Academy of Geriatrics (IAG); GERICON September 2015; Chandigarh
-	</td>
-    </tr> 
-  </tbody>
-
-  </table> 
+ 
 </div>
 
 </div>
