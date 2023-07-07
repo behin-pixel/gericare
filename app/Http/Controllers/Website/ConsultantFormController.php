@@ -129,7 +129,7 @@ class ConsultantFormController extends Controller
     }
     public function serviceAppThanks()
     {
-        return view('website.service-appointmnet-thanks');
+        return view('website.book-appointmnet-thanks');
     }
     public function departmentAppThanks()
     {

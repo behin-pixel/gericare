@@ -185,7 +185,7 @@
                       }
                       else if(res.from_page=='service_appointment')
                       {
-                        window.location.href = '{{ route("serviceapp.thanks")}}';
+                        window.location.href = '{{ route("service.appointment.thanks")}}';
                       }
                       else
                       {

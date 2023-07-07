@@ -43,6 +43,7 @@
 </div>
 </div> 
 @foreach ($testimonial as $testimonials )
+@if($testimonials['video_link']!='')
 @php 
 $link = $testimonials['video_link'];
 $video_id = explode("?v=", $link);
@@ -54,6 +55,7 @@ $video_id = $video_id[1];
 <span>{{$testimonials['title']}}</span>
 </a> 
 </div> 		
+@endif
 @endforeach 
 
 </div>
