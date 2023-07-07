@@ -289,28 +289,28 @@ Choose Geri Care for trusted Assisted Living and Skilled Nursing Facility in Che
 <div class="geric-img">
 <img src="{{ asset('/public/website/assets/images/fac-1.png') }}" alt="" class=""> 
 </div>
-<span> Daily Doctor visit </span>    
+<span> Daily doctor visit </span>    
 </li>
 
 <li>
 <div class="geric-img">
   <img src="{{ asset('/public/website/assets/images/fac-2.png') }}" alt="" class=""> 
   </div>
-  <span> Medication management </span>    
+  <span>  Medication management  </span>    
 </li>
 
 <li>
 <div class="geric-img">
   <img src="{{ asset('/public/website/assets/images/fac-3.png') }}" alt="" class=""> 
   </div>
-  <span> 24 x 7 skilled nursing availability </span>    
+  <span> 24x7 skilled nursing availability </span>    
 </li>
 
 <li>
 <div class="geric-img">
   <img src="{{ asset('/public/website/assets/images/fac-4.png') }}" alt="" class=""> 
   </div>
-  <span> Nutritiously Curated Food </span>    
+  <span> Nutritiously curated food </span>    
 </li>
 
 <li>
@@ -324,7 +324,7 @@ Choose Geri Care for trusted Assisted Living and Skilled Nursing Facility in Che
 <div class="geric-img">
   <img src="{{ asset('/public/website/assets/images/fac-6.png') }}" alt="" class=""> 
   </div>
-  <span> Periodic Whatsapp communication </span>    
+  <span> Periodic WhatsApp communication </span>    
 </li>
 
 <li>
@@ -338,21 +338,21 @@ Choose Geri Care for trusted Assisted Living and Skilled Nursing Facility in Che
 <div class="geric-img">
   <img src="{{ asset('/public/website/assets/images/fac-8.png') }}" alt="" class=""> 
   </div>
-  <span> 24 x 7 emergency coordination </span>    
+  <span> 24x7 emergency coordination </span>    
 </li>
 
 <li>
 <div class="geric-img">
   <img src="{{ asset('/public/website/assets/images/fac-9.png') }}" alt="" class=""> 
   </div>
-  <span> Three levels of Nursing Care  </span>    
+  <span> Three Levels of nursing care  </span>    
 </li>
 
 <li>
 <div class="geric-img">
   <img src="{{ asset('/public/website/assets/images/fac-10.png') }}" alt="" class=""> 
   </div>
-  <span> Weekly Geriatrician visit & medical review </span>    
+  <span> Weekly geriatrician visits & medical review </span>    
 </li>
 
 <li>
@@ -366,14 +366,14 @@ Choose Geri Care for trusted Assisted Living and Skilled Nursing Facility in Che
 <div class="geric-img">
 <img src="{{ asset('/public/website/assets/images/fac-12.png') }}" alt="" class=""> 
 </div>
-<span> Initial Comprehensive Geriatric Assessment (CGA) </span>    
+<span> Initial comprehensive geriatric assessment (CGA) </span>    
 </li>
 
 <li>
 <div class="geric-img">
   <img src="{{ asset('/public/website/assets/images/fac-13.png') }}" alt="" class=""> 
   </div>
-  <span> Fully furnished elder-friendly accomodations </span>    
+  <span> Fully furnished elder-friendly accommodations </span>    
 </li>
 
 <li>

@@ -5125,6 +5125,7 @@ img.resp-onsive {
 
 
 @media(max-width: 767px) {
+    .common-para p br{display: none;}
     .gertiarics{display: none;}
     .facity-img p{font-size:14px;}
     .cario-seters{margin-left: 0px;margin-top: 30px;}

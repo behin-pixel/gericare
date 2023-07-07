@@ -485,7 +485,7 @@ chosen for you</h2>
 <li>
 <a href="{{ url('hospital-departments') }}">
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-15.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-17.png') }}" alt="" class=""> 
   </div>
   <span> ENT </span>   
 </a>  

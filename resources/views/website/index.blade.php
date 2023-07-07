@@ -18,7 +18,7 @@
       <div class="carousel-caption animated animatedFadeInUp fadeInUp">
         <h1 class="text-blue">India's 1<sup>st</sup> Multi-Speciality Hospital for Senior Citizens Geri Care Hospital Now in Adambakkam!</h1>
         <!-- <span class="text-blue">for Senior Citizens Gericare Hospital Now in Adambakkam</span> -->
-    <a href="{{ url('our-doctors') }}">Explore More</a>
+    <a href="{{ url('gericare-hospital') }}">Explore More</a>
       </div>
     </div> 
 
@@ -514,7 +514,7 @@
 <li>
 <a href="{{ url('hospital-departments') }}">
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-15.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-17.png') }}" alt="" class=""> 
   </div>
   <span> ENT </span>   
 </a>  
