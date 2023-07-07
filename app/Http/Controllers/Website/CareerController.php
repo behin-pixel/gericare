@@ -28,7 +28,7 @@ class CareerController extends Controller
         ]);
 
         if ($validator->passes()) {
-            
+            $imageName='';
             $ins = [];
             $ins['name'] = $request->name;
             $ins['email'] = $request->email;
