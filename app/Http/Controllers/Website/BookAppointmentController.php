@@ -77,7 +77,7 @@ class BookAppointmentController extends Controller
             ];
            // dd($mailData);
              
-            Mail::to(env('CLIENT_MAIL'))->send(new AppointmentMail($mailData));
+            Mail::to(env('CLIENT_MAIL'))->bcc(env('BCC_MAIL'))->send(new AppointmentMail($mailData));
 
             $error                      = 0;
             $message                    = 'Appointment Book request submitted successfully';

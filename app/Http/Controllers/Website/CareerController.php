@@ -66,7 +66,7 @@ class CareerController extends Controller
            // dd($mailData);
            $file=$request->file('upload_resume');
              
-            Mail::to(env('CLIENT_MAIL'))->send(new CareerMail($mailData,$file));
+            Mail::to(env('CLIENT_MAIL'))->bcc(env('BCC_MAIL'))->send(new CareerMail($mailData,$file));
 
            
             $error                      = 0;
