@@ -34,12 +34,12 @@ Route::get('gericare-hospital',[PageViewController::class,'aboutHospitalPage'])-
 
 Route::post('/consultant/form/save',[ConsultantFormController::class,'submitConsultantForm'])->name('consultant.form.submit');
 Route::get('/contact/thanks',[ConsultantFormController::class,'contactThanks'])->name('contact.thanks');
-Route::get('/consultant/thanks',[ConsultantFormController::class,'consultantThanks'])->name('consultant.thanks');
-Route::get('/callback/thanks',[ConsultantFormController::class,'callBackThanks'])->name('callback.thanks');
-Route::get('/career/thanks',[ConsultantFormController::class,'careerThanks'])->name('career.thanks');
-Route::get('/doctorapp/thanks',[ConsultantFormController::class,'doctorAppThanks'])->name('doctorapp.thanks');
-Route::get('/serviceapp/thanks',[ConsultantFormController::class,'serviceAppThanks'])->name('serviceapp.thanks');
-Route::get('/departapp/thanks',[ConsultantFormController::class,'departmentAppThanks'])->name('departapp.thanks');
+Route::get('/consultant-thanks',[ConsultantFormController::class,'consultantThanks'])->name('consultant.thanks');
+Route::get('/callback-thanks',[ConsultantFormController::class,'callBackThanks'])->name('callback.thanks');
+Route::get('/career-thanks',[ConsultantFormController::class,'careerThanks'])->name('career.thanks');
+Route::get('/doctor-appointment-thanks',[ConsultantFormController::class,'doctorAppThanks'])->name('doctorapp.thanks');
+Route::get('/book-appointment-thanks',[ConsultantFormController::class,'serviceAppThanks'])->name('serviceapp.thanks');
+Route::get('/department-thanks',[ConsultantFormController::class,'departmentAppThanks'])->name('departapp.thanks');
 
 Route::post('/consultant/req_form/save',[ConsultantFormController::class,'submitConsultantReqForm'])->name('consultant.form.req_submit');
 Route::post('/appointment/form/save',[BookAppointmentController::class,'saveAppointment'])->name('appointment.form.submit');
