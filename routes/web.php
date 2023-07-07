@@ -90,6 +90,14 @@ Route::get('dr-srinivas-rajkumar',[PageViewController::class,'drSrinivasRajkumar
 
 Route::get('dr-magesh',[PageViewController::class,'drMageshPage'])->name('doctors-details.dr-magesh'); 
 
+Route::get('dr-muthuswamy',[PageViewController::class,'drMuthuswamyPage'])->name('doctors-details.dr-muthuswamy');
+
+Route::get('dr-rejivrajendranath',[PageViewController::class,'rejivRajendranathPage'])->name('doctors-details.dr-rejivrajendranath');
+
+
+
+
+
 Route::get('/gericare-hospital/hospital-facilities',[PageViewController::class,'hospitalFacilitiesPage'])->name('gericare-hospital.hospital-facilities');
 
 

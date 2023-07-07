@@ -12,9 +12,9 @@
 <div class="container">
 <div class="row">
 <div class="col-lg-12">
-<h4>Welcome to India's First
-<span>Multi-Speciality Hospital <br>
-for Senior Citizens</span>
+<h4>Welcome to India's 1<sup>st</sup>
+Multi-Speciality <span>Hospital
+for  Senior Citizens</span>
 </h4>
 <ul>
 <li><a href="../">Home</a></li>   
@@ -334,8 +334,8 @@ Uro Gynaecology
     <h3> Dr. Muthuswamy  </h3>
     <h4> Cardiologist  </h4>
     <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> MB MRCP(UK) MRCP(Ire) FRCP(Lon) MRCP(Edin) FACC </h5>
-    <a href="#">Book Appointment</a>
-    <a href="#">View Profile</a>
+    <a href="{{ url('dr-muthuswamy') }}">Book Appointment</a>
+    <a href="{{ url('dr-muthuswamy') }}">View Profile</a>
     </div>
     </div>
      
@@ -355,8 +355,8 @@ Uro Gynaecology
     <h3> Dr. Rejiv Rajendranath  </h3>
     <h4> Medical Oncologist   </h4>
     <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> MBBS, MD (General Medicine), DM (Oncology)</h5>
-    <a href="#">Book Appointment</a>
-    <a href="#">View Profile</a>
+    <a href="{{ url('dr-rejivrajendranath') }}">Book Appointment</a>
+    <a href="{{ url('dr-rejivrajendranath') }}">View Profile</a>
     </div>
     </div>
      

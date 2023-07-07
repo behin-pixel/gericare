@@ -611,7 +611,7 @@ Nov 04 2019
 <div class="minrester">
 <h4>India’s Leading Geriatricians now in your parent’s Living Room!</h4>
 <p>According to Indian Ageing Report 2017, 12 crore adults – almost the population of Japan....</p>
-<a href="https://www.gericare.in/blog/general/indias-leading-geriatricians-now-in-your-parents-living-room/" target="_blank">Read More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
+<a href="https://www.gericare.in/blognew/indias-leading-geriatricians-now-in-your-parents-living-room/" target="_blank">Read More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
 </div>
 </div> 
 
@@ -623,7 +623,7 @@ Nov 04 2019
 <div class="minrester">
 <h4>Are you forgetting Dementia?</h4>
 <p>Dr.K.Vasanth MD (Geriatrics) about memory problems in elderly. I have memory loss!! ... </p>
-<a href="https://www.gericare.in/blog/general/are-you-forgetting-dementia/" target="_blank">Read More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
+<a href="https://www.gericare.in/blognew/are-you-forgetting-dementia/" target="_blank">Read More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
 </div>
 </div> 
 
@@ -635,7 +635,7 @@ Nov 04 2019
 <div class="minrester">
 <h4>Some Myths of Aging</h4>
 <p>Dr.K.Vasanth MD (Geriatrics) about some false assumptions of ageing. 1. All elderly people ...</p>
-<a href="https://www.gericare.in/blog/general/some-mythos-of-ageing/" target="_blank">Read More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
+<a href="https://www.gericare.in/blognew/some-myths-of-aging/" target="_blank">Read More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
 </div>
 </div> 
 
@@ -647,7 +647,7 @@ Nov 04 2019
 <div class="minrester">
 <h4>Feel at Home with India’s First Homecare run by Specialist Geriatricians</h4>
 <p>We know what it feels like to leave aging parents home alone during an important official visit. We....</p>
-<a href="https://www.gericare.in/blog/general/feel-at-home-with-indias-first-homecare-run-by-specialist-geriatricians/" target="_blank">Read More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
+<a href="https://www.gericare.in/blognew/feel-at-home-with-indias-first-homecare-run-by-specialist-geriatricians/" target="_blank">Read More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
 </div>
 </div> 
 
@@ -710,7 +710,7 @@ Nov 04 2019
 </div>
 </section> -->
 
-<section class="mobile-only-view kind-geritaic-center">
+<!-- <section class="mobile-only-view kind-geritaic-center">
 <div class="container">
 <div class="row">
 
@@ -780,7 +780,7 @@ Nov 04 2019
 
 </div>
 </div>
-</section>
+</section> -->
 
 <!-- <section class="mobile-only-view press-rpomm">
 <div class="container">
@@ -836,7 +836,7 @@ Nov 04 2019
 </span>
 
 <div class="common-button">
-<a href=""><img src="{{ asset('/public/website/assets/images/call.png') }}" alt="" class=""> +91 44 4061 4061</a>
+<a href="tel:+914440614061" target="_blank"><img src="{{ asset('/public/website/assets/images/call.png') }}" alt="" class=""> +91 44 4061 4061</a>
 </div>
 
 </div>

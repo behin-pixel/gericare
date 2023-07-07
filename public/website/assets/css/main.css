@@ -5123,6 +5123,7 @@ img.resp-onsive {
 
 
 @media(max-width: 767px) {
+    .gertiarics{display: none;}
     .facity-img p{font-size:14px;}
     .cario-seters{margin-left: 0px;margin-top: 30px;}
 
@@ -5298,8 +5299,7 @@ img.resp-onsive {
     }
 
     .call-to-acttion,
-    .why-love.pt-0,
-    .kind-geriatric,
+    .why-love.pt-0, 
     .press-room,
     .patron-say {
         display: none;

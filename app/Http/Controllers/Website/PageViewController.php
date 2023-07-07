@@ -59,6 +59,14 @@ class PageViewController extends Controller
     public function drMageshPage()
     {
         return view('website.doctors_details.dr-magesh');
+    } 
+    public function drMuthuswamyPage()
+    {
+        return view('website.doctors_details.dr-muthuswamy');
+    } 
+    public function rejivrajendranathPage()
+    {
+        return view('website.doctors_details.dr-rejivrajendranath');
     }
     public function drAnupamaPage()
     {

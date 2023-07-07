@@ -12,8 +12,8 @@
 <div class="container">
 <div class="row">
 <div class="col-lg-12">
-<h4>India’s First Home Care
-<span>run by Qualified & Reliable<br>
+<h4>India’s 1<sup>st</sup> Home Care
+<span>run by Qualified & Reliable 
 Geriatricians </span>
 </h4>
 <ul>

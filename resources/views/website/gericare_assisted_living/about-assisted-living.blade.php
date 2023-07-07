@@ -12,7 +12,7 @@
 <div class="container">
 <div class="row">
 <div class="col-lg-12">
-<h4>India’s First 24/7
+<h4>India’s 1<sup>st</sup> 24/7
 <span>Assisted Living & Skilled Nursing <br>
 under the expert care of Geriatricans</span>
 </h4>
