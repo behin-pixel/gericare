@@ -42,6 +42,7 @@
 					<a class="d-none" data-fancybox="gallery1" href="{{ asset('/public/website/assets/images/gallery/hospital/4.jpg') }}" data-caption="Geri Care Hospital">&nbsp;</a>
 				</div>	 --}}
 				@foreach ($videos as $video )
+				@if($video['video_link']!='')
 				@php 
 				$link = $video['video_link'];
 				$video_id = explode("?v=", $link);
@@ -54,7 +55,7 @@
 					</a>
 					
                 </div>	
-					
+					@endif
 				@endforeach
 				
 				
