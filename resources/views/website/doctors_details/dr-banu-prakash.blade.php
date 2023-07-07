@@ -57,64 +57,20 @@
 
 
 <div class="main-contdvshon">
-<h4>About Us</h4>
-<p>Dr. K. Vasanth is an experienced and highly skilled Elderly Care Physician specializing in the complex medical needs of older patients. With a particular focus on Homecare for the elderly, Dr. Vasanth is recognized as one of the few qualified Geriatricians in this field. His specialization in Community Geriatrics allows him to address a wide range of health issues commonly faced by older adults.
+<h4>Doctor's Profile</h4>
+<p>B C Bhanu Prakash is a Senior Consultant specializing in primary, complex & revision knee and hip replacement surgeries. He did his medical education in Stanley Medical College, Chennai and his M.S (Ortho) in M.P. Shah Medical College, Gujarat where he has won the “Best Outgoing postgraduate student award” for the year 2000 – 2001.
 
 </p>
 
-<p>Dr. Vasanth holds an MBBS degree from KAPV Government Medical College, Tiruchirappalli, and has completed his MD in Geriatrics from the esteemed Madras Medical College. With this extensive medical education and training, he possesses the knowledge and expertise necessary to provide comprehensive care to geriatric patients.
+<p>He worked in the prestigious Ganga Hospital, Coimbatore, a super specialty orthopedic and trauma care center for four years where he specialized in primary knee and hip replacement and revision hip and knee replacement. He has done the prestigious “Willis Marshall fellowship” in advanced arthroplasty and arthroscopy under Prof. Jegan Krishnan at the Flinders Medical Center, Adelaide, Australia and he have done short term fellowships in knee and shoulder surgery at Sports Med Hospital, Adelaide and Ashford Hospital, Adelaide, Australia.
 </p>
 
-<p>One of Dr. Vasanth's notable strengths lies in his ability to handle both acute and chronic health problems that commonly affect the elderly population. He takes a holistic approach to patient care, ensuring that all aspects of their well-being are addressed. With a strong background in home visits, he understands the unique challenges and requirements of providing medical care in the comfort of patients' own homes.
+<p>He is one of the few surgeons who have pioneered computer navigated minimally invasive Hiflex total knee replacement in this part of the country. He is also an expert in uni - compartmental knee arthroplasty, elbow and ankle replacements. He is an expert in trauma surgery including minimally invasive fracture fixations, complex polytrauma and pelvic fracture fixations. He is also the Chief Orthopedic Consultant at Sree Devi Ortho Clinic, Porur.
 </p>
 
-<p>Dr. Vasanth excels in coordinating care plans for his patients, ensuring that they receive appropriate referrals to specialists when needed. His expertise extends to transitional care for the elderly, helping them smoothly navigate the transitions between different healthcare settings. Additionally, he possesses valuable experience in caring for individuals with dementia, offering compassionate and tailored support for these patients and their families.
-</p>
-
-<p>A standout aspect of Dr. Vasanth's practice is his commitment to providing affordable and high-quality long-term care for the elderly. He understands the financial challenges that older individuals and their families may face and strives to ensure that his services remain accessible without compromising on the quality of care provided.
-</p>
-
-<p>Overall, Dr. K. Vasanth's extensive training, experience in Homecare and Community Geriatrics, and dedication to holistic elderly care make him a highly trusted and sought-after physician in the field of geriatric medicine.
-</p>
+ 
 </div>
-
-<div class="main-contdvshon">
-<h4>Education</h4>
-<ul>
-<li>M.D (Geriatrics) -  Madras Medical College, Chennai</li>
-<li>M.B.B.S. - KAP Viswanatham Govt. Medical College, Tiruchirappalli</li>
-</ul>
-</div>
-
-
-<div class="main-contdvshon">
-<h4>Awards </h4>
-<ul>
-<li>Best Poster Presentation award at GERICON 2018 held in All India Institute of Medical Sciences (AIIMS), New Delhi</li>
-<li>Second Prize for Quiz competition at GERICON 2018 held in All India Institute of Medical Sciences (AIIMS), New Delhi</li>
-</ul>
-</div>
-
-<div class="main-contdvshon">
-<h4>Memberships & Certifications</h4>
-<ul>
-<li>Life member of Indian Academy of Geriatrics (IAG)</li>
-</ul>
-</div>
-
-<div class="main-contdvshon">
-<h4>Works & Publications</h4>
-<ul>
-<li>Change in the multidimensional prognostic index score based on a standard comprehensive geriatric assessment during hospitalization in elderly patients. Masters thesis, Madras Medical College, Chennai. (http://repository-tnmgrmu.ac.in/id/eprint/8941)</li>
-
-<li>The Associations of Depression, Social Support and Elder Mistreatment in a Community dwelling Elderly South Indian population - Med e-journal TNMGRMU
-</li>
-
-<li>Ethical Dilemma in Geriatric ICU- GERICRITICON 2022- Panel Discussion</li>
-<li>Transitional Care- Emerging Paradigm in Geriatric Medicine- 6th Annual conference, IAG TN & Chennai Chapter - Geriatric Update 2023- Panel discussion</li>
-
-</ul>
-</div>
+ 
 
   
  

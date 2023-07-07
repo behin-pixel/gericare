@@ -369,8 +369,8 @@ Uro Gynaecology
     <h4> Senior Surgical Oncologist  </h4>
     <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class="">MBBS, MS (General Surgery), MCh (Surgical Oncology)</h5>
     <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class="">  T. Nagar</h5>
-    <a href="{{ url('our-doctors/dr-kathiseran') }}">Book Appointment</a>
-    <a href="{{ url('our-doctors/dr-kathiseran') }}">View Profile</a>
+    <a href="{{ url('our-doctors/dr-kathiresan') }}">Book Appointment</a>
+    <a href="{{ url('our-doctors/dr-kathiresan') }}">View Profile</a>
     </div>
     </div>
 

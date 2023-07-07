@@ -82,7 +82,7 @@ class PageViewController extends Controller
     }
     public function drKathiseranPage()
     {
-        return view('website.doctors_details.dr-kathiseran');
+        return view('website.doctors_details.dr-kathiresan');
     }
     public function drRajKumarPage()
     {
