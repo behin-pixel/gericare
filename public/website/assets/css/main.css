@@ -2250,13 +2250,15 @@ textarea.form-control {
 .mCSB_scrollTools .mCSB_draggerContainer:before {
     position: absolute;
     right: 7px;
-    width: 3px;
+    width: 5px;
     border-radius: 5px;
     top: 0;
     height: 100%;
     content: "";
     background: rgba(0, 0, 0, 0.1);
 }
+
+.mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar{left:-2px;width:5px;}
 
 .mCSB_scrollTools .mCSB_draggerRail {
     opacity: 0 !important;
@@ -3896,7 +3898,10 @@ ul.list-of-services li:hover img {
 
   .table-content table td{padding:20px 15px;vertical-align: middle;}
 
+.news-evnts-btns .common-button a {margin-left: 15px;padding: 11px 15px;}
+.news-evnts-btns a {font-size: 14px;}
 
+.tank-you-cont h4{font-size: 36px;color:#7C164B;font-weight: 700;font-family: 'Red Hat Display', sans-serif;margin-bottom: 0px;}
 
 
 

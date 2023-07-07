@@ -250,8 +250,6 @@ class PageViewController extends Controller
     {
         return view('website.about_us.awards-achievements');
     }
-
-
     public function careerPage()
     {
         return view('website.career.careers');
@@ -299,26 +297,34 @@ class PageViewController extends Controller
     {
         return view('website.in_news.media-tool-kit');
     } 
-    public function bookAppointmentThanksPage()
-    {
-        return view('website.book-appointmnet-thanks');
-    } 
-    public function requestcallbackThanksPage()
-    {
-        return view('website.request-call-back-thanks');
-    } 
-    public function doctorAppointmnetThanksPage()
-    {
-        return view('doctor-appointmnet-thanks');
-    } 
-    public function CarrerThanksPage()
-    {
-        return view('website.carrer-thanks');
-    } 
-    public function ThanksContactusPage()
-    {
-        return view('website.thanks-contactus');
-    }  
+    // public function bookAppointmentThanksPage()
+    // {
+    //     return view('website.book-appointmnet-thanks');
+    // } 
+    // public function requestcallbackThanksPage()
+    // {
+    //     return view('website.request-call-back-thanks');
+    // } 
+    // public function doctorAppointmnetThanksPage()
+    // {
+    //     return view('doctor-appointmnet-thanks');
+    // } 
+    // public function CarrerThanksPage()
+    // {
+    //     return view('website.carrer-thanks');
+    // } 
+    // public function consultThanksPage()
+    // {
+    //     return view('website.consult-thanks');
+    // }  
+    // public function ThanksContactusPage()
+    // {
+    //     return view('website.thanks-contactus');
+    // }
+    // public function newsDetailPage()
+    // {
+    //     return view('website.news-detail');
+    // }  
 
 
 }

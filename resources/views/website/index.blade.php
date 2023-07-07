@@ -707,16 +707,7 @@ Nov 04 2019
 <p>This field of medicine focuses on the diagnosis and treatment of cancer in older patients.</p>
 <a href="">Read More <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class=""></a>
 </div>
-</div>
-
-<div class="ger-care">
-<img src="{{ asset('/public/website/assets/images/Mobile-Radiation-Oncology.jpg') }}" alt="" class="w-100">
-<div class="ger-cntnt text-start">
-<h4>Radiation Oncology</h4>
-<p>This field of medicine focuses on the treatment of cancer using high-energy radiation.</p>
-<a href="">Read More <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class=""></a>
-</div>
-</div>
+</div> 
 
 <div class="ger-care">
 <img src="{{ asset('/public/website/assets/images/mobile--Gastroenterology.jpg') }}" alt="" class="w-100">

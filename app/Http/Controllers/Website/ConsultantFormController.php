@@ -113,7 +113,7 @@ class ConsultantFormController extends Controller
     }
     public function consultantThanks()
     {
-        return view('website.cosunlt-thanks');
+        return view('website.consult-thanks');
     }
     public function callBackThanks()
     {

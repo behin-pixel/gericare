@@ -22,11 +22,10 @@ use Illuminate\Support\Facades\Route;
 Route::group(['prefix' => 'laravel-filemanager', 'middleware' => ['auth_users']], function () {
     \UniSharp\LaravelFilemanager\Lfm::routes();
 });
- Route::get('/', function(){
-     return view('website.index');
- });
-
-// Route::get('/',[ConsultantFormController::class,'index'])->name('home');
+//  Route::get('/', function(){
+//       return view('website.index');
+//   });
+  Route::get('/',[ConsultantFormController::class,'index'])->name('home');
 
 // Route::get('/hospitals/gericare-hospitals',function(){
 //     return view('website.hospitals.gericare-hospitals');
@@ -181,6 +180,8 @@ Route::get('request-call-back-thanks',[PageViewController::class,'requestcallbac
 
 Route::get('doctor-appointmnet-thanks',[PageViewController::class,'doctorAppointmnetThanksPage'])->name('doctor-appointmnet-thanks');
 
+Route::get('consult-thanks',[PageViewController::class,'consultThanksPage'])->name('consult-thanks');
+
 
 Route::get('careers',[PageViewController::class,'careerPage'])->name('careers');
 
@@ -188,4 +189,5 @@ Route::get('testimonials',[PageViewController::class,'testimonialPage'])->name('
 Route::get('videotestimonials',[PageViewController::class,'videotestimonialPage'])->name('videotestimonials'); 
 
 Route::get('faq',[PageViewController::class,'faqPage'])->name('faq'); 
+Route::get('news-detail',[PageViewController::class,'newsDetailPage'])->name('news-detail'); 
 
