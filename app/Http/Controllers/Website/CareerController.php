@@ -51,7 +51,7 @@ class CareerController extends Controller
 
             Career::create($ins);
 
-            $subject=$request->name.' Carrer Mail ';
+            $subject=$request->name.' Career Mail ';
            
             $mailData = [
                 'designation' => $request->designation,
