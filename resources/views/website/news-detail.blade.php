@@ -39,6 +39,8 @@
 <a data-fancybox="gallery1" href="{{ asset('/public/website/assets/images/press-1.jpg') }}" data-caption="Geri Care Hospital">
 <img src="{{ asset('/public/website/assets/images/press-1.jpg') }}" alt="" class="w-100">
 </a>
+<a class="d-none" data-fancybox="gallery1" href="{{ asset('/public/website/assets/images/news-1.jpg') }}" data-caption="Get Back to Life ! Sparkle your Intimate Beauty">&nbsp;</a>
+<a class="d-none" data-fancybox="gallery1" href="{{ asset('/public/website/assets/images/news-1.jpg') }}" data-caption="Get Back to Life ! Sparkle your Intimate Beauty">&nbsp;</a>
 </div>
 </div>
 

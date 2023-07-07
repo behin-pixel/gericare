@@ -39,6 +39,8 @@
 								<img src="{{ asset('/public/website/assets/images/news-1.jpg') }}" alt="" class="img-fluid" />
 								<span><small class="news-date">Published : 26-Jun-2021</small> <br>Geri Care Hospital.</span>
 							</a>
+							<a class="d-none" data-fancybox="gallery1" href="{{ asset('/public/website/assets/images/news-2.jpg') }}" data-caption="Get Back to Life ! Sparkle your Intimate Beauty">&nbsp;</a>
+							<a class="d-none" data-fancybox="gallery1" href="{{ asset('/public/website/assets/images/news-4.jpg') }}" data-caption="Get Back to Life ! Sparkle your Intimate Beauty">&nbsp;</a>
 						</li>
 						<li>
 							<a data-fancybox="gallery2" href="{{ asset('/public/website/assets/images/news-2.jpg') }}" data-caption=" Geri Care Hospital provides Covid care for elderly">
@@ -112,8 +114,6 @@
 								<img src="{{ asset('/public/website/assets/images/news-14.jpg') }}" alt="" class="img-fluid" />
 								<span><small class="news-date">Published : 20-Nov-2020</small> <br>Geri Care Hospital..</span>
 							</a>
-							<!-- <a class="d-none" data-fancybox="gallery1" href="{{ asset('/public/website/assets/images/news-1.jpg') }}" data-caption="Get Back to Life ! Sparkle your Intimate Beauty">&nbsp;</a>
-							<a class="d-none" data-fancybox="gallery1" href="{{ asset('/public/website/assets/images/news-1.jpg') }}" data-caption="Get Back to Life ! Sparkle your Intimate Beauty">&nbsp;</a> -->
 						</li> 
 					</ul>
 				</div>
