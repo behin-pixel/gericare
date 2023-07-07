@@ -39,7 +39,7 @@
 
 <div class="col-lg-4">
 <div class="doc-tor-img">
-<img src="{{ asset('/public/website/assets/images/doctor-img-4.jpg') }}" alt="" class="w-100">
+<img src="{{ asset('/public/website/assets/images/doctor-img-25.jpg') }}" alt="" class="w-100">
 </div>
 </div>
 
@@ -47,10 +47,9 @@
 <div class="doc-tor-cnt">
 <h3>Dr. Sairam<span>Vascular Surgeon </span></h3>
   <h4><img src="{{ asset('/public/website/assets/images/expe.png') }}" alt="" class=""> Experience <span> 12+ Years</span></h4> 
-<!--<h4><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> Education <span>MBBS, FRCSI, FRCS (Ed), FRCS (Gen), CCST- UK
-</span></h4>
-  <h4><img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class=""> Languages <span>  </span></h4>
-<h4><img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class=""> Location <span>  </span></h4> -->
+<h4><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> Education <span>MBBS., MRCSED., DNG (Gen. Sur)</span></h4>
+  <h4><img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class=""> Languages <span> Tamil, English  </span></h4>
+<!--<h4><img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class=""> Location <span>  </span></h4> -->
 </div>
 </div>
 
@@ -68,7 +67,7 @@
 <p>He has been treating patients with vascular disease at various hospitals in Chennai for more than 8 years. During this period, he has performed more than 500 endovenous ablation procedures and has had extensive experience in limb salvage procedures for diabetic feet and aortic aneurysm repair.
 He also currently holds the responsibilities of the Secretary of the Chennai Vascular Society and is Assistant Editor of the Indian Journal of Vascular and Endovascular Surgery. He is a member of various vascular societies including the Vascular Society of India, the Society of Vascular Surgery (USA), and the European Society of Vascular Surgery. To keep abreast with the ever-changing technology, he is a regular participant in international meetings and has presented many papers at national and international conferences.</p>
 
-<p>r. Sairam’s career aim has been to work as a vascular specialist offering medical management, and open and endovascular surgical procedures for all vascular diseases. He continues to further develop his special interest in open and endovascular intervention for limb salvage in ischemic diabetic foot and to establish and develop an Institute of Vascular and Endovascular Surgery to teach and train young vascular surgical aspirants.
+<p>Dr. Sairam’s career aim has been to work as a vascular specialist offering medical management, and open and endovascular surgical procedures for all vascular diseases. He continues to further develop his special interest in open and endovascular intervention for limb salvage in ischemic diabetic foot and to establish and develop an Institute of Vascular and Endovascular Surgery to teach and train young vascular surgical aspirants.
 </p>
 
 </div>

@@ -39,7 +39,7 @@
 
 <div class="col-lg-4">
 <div class="doc-tor-img">
-<img src="{{ asset('/public/website/assets/images/doctor-img-4.jpg') }}" alt="" class="w-100">
+<img src="{{ asset('/public/website/assets/images/doctor-img-15.jpg') }}" alt="" class="w-100">
 </div>
 </div>
 
@@ -47,8 +47,8 @@
 <div class="doc-tor-cnt">
 <h3>Dr. Vikram<span>Surgical Gastroenterologist</span></h3>
 <h4><img src="{{ asset('/public/website/assets/images/expe.png') }}" alt="" class=""> Experience <span> 20+ Years</span></h4>
-<h4><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> Education <span> </span></h4>
-<h4><img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class=""> Languages <span>  </span></h4>
+<h4><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> Education <span> MBBS, DNB(Gastroenterology)</span></h4>
+<h4><img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class=""> Languages <span> Hindi, English, Tamil</span></h4>
 <h4><img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class=""> Location <span> </span></h4>
 </div>
 </div>

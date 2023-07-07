@@ -46,10 +46,10 @@
 <div class="col-lg-8">
 <div class="doc-tor-cnt">
 <h3>Mrs. Tinu Thamby T<span>Clinical Psychologist</span></h3>
-<!-- <h4><img src="{{ asset('/public/website/assets/images/expe.png') }}" alt="" class=""> Experience <span>  Years</span></h4> -->
+  <h4><img src="{{ asset('/public/website/assets/images/expe.png') }}" alt="" class=""> Experience <span> -</span></h4>  
 <h4><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> Education <span>B.A., M.Sc., M.Phil (Clinical Psychology) </span></h4>
-<!-- <h4><img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class=""> Languages <span>  </span></h4>
-<h4><img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class=""> Locations <span>  </span></h4> -->
+  <h4><img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class=""> Languages <span> Tamil, English  </span></h4>
+<h4><img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class=""> Locations <span> -</span></h4>  
 </div>
 </div>
 

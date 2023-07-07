@@ -116,10 +116,46 @@ class PageViewController extends Controller
     public function  drBalamuruganBPage()
     {
         return view('website.doctors_details.dr-balamurugan-b');
-    }
-    public function  drSrinivasRajkumarTPage()
+    } 
+    public function  saiRamPage()
     {
-        return view('website.doctors_details.dr-balamurugan');
+        return view('website.doctors_details.dr-sairam');
+    }
+    public function  subashKumarapPage()
+    {
+        return view('website.doctors_details.dr-ap-subash-kumar');
+    }
+    public function  sujathaPage()
+    {
+        return view('website.doctors_details.dr-sujatha');
+    }
+    public function  jayaramanPage()
+    {
+        return view('website.doctors_details.dr-jayaraman');
+    }
+    public function  mohanRaoPage()
+    {
+        return view('website.doctors_details.dr-mohan-rao');
+    }
+    public function  asirjulinPage()
+    {
+        return view('website.doctors_details.dr-asir-julin');
+    }
+    public function  meenakshiPage()
+    {
+        return view('website.doctors_details.dr-meenakshi');
+    }
+    public function  banuPrakashPage()
+    {
+        return view('website.doctors_details.dr-banu-prakash');
+    }
+    public function  aarathiPage()
+    {
+        return view('website.doctors_details.dr-arathi-surendranath');
+    }
+    public function  vikramPage()
+    {
+        return view('website.doctors_details.dr-vikram');
     }
     public function hospitalFacilitiesPage()
     {

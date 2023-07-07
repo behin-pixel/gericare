@@ -39,16 +39,16 @@
 
 <div class="col-lg-4">
 <div class="doc-tor-img">
-<img src="{{ asset('/public/website/assets/images/doctor-img-4.jpg') }}" alt="" class="w-100">
+<img src="{{ asset('/public/website/assets/images/doctor-img-13.jpg') }}" alt="" class="w-100">
 </div>
 </div>
 
 <div class="col-lg-8">
 <div class="doc-tor-cnt">
 <h3>Dr. Banu Prakash<span>Ortho Geriatrician</span></h3>
-<h4><img src="{{ asset('/public/website/assets/images/expe.png') }}" alt="" class=""> Experience <span>  </span></h4>
-<h4><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> Education <span> </span></h4>
-<h4><img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class=""> Languages <span>  </span></h4>
+<h4><img src="{{ asset('/public/website/assets/images/expe.png') }}" alt="" class=""> Experience <span> 21+ Years</span></h4>
+<h4><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> Education <span> MBBS, MS (Orthopedics)</span></h4>
+<h4><img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class=""> Languages <span> Tamil, English </span></h4>
 <h4><img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class=""> Location <span>  </span></h4>
 </div>
 </div>
@@ -58,7 +58,7 @@
 
 <div class="main-contdvshon">
 <h4>Doctor's Profile</h4>
-<p>B C Bhanu Prakash is a Senior Consultant specializing in primary, complex & revision knee and hip replacement surgeries. He did his medical education in Stanley Medical College, Chennai and his M.S (Ortho) in M.P. Shah Medical College, Gujarat where he has won the “Best Outgoing postgraduate student award” for the year 2000 – 2001.
+<p>Dr. B C Bhanu Prakash is a Senior Consultant specializing in primary, complex & revision knee and hip replacement surgeries. He did his medical education in Stanley Medical College, Chennai and his M.S (Ortho) in M.P. Shah Medical College, Gujarat where he has won the “Best Outgoing postgraduate student award” for the year 2000 – 2001.
 
 </p>
 

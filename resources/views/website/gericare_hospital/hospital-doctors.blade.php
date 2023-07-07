@@ -334,6 +334,7 @@ Uro Gynaecology
     <h3> Dr. Muthuswamy  </h3>
     <h4> Cardiologist  </h4>
     <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> MB MRCP(UK) MRCP(Ire) FRCP(Lon) MRCP(Edin) FACC </h5>
+    <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class=""> Tamil, English</h5>
     <a href="{{ url('dr-muthuswamy') }}">Book Appointment</a>
     <a href="{{ url('dr-muthuswamy') }}">View Profile</a>
     </div>
@@ -355,6 +356,7 @@ Uro Gynaecology
     <h3> Dr. Rejiv Rajendranath  </h3>
     <h4> Medical Oncologist   </h4>
     <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> MBBS, MD (General Medicine), DM (Oncology)</h5>
+    <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class=""> Tamil, English</h5>
     <a href="{{ url('dr-rejivrajendranath') }}">Book Appointment</a>
     <a href="{{ url('dr-rejivrajendranath') }}">View Profile</a>
     </div>
@@ -368,6 +370,7 @@ Uro Gynaecology
     <h3> Dr. Kathiresan </h3>
     <h4> Senior Surgical Oncologist  </h4>
     <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class="">MBBS, MS (General Surgery), MCh (Surgical Oncology)</h5>
+    <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class=""> Tamil, English</h5>
     <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class="">  T. Nagar</h5>
     <a href="{{ url('our-doctors/dr-kathiresan') }}">Book Appointment</a>
     <a href="{{ url('our-doctors/dr-kathiresan') }}">View Profile</a>
@@ -379,9 +382,10 @@ Uro Gynaecology
 <img src="{{ asset('/public/website/assets/images/doctor-img-10.jpg') }}" alt="" class="">
 </div>
 <div class="dctrm-deitals">
-<h3> Dr. Rajkumar  </h3>
+<h3> Dr. P. Rajkumar  </h3>
 <h4> Senior Surgical Oncologist  </h4>
 <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class="">MBBS</h5>
+<h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class=""> Tamil, English, Hindi</h5>
 <a href="{{ url('our-doctors/dr-rajkumar') }}">Book Appointment</a> 
 <a href="{{ url('our-doctors/dr-rajkumar') }}">View Profile</a>
 </div>
@@ -395,10 +399,28 @@ Uro Gynaecology
 <h3> Dr. Arathi Surendranath </h3>
 <h4> Radiation Oncology   </h4>
 <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> DMRT MD</h5>
-<a href="#">Book Appointment</a>
-<a href="">View Profile</a>
+<h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class=""> Tamil, English</h5>
+<a href="{{ url('dr-arathi-surendranath') }}">Book Appointment</a>
+<a href="{{ url('dr-arathi-surendranath') }}">View Profile</a>
 </div>
 </div> 
+
+
+
+<!-- <div class="dctrs-detls">
+        <div class="dctrm-img">
+        <img src="{{ asset('/public/website/assets/images/no-img-m.jpg') }}" alt="" class="">
+        </div>
+        <div class="dctrm-deitals">
+        <h3> Dr. AP Subash Kumar  </h3>
+        <h4> Breast Surgical Oncologist  </h4>
+        <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> MBBS, FRCSI, FRCS (Ed), FRCS (Gen), CCST- UK </h5>
+          <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class="">   </h5>
+        <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class="">   </h5> -->
+        <!-- <a href="{{ url('dr-ap-subash-kumar') }}">Book Appointment</a>
+        <a href="{{ url('dr-ap-subash-kumar') }}">View Profile</a>
+        </div>
+        </div> -->  
 
     </div>   
     <div class="tab-pane fade" id="v-pills-4" role="tabpanel" aria-labelledby="v-pills-4-tab">
@@ -412,6 +434,8 @@ Uro Gynaecology
         <h3> Dr. Guru Balaji </h3>
         <h4> Senior Urologist   </h4>
         <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class="">DNB (General Surgery), MRCS (Edin), MNAMS, DNB (Urology)</h5>
+        <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class="">  English, Tamil   </h5>
+
         <a href="{{ url('our-doctors/dr-guru-balaji') }}">Book Appointment</a>
         <a href="{{ url('our-doctors/dr-guru-balaji') }}">View Profile</a>
         </div>
@@ -428,8 +452,9 @@ Uro Gynaecology
         <h3> Dr. Banu Prakash </h3>
         <h4> Senior Consultant    </h4>
         <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> MBBS, MS (Orthopedics)</h5>
-        <a href="#">Book Appointment</a>
-        <a href="#">View Profile</a>
+        <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class=""> Tamil, English</h5>
+        <a href="{{ url('dr-banu-prakash') }}">Book Appointment</a>
+        <a href="{{ url('dr-banu-prakash') }}">View Profile</a>
         </div>
         </div>
         <div class="dctrs-detls">
@@ -440,6 +465,7 @@ Uro Gynaecology
         <h3> Dr. Thiruvengita Prasad </h3>
         <h4> Senior Orthopedic Surgeon  </h4>
         <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class="">MBBS, DNB (Orthopedics/Orthopedic)</h5>
+        <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class=""> Tamil, English, Telugu </h5>
         <a href="{{ url('our-doctors/dr-thiruvengida') }}">Book Appointment</a>
         <a href="{{ url('our-doctors/dr-thiruvengida') }}">View Profile</a>
         </div>
@@ -459,6 +485,7 @@ Uro Gynaecology
         <h3> Dr Srinivas Rajkumar T </h3>
         <h4>Consultant Psychiatrist  </h4>
         <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> M.D (Psychiatry)</h5>
+        <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class=""> Tamil, English, Hindi   </h5>
         <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class=""> T.Nagar, Adambakkam, Adyar</h5>
         <a href="{{ url('dr-srinivas-rajkumar') }}">Book Appointment</a>
         <a href="{{ url('dr-srinivas-rajkumar') }}">View Profile</a>
@@ -474,8 +501,9 @@ Uro Gynaecology
         <h3> Dr. Sujatha </h3>
         <h4>Consultant Psychiatrist  </h4>
         <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> M.B.B.S.</h5>
-        <a href="#">Book Appointment</a>
-        <a href="#">View Profile</a>
+        <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class=""> Tamil, English   </h5>
+        <a href="{{ url('dr-sujatha') }}">Book Appointment</a>
+        <a href="{{ url('dr-sujatha') }}">View Profile</a>
         </div>
         </div>
 
@@ -487,6 +515,7 @@ Uro Gynaecology
         <h3> Mrs. Tinu Thamby T  </h3>
         <h4> Clinical Psychologist  </h4>
         <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> B.A., M.Sc., M.Phil (Clinical Psychology) </h5>
+        <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class=""> Tamil, English   </h5>
         <!-- <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class="">   </h5>
         <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class="">   </h5> -->
         <a href="{{ url('our-doctors/dr-tinu-thamby') }}">Book Appointment</a>
@@ -533,6 +562,7 @@ Uro Gynaecology
         <h3>Dr. U.P. Srinivas </h3>
         <h4> Senior Surgical Gastroenterolgist</h4>
         <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class="">MBBS, MS, MCh(Surgical Gastroenterology)</h5>
+        <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class=""> English, Tamil   </h5>
         <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class="">  T. Nagar</h5>
         <a href="{{ url('our-doctors/dr-up-srinivas') }}">Book Appointment</a>
         <a href="{{ url('our-doctors/dr-up-srinivas') }}">View Profile</a>
@@ -546,8 +576,9 @@ Uro Gynaecology
         <h3> Dr. Vikram</h3>
         <h4> Surgical Gastroenterologist   </h4>
         <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> MBBS, DNB(Gastroenterology)</h5>
-        <a href="#">Book Appointment</a>
-        <a href="#">View Profile</a>
+        <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class=""> Hindi, English, Tamil   </h5>
+        <a href="{{ url('dr-vikram') }}">Book Appointment</a>
+        <a href="{{ url('dr-vikram') }}">View Profile</a>
         </div>
         </div>
 
@@ -565,6 +596,7 @@ Uro Gynaecology
         <h3>Dr. S. Balamurugan</h3>
         <h4> Senior Neurosurgeon </h4>
         <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class="">M.Ch (Neurosurgery)</h5>
+        <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class=""> Tamil, English   </h5>
         <a href="{{ url('our-doctors/dr-balamurugan-s') }}">Book Appointment</a>
         <a href="{{ url('our-doctors/dr-balamurugan-s') }}">View Profile</a>
         </div>
@@ -577,8 +609,9 @@ Uro Gynaecology
         <h3>Dr. Asir Julin</h3>
         <h4> Neurologist   </h4>
         <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class="">  MBBS, MD, DM (Neurology) </h5>
-        <a href="#">Book Appointment</a>
-        <a href="#">View Profile</a>
+        <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class=""> Tamil, English   </h5>
+        <a href="{{ url('dr-asir-julin') }}">Book Appointment</a>
+        <a href="{{ url('dr-asir-julin') }}">View Profile</a>
         </div>
         </div>
       </div>
@@ -594,7 +627,9 @@ Uro Gynaecology
         <h3>Dr. B. Balamurugan</h3>
         <h4>Senior Consultant Nephrologist </h4>
         <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> M.B.B.S., MD (General Medicine), DM (Nephrology)</h5>
+        <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class=""> Tamil, English   </h5>
         <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class=""> Adambakkam </h5>
+
         <a href="{{ url('our-doctors/dr-balamurugan-b') }}">Book Appointment</a>
         <a href="{{ url('our-doctors/dr-balamurugan-b') }}">View Profile</a>
         </div>
@@ -615,8 +650,9 @@ Uro Gynaecology
         <h3> Dr. Mohan Rao </h3>
         <h4>General Surgeon  </h4>
         <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> MBBS, MS (GEN. SURGERY), FIAGES</h5>
-        <a href="#">Book Appointment</a>
-        <a href="#">View Profile</a>
+        <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class=""> Tamil, English   </h5>
+        <a href="{{ url('dr-mohan-rao') }}">Book Appointment</a>
+        <a href="{{ url('dr-mohan-rao') }}">View Profile</a>
         </div>
         </div>
       </div>  
@@ -631,8 +667,9 @@ Uro Gynaecology
         <h3>Dr. Jayaraman</h3>
         <h4> Pulmonologist    </h4>
         <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> MBBS, Diploma in Tuberculosis and Chest Diseases (DTCD)</h5>
-        <a href="#">Book Appointment</a>
-        <a href="#">View Profile</a>
+        <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class=""> Tamil, English   </h5>
+        <a href="{{ url('dr-jayaraman') }}">Book Appointment</a>
+        <a href="{{ url('dr-jayaraman') }}">View Profile</a>
         </div>
         </div>
         <div class="dctrs-detls">
@@ -643,6 +680,7 @@ Uro Gynaecology
         <h3>Dr. Sreedevi</h3>
         <h4> Senior Pulmonologist</h4>
         <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class="">MBBS, DNB(Respiratory Medicine)</h5>
+        <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class=""> Tamil, Hindi, English, Kannada    </h5>
         <a href="{{ url('our-doctors/dr-sridevi') }}">Book Appointment</a>
         <a href="{{ url('our-doctors/dr-sridevi') }}">View Profile</a>
         </div>
@@ -660,6 +698,8 @@ Uro Gynaecology
         <h3> Dr. Susovan Mitra </h3>
         <h4>Chief Critical Care Physician & Intensivist</h4>
         <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class="">MBBS, MD (Emergency Medicine)</h5>
+        <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class=""> Tamil, English, Hindi, Bengali   </h5>
+        <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class=""> T.Nagar  </h5>
         <a href="{{ url('our-doctors/dr-susovan') }}">Book Appointment</a>
         <a href="{{ url('our-doctors/dr-susovan') }}">View Profile</a>
         </div>
@@ -677,8 +717,9 @@ Uro Gynaecology
         <h3>Dr. Sairam</h3>
         <h4>Vascular Surgeon </h4>
         <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> MBBS., MRCSED., DNG (Gen. Sur)</h5>
-        <a href="#">Book Appointment</a>
-        <a href="#">View Profile</a>
+        <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class=""> Tamil, English   </h5>
+        <a href="{{ url('dr-sairam') }}">Book Appointment</a>
+        <a href="{{ url('dr-sairam') }}">View Profile</a>
         </div>
         </div>
       </div>    
@@ -693,8 +734,9 @@ Uro Gynaecology
         <h3>Dr. Meenakshi</h3>
         <h4>Consultant - Obstetrician & Gynaecologist </h4>
         <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> MBBS, DGO</h5>
-        <a href="#">Book Appointment</a>
-        <a href="#">View Profile</a>
+        <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class=""> Tamil, English   </h5>
+        <a href="{{ url('dr-meenakshi') }}">Book Appointment</a>
+        <a href="{{ url('dr-meenakshi') }}">View Profile</a>
         </div>
         </div>
       </div>    
@@ -709,8 +751,9 @@ Uro Gynaecology
         <h3>Dr. Kanimozhi</h3>
         <h4>Pathologist </h4>
         <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> MBBS, MD(Pathology)</h5>
-        <a href="#">Book Appointment</a>
-        <a href="#">View Profile</a>
+        <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class=""> Tamil, English   </h5>
+        <a href="{{ url('book-appointment') }}">Book Appointment</a>
+        <a href="{{ url('book-appointment') }}">View Profile</a>
         </div>
         </div>
       </div> 

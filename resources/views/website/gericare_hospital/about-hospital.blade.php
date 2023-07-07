@@ -252,7 +252,7 @@ chosen for you</h2>
 <img src="{{ asset('/public/website/assets/images/lab-services.jpg') }}" alt="" class="">
 <div class="facity-content-underimg">
 <span>Lab services</span>
-<p>Our state-of-the-art lab services for accurate and timely diagnostic testing, ensuring precise results to guide your healthcare decisions at the comfort of your home. </p>
+<p>Our state-of-the-art lab services for accurate and timely diagnostic testing, ensuring precise results to guide your healthcare decisions in the comfort of your home. </p>
 </div>
 </div>
 
@@ -268,7 +268,7 @@ chosen for you</h2>
 <img src="{{ asset('/public/website/assets/images/pharmacy.jpg') }}" alt="" class="">
 <div class="facity-content-underimg">
 <span>Pharmacy</span>
-<p>Our experienced pharmacists provide accurate medication dispensing, medication therapy management, and helpful guidance, alongwith discounted home delivery services.</p>
+<p>Our experienced pharmacists provide accurate medication dispensing, medication therapy management, and helpful guidance, along with discounted home delivery services.</p>
 </div>
 </div> 
 

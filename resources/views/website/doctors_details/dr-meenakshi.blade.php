@@ -39,17 +39,17 @@
 
 <div class="col-lg-4">
 <div class="doc-tor-img">
-<img src="{{ asset('/public/website/assets/images/doctor-img-8.jpg') }}" alt="Dr. Magesh R - Consultant Geriatrician" class="w-100">
+<img src="{{ asset('/public/website/assets/images/doctor-img-26.jpg') }}" alt="Dr. Magesh R - Consultant Geriatrician" class="w-100">
 </div>
 </div>
 
 <div class="col-lg-8">
 <div class="doc-tor-cnt">
 <h3>Dr. Meenakshi<span> Consultant - Obstetrician & Gynaecologist</span></h3>
-<h4><img src="{{ asset('/public/website/assets/images/expe.png') }}" alt="" class=""> Experience <span>  </span></h4>
+<h4><img src="{{ asset('/public/website/assets/images/expe.png') }}" alt="" class=""> Experience <span> 17+ Years </span></h4>
 <h4><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> Education <span> MBBS, DGO </span></h4>
-<h4><img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class=""> Languages <span>  </span></h4>
-<h4><img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class=""> Locations <span>  </span></h4>
+  <h4><img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class=""> Languages <span> Tamil, English  </span></h4>
+<h4><img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class=""> Locations <span>  </span></h4>  
 </div>
 </div>
 

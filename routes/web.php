@@ -94,6 +94,31 @@ Route::get('dr-muthuswamy',[PageViewController::class,'drMuthuswamyPage'])->name
 
 Route::get('dr-rejivrajendranath',[PageViewController::class,'rejivRajendranathPage'])->name('doctors-details.dr-rejivrajendranath');
 
+Route::get('dr-sairam',[PageViewController::class,'saiRamPage'])->name('doctors-details.dr-sairam');
+
+Route::get('dr-ap-subash-kumar',[PageViewController::class,'subashKumarapPage'])->name('doctors-details.dr-ap-subash-kumar');
+
+Route::get('dr-sujatha',[PageViewController::class,'sujathaPage'])->name('doctors-details.dr-sujatha');
+
+Route::get('dr-jayaraman',[PageViewController::class,'jayaramanPage'])->name('doctors-details.dr-jayaraman');
+
+Route::get('dr-mohan-rao',[PageViewController::class,'mohanRaoPage'])->name('doctors-details.dr-mohan-rao');
+
+Route::get('dr-asir-julin',[PageViewController::class,'asirjulinPage'])->name('doctors-details.dr-asir-julin'); 
+
+Route::get('dr-meenakshi',[PageViewController::class,'meenakshiPage'])->name('doctors-details.dr-meenakshidr-meenakshi'); 
+
+
+Route::get('dr-banu-prakash',[PageViewController::class,'banuPrakashPage'])->name('doctors-details.dr-banu-prakash'); 
+
+
+Route::get('dr-arathi-surendranath',[PageViewController::class,'aarathiPage'])->name('doctors-details.dr-arathi-surendranath'); 
+
+
+Route::get('dr-vikram',[PageViewController::class,'vikramPage'])->name('doctors-details.dr-vikram'); 
+
+
+
 
 
 

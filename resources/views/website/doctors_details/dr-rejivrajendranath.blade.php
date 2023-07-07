@@ -46,9 +46,9 @@
 <div class="col-lg-8">
 <div class="doc-tor-cnt">
 <h3>Dr. Rejiv Rajendranat<span>Medical Oncologist</span></h3>
-<h4><img src="{{ asset('/public/website/assets/images/expe.png') }}" alt="" class=""> Experience <span>  </span></h4>
+<h4><img src="{{ asset('/public/website/assets/images/expe.png') }}" alt="" class=""> Experience <span> 20+ Years</span></h4>
 <h4><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> Education <span>  MBBS, MD (General Medicine), DM (Oncology)</span></h4>
-<h4><img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class=""> Languages <span>  </span></h4>
+<h4><img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class=""> Languages <span> Tamil, English </span></h4>
 <h4><img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class=""> Locations <span>  </span></h4>
 </div>
 </div>
