@@ -253,89 +253,70 @@
 
 					<a class="d-none" data-fancybox="gallery11" href="{{ asset('/public/website/assets/images/gallery/nurses-day-2022/10.jpg') }}" data-caption="Nurses Day Celebration May 2022">&nbsp;</a> 
 					
+                </div>			
+				<div class="col-lg-3 gallery-img">
+				    <a data-fancybox="gallery12" href="{{ asset('/public/website/assets/images/gallery/outreach-programs-2022-23/1.jpg') }}" data-caption="Outreach programs 2022-23">
+						<img src="{{ asset('/public/website/assets/images/gallery/outreach-programs-2022-23/main-img.jpg') }}" alt="" class="img-fluid w-100" />
+						<span>Outreach programs 2022-23</span>
+					</a>
+					<a class="d-none" data-fancybox="gallery12" href="{{ asset('/public/website/assets/images/gallery/outreach-programs-2022-23/2.jpg') }}" data-caption="Outreach programs 2022-23">&nbsp;</a>
+
+					<a class="d-none" data-fancybox="gallery12" href="{{ asset('/public/website/assets/images/gallery/outreach-programs-2022-23/3.jpg') }}" data-caption="Outreach programs 2022-23">&nbsp;</a>
+
+					<a class="d-none" data-fancybox="gallery12" href="{{ asset('/public/website/assets/images/gallery/outreach-programs-2022-23/4.jpg') }}" data-caption="Outreach programs 2022-23">&nbsp;</a>
+
+					<a class="d-none" data-fancybox="gallery12" href="{{ asset('/public/website/assets/images/gallery/outreach-programs-2022-23/5.jpg') }}" data-caption="Outreach programs 2022-23">&nbsp;</a> 
+
+					<a class="d-none" data-fancybox="gallery12" href="{{ asset('/public/website/assets/images/gallery/outreach-programs-2022-23/6.jpg') }}" data-caption="Outreach programs 2022-23">&nbsp;</a>
+
+					<a class="d-none" data-fancybox="gallery12" href="{{ asset('/public/website/assets/images/gallery/outreach-programs-2022-23/7.jpg') }}" data-caption="Outreach programs 2022-23">&nbsp;</a>
+
+					<a class="d-none" data-fancybox="gallery12" href="{{ asset('/public/website/assets/images/gallery/outreach-programs-2022-23/8.jpg') }}" data-caption="Outreach programs 2022-23">&nbsp;</a> 
+					
+                </div>
+
+				<div class="col-lg-3 gallery-img">
+				    <a data-fancybox="gallery13" href="{{ asset('/public/website/assets/images/gallery/ra-puram-assisted-living-launch-2023/1.jpg') }}" data-caption="RA Puram Assisted Living Launch April 24th 2023">
+						<img src="{{ asset('/public/website/assets/images/gallery/ra-puram-assisted-living-launch-2023/main-img.jpg') }}" alt="" class="img-fluid w-100" />
+						<span>RA Puram Assisted Living Launch April 24th 2023</span>
+					</a>
+					<a class="d-none" data-fancybox="gallery13" href="{{ asset('/public/website/assets/images/gallery/ra-puram-assisted-living-launch-2023/2.jpg') }}" data-caption="RA Puram Assisted Living Launch April 24th 2023">&nbsp;</a>
+
+					<a class="d-none" data-fancybox="gallery13" href="{{ asset('/public/website/assets/images/gallery/ra-puram-assisted-living-launch-2023/3.jpg') }}" data-caption="RA Puram Assisted Living Launch April 24th 2023">&nbsp;</a>
+
+					<a class="d-none" data-fancybox="gallery13" href="{{ asset('/public/website/assets/images/gallery/ra-puram-assisted-living-launch-2023/4.jpg') }}" data-caption="RA Puram Assisted Living Launch April 24th 2023">&nbsp;</a>
+
+					<a class="d-none" data-fancybox="gallery13" href="{{ asset('/public/website/assets/images/gallery/ra-puram-assisted-living-launch-2023/5.jpg') }}" data-caption="RA Puram Assisted Living Launch April 24th 2023">&nbsp;</a> 
+
+					<a class="d-none" data-fancybox="gallery13" href="{{ asset('/public/website/assets/images/gallery/ra-puram-assisted-living-launch-2023/6.jpg') }}" data-caption="RA Puram Assisted Living Launch April 24th 2023">&nbsp;</a>
+
+					<a class="d-none" data-fancybox="gallery13" href="{{ asset('/public/website/assets/images/gallery/ra-puram-assisted-living-launch-2023/7.jpg') }}" data-caption="RA Puram Assisted Living Launch April 24th 2023">&nbsp;</a>
+
+					<a class="d-none" data-fancybox="gallery13" href="{{ asset('/public/website/assets/images/gallery/ra-puram-assisted-living-launch-2023/8.jpg') }}" data-caption="RA Puram Assisted Living Launch April 24th 2023">&nbsp;</a> 
+
+					<a class="d-none" data-fancybox="gallery13" href="{{ asset('/public/website/assets/images/gallery/ra-puram-assisted-living-launch-2023/9.jpg') }}" data-caption="RA Puram Assisted Living Launch April 24th 2023">&nbsp;</a>
+
+					<a class="d-none" data-fancybox="gallery13" href="{{ asset('/public/website/assets/images/gallery/ra-puram-assisted-living-launch-2023/10.jpg') }}" data-caption="RA Puram Assisted Living Launch April 24th 2023">&nbsp;</a>
+
+					<a class="d-none" data-fancybox="gallery13" href="{{ asset('/public/website/assets/images/gallery/ra-puram-assisted-living-launch-2023/11.jpg') }}" data-caption="RA Puram Assisted Living Launch April 24th 2023">&nbsp;</a>
+					
+                </div>
+							
+				<div class="col-lg-3 gallery-img">
+				    <a data-fancybox="gallery14" href="{{ asset('/public/website/assets/images/gallery/womens-day-2022/1.jpg') }}" data-caption="Womens day 2022">
+						<img src="{{ asset('/public/website/assets/images/gallery/womens-day-2022/main-img.jpg') }}" alt="" class="img-fluid w-100" />
+						<span>Womens day 2022</span>
+					</a>
+					<a class="d-none" data-fancybox="gallery14" href="{{ asset('/public/website/assets/images/gallery/womens-day-2022/2.jpg') }}" data-caption="Womens day 2022">&nbsp;</a>
+
+					<a class="d-none" data-fancybox="gallery14" href="{{ asset('/public/website/assets/images/gallery/womens-day-2022/3.jpg') }}" data-caption="Womens day 2022">&nbsp;</a>
+
+					<a class="d-none" data-fancybox="gallery14" href="{{ asset('/public/website/assets/images/gallery/womens-day-2022/4.jpg') }}" data-caption="Womens day 2022">&nbsp;</a>
+
+					<a class="d-none" data-fancybox="gallery14" href="{{ asset('/public/website/assets/images/gallery/womens-day-2022/5.jpg') }}" data-caption="Womens day 2022">&nbsp;</a>  
+					
                 </div>	
-				<!-- <div class="col" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
-					<ul class="press-release min-height">						
-					   <li>
-							<a data-fancybox="gallery1" href="{{ asset('/public/website/assets/images/news-1.jpg') }}" data-caption="Geri Care Hospital">
-								<img src="{{ asset('/public/website/assets/images/news-1.jpg') }}" alt="" class="img-fluid" />
-								<span><small class="news-date">Published : 26-Jun-2021</small> <br>Geri Care Hospital.</span>
-							</a>
-						</li>
-						<li>
-							<a data-fancybox="gallery1" href="{{ asset('/public/website/assets/images/news-2.jpg') }}" data-caption=" Geri Care Hospital provides Covid care for elderly">
-								<img src="{{ asset('/public/website/assets/images/news-2.jpg') }}" alt="" class="img-fluid" />
-								
-								<span> <small class="news-date">Published : 27-Jun-2021</small> <br> Geri Care Hospital provides Covid care for elderly</span>
-							</a>
-						</li>
-						<li>
-							<a data-fancybox="gallery1" href="{{ asset('/public/website/assets/images/news-4.jpg') }}" data-caption="India’s first hospital for elders treats 500+ COVID">
-								<img src="{{ asset('/public/website/assets/images/news-4.jpg') }}" alt="" class="img-fluid" />
-								<span><small class="news-date">Published : 27-Jun-2021</small> <br> India’s first hospital for elders treats 500+ COVID..</span>
-							</a>
-							<a class="d-none" data-fancybox="gallery1" href="{{ asset('/public/website/assets/images/news-1.jpg') }}" data-caption="Get Back to Life ! Sparkle your Intimate Beauty">&nbsp;</a>
-							<a class="d-none" data-fancybox="gallery1" href="{{ asset('/public/website/assets/images/news-1.jpg') }}" data-caption="Get Back to Life ! Sparkle your Intimate Beauty">&nbsp;</a>
-						</li>
-						<li>
-							<a data-fancybox="gallery1" href="{{ asset('/public/website/assets/images/news-5.jpg') }}" data-caption="Geri Care, a specialized and exclusive geriatric">
-								<img src="{{ asset('/public/website/assets/images/news-5.jpg') }}" alt="" class="img-fluid" />
-								<span><small class="news-date">Published : 20-Nov-2020</small> <br>Geri Care, a specialized and exclusive geriatric....</span>
-							</a>
-						</li>
-						<li>
-							<a data-fancybox="gallery1" href="{{ asset('/public/website/assets/images/news-6.jpg') }}" data-caption="Geri Care Hospital.">
-								<img src="{{ asset('/public/website/assets/images/news-6.jpg') }}" alt="" class="img-fluid" />
-								<span><small class="news-date">Published : 20-Nov-2020</small> <br>Geri Care Hospital..</span>
-							</a>
-						</li>
-						<li>
-							<a data-fancybox="gallery1" href="{{ asset('/public/website/assets/images/news-7.jpg') }}" data-caption="Geri Care Hospital.">
-								<img src="{{ asset('/public/website/assets/images/news-7.jpg') }}" alt="" class="img-fluid" />
-								<span><small class="news-date">Published : 20-Nov-2020</small> <br>Geri Care Hospital..</span>
-							</a>
-							
-						</li> 
-						<li>
-							<a data-fancybox="gallery1" href="{{ asset('/public/website/assets/images/news-8.jpg') }}" data-caption="Improving quality of life of elders">
-								<img src="{{ asset('/public/website/assets/images/news-8.jpg') }}" alt="" class="img-fluid" />
-								<span><small class="news-date">Published : 20-Nov-2020</small> <br>Improving quality of life of elders.</span>
-							</a>
-						</li>
-						<li>
-							<a data-fancybox="gallery1" href="{{ asset('/public/website/assets/images/news-9.jpg') }}" data-caption="Geri Care Hospital.">
-								<img src="{{ asset('/public/website/assets/images/news-9.jpg') }}" alt="" class="img-fluid" />
-								<span><small class="news-date">Published : 20-Nov-2020</small> <br>Geri Care Hospital..</span>
-							</a>
-						</li>
-						<li>
-							<a data-fancybox="gallery1" href="{{ asset('/public/website/assets/images/news-11.jpg') }}" data-caption="Geri Care, ecclusive hospital for senior citizens, launched.">
-								<img src="{{ asset('/public/website/assets/images/news-11.jpg') }}" alt="" class="img-fluid" />
-								<span><small class="news-date">Published : 20-Nov-2020</small> <br>Geri Care, ecclusive hospital for senior citizens, launched.</span>
-							</a>
-							
-						</li>
-						<li>
-							<a data-fancybox="gallery1" href="{{ asset('/public/website/assets/images/news-12.jpg') }}" data-caption="Geri Care Hospital">
-								<img src="{{ asset('/public/website/assets/images/news-12.jpg') }}" alt="" class="img-fluid" />
-								<span><small class="news-date">Published : 20-Nov-2020</small> <br>Geri Care Hospital..</span>
-							</a>
-						</li>
-						<li>
-							<a data-fancybox="gallery1" href="{{ asset('/public/website/assets/images/news-13.jpg') }}" data-caption="Geri Care Hospital">
-								<img src="{{ asset('/public/website/assets/images/news-13.jpg') }}" alt="" class="img-fluid" />
-								<span><small class="news-date">Published : 20-Nov-2020</small> <br>Geri Care Hospital..</span>
-							</a>
-						</li>
-						<li>
-							<a data-fancybox="gallery1" href="{{ asset('/public/website/assets/images/news-14.jpg') }}" data-caption="Geri Care Hospital">
-								<img src="{{ asset('/public/website/assets/images/news-14.jpg') }}" alt="" class="img-fluid" />
-								<span><small class="news-date">Published : 20-Nov-2020</small> <br>Geri Care Hospital..</span>
-							</a>
-							
-						</li> 
-					</ul>
-				</div> -->
+				 
 			</div>
 		</div>
 	</section>

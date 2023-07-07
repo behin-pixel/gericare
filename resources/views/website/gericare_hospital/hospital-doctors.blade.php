@@ -68,7 +68,7 @@ for Senior Citizens</span>
     <div class="geric-img">
     <img src="{{ asset('/public/website/assets/images/icn-7.png') }}" alt="" class=""> 
     </div>     
-    Psychiatry
+    Geriatric Psychiatry
     </button>
 
 
@@ -150,7 +150,7 @@ Uro Gynaecology
     <div class="geric-img">
     <img src="{{ asset('/public/website/assets/images/icn-7.png') }}" alt="" class=""> 
     </div>     
-    Geriatric Psychologist
+    Geriatric Psychology
     </button> 
 
 
@@ -161,7 +161,7 @@ Uro Gynaecology
     <div class="geric-img">
     <img src="{{ asset('/public/website/assets/images/lungs-vs.png') }}" alt="" class=""> 
     </div>     
-    Pathologist
+    Pathology
     </button> 
 
   
@@ -449,7 +449,7 @@ Uro Gynaecology
 
       <div class="tab-pane fade" id="v-pills-10" role="tabpanel" aria-labelledby="v-pills-10-tab">
         
-        <h4>Psychiatry</h4>
+        <h4>Geriatric Psychiatry</h4>
 
         <div class="dctrs-detls">
         <div class="dctrm-img">
@@ -483,7 +483,7 @@ Uro Gynaecology
 
       <div class="tab-pane fade" id="v-pills-12" role="tabpanel" aria-labelledby="v-pills-12-tab">
         
-        <h4>Geriatric Psychologist</h4>
+        <h4>Geriatric Psychology</h4>
         <div class="dctrs-detls">
         <div class="dctrm-img">
         <img src="{{ asset('/public/website/assets/images/no-img.jpg') }}" alt="" class="">
@@ -668,7 +668,7 @@ Uro Gynaecology
       </div>    
       <div class="tab-pane fade" id="v-pills-14" role="tabpanel" aria-labelledby="v-pills-14-tab">
         
-        <h4>Gynaecology</h4>
+        <h4>Uro Gynaecology</h4>
         <div class="dctrs-detls">
         <div class="dctrm-img">
         <img src="{{ asset('/public/website/assets/images/doctor-img-26.jpg') }}" alt="" class="">
@@ -684,7 +684,7 @@ Uro Gynaecology
       </div>    
       <div class="tab-pane fade" id="v-pills-15" role="tabpanel" aria-labelledby="v-pills-15-tab">
         
-        <h4>Pathologist</h4>
+        <h4>Pathology</h4>
         <div class="dctrs-detls">
         <div class="dctrm-img">
         <img src="{{ asset('/public/website/assets/images/doctor-img-27.jpg') }}" alt="" class="">
