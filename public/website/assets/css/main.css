@@ -403,9 +403,9 @@ a:hover {
     color: #FFF;
     font-weight: 700;
     text-transform: inherit;
-    max-width: 600px;
-    margin-bottom:5px;
-}
+    max-width: 620px;
+    margin-bottom: 25px;
+  }
 #homeCarousel.carousel .carousel-item.active {
     display: flex !important;
     align-items: center;
@@ -5352,7 +5352,7 @@ img.resp-onsive {
     }
     .carousel .carousel-caption h1 {
         font-size: 22px;
-        margin-bottom: 0px;
+        margin-bottom: 20px;
     }
     .carousel .carousel-caption span {
         margin-bottom:20px;

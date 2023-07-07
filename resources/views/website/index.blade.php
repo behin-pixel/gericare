@@ -2,11 +2,11 @@
 @section('content') 
 
 <div id="homeCarousel" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-touch="true" >
-  <div class="carousel-indicators">
+  <!-- <div class="carousel-indicators">
     <button type="button" data-bs-target="#homeCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
     <button type="button" data-bs-target="#homeCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
     <button type="button" data-bs-target="#homeCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
-  </div>
+  </div> -->
 
   <div class="carousel-inner">
 
@@ -16,13 +16,13 @@
       
       <img src="{{ asset('/public/website/assets/images/banners/mobile-banner-1.jpg') }}" alt="" class="moby w-100 d-block d-lg-none" />
       <div class="carousel-caption animated animatedFadeInUp fadeInUp">
-        <h1 class="text-blue">Entrust yourself with Geriatricians</h1>
-        <span class="text-blue">in the most comforting environment.</span>
+        <h1 class="text-blue">India's 1st Multi-Speciality Hospital for Senior Citizens Gericare Hospital Now in Adambakkam</h1>
+        <!-- <span class="text-blue">for Senior Citizens Gericare Hospital Now in Adambakkam</span> -->
     <a href="{{ url('our-doctors') }}">Explore More</a>
       </div>
     </div> 
 
-<div class="carousel-item">
+<!-- <div class="carousel-item">
   <img src="{{ asset('/public/website/assets/images/banners/Banner-2.jpg') }}" alt="" class="w-100 d-none d-lg-block" />
   <img src="{{ asset('/public/website/assets/images/banners/Mobile-Banner-2.jpg') }}" alt="" class="w-100 d-block d-lg-none" />
   <div class="carousel-caption animated animatedFadeInUp fadeInUp">
@@ -40,7 +40,7 @@
     <span class="text-blue">and a sense of personal freedom.</span>
     <a href="{{ url('assisted-living') }}">Explore More</a>
   </div>
-</div> 
+</div>  -->
 
   </div> 
 </div>
