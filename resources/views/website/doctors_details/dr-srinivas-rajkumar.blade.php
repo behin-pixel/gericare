@@ -50,7 +50,7 @@
 <h4><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> Education <span>MD (Psychiatry)</span></h4>
 <h4><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> Languages <span> Tamil, English, Hindi</span></h4>
 <h4><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> Location <span> T.Nagar - All days<br>
-Velachery - All days <br>
+Adambakkam - All days <br>
 Adyar - Tuesday Mornings
 </span></h4>
 </div>

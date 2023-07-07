@@ -68,11 +68,11 @@ to improve the lives of the elderly.</span>
                                 <div class="row">
 										<div class="col-sm-12 col-md-12 col-lg-6">
 											<label class="text-dark">Name (required)<span class="text-danger">*</span></label>
-											<input type="text" name="name" id="aname" value="" class="form-control"/>
+											<input type="text" name="name" id="aname" value="" class="form-control"/ required>
 										</div>
 										<div class="col-sm-12 col-md-12 col-lg-6">
 											<label class="text-dark">Phone (required)<span class="text-danger">*</span></label>
-											<input type="tel" name="mobile_no" id="aphone" value="" class="form-control" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*?)\..*/g, '$1');" maxlength="10"/>
+											<input type="tel" name="mobile_no" id="aphone" value="" class="form-control" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*?)\..*/g, '$1');" maxlength="10" required/>
 										</div>
 										<div class="col-sm-12 col-md-12 col-lg-6">
 											<label class="text-dark">Email (required)<span class="text-danger">*</span></label>
@@ -116,7 +116,7 @@ to improve the lives of the elderly.</span>
 <p> No.8, Dr.Nair road, Behind Vani Mahal,<br> T Nagar, Chennai 600017</p>
 <a href="https://goo.gl/maps/u6K6owxWtpxry8EV8" target="_blank"> Locate Us <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a> 
 
-<span class="text-center"> Velachery </span>
+<span class="text-center"> Adambakkam </span>
 <p>100 Feet Velachery Inner Ring Road,<br> Ward F, Block 17, Adambakkam, <br> Chennai, Tamil Nadu 600088</p>
 <a href="https://goo.gl/maps/KFAt8ytkXKEeuxZ59" target="_blank"> Locate Us <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
 </div> 

@@ -50,7 +50,7 @@
 <h4><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> Education <span> MBBS, M.D (Geriatrics), PGD (Diabetes)</span></h4>
 <h4><img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class=""> Languages <span> Tamil, English, Telugu</span></h4>
 <h4><img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class=""> Locations <span> T. Nagar - All days<br>
-Velachery - All days <br>
+Adambakkam - All days <br>
 Adyar - Tuesday Mornings
 </span></h4>
 </div>

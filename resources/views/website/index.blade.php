@@ -11,10 +11,10 @@
   <div class="carousel-inner">
 
     <div class="carousel-item active">
-      <img src="{{ asset('/public/website/assets/images/banners/Banner-1.jpg') }}" alt="" class="desky w-100 d-none d-lg-block" />
-      <img src="{{ asset('/public/website/assets/images/banners/Mobile-Banner-1.jpg') }}" alt="" class="desky w-100 d-block d-lg-none" />
+      <img src="{{ asset('/public/website/assets/images/banners/banner-1.jpg') }}" alt="" class="desky w-100 d-none d-lg-block" />
+      <img src="{{ asset('/public/website/assets/images/banners/mobile-banner-1.jpg') }}" alt="" class="desky w-100 d-block d-lg-none" />
       
-      <img src="{{ asset('/public/website/assets/images/banners/Mobile-Banner-1.jpg') }}" alt="" class="moby w-100 d-block d-lg-none" />
+      <img src="{{ asset('/public/website/assets/images/banners/mobile-banner-1.jpg') }}" alt="" class="moby w-100 d-block d-lg-none" />
       <div class="carousel-caption animated animatedFadeInUp fadeInUp">
         <h1 class="text-blue">Entrust yourself with Geriatricians</h1>
         <span class="text-blue">in the most comforting environment.</span>
@@ -331,10 +331,11 @@
     <h4> {{$testimonials['title']}}<span> {{$testimonials['designation']}} </span></h4>
     </div>
     <div class="rev-goog d-flex align-items-center justify-content-center">
-    <img src="{{ asset($testimonials["photo"]) }}" alt="" class="">
+    <!-- <img src="{{ asset($testimonials["photo"]) }}" alt="" class="">
 
 
-    <img src="{{ asset(Storage::url("app/{$testimonials["photo"]}")) }}"  />
+    <img src="{{ asset(Storage::url("app/{$testimonials["photo"]}")) }}"  /> -->
+    <img src="{{ asset('/public/website/assets/images/gog.png') }}"  />
  
     </div>
     
@@ -395,9 +396,9 @@
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-4.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-10.png') }}" alt="" class=""> 
   </div>
-  <span> Orthogeriatrics </span>    
+  <span> Geriatric Psychiatry </span>    
 </li>
 
 <li>
@@ -405,6 +406,13 @@
   <img src="{{ asset('/public/website/assets/images/icn-5.png') }}" alt="" class=""> 
   </div>
   <span> Gasteroentrology </span>    
+</li>
+
+<li>
+<div class="geric-img">
+  <img src="{{ asset('/public/website/assets/images/icn-4.png') }}" alt="" class=""> 
+  </div>
+  <span> Orthogeriatrics </span>    
 </li>
 
 <li>
@@ -430,7 +438,7 @@
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-10.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-16.png') }}" alt="" class=""> 
   </div>
   <span> ICU </span>    
 </li>
@@ -477,7 +485,7 @@
   <span> Nephrology and Dialysis 24x7 </span>    
 </li>
 
-</ul> 
+</ul>  
 
 </div>
 

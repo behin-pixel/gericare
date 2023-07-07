@@ -55,7 +55,7 @@
 </div>    
 <span>{{$testimonials['title']}} <small> {{$testimonials['designation']}}</small></span>
 <div class="testimonial-content mCustomScrollbar"> 
-“   {!! $testimonials['description'] !!}”
+  {!! $testimonials['description'] !!}
 </div> 
 
 </div>

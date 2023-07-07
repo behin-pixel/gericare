@@ -1682,27 +1682,7 @@ img.moby {
     background: rgba(208, 242, 217, 0.2);
 }
 
-.gericare-deprtmnts .gentric-systems ul li {
-    padding: 30px 20px;
-}
-.gericare-deprtmnts .gentric-systems .geric-img {
-    padding: 6px;
-}
-.gericare-deprtmnts .gentric-systems span {
-    padding-left: 55px;
-}
-.gericare-deprtmnts .gentric-systems .geric-img {
-    top: 20px;
-}
-.gericare-deprtmnts .gentric-systems ul {
-    grid-template-columns: repeat(1, 1fr);
-    margin: 0px 10px;
-  }
-
-  .gericare-deprtmnts .gentric-systems span {
-    padding-left: 45px;font-size: 14px;
-  }
-  
+ 
 
 .deptmnt {
     margin: 0 10px;
@@ -3912,6 +3892,9 @@ button.gm-ui-hover-effect:hover{opacity: 1 !important;}
 button.gm-ui-hover-effect{background-color:#ff0000 !important;top:0 !important;right:0 !important;}
 
 .gallery-img{margin-bottom:15px;}
+
+.common-heading sup{font-size: 12px;top:-20px;}
+
 
 
 
