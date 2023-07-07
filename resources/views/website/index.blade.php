@@ -395,9 +395,9 @@
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-4.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-10.png') }}" alt="" class=""> 
   </div>
-  <span> Orthogeriatrics </span>    
+  <span> Geriatric Psychiatry </span>    
 </li>
 
 <li>
@@ -405,6 +405,13 @@
   <img src="{{ asset('/public/website/assets/images/icn-5.png') }}" alt="" class=""> 
   </div>
   <span> Gasteroentrology </span>    
+</li>
+
+<li>
+<div class="geric-img">
+  <img src="{{ asset('/public/website/assets/images/icn-4.png') }}" alt="" class=""> 
+  </div>
+  <span> Orthogeriatrics </span>    
 </li>
 
 <li>
@@ -430,7 +437,7 @@
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-10.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-16.png') }}" alt="" class=""> 
   </div>
   <span> ICU </span>    
 </li>
@@ -477,7 +484,7 @@
   <span> Nephrology and Dialysis 24x7 </span>    
 </li>
 
-</ul> 
+</ul>  
 
 </div>
 

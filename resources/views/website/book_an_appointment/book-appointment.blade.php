@@ -122,7 +122,7 @@ within 24 hours.</span>
   							<div class="row">
 								<div class="col-sm-12 col-md-6 col-lg-6">
 									<label class="text-light">Appointment For </label>
-									<select class="form-control jsrequired" id="services" name="services" >
+									<select class="form-control jsrequired" id="services" name="services" required>
                     <option value="">Select your Service</option>
                     <option value="Geri Care Hospital">Geri Care Hospital</option>
 										<option value="Geri Care Assisted Living">Geri Care Assisted Living</option>
@@ -138,7 +138,7 @@ within 24 hours.</span>
 								<div class="col-sm-12 col-md-6 col-lg-6">
 									<div class=" date">
 										<label class="text-light">Appointment Date </label>	
-										<input type="date" placeholder="Select Date" name="appointment_date" class="form-control" id="fecha1">
+										<input type="date" placeholder="Select Date" name="appointment_date" class="form-control" id="fecha1" required>
 										<div class="input-group-append">
 										<span class="input-group-text"><i class="fa fa-calendar"></i></span>
 										</div>
@@ -146,7 +146,7 @@ within 24 hours.</span>
 								</div>
 								<div class="col-sm-12 col-md-6 col-lg-6">
 									<label class="text-light">Appointment Time (HH:MM:DAY)</label>	
-									<input type="time" class="form-control" placeholder="HH/MM" name="appointment_time"  id=""/>
+									<input type="time" class="form-control" placeholder="HH/MM" name="appointment_time" required id=""/>
 								</div>
 								<div class="col-sm-12 col-md-6 col-lg-6">
 									<label class="text-light">Email </label>
@@ -154,7 +154,7 @@ within 24 hours.</span>
 								</div>
 								<div class="col-sm-12 col-md-6 col-lg-6">
 									<label class="text-light">Phone Number<span class="text-danger">*</span></label>
-									<input type="tel" id="aphone" name="mobile_no" value="" class="form-control" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*?)\..*/g, '$1');" maxlength="10">
+									<input type="tel" id="aphone" name="mobile_no" value="" class="form-control" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*?)\..*/g, '$1');" maxlength="10" required>
 								</div> 
 								<div class="col-sm-12 col-md-12 col-lg-12">
 									<label class="text-light">Details</label>

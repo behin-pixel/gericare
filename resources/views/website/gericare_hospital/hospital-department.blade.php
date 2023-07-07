@@ -300,26 +300,26 @@
 								</div> -->
                                 
 								<div class="col-sm-12 col-md-12 col-lg-12"> 
-									<input type="text" name="name" id="aname" required class="form-control" placeholder="Name *" />
+									<input type="text" name="name" id="aname" required class="form-control" placeholder="Name *" required/>
                                     
                                 </div> 
 								<div class="col-sm-12 col-md-12 col-lg-12"> 
 									<input type="email" name="email" id="aemail" class="form-control" placeholder="Email *" />
 								</div>
 								<div class="col-sm-12 col-md-12 col-lg-12"> 
-									<input type="tel" id="aphone" name="mobile_no" value="" class="form-control" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*?)\..*/g, '$1');" maxlength="10" placeholder="Phone *">
+									<input type="tel" id="aphone" name="mobile_no" value="" class="form-control" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*?)\..*/g, '$1');" maxlength="10" placeholder="Phone *" required>
 								</div>
 								<div class="col-sm-12 col-md-6 col-lg-6">
-									<div class="datepicker date"> 
-										<input type="text" placeholder="Select Date" name="appointment_date" class="form-control" id="fecha1 " placeholder="Date *">
+									<div class=" date"> 
+										<input type="date" placeholder="Select Date" name="appointment_date" class="form-control" id="fecha1" required>
 										<div class="input-group-append">
 										<span class="input-group-text"><i class="fa fa-calendar"></i></span>
 										</div>
 									</div>
 								</div>
 								<div class="col-sm-12 col-md-6 col-lg-6"> 
-									<input type="text" class="form-control" name="appointment_time"  id="timepicker"/ placeholder="Select Time *">
-								</div> 
+									<input type="time" class="form-control" placeholder="HH/MM" name="appointment_time" required id=""/>
+								</div>
 								<div class="col-sm-12 col-md-12 col-lg-12"> 
 									<textarea class="form-control" name="details" placeholder="Message"></textarea>
 								</div>

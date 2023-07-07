@@ -50,7 +50,7 @@ $name='Dr Arulmozhiselvan';
 <h4><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> Education <span>MBBS, MD (Geriatrics)
 </span></h4>
 <h4><img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class=""> Languages <span> Tamil, English</span></h4>
-<h4><img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class=""> Locations <span> Velachery</span></h4>
+<h4><img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class=""> Locations <span> Adambakkam</span></h4>
 </div>
 </div>
 

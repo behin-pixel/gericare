@@ -166,7 +166,7 @@ for Senior Citizens</span>
     <h3> Dr N. Lakshmipathy Ramesh  </h3>
     <h4> Senior Consultant Geriatrician </h4>
     <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> MBBS, M.D (Geriatrics), PGD (Diabetes) </h5>
-    <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class=""> T.Nagar, Velachery, Adyar  </h5>
+    <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class=""> T.Nagar, Adambakkam, Adyar  </h5>
     <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class="">  Tamil, English, Telugu  </h5>
     <a href="{{ url('dr-lakshmipathy-ramesh') }}">Book Appointment</a>
     <a href="{{ url('dr-lakshmipathy-ramesh') }}">View Profile</a>
@@ -182,7 +182,7 @@ for Senior Citizens</span>
     <h3> Dr. V. Srinivas </h3>
     <h4> Senior Consultant Geriatrician </h4>
     <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> MD, MRCP (UK), DIP. Geriatric Medicine (UK) </h5>
-    <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class=""> T.Nagar, Velachery, Adyar  </h5>
+    <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class=""> T.Nagar, Adambakkam, Adyar  </h5>
     <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class="">  Tamil, English, Telugu, Hindi  </h5>
     <a href="{{ url('dr-srinivas') }}">Book Appointment</a>
     <a href="{{ url('dr-srinivas') }}">View Profile</a>
@@ -198,7 +198,7 @@ for Senior Citizens</span>
      <h3> Dr. Magesh R </h3>
      <h4> Consultant Geriatrician  </h4>
      <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> MBBS, MRCP, CCT (Int. Med. & Geriatrics), FRCP </h5>
-     <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class=""> T.Nagar, Velachery, Adyar  </h5>
+     <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class=""> T.Nagar, Adambakkam, Adyar  </h5>
      <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class="">  English, Tamil  </h5>
      <a href="{{ url('dr-magesh ') }}">Book Appointment</a>
      <a href="{{ url('dr-magesh') }}">View Profile</a>
@@ -229,7 +229,7 @@ for Senior Citizens</span>
      <h3> Dr. K. Vasanth </h3>
      <h4> Consultant Geriatrician  </h4>
      <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> MD (Geriatrics) </h5>
-     <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class="">  Adyar & Velachery  </h5>
+     <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class="">  Adyar & Adambakkam  </h5>
      <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class="">  Tamil, English  </h5>
      <a href="{{ url('dr-vasanth') }}">Book Appointment</a>
      <a href="{{ url('dr-vasanth') }}">View Profile</a>
@@ -260,7 +260,7 @@ for Senior Citizens</span>
      <h3> Dr S Manicka Saravanan  </h3>
      <h4> Consultant Geriatrician  </h4>
      <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class="">  MBBS, MD (Geriatrics)  </h5>
-     <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class="">  Velachery</h5>
+     <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class="">  Adambakkam</h5>
      <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class="">  Tamil, English, Hindi</h5>
      <a href="{{ url('dr-manicka-saravanan') }}">Book Appointment</a>
      <a href="{{ url('dr-manicka-saravanan') }}">View Profile</a>
@@ -276,7 +276,7 @@ for Senior Citizens</span>
      <h3> Dr. V. Arulmozhiselvan  </h3>
      <h4> Consultant Geriatrician  </h4>
      <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class="">  MBBS, MD (Geriatrics)  </h5>
-     <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class=""> Velachery</h5>
+     <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class=""> Adambakkam</h5>
      <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class="">   Tamil, English  </h5>
      <a href="{{ url('dr-arulmozhiselvan') }}">Book Appointment</a>
      <a href="{{ url('dr-arulmozhiselvan') }}">View Profile</a>
@@ -527,7 +527,7 @@ for Senior Citizens</span>
         <h3>Dr. B. Balamurugan</h3>
         <h4>Senior Consultant Nephrologist </h4>
         <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> M.B.B.S., MD (General Medicine), DM (Nephrology)</h5>
-        <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class=""> Velachery </h5>
+        <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class=""> Adambakkam </h5>
         <a href="{{ url('our-doctors/dr-balamurugan-b') }}">Book Appointment</a>
         <a href="{{ url('our-doctors/dr-balamurugan-b') }}">View Profile</a>
         </div>
@@ -593,7 +593,7 @@ for Senior Citizens</span>
         <h3> Dr Srinivas Rajkumar T </h3>
         <h4>Consultant Psychiatrist  </h4>
         <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> M.D (Psychiatry)</h5>
-        <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class=""> T.Nagar, Velachery, Adyar</h5>
+        <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class=""> T.Nagar, Adambakkam, Adyar</h5>
         <a href="{{ url('dr-srinivas-rajkumar') }}">Book Appointment</a>
         <a href="{{ url('dr-srinivas-rajkumar') }}">View Profile</a>
         </div>

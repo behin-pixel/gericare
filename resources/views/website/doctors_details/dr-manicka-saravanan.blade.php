@@ -49,7 +49,7 @@
 <h4><img src="{{ asset('/public/website/assets/images/expe.png') }}" alt="" class=""> Experience <span> 9+ Years</span></h4>
 <h4><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> Education <span>M.B.B.S., M.D(Geriatrics)</span></h4>
 <h4><img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class=""> Languages <span> Tamil, English, Hindi</span></h4>
-<h4><img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class=""> Languages <span> Velachery</span></h4>
+<h4><img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class=""> LoLocation <span> Adambakkam</span></h4>
 </div>
 </div>
 

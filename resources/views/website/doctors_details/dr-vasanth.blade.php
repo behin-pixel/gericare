@@ -49,7 +49,7 @@
 <h4><img src="{{ asset('/public/website/assets/images/expe.png') }}" alt="" class=""> Experience <span> 8+ Years</span></h4>
 <h4><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> Education <span>MD (Geriatrics)</span></h4>
 <h4><img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class=""> Languages <span> Tamil, English</span></h4>
-<h4><img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class=""> Location <span> Available for Home Visits on appointment basis OP Location - Adyar & Velachery</span></h4>
+<h4><img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class=""> Location <span> Available for Home Visits on appointment basis OP Location - Adyar & Adambakkam</span></h4>
 </div>
 </div>
 

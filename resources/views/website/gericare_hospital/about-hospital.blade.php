@@ -36,7 +36,7 @@
 
 <div class="col-lg-12">
 <div class="common-heading text-center">
-<h2>India’s First Multi-speciality Hospital<br> envisioned by 
+<h2>India’s 1<sup>st</sup> Multi-speciality Hospital<br> envisioned by 
 Expert Geriatricians</h2>
 </div>
 <div class="seconday-paragraph text-center">
@@ -123,11 +123,7 @@ The key focus areas of our specialization include medication management, fall pr
 <p>We adopt a continued and uninterrupted approach to treatments, that is unique to Geri Care.</p>
 </div>
 
-</div>
-
-<div class="common-button drk">
-<a href="">Know More</a>
-</div>
+</div> 
 
 </div>
 
@@ -365,11 +361,11 @@ chosen for you</h2>
 <h2>Our Departments</h2>
 </div>
 
-<div class="gericare-lstsdeprtment">
-
-<div class="deptmnt gentric-systems">
+<div class="col-lg-12">
+<div class="gentric-systems">
 
 <ul>
+
 <li>
 <div class="geric-img">
   <img src="{{ asset('/public/website/assets/images/icn-2.png') }}" alt="" class=""> 
@@ -381,15 +377,9 @@ chosen for you</h2>
 <div class="geric-img">
   <img src="{{ asset('/public/website/assets/images/icn-1.png') }}" alt="" class=""> 
   </div>
-  <span> Geriatric Cardiology </span>    
+  <span> Geriatric Cardiology  </span>    
 </li>
-</ul>
 
-</div>
-
-<div class="deptmnt gentric-systems">
-
-<ul>
 <li>
 <div class="geric-img">
   <img src="{{ asset('/public/website/assets/images/icn-9.png') }}" alt="" class=""> 
@@ -399,17 +389,11 @@ chosen for you</h2>
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-4.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-10.png') }}" alt="" class=""> 
   </div>
-  <span> Orthogeriatrics </span>    
+  <span> Geriatric Psychiatry </span>    
 </li>
-</ul>
 
-</div>
-
-<div class="deptmnt gentric-systems">
-
-<ul>
 <li>
 <div class="geric-img">
   <img src="{{ asset('/public/website/assets/images/icn-5.png') }}" alt="" class=""> 
@@ -419,17 +403,18 @@ chosen for you</h2>
 
 <li>
 <div class="geric-img">
+  <img src="{{ asset('/public/website/assets/images/icn-4.png') }}" alt="" class=""> 
+  </div>
+  <span> Orthogeriatrics </span>    
+</li>
+
+<li>
+<div class="geric-img">
   <img src="{{ asset('/public/website/assets/images/icn-6.png') }}" alt="" class=""> 
   </div>
   <span> Neurology </span>    
 </li>
-</ul>
 
-</div>
-
-<div class="deptmnt gentric-systems">
-
-<ul>
 <li>
 <div class="geric-img">
   <img src="{{ asset('/public/website/assets/images/icn-7.png') }}" alt="" class=""> 
@@ -443,32 +428,21 @@ chosen for you</h2>
   </div>
   <span> Pulmonology </span>    
 </li>
-</ul>
 
-</div>
-
-<div class="deptmnt gentric-systems">
-
-<ul>
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-10.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-16.png') }}" alt="" class=""> 
   </div>
   <span> ICU </span>    
-</li> 
+</li>
+
 <li>
 <div class="geric-img">
   <img src="{{ asset('/public/website/assets/images/icn-11.png') }}" alt="" class=""> 
   </div>
   <span> Dermatology </span>    
-</li> 
-</ul>
+</li>
 
-</div>
-
-<div class="deptmnt gentric-systems">
-
-<ul>
 <li>
 <div class="geric-img">
   <img src="{{ asset('/public/website/assets/images/icn-12.png') }}" alt="" class=""> 
@@ -482,13 +456,7 @@ chosen for you</h2>
   </div>
   <span> Uro Gynaecology </span>    
 </li>
-</ul>
 
-</div> 
-
-<div class="deptmnt gentric-systems">
-
-<ul>
 <li>
 <div class="geric-img">
   <img src="{{ asset('/public/website/assets/images/icn-3.png') }}" alt="" class=""> 
@@ -502,13 +470,6 @@ chosen for you</h2>
   </div>
   <span> Physiotherapy </span>    
 </li>
-</ul>
-
-</div>  
-
-<div class="deptmnt gentric-systems">
-
-<ul> 
 
 <li>
 <div class="geric-img">
@@ -516,7 +477,8 @@ chosen for you</h2>
   </div>
   <span> Nephrology and Dialysis 24x7 </span>    
 </li>
-</ul>
+
+</ul> 
 
 </div> 
 
@@ -643,7 +605,7 @@ T. Nagar, Chennai 600017</p>
 <div class="servce">
 <img src="{{ asset('/public/website/assets/images/hospital-loc-1.jpg') }}" alt="" class="w-100" />
 <div class="servrse-contest">
-<h4> Geri Care Hospital - Velachery </h4>
+<h4> Geri Care Hospital - Adambakkam </h4>
 <p>100 Feet Velachery Inner Ring Road, Ward F, Block 17, Adambakkam,
 Chennai, Tamil Nadu 600088</p>
 <a href="https://goo.gl/maps/KFAt8ytkXKEeuxZ59" target="_blank"> View on map <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>

@@ -106,7 +106,7 @@ in improving the elderly lives.</span>
 <p> No.8, Dr.Nair road, Behind Vani mahal,<br> T Nagar, Chennai 600017</p>
 <a href="https://goo.gl/maps/u6K6owxWtpxry8EV8" target="_blank"> Locate Us <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a> 
 
-<span class="text-center"> Velachery </span>
+<span class="text-center"> Adambakkam </span>
 <p>100 Feet Velachery inner ring road,<br> Ward F, Block 17, Adambakkam, <br> Chennai, Tamil Nadu 600088</p>
 <a href="https://goo.gl/maps/KFAt8ytkXKEeuxZ59" target="_blank"> Locate Us <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
 </div> 
