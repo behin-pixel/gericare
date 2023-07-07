@@ -78,15 +78,9 @@
     <input type="hidden" name="status" value="0" checked="checked">
     <label class="col-2 text-end col-form-label">Status</label>
     <div class="col-10">
-        @if(isset($data))
-            @if($data->status)
-                <input type="checkbox" id="status" name="status" value="1" checked="checked">
-            @else
-                <input type="checkbox" id="status" name="status" value="0" >
-            @endif
-      @else
+      
         <input type="checkbox" id="status" name="status" value="1"   @if((isset($data->status) && $data->status)) checked  @endif >
-      @endif
+    
     </div>
 </div>
 @section('scripts')
