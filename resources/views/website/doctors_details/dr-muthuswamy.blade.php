@@ -63,11 +63,14 @@
 
 
 <div class="main-contdvshon"> 
+<h4>Special interests</h4>
 <ul>
-<li>MBBS (1995) from prestigious Madras Medical College</li>
-<li>MRCP (UK) (2000) from Royal College of Physicians UK</li>
-<li>UK board Certification in Internal Medicine</li>
-<li>UK board Certification in Geriatric Medicine ( 2005)</li>
+<li>Angiogram, angioplasty with stents and complex interventions</li>
+<li>Devices therapy – Pace makers, CRT (Heart Failure) and Defibrillators (ICD)</li>
+<li>Valvular heart valves diseases</li>
+<li>Arrhythmias like atrial fibrillation</li>
+<li>Hypertension</li>
+<li>Preventive cardiology</li>
 </ul>
 </div> 
 

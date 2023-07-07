@@ -492,8 +492,8 @@ Uro Gynaecology
         <h3> Mrs. Tinu Thamby T  </h3>
         <h4> Clinical Psychologist  </h4>
         <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> B.A., M.Sc., M.Phil (Clinical Psychology) </h5>
-        <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class="">   </h5>
-     <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class="">   </h5>
+        <!-- <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class="">   </h5>
+        <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class="">   </h5> -->
         <a href="{{ url('our-doctors/dr-tinu-thamby') }}">Book Appointment</a>
         <a href="{{ url('our-doctors/dr-tinu-thamby') }}">View Profile</a>
         </div>
