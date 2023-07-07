@@ -313,258 +313,36 @@
 </div>
 
 <div class="google-revews"> 
+  @foreach ($testimonial as $testimonials )
 
-<div class="revew-box text-center">
+  <div class="revew-box text-center">
 
-<div class="rev-rat d-flex align-items-center justify-content-center">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/half-star.png') }}" alt="" class="">
-</div>
-<div class="rev-cnt">
-“Gericare is the best! The care they took of my father was so good, I have switched to them for my health care also. The caregivers are truly compassionate and efficient. They keep track of all the appointments and make sure no one is kept waiting. The doctors are experienced and kind and I cannot say enough in praise of the hospital.”
-</div>
-<div class="rev-img">
-<h4>Kalyani Komal <span> Chennai </span></h4>
-</div>
-<div class="rev-goog d-flex align-items-center justify-content-center">
-<img src="{{ asset('/public/website/assets/images/gog.png') }}" alt="" class="">
-</div>
+    <div class="rev-rat d-flex align-items-center justify-content-center">
+    <img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+    <img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+    <img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+    <img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+    <img src="{{ asset('/public/website/assets/images/half-star.png') }}" alt="" class="">
+    </div>
+    <div class="rev-cnt">
+      {!! $testimonials['description'] !!}
+    </div>
+    <div class="rev-img">
+    <h4> {{$testimonials['title']}}<span> {{$testimonials['designation']}} </span></h4>
+    </div>
+    <div class="rev-goog d-flex align-items-center justify-content-center">
+    <img src="{{ asset($testimonials["photo"]) }}" alt="" class="">
 
-</div> 
 
-<div class="revew-box text-center">
+    <img src="{{ asset(Storage::url("app/{$testimonials["photo"]}")) }}"  />
+ 
+    </div>
+    
+    </div>
+    
+  @endforeach
 
-<div class="rev-rat d-flex align-items-center justify-content-center">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/half-star.png') }}" alt="" class="">
-</div>
-<div class="rev-cnt">
-“The Geri Care team has been looking after my dad with much care and proper treatment. Thank You Geri Care! The whole team is professional and prompt with their quality of service and follow ups. I was referred to this service through my neighbors who were very satisfied with the services given. This is a good option when the patient cannot be transferred easily to a hospital and back. Glad to have taken this service.”
-</div>
-<div class="rev-img">
-<h4>AG Cecil Rozario <span> Chennai </span></h4>
-</div>
-<div class="rev-goog d-flex align-items-center justify-content-center">
-<img src="{{ asset('/public/website/assets/images/gog.png') }}" alt="" class="">
-</div>
 
-</div>  
-
-<div class="revew-box text-center">
-
-<div class="rev-rat d-flex align-items-center justify-content-center">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/half-star.png') }}" alt="" class="">
-</div>
-<div class="rev-cnt">
-“Gericare call centre staff serve with a smile. Though one cannot see the smile on the telcon, one can visualize that they serve, fix appointments, answer all the queries patiently and politely. Exceptional service, Thanks”
-</div>
-<div class="rev-img">
-<h4>Vythialingam Iyer <span> Chennai </span></h4>
-</div>
-<div class="rev-goog d-flex align-items-center justify-content-center">
-<img src="{{ asset('/public/website/assets/images/gog.png') }}" alt="" class="">
-</div>
-
-</div>  
-
-<div class="revew-box text-center">
-
-<div class="rev-rat d-flex align-items-center justify-content-center">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/half-star.png') }}" alt="" class="">
-</div>
-<div class="rev-cnt">
-“My mother is in Gericare Assisted living post spinal surgery since december 2022. I am very surprised to know about this place as they have everything in the infrastructure for elderly people. Rooms are very spacious, calm and clean .They provided great support for my mom in terms of providing her medicine, food and help in the bed. Hats off to the Physiotherapist at Gericare who has done excellent therapy for my mom - who is now walking with walker support.”
-</div>
-<div class="rev-img">
-<h4>Preethi Chandrasekar <span> Chennai </span></h4>
-</div>
-<div class="rev-goog d-flex align-items-center justify-content-center">
-<img src="{{ asset('/public/website/assets/images/gog.png') }}" alt="" class="">
-</div>
-
-</div>  
-
-<div class="revew-box text-center">
-
-<div class="rev-rat d-flex align-items-center justify-content-center">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/half-star.png') }}" alt="" class="">
-</div>
-<div class="rev-cnt">
-“I had to put my Mom into a rehab facility and scouted for a decent one with good care and amenities. Luckily I came across Gericare. A very caring and compassionate assisted living facility with great staffs and Doctors. They ensure the elders are treated with great respect and care. Provide all medical aid to help them recover soon. I discharged my mom after rehab and now her confidence level has improved a lot. Thanks to everyone in Gericare.”
-</div>
-<div class="rev-img">
-<h4>Vinoth Kumar <span> Chennai </span></h4>
-</div>
-<div class="rev-goog d-flex align-items-center justify-content-center">
-<img src="{{ asset('/public/website/assets/images/gog.png') }}" alt="" class="">
-</div>
-
-</div>   
-
-<div class="revew-box text-center">
-
-<div class="rev-rat d-flex align-items-center justify-content-center">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/half-star.png') }}" alt="" class="">
-</div>
-<div class="rev-cnt">
-“Geri Care assisted living is an excellent facility for old age citizens. The care team along with admin, Ms. Yashoda were very cordial and provided excellent service. The facility is clean and bright. It has all the amenities for speedy recovery of patients.”
-</div>
-<div class="rev-img">
-<h4>Sriram Gopalan <span> Chennai </span></h4>
-</div>
-<div class="rev-goog d-flex align-items-center justify-content-center">
-<img src="{{ asset('/public/website/assets/images/gog.png') }}" alt="" class="">
-</div>
-
-</div>   
-
-<div class="revew-box text-center">
-
-<div class="rev-rat d-flex align-items-center justify-content-center">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/half-star.png') }}" alt="" class="">
-</div>
-<div class="rev-cnt">
-“Received best service from Geri Care Anna Nagar Clinic. And nurses caring for patients - very excellent. They are treated in a friendly manner. Doctors are well experienced and treated us well. I wish them all success in the future.”
-</div>
-<div class="rev-img">
-<h4>Raj Kamal <span> Chennai </span></h4>
-</div>
-<div class="rev-goog d-flex align-items-center justify-content-center">
-<img src="{{ asset('/public/website/assets/images/gog.png') }}" alt="" class="">
-</div>
-
-</div>    
-
-<div class="revew-box text-center">
-
-<div class="rev-rat d-flex align-items-center justify-content-center">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/half-star.png') }}" alt="" class="">
-</div>
-<div class="rev-cnt">
-“Reception is very courteous. The doctors are very patient in hearing and very efficient in diagnosis. Physio is also good.”
-</div>
-<div class="rev-img">
-<h4>Venkatachalam K <span> Chennai </span></h4>
-</div>
-<div class="rev-goog d-flex align-items-center justify-content-center">
-<img src="{{ asset('/public/website/assets/images/gog.png') }}" alt="" class="">
-</div>
-
-</div>    
-
-<div class="revew-box text-center">
-
-<div class="rev-rat d-flex align-items-center justify-content-center">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/half-star.png') }}" alt="" class="">
-</div>
-<div class="rev-cnt">
-“I regularly go to this place and I am happy with the support of the support staff as well as doctors.”
-</div>
-<div class="rev-img">
-<h4>Kuppurao Balaji <span> Chennai </span></h4>
-</div>
-<div class="rev-goog d-flex align-items-center justify-content-center">
-<img src="{{ asset('/public/website/assets/images/gog.png') }}" alt="" class="">
-</div>
-
-</div>    
-
-<div class="revew-box text-center">
-
-<div class="rev-rat d-flex align-items-center justify-content-center">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/half-star.png') }}" alt="" class="">
-</div>
-<div class="rev-cnt">
-“One of the best places for doctors of top notch quality for senior citizens. The care that the attenders show, the best of doctors in geriatric care, the facilities are all very satisfying.. home visits are also very comfortable.. our goto place for geriatric care!”
-</div>
-<div class="rev-img">
-<h4>Aparna Subramanian <span> Chennai </span></h4>
-</div>
-<div class="rev-goog d-flex align-items-center justify-content-center">
-<img src="{{ asset('/public/website/assets/images/gog.png') }}" alt="" class="">
-</div>
-
-</div>    
-
-<div class="revew-box text-center">
-
-<div class="rev-rat d-flex align-items-center justify-content-center">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/half-star.png') }}" alt="" class="">
-</div>
-<div class="rev-cnt">
-“We used a variety of Geri Care services in my father's last weeks: doctor visits, nursing care, attendants, equipment rental, and attending to medical situations as they came up. For every one of these, we were very happy with the quality of care, the prompt communications and the extremely professional manner in which everything was handled. It made a very difficult time easier to deal with. I would recommend Geri Care very highly and without reservation.”
-</div>
-<div class="rev-img">
-<h4>Pakku Thaath <span> Chennai </span></h4>
-</div>
-<div class="rev-goog d-flex align-items-center justify-content-center">
-<img src="{{ asset('/public/website/assets/images/gog.png') }}" alt="" class="">
-</div>
-
-</div>     
-
-<div class="revew-box text-center">
-
-<div class="rev-rat d-flex align-items-center justify-content-center">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/half-star.png') }}" alt="" class="">
-</div>
-<div class="rev-cnt">
-Extremely satisfied with both the quality of caregivers and the supervisory support. All caregivers were extremely professional, sincere, committed and diligent.
-</div>
-<div class="rev-img">
-<h4>P Venkatesh <span> Chennai </span></h4>
-</div>
-<div class="rev-goog d-flex align-items-center justify-content-center">
-<img src="{{ asset('/public/website/assets/images/gog.png') }}" alt="" class="">
-</div>
-
-</div> 
 
 </div>
 

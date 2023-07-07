@@ -273,68 +273,35 @@ Request Call Back
 
 <div class="google-revews">  
 
-<div class="revew-box text-center">
+    @foreach ($testimonial as $testimonials )
 
-<div class="rev-rat d-flex align-items-center justify-content-center">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/half-star.png') }}" alt="" class="">
-</div>
-<div class="rev-cnt">
-“Received best service from Geri Care Anna Nagar Clinic. And nurses caring for patients - very excellent. They are treated in a friendly manner. Doctors are well experienced and treated us well. I wish them all success in the future.”
-</div>
-<div class="rev-img">
-<h4>Raj Kamal <span> Chennai </span></h4>
-</div>
-<div class="rev-goog d-flex align-items-center justify-content-center">
-<img src="{{ asset('/public/website/assets/images/gog.png') }}" alt="" class="">
-</div>
-
-</div>    
-
-<div class="revew-box text-center">
-
-<div class="rev-rat d-flex align-items-center justify-content-center">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/half-star.png') }}" alt="" class="">
-</div>
-<div class="rev-cnt">
-“Reception is very courteous. The doctors are very patient in hearing and very efficient in diagnosis. Physio is also good.”
-</div>
-<div class="rev-img">
-<h4>Venkatachalam K <span> Chennai </span></h4>
-</div>
-<div class="rev-goog d-flex align-items-center justify-content-center">
-<img src="{{ asset('/public/website/assets/images/gog.png') }}" alt="" class="">
-</div>
-
-</div>    
-
-<div class="revew-box text-center">
-
-<div class="rev-rat d-flex align-items-center justify-content-center">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/half-star.png') }}" alt="" class="">
-</div>
-<div class="rev-cnt">
-“I regularly go to this place and I am happy with the support of the support staff as well as doctors.”
-</div>
-<div class="rev-img">
-<h4>Kuppurao Balaji <span> Chennai </span></h4>
-</div>
-<div class="rev-goog d-flex align-items-center justify-content-center">
-<img src="{{ asset('/public/website/assets/images/gog.png') }}" alt="" class="">
-</div>
-
-</div>   
+    <div class="revew-box text-center">
+  
+      <div class="rev-rat d-flex align-items-center justify-content-center">
+      <img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+      <img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+      <img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+      <img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
+      <img src="{{ asset('/public/website/assets/images/half-star.png') }}" alt="" class="">
+      </div>
+      <div class="rev-cnt">
+        {!! $testimonials['description'] !!}
+     
+      </div>
+      <div class="rev-img">
+      <h4> {{$testimonials['title']}}<span> {{$testimonials['designation']}} </span></h4>
+      </div>
+      <div class="rev-goog d-flex align-items-center justify-content-center">
+      <img src="{{ asset($testimonials["photo"]) }}" alt="" class="">
+  
+  
+      <img src="{{ asset(Storage::url("app/{$testimonials["photo"]}")) }}"  />
+   
+      </div>
+      
+      </div>
+      
+    @endforeach 
 
 </div>
 

@@ -4,6 +4,7 @@ namespace App\Http\Controllers\Website;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
+use App\Models\Testimonial;
 
 class PageViewController extends Controller
 {
@@ -120,7 +121,8 @@ class PageViewController extends Controller
         $title = 'Assisted Living In Chennai for Senior Citizens - Geri Care';
         $decription = 'Get exceptional skilled nursing facility In chennai at Geri Care Assisted Living. Our residential arrangements for the elderly offer respite care, rehabilitative care, and more.';
         $keyword = '';
-        return view('website.gericare_assisted_living.about-assisted-living', compact('title', 'decription', 'keyword')); 
+        $testimonial=Testimonial::where('status','1')->where('type','Assisted Living')->get();
+        return view('website.gericare_assisted_living.about-assisted-living', compact('title', 'decription', 'keyword','testimonial')); 
     }
     public function assistedLivingServicePage()
     {
@@ -134,7 +136,8 @@ class PageViewController extends Controller
     
     public function aboutClinicsPage()
     {
-        return view('website.gericare_clinics.about-clinics');
+        $testimonial=Testimonial::where('status','1')->where('type','Clinic')->get();
+        return view('website.gericare_clinics.about-clinics',compact('testimonial'));
     }
     public function clinicsServicePage()
     {
@@ -143,7 +146,8 @@ class PageViewController extends Controller
     
     public function aboutHomeCarePage()
     {
-        return view('website.gericare_homecare.about-homecare');
+        $testimonial=Testimonial::where('status','1')->where('type','Homecare')->get();
+        return view('website.gericare_homecare.about-homecare',compact('testimonial'));
     }
     public function doctorVisitPage()
     {
@@ -262,11 +266,14 @@ class PageViewController extends Controller
     }
     public function testimonialPage()
     {
-        return view('website.testimonials');
+        $testimonial=Testimonial::where('status','1')->get();
+        return view('website.testimonials',compact('testimonial'));
     }
     public function videotestimonialPage()
     {
-        return view('website.videotestimonials');
+        $testimonial=Testimonial::where('status','1')->get();
+        return view('website.videotestimonials',compact('testimonial'));
+       // return view('website.videotestimonials');
     }
     public function faqPage()
     {

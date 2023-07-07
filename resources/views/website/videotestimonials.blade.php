@@ -42,13 +42,19 @@
 </ul>
 </div>
 </div> 
-
+@foreach ($testimonial as $testimonials )
+@php 
+$link = $testimonials['video_link'];
+$video_id = explode("?v=", $link);
+$video_id = $video_id[1];
+@endphp
 <div class="col-lg-3 gallery-img mb-3">
-<a data-fancybox="gallery1" href="https://www.youtube.com/watch?v=_DVP1O0fdVI" data-caption="Geri Care - Wellness by Geriatricians">
-<img src="{{ asset('/public/website/assets/images/testu-1.jpg') }}" alt="" class="img-fluid" />
+<a data-fancybox="gallery{{$testimonials['id']}}" href="{{$testimonials['video_link']}}" data-caption="Geri Care - Wellness by Geriatricians">
+<img src="https://img.youtube.com/vi/{{$video_id}}/0.jpg" alt="" class="img-fluid" />
 <span>Geri Care - Wellness by Geriatricians</span>
 </a> 
-</div> 		 
+</div> 		
+@endforeach 
 
 </div>
 </div>
