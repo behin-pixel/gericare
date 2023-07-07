@@ -272,7 +272,7 @@ Uro Gynaecology
 
      <div class="dctrs-detls">
      <div class="dctrm-img">
-     <img src="{{ asset('/public/website/assets/images/no-img.jpg') }}" alt="" class="">
+     <img src="{{ asset('/public/website/assets/images/no-img-m.jpg') }}" alt="" class="">
      </div>
      <div class="dctrm-deitals">
      <h3> Dr S Manicka Saravanan  </h3>
@@ -288,7 +288,7 @@ Uro Gynaecology
 
      <div class="dctrs-detls">
      <div class="dctrm-img">
-     <img src="{{ asset('/public/website/assets/images/no-img.jpg') }}" alt="" class="">
+     <img src="{{ asset('/public/website/assets/images/no-img-m.jpg') }}" alt="" class="">
      </div>
      <div class="dctrm-deitals">
      <h3> Dr. V. Arulmozhiselvan  </h3>
@@ -303,7 +303,7 @@ Uro Gynaecology
 
      <div class="dctrs-detls">
      <div class="dctrm-img">
-     <img src="{{ asset('/public/website/assets/images/no-img.jpg') }}" alt="" class="">
+     <img src="{{ asset('/public/website/assets/images/no-img-f.jpg') }}" alt="" class="">
      </div>
      <div class="dctrm-deitals">
      <h3> Dr. Flora Alex  </h3>
