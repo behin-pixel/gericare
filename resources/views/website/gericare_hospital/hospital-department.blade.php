@@ -39,22 +39,7 @@
 <div class="common-heading">
 <h2 class="mb-4">Dedicated centers of excellence, with specialists in every function </h2>
 </div>
-<div class="row dctr-detilsbox  ">
-        <div class=" col-md-4 col-lg-4">
-            <div class="doc-tor-img">
-                <img src="{{ asset('/public/website/assets/images/department-1.jpg') }}" alt="" class="w-100">
-            </div>
-        </div>
-        <div class="col-md-8 col-lg-8">
-            <div class="servrse-contest-p p-0">
-                <h3>Geriatric Oncology </h3>
-                         <p>Specialized care for elderly cancer patients, combining oncology expertise with geriatric medicine to ensure personalized and comprehensive treatment. Equipped with a team of Medical Oncologists and Surgical Oncologists and a dedicated Tumour Board, the Geriatric Oncology department offers 360 degree care right from hospital to homecare for elderly patients.</p>
-                    <div class="minrester-link">
-                    <a href="{{ url('our-doctors') }}"   tabindex="0">Fina a doctor<img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="" class=""></a>
-                    </div>   
-            </div>
-        </div>
-</div>
+
 <div class="row dctr-detilsbox   mt-4">
         <div class=" col-md-4 col-lg-4">
             <div class="doc-tor-img">
@@ -71,6 +56,76 @@
             </div>
         </div>
 </div>
+
+<div class="row dctr-detilsbox   mt-4">
+        <div class=" col-md-4 col-lg-4">
+            <div class="doc-tor-img">
+                <img src="{{ asset('/public/website/assets/images/department-4.jpg') }}" alt="" class="w-100">
+            </div>
+        </div>
+        <div class="col-md-8 col-lg-8">
+            <div class="servrse-contest-p p-0">
+                <h3>Ortho Geriatrics </h3>
+                         <p>Our Orthogeriatrics department offers comprehensive orthopedic care designed specifically for elderly patients, promoting timely and effective management of hip fractures and age-related musculoskeletal conditions such as OA and osteoporosis.</p>
+                         <div class="minrester-link">
+                       <a href="{{ url('our-doctors') }}"   tabindex="0">Fina a doctor<img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="" class=""></a>
+                    </div>  
+            </div>
+        </div>
+</div>
+
+<div class="row dctr-detilsbox   mt-4">
+        <div class=" col-md-4 col-lg-4">
+            <div class="doc-tor-img">
+                <img src="{{ asset('/public/website/assets/images/department-6.jpg') }}" alt="" class="w-100">
+            </div>
+        </div>
+        <div class="col-md-8 col-lg-8">
+            <div class="servrse-contest-p p-0">
+                <h3>Geriatric Neurology </h3>
+                         <p>Combining neurologic expertise and geriatric care, our Geriatric Neurology department offers comprehensive evaluation and treatment for neurological conditions such as parkinsons disease, peripheral neuropathy, stroke, seizure disorders in older adults, providing personalized care to enhance brain health and cognitive function.</p>
+                         <div class="minrester-link">
+                           <a href="{{ url('our-doctors') }}"   tabindex="0">Fina a doctor<img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="" class=""></a>
+                        </div>  
+            </div>
+        </div>
+</div>
+
+
+<div class="row dctr-detilsbox   mt-4">
+        <div class=" col-md-4 col-lg-4">
+            <div class="doc-tor-img">
+                <img src="{{ asset('/public/website/assets/images/department-7.jpg') }}" alt="" class="w-100">
+            </div>
+        </div>
+        <div class="col-md-8 col-lg-8">
+            <div class="servrse-contest-p p-0">
+                <h3>Geriatric Surgery</h3>
+                         <p>Our Geriatric Surgery department provides specialized surgical care for older adults, ensuring safe and effective procedures tailored to the unique needs of elderly patients.</p>
+                    <div class="minrester-link">
+                       <a href="{{ url('our-doctors') }}"   tabindex="0">Fina a doctor<img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="" class=""></a>
+                    </div>  
+            </div>
+        </div>
+</div>
+
+<div class="row dctr-detilsbox  ">
+        <div class=" col-md-4 col-lg-4">
+            <div class="doc-tor-img">
+                <img src="{{ asset('/public/website/assets/images/department-1.jpg') }}" alt="" class="w-100">
+            </div>
+        </div>
+        <div class="col-md-8 col-lg-8">
+            <div class="servrse-contest-p p-0">
+                <h3>Geriatric Oncology </h3>
+                         <p>Specialized care for elderly cancer patients, combining oncology expertise with geriatric medicine to ensure personalized and comprehensive treatment. Equipped with a team of Medical Oncologists and Surgical Oncologists and a dedicated Tumour Board, the Geriatric Oncology department offers 360 degree care right from hospital to homecare for elderly patients.</p>
+                    <div class="minrester-link">
+                    <a href="{{ url('our-doctors') }}"   tabindex="0">Fina a doctor<img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="" class=""></a>
+                    </div>   
+            </div>
+        </div>
+</div>
+
 <div class="row dctr-detilsbox   mt-4">
         <div class=" col-md-4 col-lg-4">
             <div class="doc-tor-img">
@@ -87,22 +142,7 @@
             </div>
         </div>
 </div>
-<div class="row dctr-detilsbox   mt-4">
-        <div class=" col-md-4 col-lg-4">
-            <div class="doc-tor-img">
-                <img src="{{ asset('/public/website/assets/images/department-4.jpg') }}" alt="" class="w-100">
-            </div>
-        </div>
-        <div class="col-md-8 col-lg-8">
-            <div class="servrse-contest-p p-0">
-                <h3>Orthogeriatrics </h3>
-                         <p>Our Orthogeriatrics department offers comprehensive orthopedic care designed specifically for elderly patients, promoting timely and effective management of hip fractures and age-related musculoskeletal conditions such as OA and osteoporosis.</p>
-                         <div class="minrester-link">
-                       <a href="{{ url('our-doctors') }}"   tabindex="0">Fina a doctor<img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="" class=""></a>
-                    </div>  
-            </div>
-        </div>
-</div>
+
 <div class="row dctr-detilsbox   mt-4">
         <div class=" col-md-4 col-lg-4">
             <div class="doc-tor-img">
@@ -119,38 +159,7 @@
             </div>
         </div>
 </div>
-<div class="row dctr-detilsbox   mt-4">
-        <div class=" col-md-4 col-lg-4">
-            <div class="doc-tor-img">
-                <img src="{{ asset('/public/website/assets/images/department-6.jpg') }}" alt="" class="w-100">
-            </div>
-        </div>
-        <div class="col-md-8 col-lg-8">
-            <div class="servrse-contest-p p-0">
-                <h3>Neurology </h3>
-                         <p>Combining neurologic expertise and geriatric care, our Geriatric Neurology department offers comprehensive evaluation and treatment for neurological conditions such as parkinsons disease, peripheral neuropathy, stroke, seizure disorders in older adults, providing personalized care to enhance brain health and cognitive function.</p>
-                         <div class="minrester-link">
-                           <a href="{{ url('our-doctors') }}"   tabindex="0">Fina a doctor<img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="" class=""></a>
-                        </div>  
-            </div>
-        </div>
-</div>
-<div class="row dctr-detilsbox   mt-4">
-        <div class=" col-md-4 col-lg-4">
-            <div class="doc-tor-img">
-                <img src="{{ asset('/public/website/assets/images/department-7.jpg') }}" alt="" class="w-100">
-            </div>
-        </div>
-        <div class="col-md-8 col-lg-8">
-            <div class="servrse-contest-p p-0">
-                <h3>Surgery</h3>
-                         <p>Our Geriatric Surgery department provides specialized surgical care for older adults, ensuring safe and effective procedures tailored to the unique needs of elderly patients.</p>
-                    <div class="minrester-link">
-                       <a href="{{ url('our-doctors') }}"   tabindex="0">Fina a doctor<img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="" class=""></a>
-                    </div>  
-            </div>
-        </div>
-</div>
+
 <div class="row dctr-detilsbox   mt-4">
         <div class=" col-md-4 col-lg-4">
             <div class="doc-tor-img">
@@ -167,6 +176,7 @@
             </div>
         </div>
 </div>
+
 <div class="row dctr-detilsbox   mt-4">
         <div class=" col-md-4 col-lg-4">
             <div class="doc-tor-img">
@@ -175,7 +185,7 @@
         </div>
         <div class="col-md-8 col-lg-8">
             <div class="servrse-contest-p p-0">
-                <h3>ICU </h3>
+                <h3>Geriatric ICU </h3>
                          <p>At our Geriatric ICU, we offer individualized and advanced critical care for older adults, addressing complex medical needs and age-specific considerations to deliver exceptional support and promote recovery. We are one of India's first hospitals to respect patient’s advanced healthcare directives.</p>
                     <div class="minrester-link">
                        <a href="{{ url('our-doctors') }}"   tabindex="0">Fina a doctor<img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="" class=""></a>
@@ -231,38 +241,7 @@
             </div>
         </div>
 </div>
-<div class="row dctr-detilsbox   mt-4">
-        <div class=" col-md-4 col-lg-4">
-            <div class="doc-tor-img">
-                <img src="{{ asset('/public/website/assets/images/department-13.jpg') }}" alt="" class="w-100">
-            </div>
-        </div>
-        <div class="col-md-8 col-lg-8">
-            <div class="servrse-contest-p p-0">
-                <h3>Lab Services </h3>
-                         <p>Our state-of-the-art lab services for accurate and timely diagnostic testing, ensuring precise results to guide your healthcare decisions at the comfort of your home.</p>
-                    <div class="minrester-link">
-                       <a href="{{ url('our-doctors') }}"   tabindex="0">Fina a doctor<img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="" class=""></a>
-                    </div>  
-            </div>
-        </div>
-</div>
-<div class="row dctr-detilsbox   mt-4">
-        <div class=" col-md-4 col-lg-4">
-            <div class="doc-tor-img">
-                <img src="{{ asset('/public/website/assets/images/department-14.jpg') }}" alt="" class="w-100">
-            </div>
-        </div>
-        <div class="col-md-8 col-lg-8">
-            <div class="servrse-contest-p p-0">
-                <h3>Physiotherapy  </h3>
-                         <p>Geriatric physiotherapists utilize a holistic approach, combining exercises, manual therapy, and other therapeutic techniques to address age-related conditions such as arthritis, osteoporosis, balance impairments, and mobility limitations. By tailoring treatment plans to individual needs, geriatric physiotherapy helps older adults regain or maintain their physical abilities, enhancing their overall well-being and promoting active and independent living. Services are provided across all care settings such as Home and Assisted living facilities also.</p>
-                    <div class="minrester-link">
-                       <a href="{{ url('our-doctors') }}"   tabindex="0">Fina a doctor<img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="" class=""></a>
-                    </div>  
-            </div>
-        </div>
-</div>
+
 <div class="row dctr-detilsbox   mt-4">
         <div class=" col-md-4 col-lg-4">
             <div class="doc-tor-img">
@@ -279,6 +258,42 @@
             </div>
         </div>
 </div>
+
+<div class="row dctr-detilsbox   mt-4">
+        <div class=" col-md-4 col-lg-4">
+            <div class="doc-tor-img">
+                <img src="{{ asset('/public/website/assets/images/department-14.jpg') }}" alt="" class="w-100">
+            </div>
+        </div>
+        <div class="col-md-8 col-lg-8">
+            <div class="servrse-contest-p p-0">
+                <h3>Geriatric Physiotherapy  </h3>
+                         <p>Geriatric physiotherapists utilize a holistic approach, combining exercises, manual therapy, and other therapeutic techniques to address age-related conditions such as arthritis, osteoporosis, balance impairments, and mobility limitations. By tailoring treatment plans to individual needs, geriatric physiotherapy helps older adults regain or maintain their physical abilities, enhancing their overall well-being and promoting active and independent living. Services are provided across all care settings such as Home and Assisted living facilities also.</p>
+                    <div class="minrester-link">
+                       <a href="{{ url('our-doctors') }}"   tabindex="0">Fina a doctor<img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="" class=""></a>
+                    </div>  
+            </div>
+        </div>
+</div>
+
+<div class="row dctr-detilsbox   mt-4">
+        <div class=" col-md-4 col-lg-4">
+            <div class="doc-tor-img">
+                <img src="{{ asset('/public/website/assets/images/department-13.jpg') }}" alt="" class="w-100">
+            </div>
+        </div>
+        <div class="col-md-8 col-lg-8">
+            <div class="servrse-contest-p p-0">
+                <h3>Lab Services </h3>
+                         <p>Our state-of-the-art lab services for accurate and timely diagnostic testing, ensuring precise results to guide your healthcare decisions at the comfort of your home.</p>
+                    <div class="minrester-link">
+                       <a href="{{ url('our-doctors') }}"   tabindex="0">Fina a doctor<img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="" class=""></a>
+                    </div>  
+            </div>
+        </div>
+</div>
+
+
 
 
 

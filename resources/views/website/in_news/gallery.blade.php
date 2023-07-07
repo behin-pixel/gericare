@@ -181,25 +181,77 @@
 					
                 </div>	
 				<div class="col-lg-3 gallery-img">
-				    <a data-fancybox="gallery7" href="{{ asset('/public/website/assets/images/gallery/anniversary/1.jpg') }}" data-caption="Hospital First anniversary Nov 19, 2021">
+				    <a data-fancybox="gallery8" href="{{ asset('/public/website/assets/images/gallery/anniversary/1.jpg') }}" data-caption="Hospital First anniversary Nov 19, 2021">
 						<img src="{{ asset('/public/website/assets/images/gallery/anniversary/main-img.jpg') }}" alt="" class="img-fluid w-100" />
 						<span>Hospital First anniversary Nov 19, 2021</span>
 					</a>
-					<a class="d-none" data-fancybox="gallery7" href="{{ asset('/public/website/assets/images/gallery/anniversary/2.jpg') }}" data-caption="Hospital First anniversary Nov 19, 2021">&nbsp;</a>
+					<a class="d-none" data-fancybox="gallery8" href="{{ asset('/public/website/assets/images/gallery/anniversary/2.jpg') }}" data-caption="Hospital First anniversary Nov 19, 2021">&nbsp;</a>
 
-					<a class="d-none" data-fancybox="gallery7" href="{{ asset('/public/website/assets/images/gallery/anniversary/3.jpg') }}" data-caption="Hospital First anniversary Nov 19, 2021">&nbsp;</a>
+					<a class="d-none" data-fancybox="gallery8" href="{{ asset('/public/website/assets/images/gallery/anniversary/3.jpg') }}" data-caption="Hospital First anniversary Nov 19, 2021">&nbsp;</a>
 
-					<a class="d-none" data-fancybox="gallery7" href="{{ asset('/public/website/assets/images/gallery/anniversary/4.jpg') }}" data-caption="Hospital First anniversary Nov 19, 2021">&nbsp;</a>
+					<a class="d-none" data-fancybox="gallery8" href="{{ asset('/public/website/assets/images/gallery/anniversary/4.jpg') }}" data-caption="Hospital First anniversary Nov 19, 2021">&nbsp;</a>
 
-					<a class="d-none" data-fancybox="gallery7" href="{{ asset('/public/website/assets/images/gallery/anniversary/5.jpg') }}" data-caption="Hospital First anniversary Nov 19, 2021">&nbsp;</a>
+					<a class="d-none" data-fancybox="gallery8" href="{{ asset('/public/website/assets/images/gallery/anniversary/5.jpg') }}" data-caption="Hospital First anniversary Nov 19, 2021">&nbsp;</a>
 					
-					<a class="d-none" data-fancybox="gallery7" href="{{ asset('/public/website/assets/images/gallery/anniversary/6.jpg') }}" data-caption="Hospital First anniversary Nov 19, 2021">&nbsp;</a>
+					<a class="d-none" data-fancybox="gallery8" href="{{ asset('/public/website/assets/images/gallery/anniversary/6.jpg') }}" data-caption="Hospital First anniversary Nov 19, 2021">&nbsp;</a>
 					
-					<a class="d-none" data-fancybox="gallery7" href="{{ asset('/public/website/assets/images/gallery/anniversary/7.jpg') }}" data-caption="Hospital First anniversary Nov 19, 2021">&nbsp;</a>
+					<a class="d-none" data-fancybox="gallery8" href="{{ asset('/public/website/assets/images/gallery/anniversary/7.jpg') }}" data-caption="Hospital First anniversary Nov 19, 2021">&nbsp;</a>
 					
-					<a class="d-none" data-fancybox="gallery7" href="{{ asset('/public/website/assets/images/gallery/anniversary/8.jpg') }}" data-caption="Hospital First anniversary Nov 19, 2021">&nbsp;</a> 
+					<a class="d-none" data-fancybox="gallery8" href="{{ asset('/public/website/assets/images/gallery/anniversary/8.jpg') }}" data-caption="Hospital First anniversary Nov 19, 2021">&nbsp;</a> 
 					
-					<a class="d-none" data-fancybox="gallery7" href="{{ asset('/public/website/assets/images/gallery/anniversary/9.jpg') }}" data-caption="Hospital First anniversary Nov 19, 2021">&nbsp;</a>
+					<a class="d-none" data-fancybox="gallery8" href="{{ asset('/public/website/assets/images/gallery/anniversary/9.jpg') }}" data-caption="Hospital First anniversary Nov 19, 2021">&nbsp;</a>
+					
+                </div>	
+				<div class="col-lg-3 gallery-img">
+				    <a data-fancybox="gallery9" href="{{ asset('/public/website/assets/images/gallery/iagc/1.jpg') }}" data-caption="IAG Chennai Chapter Conference">
+						<img src="{{ asset('/public/website/assets/images/gallery/iagc/main-img.jpg') }}" alt="" class="img-fluid w-100" />
+						<span>IAG Chennai Chapter Conference</span>
+					</a>
+					<a class="d-none" data-fancybox="gallery9" href="{{ asset('/public/website/assets/images/gallery/iagc/2.jpg') }}" data-caption="IAG Chennai Chapter Conference">&nbsp;</a>
+
+					<a class="d-none" data-fancybox="gallery9" href="{{ asset('/public/website/assets/images/gallery/iagc/3.jpg') }}" data-caption="IAG Chennai Chapter Conference">&nbsp;</a>
+
+					<a class="d-none" data-fancybox="gallery9" href="{{ asset('/public/website/assets/images/gallery/iagc/4.jpg') }}" data-caption="IAG Chennai Chapter Conference">&nbsp;</a>
+
+					<a class="d-none" data-fancybox="gallery9" href="{{ asset('/public/website/assets/images/gallery/iagc/5.jpg') }}" data-caption="IAG Chennai Chapter Conference">&nbsp;</a> 
+					
+                </div>	
+				<div class="col-lg-3 gallery-img">
+				    <a data-fancybox="gallery10" href="{{ asset('/public/website/assets/images/gallery/independenceday2022/1.jpg') }}" data-caption="Independence day 2022">
+						<img src="{{ asset('/public/website/assets/images/gallery/independenceday2022/main-img.jpg') }}" alt="" class="img-fluid w-100" />
+						<span>Independence day 2022</span>
+					</a>
+					<a class="d-none" data-fancybox="gallery10" href="{{ asset('/public/website/assets/images/gallery/independenceday2022/2.jpg') }}" data-caption="Independence day 2022">&nbsp;</a>
+
+					<a class="d-none" data-fancybox="gallery10" href="{{ asset('/public/website/assets/images/gallery/independenceday2022/3.jpg') }}" data-caption="Independence day 2022">&nbsp;</a>
+
+					<a class="d-none" data-fancybox="gallery10" href="{{ asset('/public/website/assets/images/gallery/independenceday2022/4.jpg') }}" data-caption="Independence day 2022">&nbsp;</a>
+
+					<a class="d-none" data-fancybox="gallery10" href="{{ asset('/public/website/assets/images/gallery/independenceday2022/5.jpg') }}" data-caption="Independence day 2022">&nbsp;</a> 
+					
+                </div>		
+				<div class="col-lg-3 gallery-img">
+				    <a data-fancybox="gallery11" href="{{ asset('/public/website/assets/images/gallery/nurses-day-2022/1.jpg') }}" data-caption="Nurses Day Celebration May 2022">
+						<img src="{{ asset('/public/website/assets/images/gallery/nurses-day-2022/main-img.jpg') }}" alt="" class="img-fluid w-100" />
+						<span>Nurses Day Celebration May 2022</span>
+					</a>
+					<a class="d-none" data-fancybox="gallery11" href="{{ asset('/public/website/assets/images/gallery/nurses-day-2022/2.jpg') }}" data-caption="Nurses Day Celebration May 2022">&nbsp;</a>
+
+					<a class="d-none" data-fancybox="gallery11" href="{{ asset('/public/website/assets/images/gallery/nurses-day-2022/3.jpg') }}" data-caption="Nurses Day Celebration May 2022">&nbsp;</a>
+
+					<a class="d-none" data-fancybox="gallery11" href="{{ asset('/public/website/assets/images/gallery/nurses-day-2022/4.jpg') }}" data-caption="Nurses Day Celebration May 2022">&nbsp;</a>
+
+					<a class="d-none" data-fancybox="gallery11" href="{{ asset('/public/website/assets/images/gallery/nurses-day-2022/5.jpg') }}" data-caption="Nurses Day Celebration May 2022">&nbsp;</a> 
+
+					<a class="d-none" data-fancybox="gallery11" href="{{ asset('/public/website/assets/images/gallery/nurses-day-2022/6.jpg') }}" data-caption="Nurses Day Celebration May 2022">&nbsp;</a>
+
+					<a class="d-none" data-fancybox="gallery11" href="{{ asset('/public/website/assets/images/gallery/nurses-day-2022/7.jpg') }}" data-caption="Nurses Day Celebration May 2022">&nbsp;</a>
+
+					<a class="d-none" data-fancybox="gallery11" href="{{ asset('/public/website/assets/images/gallery/nurses-day-2022/8.jpg') }}" data-caption="Nurses Day Celebration May 2022">&nbsp;</a>
+
+					<a class="d-none" data-fancybox="gallery11" href="{{ asset('/public/website/assets/images/gallery/nurses-day-2022/9.jpg') }}" data-caption="Nurses Day Celebration May 2022">&nbsp;</a> 
+
+					<a class="d-none" data-fancybox="gallery11" href="{{ asset('/public/website/assets/images/gallery/nurses-day-2022/10.jpg') }}" data-caption="Nurses Day Celebration May 2022">&nbsp;</a> 
 					
                 </div>	
 				<!-- <div class="col" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">

@@ -105,22 +105,16 @@
                         </button>
       </div>
       <div class="modal-body">
-		<form name="request_call_back"  id="request_call_back" class="row g-3 needs-validation" novalidate>
+		<form name="request_call_back" id="request_call_back">
 			@csrf
 			<input type="hidden" name="epagename" id="epagename" value="Home"> 
 			<input type="hidden" name="from" value="request_call_back">
 			<div class="position-relative">
-				<input type="text" class="form-control jsrequired" name="ecustomername" id="ecustomername" required placeholder="Name*">
+				<input type="text" class="form-control" name="ecustomername" id="ecustomername" required placeholder="Name*">
 			</div>
-			<div class="invalid-feedback">
-				Please Enter Name.
-			  </div>
 			<div class="position-relative">
-				<input type="tel" class="form-control jsrequired" name="emobileno" onkeypress="return isNumber(event)" id="emobileno" required placeholder="Phone Number*">
-			</div> 
-			<div class="invalid-feedback">
-				Please Mobile No.
-			  </div>
+				<input type="tel" class="form-control" name="emobileno" onkeypress="return isNumber(event)" id="emobileno" required placeholder="Phone Number*">
+			</div>
 			<div class="text-right">
 				<button type="submit" id="save-btn" class="submit-btn">Submit</button>
 			</div>

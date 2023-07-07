@@ -47,7 +47,7 @@ for Senior Citizens</span>
     <div class="geric-img">
     <img src="{{ asset('/public/website/assets/images/icn-1.png') }}" alt="" class=""> 
     </div>    
-    Geriatrics
+    Geriatric Medicine
     </button>
     <button class="nav-link" id="v-pills-2-tab" data-bs-toggle="pill" data-bs-target="#v-pills-2" type="button" role="tab" aria-controls="v-pills-2" aria-selected="false">
     <div class="geric-img">
@@ -55,12 +55,44 @@ for Senior Citizens</span>
     </div>     
     Geriatric Cardiology
     </button>
+
+    <button class="nav-link" id="v-pills-5-tab" data-bs-toggle="pill" data-bs-target="#v-pills-5" type="button" role="tab" aria-controls="v-pills-5" aria-selected="false">
+    <div class="geric-img">
+    <img src="{{ asset('/public/website/assets/images/hip-replacement.png') }}" alt="" class=""> 
+    </div>     
+    Ortho Geriatrics
+    </button>
+
+
+    <button class="nav-link" id="v-pills-10-tab" data-bs-toggle="pill" data-bs-target="#v-pills-10" type="button" role="tab" aria-controls="v-pills-10" aria-selected="false">
+    <div class="geric-img">
+    <img src="{{ asset('/public/website/assets/images/icn-7.png') }}" alt="" class=""> 
+    </div>     
+    Psychiatry
+    </button>
+
+
+    <button class="nav-link" id="v-pills-7-tab" data-bs-toggle="pill" data-bs-target="#v-pills-7" type="button" role="tab" aria-controls="v-pills-7" aria-selected="false">
+    <div class="geric-img">
+    <img src="{{ asset('/public/website/assets/images/icn-7.png') }}" alt="" class=""> 
+    </div>     
+    Geriatric Neurology
+    </button>
+
+    <button class="nav-link" id="v-pills-8-tab" data-bs-toggle="pill" data-bs-target="#v-pills-8" type="button" role="tab" aria-controls="v-pills-8" aria-selected="false">
+    <div class="geric-img">
+    <img src="{{ asset('/public/website/assets/images/icn-7.png') }}" alt="" class=""> 
+    </div>     
+    Geriatric Surgery
+    </button>
+
     <button class="nav-link" id="v-pills-3-tab" data-bs-toggle="pill" data-bs-target="#v-pills-3" type="button" role="tab" aria-controls="v-pills-3" aria-selected="false">
     <div class="geric-img">
     <img src="{{ asset('/public/website/assets/images/oncology.png') }}" alt="" class=""> 
     </div>     
     Geriatric Oncology
     </button>
+
     <button class="nav-link" id="v-pills-4-tab" data-bs-toggle="pill" data-bs-target="#v-pills-4" type="button" role="tab" aria-controls="v-pills-4" aria-selected="false">
     <div class="geric-img">
     <img src="{{ asset('/public/website/assets/images/uro.png') }}" alt="" class=""> 
@@ -68,31 +100,43 @@ for Senior Citizens</span>
     Geriatric Urology
     </button>
 
-    <button class="nav-link" id="v-pills-12-tab" data-bs-toggle="pill" data-bs-target="#v-pills-12" type="button" role="tab" aria-controls="v-pills-12" aria-selected="false">
-    <div class="geric-img">
-    <img src="{{ asset('/public/website/assets/images/icn-7.png') }}" alt="" class=""> 
-    </div>     
-    Geriatric Psychologist
-    </button> 
-
-    <button class="nav-link" id="v-pills-5-tab" data-bs-toggle="pill" data-bs-target="#v-pills-5" type="button" role="tab" aria-controls="v-pills-5" aria-selected="false">
-    <div class="geric-img">
-    <img src="{{ asset('/public/website/assets/images/hip-replacement.png') }}" alt="" class=""> 
-    </div>     
-    Orthogeriatrics
-    </button>
     <button class="nav-link" id="v-pills-6-tab" data-bs-toggle="pill" data-bs-target="#v-pills-6" type="button" role="tab" aria-controls="v-pills-6" aria-selected="false">
     <div class="geric-img">
     <img src="{{ asset('/public/website/assets/images/stomach.png') }}" alt="" class=""> 
     </div>     
     Gastroenterology
     </button>
-    <button class="nav-link" id="v-pills-7-tab" data-bs-toggle="pill" data-bs-target="#v-pills-7" type="button" role="tab" aria-controls="v-pills-7" aria-selected="false">
+
+    <button class="nav-link" id="v-pills-9-tab" data-bs-toggle="pill" data-bs-target="#v-pills-9" type="button" role="tab" aria-controls="v-pills-9" aria-selected="false">
+    <div class="geric-img">
+    <img src="{{ asset('/public/website/assets/images/lungs.png') }}" alt="" class=""> 
+    </div>     
+    Pulmonology
+    </button> 
+
+    <button class="nav-link" id="v-pills-11-tab" data-bs-toggle="pill" data-bs-target="#v-pills-11" type="button" role="tab" aria-controls="v-pills-11" aria-selected="false">
     <div class="geric-img">
     <img src="{{ asset('/public/website/assets/images/icn-7.png') }}" alt="" class=""> 
     </div>     
-    Neurology
+    Geriatric ICU
     </button>
+
+
+    <button class="nav-link" id="v-pills-13-tab" data-bs-toggle="pill" data-bs-target="#v-pills-13" type="button" role="tab" aria-controls="v-pills-13" aria-selected="false">
+    <div class="geric-img">
+    <img src="{{ asset('/public/website/assets/images/lungs-vs.png') }}" alt="" class=""> 
+    </div>     
+    Vascular Surgery
+    </button> 
+
+  
+    <button class="nav-link" id="v-pills-14-tab" data-bs-toggle="pill" data-bs-target="#v-pills-14" type="button" role="tab" aria-controls="v-pills-14" aria-selected="false">
+    <div class="geric-img">
+    <img src="{{ asset('/public/website/assets/images/lungs-vs.png') }}" alt="" class=""> 
+    </div>     
+Uro Gynaecology
+    </button> 
+   
 
     <button class="nav-link" id="v-pills-16-tab" data-bs-toggle="pill" data-bs-target="#v-pills-16" type="button" role="tab" aria-controls="v-pills-15" aria-selected="false">
     <div class="geric-img">
@@ -102,43 +146,17 @@ for Senior Citizens</span>
     </button> 
 
 
-    <button class="nav-link" id="v-pills-8-tab" data-bs-toggle="pill" data-bs-target="#v-pills-8" type="button" role="tab" aria-controls="v-pills-8" aria-selected="false">
+    <button class="nav-link" id="v-pills-12-tab" data-bs-toggle="pill" data-bs-target="#v-pills-12" type="button" role="tab" aria-controls="v-pills-12" aria-selected="false">
     <div class="geric-img">
     <img src="{{ asset('/public/website/assets/images/icn-7.png') }}" alt="" class=""> 
     </div>     
-    Surgery
+    Geriatric Psychologist
     </button> 
-    <button class="nav-link" id="v-pills-9-tab" data-bs-toggle="pill" data-bs-target="#v-pills-9" type="button" role="tab" aria-controls="v-pills-9" aria-selected="false">
-    <div class="geric-img">
-    <img src="{{ asset('/public/website/assets/images/lungs.png') }}" alt="" class=""> 
-    </div>     
-    Pulmonology
-    </button> 
-    <button class="nav-link" id="v-pills-10-tab" data-bs-toggle="pill" data-bs-target="#v-pills-10" type="button" role="tab" aria-controls="v-pills-10" aria-selected="false">
-    <div class="geric-img">
-    <img src="{{ asset('/public/website/assets/images/icn-7.png') }}" alt="" class=""> 
-    </div>     
-    Psychiatry
-    </button> 
-    <button class="nav-link" id="v-pills-11-tab" data-bs-toggle="pill" data-bs-target="#v-pills-11" type="button" role="tab" aria-controls="v-pills-11" aria-selected="false">
-    <div class="geric-img">
-    <img src="{{ asset('/public/website/assets/images/icn-7.png') }}" alt="" class=""> 
-    </div>     
-    ICU
-    </button> 
-    
-    <button class="nav-link" id="v-pills-13-tab" data-bs-toggle="pill" data-bs-target="#v-pills-13" type="button" role="tab" aria-controls="v-pills-13" aria-selected="false">
-    <div class="geric-img">
-    <img src="{{ asset('/public/website/assets/images/lungs-vs.png') }}" alt="" class=""> 
-    </div>     
-    Vascular Surgery
-    </button> 
-    <button class="nav-link" id="v-pills-14-tab" data-bs-toggle="pill" data-bs-target="#v-pills-14" type="button" role="tab" aria-controls="v-pills-14" aria-selected="false">
-    <div class="geric-img">
-    <img src="{{ asset('/public/website/assets/images/lungs-vs.png') }}" alt="" class=""> 
-    </div>     
-    Gynaecology
-    </button> 
+
+
+  
+
+
     <button class="nav-link" id="v-pills-15-tab" data-bs-toggle="pill" data-bs-target="#v-pills-15" type="button" role="tab" aria-controls="v-pills-15" aria-selected="false">
     <div class="geric-img">
     <img src="{{ asset('/public/website/assets/images/lungs-vs.png') }}" alt="" class=""> 
@@ -156,7 +174,7 @@ for Senior Citizens</span>
     
     <div class="tab-pane fade show active" id="v-pills-1" role="tabpanel" aria-labelledby="v-pills-1-tab">
 
-    <h4>Geriatrics</h4>
+    <h4>Geriatric Medicine</h4>
 
     <div class="dctrs-detls">
     <div class="dctrm-img">
@@ -401,7 +419,7 @@ for Senior Citizens</span>
         </div>
      <div class="tab-pane fade" id="v-pills-5" role="tabpanel" aria-labelledby="v-pills-5-tab">
         
-        <h4>Orthogeriatrics</h4>
+        <h4>Ortho Geriatrics</h4>
         <div class="dctrs-detls">
         <div class="dctrm-img">
         <img src="{{ asset('/public/website/assets/images/doctor-img-13.jpg') }}" alt="" class="">
@@ -429,6 +447,40 @@ for Senior Citizens</span>
       </div> 
 
 
+      <div class="tab-pane fade" id="v-pills-10" role="tabpanel" aria-labelledby="v-pills-10-tab">
+        
+        <h4>Psychiatry</h4>
+
+        <div class="dctrs-detls">
+        <div class="dctrm-img">
+        <img src="{{ asset('/public/website/assets/images/no-img.jpg') }}" alt="" class="">
+        </div>
+        <div class="dctrm-deitals">
+        <h3> Dr Srinivas Rajkumar T </h3>
+        <h4>Consultant Psychiatrist  </h4>
+        <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> M.D (Psychiatry)</h5>
+        <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class=""> T.Nagar, Adambakkam, Adyar</h5>
+        <a href="{{ url('dr-srinivas-rajkumar') }}">Book Appointment</a>
+        <a href="{{ url('dr-srinivas-rajkumar') }}">View Profile</a>
+        </div>
+        </div>
+
+
+        <div class="dctrs-detls">
+        <div class="dctrm-img">
+        <img src="{{ asset('/public/website/assets/images/doctor-img-22.jpg') }}" alt="" class="">
+        </div>
+        <div class="dctrm-deitals">
+        <h3> Dr. Sujatha </h3>
+        <h4>Consultant - Psychiatrist  </h4>
+        <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> M.B.B.S.</h5>
+        <a href="#">Book Appointment</a>
+        <a href="#">View Profile</a>
+        </div>
+        </div>
+      </div>
+
+
       <div class="tab-pane fade" id="v-pills-12" role="tabpanel" aria-labelledby="v-pills-12-tab">
         
         <h4>Geriatric Psychologist</h4>
@@ -446,8 +498,7 @@ for Senior Citizens</span>
         <a href="{{ url('our-doctors/dr-tinu-thamby') }}">View Profile</a>
         </div>
         </div>
-         
-       
+               
     
         </div>
 
@@ -489,7 +540,7 @@ for Senior Citizens</span>
       </div>        
       <div class="tab-pane fade" id="v-pills-7" role="tabpanel" aria-labelledby="v-pills-7-tab">
         
-        <h4>Neurology</h4>
+        <h4>Geriatric Neurology</h4>
         <div class="dctrs-detls">
         <div class="dctrm-img">
         <img src="{{ asset('/public/website/assets/images/doctor-img-17.jpg') }}" alt="" class="">
@@ -539,7 +590,7 @@ for Senior Citizens</span>
 
       <div class="tab-pane fade" id="v-pills-8" role="tabpanel" aria-labelledby="v-pills-8-tab">
         
-        <h4>Surgery</h4>
+        <h4>Geriatric Surgery</h4>
         <div class="dctrs-detls">
         <div class="dctrm-img">
         <img src="{{ asset('/public/website/assets/images/doctor-img-19.jpg') }}" alt="" class="">
@@ -581,41 +632,10 @@ for Senior Citizens</span>
         </div>
         </div>
       </div>  
-      <div class="tab-pane fade" id="v-pills-10" role="tabpanel" aria-labelledby="v-pills-10-tab">
-        
-        <h4>Psychiatry</h4>
-
-        <div class="dctrs-detls">
-        <div class="dctrm-img">
-        <img src="{{ asset('/public/website/assets/images/no-img.jpg') }}" alt="" class="">
-        </div>
-        <div class="dctrm-deitals">
-        <h3> Dr Srinivas Rajkumar T </h3>
-        <h4>Consultant Psychiatrist  </h4>
-        <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> M.D (Psychiatry)</h5>
-        <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class=""> T.Nagar, Adambakkam, Adyar</h5>
-        <a href="{{ url('dr-srinivas-rajkumar') }}">Book Appointment</a>
-        <a href="{{ url('dr-srinivas-rajkumar') }}">View Profile</a>
-        </div>
-        </div>
-
-
-        <div class="dctrs-detls">
-        <div class="dctrm-img">
-        <img src="{{ asset('/public/website/assets/images/doctor-img-22.jpg') }}" alt="" class="">
-        </div>
-        <div class="dctrm-deitals">
-        <h3> Dr. Sujatha </h3>
-        <h4>Consultant - Psychiatrist  </h4>
-        <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> M.B.B.S.</h5>
-        <a href="#">Book Appointment</a>
-        <a href="#">View Profile</a>
-        </div>
-        </div>
-      </div>    
+          
       <div class="tab-pane fade" id="v-pills-11" role="tabpanel" aria-labelledby="v-pills-11-tab">
         
-        <h4>ICU</h4>
+        <h4>Geriatric ICU</h4>
         <div class="dctrs-detls">
         <div class="dctrm-img">
         <img src="{{ asset('/public/website/assets/images/doctor-img-23.jpg') }}" alt="" class="">

@@ -11,10 +11,10 @@
   <div class="carousel-inner">
 
     <div class="carousel-item active">
-      <img src="{{ asset('/public/website/assets/images/banners/Banner-1.jpg') }}" alt="" class="desky w-100 d-none d-lg-block" />
-      <img src="{{ asset('/public/website/assets/images/banners/Mobile-Banner-1.jpg') }}" alt="" class="desky w-100 d-block d-lg-none" />
+      <img src="{{ asset('/public/website/assets/images/banners/banner-1.jpg') }}" alt="" class="desky w-100 d-none d-lg-block" />
+      <img src="{{ asset('/public/website/assets/images/banners/mobile-banner-1.jpg') }}" alt="" class="desky w-100 d-block d-lg-none" />
       
-      <img src="{{ asset('/public/website/assets/images/banners/Mobile-Banner-1.jpg') }}" alt="" class="moby w-100 d-block d-lg-none" />
+      <img src="{{ asset('/public/website/assets/images/banners/mobile-banner-1.jpg') }}" alt="" class="moby w-100 d-block d-lg-none" />
       <div class="carousel-caption animated animatedFadeInUp fadeInUp">
         <h1 class="text-blue">Entrust yourself with Geriatricians</h1>
         <span class="text-blue">in the most comforting environment.</span>
@@ -331,10 +331,11 @@
     <h4> {{$testimonials['title']}}<span> {{$testimonials['designation']}} </span></h4>
     </div>
     <div class="rev-goog d-flex align-items-center justify-content-center">
-    <img src="{{ asset($testimonials["photo"]) }}" alt="" class="">
+    <!-- <img src="{{ asset($testimonials["photo"]) }}" alt="" class="">
 
 
-    <img src="{{ asset(Storage::url("app/{$testimonials["photo"]}")) }}"  />
+    <img src="{{ asset(Storage::url("app/{$testimonials["photo"]}")) }}"  /> -->
+    <img src="{{ asset('/public/website/assets/images/gog.png') }}"  />
  
     </div>
     
