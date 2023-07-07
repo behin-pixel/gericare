@@ -329,9 +329,9 @@ class PageViewController extends Controller
     // {
     //     return view('website.thanks-contactus');
     // }
-    public function newsDetailPage($id)
+    public function newsDetailPage($slug)
     {
-        $news_event_one=NewsEvent::where('id',$id)->first();
+        $news_event_one=NewsEvent::where('slug',$slug)->first();
         return view('website.news-detail',compact('news_event_one'));
     }  
 

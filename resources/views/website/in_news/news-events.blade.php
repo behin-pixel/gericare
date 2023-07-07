@@ -49,7 +49,7 @@
         
         <div class="common-button drk">
          
-            <a href="{{route('news-detail', ['id' => $news_events->id])}}" target="_blank">Know More</a>
+            <a href="{{route('news-detail', ['slug' => $news_events->slug])}}" target="_blank">Know More</a>
 
         </div>
         </div> 
