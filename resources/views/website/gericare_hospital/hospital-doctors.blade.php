@@ -472,7 +472,7 @@ Uro Gynaecology
         </div>
         <div class="dctrm-deitals">
         <h3> Dr. Sujatha </h3>
-        <h4>Consultant - Psychiatrist  </h4>
+        <h4>Consultant Psychiatrist  </h4>
         <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> M.B.B.S.</h5>
         <a href="#">Book Appointment</a>
         <a href="#">View Profile</a>
@@ -497,7 +497,7 @@ Uro Gynaecology
       </div>
 
 
-      <div class="tab-pane fade" id="v-pills-12" role="tabpanel" aria-labelledby="v-pills-12-tab">
+      <!-- <div class="tab-pane fade" id="v-pills-12" role="tabpanel" aria-labelledby="v-pills-12-tab">
         
         <h4>Geriatric Psychology</h4>
         <div class="dctrs-detls">
@@ -516,7 +516,7 @@ Uro Gynaecology
         </div>
                
     
-        </div>
+        </div> -->
 
 
 

@@ -7,7 +7,7 @@
 <div class="container">
 <div class="row">
 	@php 
-    $name='Dr Mohan Rao';
+    $name='Dr. Sujatha';
     @endphp 
 <div class="col-lg-12">
 <h1>Our Doctors</h1>
@@ -18,7 +18,7 @@
 <li> > </li>
 <li><a href=""> Doctors </a></li>
 <li> > </li>
-<li class="active"> Dr Mohan Rao </li>
+<li class="active"> Dr. Sujatha </li>
 </ul>
 </div>
 
@@ -45,9 +45,9 @@
 
 <div class="col-lg-8">
 <div class="doc-tor-cnt">
-<h3>Dr Mohan Rao<span>General Surgeon</span></h3>
-<h4><img src="{{ asset('/public/website/assets/images/expe.png') }}" alt="" class=""> Experience <span> 36+ Years</span></h4>
-<!-- <h4><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> Education <span> </span></h4>
+<h3>Dr. Sujatha<span>Consultant Psychiatrist </span></h3>
+<!-- <h4><img src="{{ asset('/public/website/assets/images/expe.png') }}" alt="" class=""> Experience <span> 36+ Years</span></h4>
+<h4><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> Education <span> </span></h4>
 <h4><img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class=""> Languages <span>  </span></h4>
 <h4><img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class=""> Location <span>  </span></h4> -->
 </div>
@@ -58,7 +58,7 @@
 
 <div class="main-contdvshon">
 <h4>Doctor's Profile</h4>
-<p> Dr A Mohan Rao qualified from Kasturba Medical College Mangalore/ Manipal, Karnataka in 1985 is a Sr. Consultant in General, Minimal Access (Laparoscopic) Surgery and Bariatric Surgery. He is also a Fellow of the Indian Association of Gastro Endo-surgeons. He qualified as a General surgeon in the year 1985 and subsequently trained as a Laparoscopic Surgeon. He has more than 36 years of Surgical Experience as a General Surgeon and 20 years of Laparoscopic Surgery. Areas of Specialty include Laparoscopic Surgery, Bariatric Surgery, Breast Surgery & General Surgery.
+<p>Dr.Sujatha, Post her M.B.B.S specialized in Psychiatry from Kasturibai medical college and worked as a private consultant from 2001-2007 with a main focus on women and adolescents. During those years she co-founded an NGO to provide psychological help to those involved in major disasters like fire, tsunami, etc. Was actively involved in an integrative social experiment of spirituality and mental health. Following her move to the United States, she was actively involved in California’s county suicide program along with research for depression and PTSD at Stanford school of Medicine and veterans hospital. Moved to Chennai in 2016 and is in private practice since then.
 </p>
 
  
