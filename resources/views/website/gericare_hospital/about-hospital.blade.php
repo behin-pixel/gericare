@@ -345,153 +345,193 @@ chosen for you</h2>
 <ul>
 
 <li>
+<a href="{{ url('hospital-departments') }}">
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-2.png') }}" alt="" class=""> 
-  </div>
-  <span> Geriatric Medicine </span>    
+<img src="{{ asset('/public/website/assets/images/icn-2.png') }}" alt="" class=""> 
+</div>
+<span> Geriatric Medicine </span>
+</a>      
 </li>
 
 <li>
+<a href="{{ url('hospital-departments') }}">
 <div class="geric-img">
   <img src="{{ asset('/public/website/assets/images/icn-1.png') }}" alt="" class=""> 
   </div>
-  <span> Geriatric Cardiology  </span>    
+  <span> Geriatric Cardiology  </span>  
+</a>   
 </li>
 
 <li>
+<a href="{{ url('hospital-departments') }}">
 <div class="geric-img">
   <img src="{{ asset('/public/website/assets/images/icn-4.png') }}" alt="" class=""> 
   </div>
-  <span> Ortho Geriatrics </span>    
+  <span> Ortho Geriatrics </span>  
+</a>   
 </li>
 
 <li>
+<a href="{{ url('hospital-departments') }}">
 <div class="geric-img">
   <img src="{{ asset('/public/website/assets/images/icn-10.png') }}" alt="" class=""> 
   </div>
-  <span> Geriatric Psychiatry </span>    
+  <span> Geriatric Psychiatry </span>  
+</a>   
 </li>
 
 <li>
+<a href="{{ url('hospital-departments') }}">
 <div class="geric-img">
   <img src="{{ asset('/public/website/assets/images/icn-6.png') }}" alt="" class=""> 
   </div>
-  <span>Geriatric Neurology </span>    
+  <span>Geriatric Neurology </span>  
+</a>   
 </li>
 
 <li>
+<a href="{{ url('hospital-departments') }}">
 <div class="geric-img">
   <img src="{{ asset('/public/website/assets/images/icn-7.png') }}" alt="" class=""> 
   </div>
-  <span>Geriatric Surgery </span>    
+  <span>Geriatric Surgery </span> 
+</a>    
 </li>
 
 <li>
+<a href="{{ url('hospital-departments') }}">
 <div class="geric-img">
   <img src="{{ asset('/public/website/assets/images/icn-2.png') }}" alt="" class=""> 
   </div>
-  <span> Geriatric Oncology </span>    
+  <span> Geriatric Oncology </span>  
+</a>   
 </li>
 
 <li>
+<a href="{{ url('hospital-departments') }}">
 <div class="geric-img">
   <img src="{{ asset('/public/website/assets/images/icn-9.png') }}" alt="" class=""> 
   </div>
-  <span> Geriatric Urology </span>    
+  <span> Geriatric Urology </span> 
+</a>    
 </li>
 
 
 
 <li>
+<a href="{{ url('hospital-departments') }}">
 <div class="geric-img">
   <img src="{{ asset('/public/website/assets/images/icn-5.png') }}" alt="" class=""> 
   </div>
-  <span> Gasteroentrology </span>    
+  <span> Gasteroentrology </span>  
+</a>   
 </li>
 
 
 <li>
+<a href="{{ url('hospital-departments') }}">
 <div class="geric-img">
   <img src="{{ asset('/public/website/assets/images/icn-8.png') }}" alt="" class=""> 
   </div>
-  <span> Pulmonology </span>    
+  <span> Pulmonology </span>  
+</a>   
 </li>
 
 <li>
+<a href="{{ url('hospital-departments') }}">
 <div class="geric-img">
   <img src="{{ asset('/public/website/assets/images/icn-16.png') }}" alt="" class=""> 
   </div>
-  <span>Geriatric  ICU </span>    
+  <span>Geriatric  ICU </span>  
+</a>   
 </li>
 
 <li>
+<a href="{{ url('hospital-departments') }}">
 <div class="geric-img">
   <img src="{{ asset('/public/website/assets/images/icn-11.png') }}" alt="" class=""> 
   </div>
-  <span> Dermatology </span>    
+  <span> Dermatology </span>  
+</a>   
 </li>
 
 <li>
+<a href="{{ url('hospital-departments') }}">
 <div class="geric-img">
   <img src="{{ asset('/public/website/assets/images/icn-12.png') }}" alt="" class=""> 
   </div>
-  <span> Vascular Surgery </span>    
+  <span> Vascular Surgery </span>  
+</a>   
 </li>
 
 <li>
+<a href="{{ url('hospital-departments') }}">
 <div class="geric-img">
   <img src="{{ asset('/public/website/assets/images/icn-13.png') }}" alt="" class=""> 
   </div>
-  <span> Uro Gynaecology </span>    
+  <span> Uro Gynaecology </span>  
+</a>   
 </li>
 
 <li>
+<a href="{{ url('hospital-departments') }}">
 <div class="geric-img">
   <img src="{{ asset('/public/website/assets/images/icn-15.png') }}" alt="" class=""> 
   </div>
-  <span> Nephrology and Dialysis 24x7 </span>    
+  <span> Nephrology and Dialysis 24x7 </span>  
+</a>   
 </li>
 
 <li>
+<a href="{{ url('hospital-departments') }}">
 <div class="geric-img">
   <img src="{{ asset('/public/website/assets/images/icn-15.png') }}" alt="" class=""> 
   </div>
-  <span> ENT </span>    
+  <span> ENT </span>   
+</a>  
 </li>
 
 <li>
+<a href="{{ url('hospital-departments') }}">
 <div class="geric-img">
   <img src="{{ asset('/public/website/assets/images/icn-15.png') }}" alt="" class=""> 
   </div>
-  <span> Ophthalmology </span>    
+  <span> Ophthalmology </span>   
+</a>  
 </li>
 
 <li>
+<a href="{{ url('hospital-departments') }}">
 <div class="geric-img">
   <img src="{{ asset('/public/website/assets/images/icn-15.png') }}" alt="" class=""> 
   </div>
-  <span> Dentistry </span>    
+  <span> Dentistry </span>  
+</a>   
 </li>
 
 <li>
+<a href="{{ url('hospital-departments') }}">
 <div class="geric-img">
   <img src="{{ asset('/public/website/assets/images/icn-14.png') }}" alt="" class=""> 
   </div>
-  <span>Geriatric Physiotherapy </span>    
+  <span>Geriatric Physiotherapy </span> 
+</a>    
 </li>
 
 <li>
+<a href="{{ url('hospital-departments') }}">
 <div class="geric-img">
   <img src="{{ asset('/public/website/assets/images/icn-3.png') }}" alt="" class=""> 
   </div>
-  <span> Lab Services </span>    
+  <span> Lab Services </span> 
+</a>   
 </li>
 
 
 
 
 
-</ul>  
+</ul> 
 
 </div> 
 

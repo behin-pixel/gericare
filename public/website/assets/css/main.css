@@ -2677,6 +2677,7 @@ ul.press-roomr li span.bts-non {
 
 .dctrm-img img {
     border-radius: 4px;
+    width:100%;
 }
 
 .dctrs-detls {
@@ -2687,6 +2688,7 @@ ul.press-roomr li span.bts-non {
     position: absolute;
     left: 20px;
     top: 20px;
+    width:175px;
 }
 
 .dctrm-deitals {

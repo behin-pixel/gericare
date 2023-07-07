@@ -572,7 +572,7 @@ Uro Gynaecology
         <h4>Nephrology</h4>
         <div class="dctrs-detls">
         <div class="dctrm-img">
-        <img src="{{ asset('/public/website/assets/images/no-img.jpg') }}" alt="" class="">
+        <img src="{{ asset('/public/website/assets/images/balamurugan-b.jpg') }}" alt="" class="">
         </div>
         <div class="dctrm-deitals">
         <h3>Dr. B. Balamurugan</h3>
