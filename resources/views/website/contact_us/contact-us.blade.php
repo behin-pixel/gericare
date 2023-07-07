@@ -79,14 +79,11 @@ to improve the lives of the elderly.</span>
 											<input type="email" name="email" id="aemail" value="" class="form-control"/>
 										</div>
 										<div class="col-sm-12 col-md-12 col-lg-6">
-											<label class="text-dark">Services (required)<span class="text-danger">*</span></label>
+											<label class="text-dark">Select Type (required)<span class="text-danger">*</span></label>
 											<select class="form-control jsrequired" id="services" name="services">
-    <option value="">Select your Service</option>
-    <option value="Geri Care Hospital">Geri Care Hospital</option>
-    <option value="Geri Care Assisted Living">Geri Care Assisted Living</option>
-    <option value="Geri Care Clinics">Geri Care Clinics</option>	
-    <option value="Geri Care Home Care">Geri Care Home Care</option>										 
-    </select>
+    <option value="">Select Type</option>
+    <option value="Feedback">Feedback</option>
+    <option value="General">General</option> 
 										</div>
 										<div class="col-sm-12 col-md-12 col-lg-12">
 											<label class="text-dark">Message</label>
