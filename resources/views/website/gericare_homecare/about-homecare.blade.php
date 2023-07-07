@@ -321,7 +321,11 @@ Request Call Back
 
 
 
-    <img src="{{ asset(Storage::url("app/{$testimonials["photo"]}")) }}"  />
+      <!-- <img src="{{ asset($testimonials["photo"]) }}" alt="" class="">
+
+
+    <img src="{{ asset(Storage::url("app/{$testimonials["photo"]}")) }}"  /> -->
+    <img src="{{ asset('/public/website/assets/images/gog.png') }}"  />
  
     </div>
     

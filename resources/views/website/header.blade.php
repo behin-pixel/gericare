@@ -152,7 +152,7 @@
                   <a href="{{ url('contact-us') }}">Get in Touch</a>
                 </li> 
                 <li class="@if(request()->routeIs(['careers'])) active @endif">
-                  <a href="{{ url('careers') }}">Join Our Team</a>
+                  <a href="{{ url('careers') }}">Careers</a>
                 </li>
                  </ul> 
             </li> 

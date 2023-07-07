@@ -351,7 +351,7 @@ chosen for you</h2>
 <div class="geric-img">
   <img src="{{ asset('/public/website/assets/images/icn-2.png') }}" alt="" class=""> 
   </div>
-  <span> Geriatric Oncology </span>    
+  <span> Geriatric Medicine </span>    
 </li>
 
 <li>
@@ -363,9 +363,9 @@ chosen for you</h2>
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-9.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-4.png') }}" alt="" class=""> 
   </div>
-  <span> Geriatric Urology </span>    
+  <span> Ortho Geriatrics </span>    
 </li>
 
 <li>
@@ -377,31 +377,41 @@ chosen for you</h2>
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-5.png') }}" alt="" class=""> 
-  </div>
-  <span> Gasteroentrology </span>    
-</li>
-
-<li>
-<div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-4.png') }}" alt="" class=""> 
-  </div>
-  <span> Orthogeriatrics </span>    
-</li>
-
-<li>
-<div class="geric-img">
   <img src="{{ asset('/public/website/assets/images/icn-6.png') }}" alt="" class=""> 
   </div>
-  <span> Neurology </span>    
+  <span>Geriatric Neurology </span>    
 </li>
 
 <li>
 <div class="geric-img">
   <img src="{{ asset('/public/website/assets/images/icn-7.png') }}" alt="" class=""> 
   </div>
-  <span> Surgery </span>    
+  <span>Geriatric Surgery </span>    
 </li>
+
+<li>
+<div class="geric-img">
+  <img src="{{ asset('/public/website/assets/images/icn-2.png') }}" alt="" class=""> 
+  </div>
+  <span> Geriatric Oncology </span>    
+</li>
+
+<li>
+<div class="geric-img">
+  <img src="{{ asset('/public/website/assets/images/icn-9.png') }}" alt="" class=""> 
+  </div>
+  <span> Geriatric Urology </span>    
+</li>
+
+
+
+<li>
+<div class="geric-img">
+  <img src="{{ asset('/public/website/assets/images/icn-5.png') }}" alt="" class=""> 
+  </div>
+  <span> Gasteroentrology </span>    
+</li>
+
 
 <li>
 <div class="geric-img">
@@ -414,7 +424,7 @@ chosen for you</h2>
 <div class="geric-img">
   <img src="{{ asset('/public/website/assets/images/icn-16.png') }}" alt="" class=""> 
   </div>
-  <span> ICU </span>    
+  <span>Geriatric  ICU </span>    
 </li>
 
 <li>
@@ -440,26 +450,51 @@ chosen for you</h2>
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-3.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-15.png') }}" alt="" class=""> 
   </div>
-  <span> Lab Services </span>    
-</li>
-
-<li>
-<div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-14.png') }}" alt="" class=""> 
-  </div>
-  <span> Physiotherapy </span>    
+  <span> Nephrology and Dialysis 24x7 </span>    
 </li>
 
 <li>
 <div class="geric-img">
   <img src="{{ asset('/public/website/assets/images/icn-15.png') }}" alt="" class=""> 
   </div>
-  <span> Nephrology and Dialysis 24x7 </span>    
+  <span> ENT </span>    
 </li>
 
-</ul> 
+<li>
+<div class="geric-img">
+  <img src="{{ asset('/public/website/assets/images/icn-15.png') }}" alt="" class=""> 
+  </div>
+  <span> Ophthalmology </span>    
+</li>
+
+<li>
+<div class="geric-img">
+  <img src="{{ asset('/public/website/assets/images/icn-15.png') }}" alt="" class=""> 
+  </div>
+  <span> Dentistry </span>    
+</li>
+
+<li>
+<div class="geric-img">
+  <img src="{{ asset('/public/website/assets/images/icn-14.png') }}" alt="" class=""> 
+  </div>
+  <span>Geriatric Physiotherapy </span>    
+</li>
+
+<li>
+<div class="geric-img">
+  <img src="{{ asset('/public/website/assets/images/icn-3.png') }}" alt="" class=""> 
+  </div>
+  <span> Lab Services </span>    
+</li>
+
+
+
+
+
+</ul>  
 
 </div> 
 
@@ -527,8 +562,8 @@ chosen for you</h2>
 <span> Physician & Diabetologist </span>
 </div> 
 <div class="de-detl-btn">
-<a href="#"> Book Appointment </a>
-<a href=""> <i class="fa fa-eye" aria-hidden="true"></i> </a>
+<a href="{{ url('dr-ashwin-subramaniam') }}"> Book Appointment </a>
+<a href="{{ url('dr-ashwin-subramaniam') }}"> <i class="fa fa-eye" aria-hidden="true"></i> </a>
 </div>
 </div>
 
