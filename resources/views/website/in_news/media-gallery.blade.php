@@ -40,10 +40,17 @@
 						
 						@endphp
 						<li>
+							@if($media_releases['reference_link']!='')	
+							<a  href="{{$media_releases['reference_link']}}" target="_blank">
+								<img src="{{asset(Storage::url("app/{$media_releases["gallery_image"]}")) }}" alt="" class="img-fluid" />
+								<span><small class="news-date">Published : {{$media_releases_date}}</small> <br>{{$media_releases['title']}}</span>
+							</a>
+							@else
 							<a data-fancybox="gallery{{$media_releases['id']}}" href="{{ asset(Storage::url("app/{$media_releases["gallery_image"]}")) }}" data-caption="Geri Care Hospital">
 								<img src="{{asset(Storage::url("app/{$media_releases["gallery_image"]}")) }}" alt="" class="img-fluid" />
 								<span><small class="news-date">Published : {{$media_releases_date}}</small> <br>{{$media_releases['title']}}</span>
 							</a>
+							@endif
 							@if($media_releases['featured_image']!='')
 
 							<a class="d-none" data-fancybox="gallery{{$media_releases['id']}}" href="{{ asset(Storage::url("app/{$media_releases["featured_image"]}")) }}" data-caption="Get Back to Life ! Sparkle your Intimate Beauty">&nbsp;</a>
