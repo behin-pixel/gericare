@@ -146,12 +146,12 @@ Uro Gynaecology
     </button> 
 
 
-    <button class="nav-link" id="v-pills-12-tab" data-bs-toggle="pill" data-bs-target="#v-pills-12" type="button" role="tab" aria-controls="v-pills-12" aria-selected="false">
+    <!-- <button class="nav-link" id="v-pills-12-tab" data-bs-toggle="pill" data-bs-target="#v-pills-12" type="button" role="tab" aria-controls="v-pills-12" aria-selected="false">
     <div class="geric-img">
     <img src="{{ asset('/public/website/assets/images/icn-7.png') }}" alt="" class=""> 
     </div>     
     Geriatric Psychology
-    </button> 
+    </button>  -->
 
 
   
@@ -478,6 +478,22 @@ Uro Gynaecology
         <a href="#">View Profile</a>
         </div>
         </div>
+
+        <div class="dctrs-detls">
+        <div class="dctrm-img">
+        <img src="{{ asset('/public/website/assets/images/doctor-img-30.jpg') }}" alt="" class="">
+        </div>
+        <div class="dctrm-deitals">
+        <h3> Mrs. Tinu Thamby T  </h3>
+        <h4> Clinical Psychologist  </h4>
+        <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> B.A., M.Sc., M.Phil (Clinical Psychology) </h5>
+        <!-- <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class="">   </h5>
+        <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class="">   </h5> -->
+        <a href="{{ url('our-doctors/dr-tinu-thamby') }}">Book Appointment</a>
+        <a href="{{ url('our-doctors/dr-tinu-thamby') }}">View Profile</a>
+        </div>
+        </div>
+
       </div>
 
 
