@@ -324,10 +324,10 @@ class PageViewController extends Controller
     // {
     //     return view('website.thanks-contactus');
     // }
-    // public function newsDetailPage()
-    // {
-    //     return view('website.news-detail');
-    // }  
+    public function newsDetailPage()
+    {
+        return view('website.news-detail');
+    }  
 
 
 }
