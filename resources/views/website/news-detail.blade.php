@@ -36,27 +36,25 @@
 
 <div class="col-lg-4">
 <div class="doc-tor-img">
-<a data-fancybox="gallery1" href="{{ asset('/public/website/assets/images/press-1.jpg') }}" data-caption="Geri Care Hospital">
-<img src="{{ asset('/public/website/assets/images/press-1.jpg') }}" alt="" class="w-100">
+    
+<a data-fancybox="gallery1" href="{{url('/public/files/news_event/gallery_image/'.$news_event_one->gallery_image)}}" data-caption="Geri Care Hospital">
+<img src="{{url('/public/files/news_event/gallery_image/'.$news_event_one->gallery_image)}}" alt="" class="w-100">
 </a>
-<a class="d-none" data-fancybox="gallery1" href="{{ asset('/public/website/assets/images/news-1.jpg') }}" data-caption="Get Back to Life ! Sparkle your Intimate Beauty">&nbsp;</a>
-<a class="d-none" data-fancybox="gallery1" href="{{ asset('/public/website/assets/images/news-1.jpg') }}" data-caption="Get Back to Life ! Sparkle your Intimate Beauty">&nbsp;</a>
+
+<a class="d-none" data-fancybox="gallery1" href="{{url('/public/files/news_event/gallery_image/'.$news_event_one->gallery_image)}}" data-caption="Get Back to Life ! Sparkle your Intimate Beauty">&nbsp;</a>
 </div>
 </div>
 
 <div class="col-lg-8">
 <div class="doc-tor-cnt">
-<h3>Specialised hospital for geriatric care launched in Chennai <span> November 19, 2020</span></h3>
-<p>An exclusive, specialised hospital for geriatric care has been launched in the city. The hospital will offer comprehensive assessment of multiple co-morbidity with an aim to reduce hospital stay and improve quality of life of the elders.<br><br>
-
-Gericare Hospital was commissioned by senior geriatrician V.S. Natarajan, cardiologist S. Thanikachalam and Kauvery Hospital executive director Aravindan Selvaraj.</p>
-</div>
+    <h3>{{$news_event_one->title}}</span></h3>
+<p>{!! $news_event_one->description !!}</div>
 <div class="news-evnts-btns d-flex">
 <div class="cmn-brdrd-btn">
-<a data-fancybox="gallery5" href="https://www.youtube.com/embed/fT7G1hF3YLU"  data-caption="Nalanthana with Geriatrician Dr. Srinivasan | Sun Life Show"> Watch Video </a>
+<a data-fancybox="gallery5" href="{{$news_event_one->video_link}}"  data-caption="Nalanthana with Geriatrician Dr. Srinivasan | Sun Life Show"> Watch Video </a>
 </div>
-<div class="common-button drk">
-<a href="https://www.thehindu.com/news/cities/chennai/specialiased-hospital-for-geriatric-care-launched-in-chennai/article33133381.ece" target="_blank">Know More</a>
+<div class="common-button drk"> 
+<a href="{{$news_event_one->referral_link}}" target="_blank">Know More</a>
 </div>
 </div>
 

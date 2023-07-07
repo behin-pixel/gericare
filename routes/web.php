@@ -189,5 +189,5 @@ Route::get('testimonials',[PageViewController::class,'testimonialPage'])->name('
 Route::get('videotestimonials',[PageViewController::class,'videotestimonialPage'])->name('videotestimonials'); 
 
 Route::get('faq',[PageViewController::class,'faqPage'])->name('faq'); 
-Route::get('news-detail',[PageViewController::class,'newsDetailPage'])->name('news-detail'); 
+Route::get('news-detail/{id?}',[PageViewController::class,'newsDetailPage'])->name('news-detail'); 
 

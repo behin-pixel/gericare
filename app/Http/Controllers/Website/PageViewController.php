@@ -6,6 +6,8 @@ use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use App\Models\Testimonial;
 use App\Models\Videos;
+use App\Models\MediaRelease;
+use App\Models\NewsEvent;
 
 class PageViewController extends Controller
 {
@@ -280,11 +282,14 @@ class PageViewController extends Controller
     }
     public function mediaGalleryPage()
     {
-        return view('website.in_news.media-gallery');
+        $media_release=MediaRelease::where('status','1')->get();
+        return view('website.in_news.media-gallery',compact('media_release'));
     } 
     public function newsEventsPage()
     {
-        return view('website.in_news.news-events');
+        $news_event=NewsEvent::where('status','1')->get();
+      
+        return view('website.in_news.news-events',compact('news_event'));
     } 
     public function GalleryPage()
     {
@@ -324,9 +329,10 @@ class PageViewController extends Controller
     // {
     //     return view('website.thanks-contactus');
     // }
-    public function newsDetailPage()
+    public function newsDetailPage($id)
     {
-        return view('website.news-detail');
+        $news_event_one=NewsEvent::where('id',$id)->first();
+        return view('website.news-detail',compact('news_event_one'));
     }  
 
 

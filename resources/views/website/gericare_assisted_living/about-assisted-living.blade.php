@@ -604,8 +604,6 @@ Request Call Back
     <h4> {{$testimonials['title']}}<span> {{$testimonials['designation']}} </span></h4>
     </div>
     <div class="rev-goog d-flex align-items-center justify-content-center">
-    <img src="{{ asset($testimonials["photo"]) }}" alt="" class="">
-
 
     <img src="{{ asset(Storage::url("app/{$testimonials["photo"]}")) }}"  />
  
