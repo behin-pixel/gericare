@@ -56,10 +56,11 @@
         @php 
        // $date = '2017-07-00';
          $date=date('d', strtotime($news_events["date"]));
-         $month=date('F', strtotime($news_events["date"]));
+         $month=date('M', strtotime($news_events["date"]));
+         $year=date('Y', strtotime($news_events["date"]));
         @endphp
         <div class="post-dte">
-        <h5>{{$date}}<span>{{$month}}</span></h5>
+        <h5>{{$date}}<span>{{$month}}</span><span>{{$year}}</span></h5>
         </div>
             
         </li> 
