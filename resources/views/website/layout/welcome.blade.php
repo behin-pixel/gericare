@@ -181,11 +181,11 @@
                       //toastr.success('Success', res.message);
                       if(res.from_page=='departments')
                       {
-                        window.location.href = '{{ route("career.thanks")}}';
+                        window.location.href = '{{ route("departapp.thanks")}}';
                       }
                       else if(res.from_page=='service_appointment')
                       {
-                        window.location.href = '{{ route("career.thanks")}}';
+                        window.location.href = '{{ route("serviceapp.thanks")}}';
                       }
                       else
                       {
