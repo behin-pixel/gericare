@@ -21,9 +21,9 @@ class CareerController extends Controller
             'name' => 'required',
             'email' => 'required||email|unique:careers',
             'mobile' => 'required',
-            'designation' => 'required',
-            'experience' => 'required',
-            'cover_letter' => 'required',
+           // 'designation' => 'required',
+            //'experience' => 'required',
+           // 'cover_letter' => 'required',
             'upload_resume' => 'mimes:pdf,docx,doc'
         ]);
 

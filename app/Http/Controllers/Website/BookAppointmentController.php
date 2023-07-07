@@ -18,12 +18,12 @@ class BookAppointmentController extends Controller
             'appointment_date' => 'required',
             'appointment_time' => 'required',
             'from' => 'required',
-            'services' => 'required_if:from,=,book_an_appointment',
-            'doctor_name' => 'required_if:from,=,book_an_appointment_doctor',
+            //'services' => 'required_if:from,=,book_an_appointment',
+            //'doctor_name' => 'required_if:from,=,book_an_appointment_doctor',
             'name' => 'required',
-            'email' => 'required',
+            //'email' => 'required',
             'mobile_no' => 'required',
-            'details' => 'required',
+            //'details' => 'required',
         ]);
        // dd($request->doctor_name);
 

@@ -24,12 +24,12 @@ class ConsultantFormController extends Controller
 
         $validator      = Validator::make($request->all(), [
             'name' => 'required',
-            'email' => 'required',
+            //'email' => 'required',
             'mobile_no' => 'required',
-            'from' => 'required',
-            'services' => 'required_if:from,=,homepage',
+            //'from' => 'required',
+            //'services' => 'required_if:from,=,homepage',
             //'subject' => 'required_if:from,=,contact',
-            'message' => 'required',
+            //'message' => 'required',
         ]);
 
         if ($validator->passes()) {
