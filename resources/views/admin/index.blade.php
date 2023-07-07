@@ -9,7 +9,7 @@
     </div>
    
     @if(Sentinel::getUser()->roles[0]['id'] == "1") 
-    <div class="row m-0">
+    {{-- <div class="row m-0">
         
         <div class="col-3 p-1">
             <a href="#">
@@ -64,7 +64,7 @@
             </a>
         </div>
        
-    </div>
+    </div> --}}
     @endif
 
 @endsection
