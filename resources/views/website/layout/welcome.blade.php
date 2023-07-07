@@ -41,8 +41,93 @@
             document.getElementById("load").style.display = 'none';
         }
         </script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-150382938-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-150382938-1');
+</script>   
+   
+
+<script type="application/ld+json">
+{
+"@context": "https://schema.org/",
+"@type": "Product",
+"name": "Geri Care",
+"image": "https://www.gericare.in/static/images/geri-care-logo.png",
+"description": "We at Gericare Understand Your Need for Home Care Taker Services for the Elders in Chennai. We Provide the Best Home Care Taker Services for Elderly at the Comfort of Your Home.",
+"mpn": "001",
+"sku": "+914440614061",
+"brand": {
+"@type": "Organization",
+"name": "Geri Care"
+},
+"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"bestRating": "5",
+"worstRating": "1",
+"ratingCount": "139",
+"reviewCount": "139"
+},
+"review": {
+"@type": "Review",
+"name": "Kalyani Comal",
+"reviewBody": "Gericare is the best! The care they took of my father was so good, I have switched to them for my health care also. Mrs Uma who takes care of the patients is truly compassionate and efficient. She keeps track of all the appointments and makes sure no one is kept waiting. The doctors are experienced and kind and I cannot say enough in praise of the hospital.",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5",
+"bestRating": "5",
+"worstRating": "1"
+},
+"datePublished": "2023-06-09",
+"author": {"@type": "Person", "name": "Geri Care"}
+}
+}
+</script>
+
+
+	
+	
+	<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NSVXHVD');</script>
+<!-- End Google Tag Manager -->
+
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '917067238823260');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=917067238823260&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+
+
 </head>
 <body class="">
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NSVXHVD"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 
     {{-- Header --}}
         @include('website.header')
