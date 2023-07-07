@@ -122,7 +122,7 @@ within 24 hours.</span>
   							<div class="row">
 								<div class="col-sm-12 col-md-6 col-lg-6">
 									<label class="text-light">Appointment For </label>
-									<select class="form-control jsrequired" id="services" name="services">
+									<select class="form-control jsrequired" id="services" name="services" >
                     <option value="">Select your Service</option>
                     <option value="Geri Care Hospital">Geri Care Hospital</option>
 										<option value="Geri Care Assisted Living">Geri Care Assisted Living</option>
