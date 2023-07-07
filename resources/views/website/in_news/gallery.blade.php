@@ -34,7 +34,7 @@
 			<div class="row">
 				<div class="col-lg-3 gallery-img">
 				    <a data-fancybox="gallery1" href="{{ asset('/public/website/assets/images/gallery/hospital/1.jpg') }}" data-caption="Geri Care Hospital">
-						<img src="{{ asset('/public/website/assets/images/gallery/hospital/main-img-1.jpg') }}" alt="" class="img-fluid" />
+						<img src="{{ asset('/public/website/assets/images/gallery/hospital/main-img-1.jpg') }}" alt="" class="img-fluid w-100" />
 						<span>Geri Care Hospital</span>
 					</a>
 					<a class="d-none" data-fancybox="gallery1" href="{{ asset('/public/website/assets/images/gallery/hospital/2.jpg') }}" data-caption="Geri Care Hospital">&nbsp;</a>
@@ -43,7 +43,7 @@
 				</div>	
 				<div class="col-lg-3 gallery-img">
 				    <a data-fancybox="gallery2" href="{{ asset('/public/website/assets/images/gallery/inaugration/1.jpg') }}" data-caption="Geri Care Hospital Inauguration">
-						<img src="{{ asset('/public/website/assets/images/gallery/inaugration/main-img-2.jpg') }}" alt="" class="img-fluid" />
+						<img src="{{ asset('/public/website/assets/images/gallery/inaugration/main-img-2.jpg') }}" alt="" class="img-fluid w-100" />
 						<span>Geri Care Hospital Inauguration</span>
 					</a>
 					<a class="d-none" data-fancybox="gallery2" href="{{ asset('/public/website/assets/images/gallery/inaugration/2.jpg') }}" data-caption="Geri Care Hospital Inauguration">&nbsp;</a>
@@ -71,7 +71,7 @@
                 </div>	
 				<div class="col-lg-3 gallery-img">
 				    <a data-fancybox="gallery3" href="{{ asset('/public/website/assets/images/gallery/launch/3.jpg') }}" data-caption="Launch Celebration">
-						<img src="{{ asset('/public/website/assets/images/gallery/launch/main-img-3.jpg') }}" alt="" class="img-fluid" />
+						<img src="{{ asset('/public/website/assets/images/gallery/launch/main-img-3.jpg') }}" alt="" class="img-fluid w-100" />
 						<span>Launch Celebration</span>
 					</a>
 					<a class="d-none" data-fancybox="gallery3" href="{{ asset('/public/website/assets/images/gallery/launch/2.jpg') }}" data-caption="Launch Celebration">&nbsp;</a>
@@ -84,7 +84,7 @@
                 </div>	
 				<div class="col-lg-3 gallery-img">
 				    <a data-fancybox="gallery4" href="{{ asset('/public/website/assets/images/gallery/adyar/1.jpg') }}" data-caption="Geri Care, Adyar">
-						<img src="{{ asset('/public/website/assets/images/gallery/adyar/main-img-4.jpg') }}" alt="" class="img-fluid" />
+						<img src="{{ asset('/public/website/assets/images/gallery/adyar/main-img-4.jpg') }}" alt="" class="img-fluid w-100" />
 						<span>Geri Care, Adyar</span>
 					</a>
 					<a class="d-none" data-fancybox="gallery4" href="{{ asset('/public/website/assets/images/gallery/adyar/2.jpg') }}" data-caption="Geri Care, Adyar">&nbsp;</a>
@@ -92,6 +92,114 @@
 					<a class="d-none" data-fancybox="gallery4" href="{{ asset('/public/website/assets/images/gallery/adyar/4.jpg') }}" data-caption="Geri Care, Adyar">&nbsp;</a>
 					<a class="d-none" data-fancybox="gallery4" href="{{ asset('/public/website/assets/images/gallery/adyar/5.jpg') }}" data-caption="Geri Care, Adyar">&nbsp;</a>
 					<a class="d-none" data-fancybox="gallery4" href="{{ asset('/public/website/assets/images/gallery/adyar/6.jpg') }}" data-caption="Geri Care, Adyar">&nbsp;</a>
+					
+                </div>
+				<div class="col-lg-3 gallery-img">
+				    <a data-fancybox="gallery5" href="{{ asset('/public/website/assets/images/gallery/anna-nagar/1.jpg') }}" data-caption="Anna nagar Clinic Launch November 7th 2022">
+						<img src="{{ asset('/public/website/assets/images/gallery/anna-nagar/main-img-5.jpg') }}" alt="" class="img-fluid w-100" />
+						<span>Anna nagar Clinic Launch November 7th 2022</span>
+					</a>
+					<a class="d-none" data-fancybox="gallery5" href="{{ asset('/public/website/assets/images/gallery/anna-nagar/2.jpg') }}" data-caption="Anna nagar Clinic Launch November 7th 2022">&nbsp;</a>
+
+					<a class="d-none" data-fancybox="gallery5" href="{{ asset('/public/website/assets/images/gallery/anna-nagar/3.jpg') }}" data-caption="Anna nagar Clinic Launch November 7th 2022">&nbsp;</a>
+
+					<a class="d-none" data-fancybox="gallery5" href="{{ asset('/public/website/assets/images/gallery/anna-nagar/4.jpg') }}" data-caption="Anna nagar Clinic Launch November 7th 2022">&nbsp;</a>
+
+					<a class="d-none" data-fancybox="gallery5" href="{{ asset('/public/website/assets/images/gallery/anna-nagar/5.jpg') }}" data-caption="Anna nagar Clinic Launch November 7th 2022">&nbsp;</a>
+
+					<a class="d-none" data-fancybox="gallery5" href="{{ asset('/public/website/assets/images/gallery/anna-nagar/6.jpg') }}" data-caption="Anna nagar Clinic Launch November 7th 2022">&nbsp;</a>
+					
+					<a class="d-none" data-fancybox="gallery5" href="{{ asset('/public/website/assets/images/gallery/anna-nagar/7.jpg') }}" data-caption="Anna nagar Clinic Launch November 7th 2022">&nbsp;</a>
+					
+					<a class="d-none" data-fancybox="gallery5" href="{{ asset('/public/website/assets/images/gallery/anna-nagar/8.jpg') }}" data-caption="Anna nagar Clinic Launch November 7th 2022">&nbsp;</a>
+					
+					<a class="d-none" data-fancybox="gallery5" href="{{ asset('/public/website/assets/images/gallery/anna-nagar/9.jpg') }}" data-caption="Anna nagar Clinic Launch November 7th 2022">&nbsp;</a>
+					
+					<a class="d-none" data-fancybox="gallery5" href="{{ asset('/public/website/assets/images/gallery/anna-nagar/10.jpg') }}" data-caption="Anna nagar Clinic Launch November 7th 2022">&nbsp;</a>
+					
+					<a class="d-none" data-fancybox="gallery5" href="{{ asset('/public/website/assets/images/gallery/anna-nagar/11.jpg') }}" data-caption="Anna nagar Clinic Launch November 7th 2022">&nbsp;</a>
+					
+					<a class="d-none" data-fancybox="gallery5" href="{{ asset('/public/website/assets/images/gallery/anna-nagar/12.jpg') }}" data-caption="Anna nagar Clinic Launch November 7th 2022">&nbsp;</a>
+					
+					<a class="d-none" data-fancybox="gallery5" href="{{ asset('/public/website/assets/images/gallery/anna-nagar/13.jpg') }}" data-caption="Anna nagar Clinic Launch November 7th 2022">&nbsp;</a>
+					
+					<a class="d-none" data-fancybox="gallery5" href="{{ asset('/public/website/assets/images/gallery/anna-nagar/14.jpg') }}" data-caption="Anna nagar Clinic Launch November 7th 2022">&nbsp;</a>
+					
+					<a class="d-none" data-fancybox="gallery5" href="{{ asset('/public/website/assets/images/gallery/anna-nagar/15.jpg') }}" data-caption="Anna nagar Clinic Launch November 7th 2022">&nbsp;</a>
+					
+					<a class="d-none" data-fancybox="gallery5" href="{{ asset('/public/website/assets/images/gallery/anna-nagar/16.jpg') }}" data-caption="Anna nagar Clinic Launch November 7th 2022">&nbsp;</a>
+					
+					<a class="d-none" data-fancybox="gallery5" href="{{ asset('/public/website/assets/images/gallery/anna-nagar/17.jpg') }}" data-caption="Anna nagar Clinic Launch November 7th 2022">&nbsp;</a>
+					
+					<a class="d-none" data-fancybox="gallery5" href="{{ asset('/public/website/assets/images/gallery/anna-nagar/18.jpg') }}" data-caption="Anna nagar Clinic Launch November 7th 2022">&nbsp;</a>
+					
+					<a class="d-none" data-fancybox="gallery5" href="{{ asset('/public/website/assets/images/gallery/anna-nagar/19.jpg') }}" data-caption="Anna nagar Clinic Launch November 7th 2022">&nbsp;</a>
+					
+					<a class="d-none" data-fancybox="gallery5" href="{{ asset('/public/website/assets/images/gallery/anna-nagar/20.jpg') }}" data-caption="Anna nagar Clinic Launch November 7th 2022">&nbsp;</a>
+					
+                </div>
+				<div class="col-lg-3 gallery-img">
+				    <a data-fancybox="gallery6" href="{{ asset('/public/website/assets/images/gallery/beach/1.jpg') }}" data-caption="Elders Day Celebration October 1, 2022">
+						<img src="{{ asset('/public/website/assets/images/gallery/beach/main-img.jpg') }}" alt="" class="img-fluid w-100" />
+						<span>Elders Day Celebration October 1, 2022Elders Day Celebration October 1, 2022</span>
+					</a>
+					<a class="d-none" data-fancybox="gallery6" href="{{ asset('/public/website/assets/images/gallery/beach/2.jpg') }}" data-caption="Elders Day Celebration October 1, 2022">&nbsp;</a>
+
+					<a class="d-none" data-fancybox="gallery6" href="{{ asset('/public/website/assets/images/gallery/beach/3.jpg') }}" data-caption="Elders Day Celebration October 1, 2022">&nbsp;</a>
+
+					<a class="d-none" data-fancybox="gallery6" href="{{ asset('/public/website/assets/images/gallery/beach/4.jpg') }}" data-caption="Elders Day Celebration October 1, 2022">&nbsp;</a>
+
+					<a class="d-none" data-fancybox="gallery6" href="{{ asset('/public/website/assets/images/gallery/beach/5.jpg') }}" data-caption="Elders Day Celebration October 1, 2022">&nbsp;</a>
+					
+					<a class="d-none" data-fancybox="gallery6" href="{{ asset('/public/website/assets/images/gallery/beach/6.jpg') }}" data-caption="Elders Day Celebration October 1, 2022">&nbsp;</a>
+					
+					<a class="d-none" data-fancybox="gallery6" href="{{ asset('/public/website/assets/images/gallery/beach/7.jpg') }}" data-caption="Elders Day Celebration October 1, 2022">&nbsp;</a>
+					
+					<a class="d-none" data-fancybox="gallery6" href="{{ asset('/public/website/assets/images/gallery/beach/8.jpg') }}" data-caption="Elders Day Celebration October 1, 2022">&nbsp;</a> 
+					
+                </div>	
+				<div class="col-lg-3 gallery-img">
+				    <a data-fancybox="gallery7" href="{{ asset('/public/website/assets/images/gallery/conference/1.jpg') }}" data-caption="Gericriticon Conference June 2022">
+						<img src="{{ asset('/public/website/assets/images/gallery/conference/main-img.jpg') }}" alt="" class="img-fluid w-100" />
+						<span>Gericriticon Conference June 2022</span>
+					</a>
+					<a class="d-none" data-fancybox="gallery7" href="{{ asset('/public/website/assets/images/gallery/conference/2.jpg') }}" data-caption="Gericriticon Conference June 2022">&nbsp;</a>
+
+					<a class="d-none" data-fancybox="gallery7" href="{{ asset('/public/website/assets/images/gallery/conference/3.jpg') }}" data-caption="Gericriticon Conference June 2022">&nbsp;</a>
+
+					<a class="d-none" data-fancybox="gallery7" href="{{ asset('/public/website/assets/images/gallery/conference/4.jpg') }}" data-caption="Gericriticon Conference June 2022">&nbsp;</a>
+
+					<a class="d-none" data-fancybox="gallery7" href="{{ asset('/public/website/assets/images/gallery/conference/5.jpg') }}" data-caption="Gericriticon Conference June 2022">&nbsp;</a>
+					
+					<a class="d-none" data-fancybox="gallery7" href="{{ asset('/public/website/assets/images/gallery/conference/6.jpg') }}" data-caption="Gericriticon Conference June 2022">&nbsp;</a>
+					
+					<a class="d-none" data-fancybox="gallery7" href="{{ asset('/public/website/assets/images/gallery/conference/7.jpg') }}" data-caption="Gericriticon Conference June 2022">&nbsp;</a>
+					
+					<a class="d-none" data-fancybox="gallery7" href="{{ asset('/public/website/assets/images/gallery/conference/8.jpg') }}" data-caption="Gericriticon Conference June 2022">&nbsp;</a> 
+					
+					<a class="d-none" data-fancybox="gallery7" href="{{ asset('/public/website/assets/images/gallery/conference/9.jpg') }}" data-caption="Gericriticon Conference June 2022">&nbsp;</a>
+					
+                </div>	
+				<div class="col-lg-3 gallery-img">
+				    <a data-fancybox="gallery7" href="{{ asset('/public/website/assets/images/gallery/anniversary/1.jpg') }}" data-caption="Hospital First anniversary Nov 19, 2021">
+						<img src="{{ asset('/public/website/assets/images/gallery/anniversary/main-img.jpg') }}" alt="" class="img-fluid w-100" />
+						<span>Hospital First anniversary Nov 19, 2021</span>
+					</a>
+					<a class="d-none" data-fancybox="gallery7" href="{{ asset('/public/website/assets/images/gallery/anniversary/2.jpg') }}" data-caption="Hospital First anniversary Nov 19, 2021">&nbsp;</a>
+
+					<a class="d-none" data-fancybox="gallery7" href="{{ asset('/public/website/assets/images/gallery/anniversary/3.jpg') }}" data-caption="Hospital First anniversary Nov 19, 2021">&nbsp;</a>
+
+					<a class="d-none" data-fancybox="gallery7" href="{{ asset('/public/website/assets/images/gallery/anniversary/4.jpg') }}" data-caption="Hospital First anniversary Nov 19, 2021">&nbsp;</a>
+
+					<a class="d-none" data-fancybox="gallery7" href="{{ asset('/public/website/assets/images/gallery/anniversary/5.jpg') }}" data-caption="Hospital First anniversary Nov 19, 2021">&nbsp;</a>
+					
+					<a class="d-none" data-fancybox="gallery7" href="{{ asset('/public/website/assets/images/gallery/anniversary/6.jpg') }}" data-caption="Hospital First anniversary Nov 19, 2021">&nbsp;</a>
+					
+					<a class="d-none" data-fancybox="gallery7" href="{{ asset('/public/website/assets/images/gallery/anniversary/7.jpg') }}" data-caption="Hospital First anniversary Nov 19, 2021">&nbsp;</a>
+					
+					<a class="d-none" data-fancybox="gallery7" href="{{ asset('/public/website/assets/images/gallery/anniversary/8.jpg') }}" data-caption="Hospital First anniversary Nov 19, 2021">&nbsp;</a> 
+					
+					<a class="d-none" data-fancybox="gallery7" href="{{ asset('/public/website/assets/images/gallery/anniversary/9.jpg') }}" data-caption="Hospital First anniversary Nov 19, 2021">&nbsp;</a>
 					
                 </div>	
 				<!-- <div class="col" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
