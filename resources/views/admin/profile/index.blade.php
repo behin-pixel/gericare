@@ -44,7 +44,7 @@
                 </div>
                 <input type="hidden" name="id" value="{{ $data->id }}" >
                 <div class="row mb-3">
-                    <label class="col-2 text-end col-form-label">Email *</label>
+                    <label class="col-2 text-end col-form-label">Email</label>
                     <div class="col-10">
                         <input type="email" class="form-control" autocomplete="off" name="email" value="{{ $data->email }}" required>
                        

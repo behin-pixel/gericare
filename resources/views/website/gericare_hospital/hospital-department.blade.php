@@ -319,7 +319,7 @@
                                     
                                 </div> 
 								<div class="col-sm-12 col-md-12 col-lg-12"> 
-									<input type="email" name="email" id="aemail" class="form-control" placeholder="Email *" />
+									<input type="email" name="email" id="aemail" class="form-control" placeholder="Email" />
 								</div>
 								<div class="col-sm-12 col-md-12 col-lg-12"> 
 									<input type="tel" id="aphone" name="mobile_no" value="" class="form-control" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*?)\..*/g, '$1');" maxlength="10" placeholder="Phone *" required>
