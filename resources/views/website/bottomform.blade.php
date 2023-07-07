@@ -66,6 +66,7 @@
             if (String.fromCharCode(e.keyCode).match(/[^.0-9]/g)) return false;
         });
         $('#consult_form').submit(function() {
+            $('#preloader').show();
             event.preventDefault();
             var formData = $('#consult_form').serialize();
             $('#save-btn').prop('disabled', 'true');

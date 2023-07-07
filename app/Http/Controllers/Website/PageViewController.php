@@ -5,6 +5,7 @@ namespace App\Http\Controllers\Website;
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use App\Models\Testimonial;
+use App\Models\Videos;
 
 class PageViewController extends Controller
 {
@@ -291,7 +292,9 @@ class PageViewController extends Controller
     } 
     public function VideoGalleryPage()
     {
-        return view('website.in_news.video-gallery');
+        $videos=Videos::where('status','1')->get();
+        return view('website.in_news.video-gallery',compact('videos'));
+
     } 
     public function MediaToolKitPage()
     {

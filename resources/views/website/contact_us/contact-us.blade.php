@@ -165,6 +165,7 @@ to improve the lives of the elderly.</span>
             if (String.fromCharCode(e.keyCode).match(/[^.0-9]/g)) return false;
         });
         $('#contact_form').submit(function() {
+			$('#preloader').show();
             event.preventDefault();
             var formData = $('#contact_form').serialize();
             $('#save-btn').prop('disabled', 'true');

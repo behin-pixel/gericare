@@ -32,7 +32,7 @@
 <section class="light-gray-bg">
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-3 gallery-img mb-3">
+				{{-- <div class="col-lg-3 gallery-img mb-3">
 				    <a data-fancybox="gallery1" href="https://www.youtube.com/watch?v=Btq81O68dHY" data-caption="Gericare Hospital | Exclusively For Senior Citizens | Multi Speciality Hospital | 24/7 | T.nagar | Chennai.">
 						<img src="{{ asset('/public/website/assets/images/video-1.jpg') }}" alt="" class="img-fluid" />
 						<span>Gericare Hospital | Exclusively For Senior Citizens | Multi Speciality Hospital | 24/7 | T.nagar | Chennai.</span>
@@ -40,39 +40,24 @@
 					<a class="d-none" data-fancybox="gallery1" href="{{ asset('/public/website/assets/images/gallery/hospital/2.jpg') }}" data-caption="Geri Care Hospital">&nbsp;</a>
 					<a class="d-none" data-fancybox="gallery1" href="{{ asset('/public/website/assets/images/gallery/hospital/3.jpg') }}" data-caption="Geri Care Hospital">&nbsp;</a>
 					<a class="d-none" data-fancybox="gallery1" href="{{ asset('/public/website/assets/images/gallery/hospital/4.jpg') }}" data-caption="Geri Care Hospital">&nbsp;</a>
-				</div>	
+				</div>	 --}}
+				@foreach ($videos as $video )
+				@php 
+				$link = $video['video_link'];
+				$video_id = explode("?v=", $link);
+				$video_id = $video_id[1];
+				@endphp
 				<div class="col-lg-3 gallery-img  mb-3">
-				    <a data-fancybox="gallery2" href="https://www.youtube.com/watch?embeds_referring_euri=https%3A%2F%2Fwww.gericare.in%2F&source_ve_path=Mjg2NjQsMTY0NTA2&feature=emb_share&v=UhN18HXWMAY" data-caption="Nalanthana with Geriatrician Dr.Vasanth - Full Show | Sun Life Show">
-						<img src="{{ asset('/public/website/assets/images/video-2.jpg') }}" alt="" class="img-fluid" />
-						<span>Nalanthana with Geriatrician Dr.Vasanth - Full Show | Sun Life Show</span>
+				    <a data-fancybox="gallery{{$video['id']}}" href="{{$video['video_link']}}" data-caption="Nalanthana with Geriatrician Dr.Vasanth - Full Show | Sun Life Show">
+						<img src="https://img.youtube.com/vi/{{$video_id}}/0.jpg" alt="" class="img-fluid" />
+						<span> {!! $video['description'] !!}</span>
 					</a>
 					
                 </div>	
-				<div class="col-lg-3 gallery-img  mb-3">
-				    <a data-fancybox="gallery3" href="https://www.youtube.com/watch?v=oegSXzLx54s" data-caption="Nalanthana with Cancer Specialist Dr.Rejiv Rajendranath - Full Show | Sun Life Show">
-						<img src="{{ asset('/public/website/assets/images/video3.jpg') }}" alt="" class="img-fluid" />
-						<span>Nalanthana with Cancer Specialist Dr.Rejiv Rajendranath - Full Show | Sun Life Show</span>
-					</a>
 					
-                </div>	
-				<div class="col-lg-3 gallery-img  mb-3">
-				    <a data-fancybox="gallery4" href="https://www.youtube.com/watch?v=R-xASsB7No0" data-caption="Vanakkam Tamizha With Geriatrician Dr N.Lakshmipathy Ramesh | Full Show | 05 Oct 21 | Sun TV">
-						<img src="{{ asset('/public/website/assets/images/video4.jpg') }}" alt="" class="img-fluid" />
-						<span>Vanakkam Tamizha With Geriatrician Dr N.Lakshmipathy Ramesh | Full Show | 05 Oct 21 | Sun TV</span>
-					</a>
-					
-					
-                </div>	
-				<div class="col-lg-3 gallery-img  mb-3">
-				    <a data-fancybox="gallery5" href="https://www.youtube.com/embed/fT7G1hF3YLU"  data-caption="Nalanthana with Geriatrician Dr. Srinivasan | Sun Life Show">
-						<img src="{{ asset('/public/website/assets/images/video5.jpg') }}" alt="" class="img-fluid" />
-						<span>Nalanthana with Geriatrician Dr. Srinivasan | Sun Life Show</span>
-					</a>
-					<a class="d-none" data-fancybox="gallery5" href="https://www.youtube.com/watch?v=R-xASsB7No0" >&nbsp;</a>
-					<a class="d-none" data-fancybox="gallery5" href="https://www.youtube.com/watch?v=Btq81O68dHY" >&nbsp;</a>
-					
-					
-                </div>	
+				@endforeach
+				
+				
 				<!-- <div class="col" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
 					<ul class="press-release min-height">						
 					   <li>

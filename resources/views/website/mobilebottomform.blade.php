@@ -69,6 +69,7 @@ Consultation With Us</h2>
             if (String.fromCharCode(e.keyCode).match(/[^.0-9]/g)) return false;
         });
         $('#request_call_back').submit(function() {
+            $('#preloader').show();
             event.preventDefault();
             var formData = $('#request_call_back').serialize();
             $('#save-btn').prop('disabled', 'true');

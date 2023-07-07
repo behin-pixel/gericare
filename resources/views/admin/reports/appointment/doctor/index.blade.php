@@ -28,6 +28,7 @@
                         <th>Appointment Date</th>
                         <th>Appointment Time</th>
                         <th>Message</th>
+                        <th>Created Date</th>
                     </tr>
                 </thead>
                 <tbody></tbody>
@@ -53,6 +54,7 @@
                     {data:"appointment_date", name : "appointment_date"},
                     {data:"appointment_time", name : "appointment_time"},
                     {data:"message", name : "message"},
+                    {data:"created_at", name : "created_at"},
                    
                 ],
             });

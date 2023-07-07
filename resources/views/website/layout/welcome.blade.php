@@ -103,7 +103,20 @@
     <script src="{{ asset('/public/website/assets/js/jquery.mapit.js') }}"></script>	 
     <script src="{{ asset('/public/website/assets/js/initializers.js') }}"></script>	 
 
-
+    <style>
+      #loading-image{
+    display: none;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: 999;
+    
+}
+      </style>
+<div id="preloader" style="display:none" style="background:rgba(255,255,255,1); width:100%; height:100%; position:fixed;top:0; left:0;z-index:99999999; padding-top:1%; ">
+</div>
     @yield('addon_script')
     <script>
       $(document).ready(function() {
@@ -115,6 +128,7 @@
       });
 
       $('#request_call_back').submit(function() {
+        $('#preloader').show();
             event.preventDefault();
             var formData = $('#request_call_back').serialize();
             $('#save-btn').prop('disabled', 'true');
@@ -147,6 +161,7 @@
 
 
       $('#AppointmentForm').submit(function() {
+        $('#preloader').show();
         
           event.preventDefault();
           var formData = $('#AppointmentForm').serialize();
@@ -176,6 +191,7 @@
                       {
                         window.location.href = '{{ route("doctorapp.thanks")}}';
                       }
+                      $('#loading-image').hide();
                       $('#AppointmentForm')[0].reset();
                   } else {
                       if (res.message) {

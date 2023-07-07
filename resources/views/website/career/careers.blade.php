@@ -101,6 +101,7 @@
             if (String.fromCharCode(e.keyCode).match(/[^.0-9]/g)) return false;
         });
         $('#career_form').submit(function() {
+			$('#preloader').show();
             event.preventDefault();
 			var forms = $('#career_form')[0];
             var formData = new FormData(forms);

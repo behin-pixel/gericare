@@ -51,7 +51,7 @@ $video_id = $video_id[1];
 <div class="col-lg-3 gallery-img mb-3">
 <a data-fancybox="gallery{{$testimonials['id']}}" href="{{$testimonials['video_link']}}" data-caption="Geri Care - Wellness by Geriatricians">
 <img src="https://img.youtube.com/vi/{{$video_id}}/0.jpg" alt="" class="img-fluid" />
-<span>Geri Care - Wellness by Geriatricians</span>
+<span>{{$testimonials['title']}}</span>
 </a> 
 </div> 		
 @endforeach 

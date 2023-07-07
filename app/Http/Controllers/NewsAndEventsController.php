@@ -107,6 +107,7 @@ class NewsAndEventsController extends Controller
             'date'                  => $request->date,
             'referral_link'         => $request->reference_link,
             'video_link'            => $request->video_link,
+            'status'                =>  $request->status,
             'posted_by'             => auth_user()->name,
         ]);
         
@@ -194,6 +195,7 @@ class NewsAndEventsController extends Controller
             'date'                  => $request->date,
             'referral_link'         => $request->reference_link,
             'video_link'            => $request->video_link,
+            'status'                =>  $request->status,
             'posted_by'   => auth_user()->name,
         ]);
         if($result) {
