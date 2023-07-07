@@ -268,7 +268,7 @@ Request Call Back
 <div class="col-lg-12">
 
 <div class="common-heading text-center">
-<h2>Why People Love Us</h2>
+<h2>Patient Success Storiess</h2>
 </div>
 
 <div class="google-revews">  

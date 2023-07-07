@@ -16,7 +16,7 @@
       
       <img src="{{ asset('/public/website/assets/images/banners/mobile-banner-1.jpg') }}" alt="" class="moby w-100 d-block d-lg-none" />
       <div class="carousel-caption animated animatedFadeInUp fadeInUp">
-        <h1 class="text-blue">India's 1st Multi-Speciality Hospital for Senior Citizens Gericare Hospital Now in Adambakkam</h1>
+        <h1 class="text-blue">India's 1<sup>st</sup> Multi-Speciality Hospital for Senior Citizens Geri Care Hospital Now in Adambakkam!</h1>
         <!-- <span class="text-blue">for Senior Citizens Gericare Hospital Now in Adambakkam</span> -->
     <a href="{{ url('our-doctors') }}">Explore More</a>
       </div>
@@ -309,7 +309,7 @@
 <div class="col-lg-12">
 
 <div class="common-heading text-center">
-<h2>Why People Love Us</h2>
+<h2>Patient Success Stories</h2>
 </div>
 
 <div class="google-revews"> 
