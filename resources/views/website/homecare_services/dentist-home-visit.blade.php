@@ -10,11 +10,11 @@
 <div class="col-lg-12">
 <h1>Dentist Home Visit</h1>
 <ul>
-<li><a href=""> Home </a></li>
+<li><a href="{{ url('/') }}"> Home </a></li>
 <li> > </li>
-<li> Home Care </li>
+<li> <a href="{{ url('homecare') }}">Home Care </a></li>
 <li> > </li>
-<li><a href="">Service we Offer</a></li>
+<li>  Service we Offer</li>
 <li> > </li>
 <li class="active">Dentist Home Visit</li>
 </ul>

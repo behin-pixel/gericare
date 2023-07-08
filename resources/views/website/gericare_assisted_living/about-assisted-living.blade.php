@@ -8,7 +8,7 @@
 <img src="{{ asset('/public/website/assets/images/banners/assisted.jpg') }}" alt="" class="w-100" />
 </div> 
 
-<div class="banner-liners">
+<!-- <div class="banner-liners">
 <div class="container">
 <div class="row">
 <div class="col-lg-12">
@@ -26,7 +26,7 @@ under the expert care of Geriatricans</span>
 </div>
 </div>
 </div>
-</div>
+</div> -->
 
 </section> 
  
@@ -39,8 +39,12 @@ under the expert care of Geriatricans</span>
 
 <div class="col-lg-12">
 <div class="common-heading text-center">
-<h2>State-of-the-art residential arrangements <br>
-to assist those in need. </h2>
+
+<h2>India’s 1<sup>st</sup> 24/7 Assisted Living & Skilled Nursing <br>
+under the expert care of Geriatricans. </h2>
+
+<!-- <h2>State-of-the-art residential arrangements <br>
+to assist those in need. </h2> -->
 </div>
 <div class="seconday-paragraph text-center">
 In an innovative endeavor, Geri Care offers 24/7 Assisted Living and Skilled Nursing Facility in Chennai, specifically designed to cater to the specific needs of older adults who require medical attention and support in their day-to-day lives. Our state-of-the-art facility houses a comprehensive range of services and amenities that provide residents in Chennai, ensuring utmost comfort, safety, and a homely atmosphere. Our professional experts, and our dedicated team provides constant availability of care, alleviating concerns and offering peace of mind to both residents and their families. <br> <br> 

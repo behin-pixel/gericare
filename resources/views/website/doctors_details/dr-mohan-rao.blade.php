@@ -12,11 +12,11 @@
 <div class="col-lg-12">
 <h1>Our Doctors</h1>
 <ul>
-<li><a href=""> Home </a></li>
+<li><a href="{{ url('/') }}"> Home </a></li>
 <li> > </li>
-<li> Geri Care Hospitals </li>
+<li> <a href="{{ url('gericare-hospital') }}">Geri Care Hospitals </a></li>
 <li> > </li>
-<li><a href=""> Doctors </a></li>
+<li><a href="{{ url('our-doctors') }}"> Our Doctor's  </a></li>
 <li> > </li>
 <li class="active"> Dr Mohan Rao </li>
 </ul>

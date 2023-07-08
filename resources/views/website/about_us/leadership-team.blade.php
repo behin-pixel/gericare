@@ -15,9 +15,9 @@
 <h4>Leadership Team
 </h4>
 <ul>
-<li><a href="./">Home</a></li> 
-<li> > </li>  
-<li>About Us</li>  
+<li><a href="{{ url('/') }}"> Home </a></li>
+<li> > </li>     
+<li ><a href="{{ url('about-gericare') }}">About Us </a></li>
 <li> > </li>     
 <li class="active">Leadership Team</li>    
 </ul>

@@ -17,9 +17,9 @@
 in the Country.</span>
 </h4>
 <ul>
-<li><a href="./">Home</a></li> 
-<li> > </li>  
-<li>About Us</li>  
+<li><a href="{{ url('/') }}"> Home </a></li>
+<li> > </li>     
+<li >About Us</li> 
 <li> > </li>     
 <li class="active">About Geri Care</li>    
 </ul>

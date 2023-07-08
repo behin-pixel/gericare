@@ -17,7 +17,7 @@
 Geriatricians </span>
 </h4>
 <ul>
-<li><a href="../">Home</a></li>   
+<li><a href="{{ url('/') }}"> Home </a></li>   
 <li>></li>  
 <li>Home Care</li>  
 <li>></li>     

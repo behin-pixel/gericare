@@ -17,9 +17,9 @@ Multi-Speciality <span>Hospital
 for  Senior Citizens</span>
 </h4>
 <ul>
-<li><a href="../">Home</a></li>   
+<li><a href="{{ url('/') }}"> Home </a></li>   
 <li>></li>  
-<li>Geri Care Hospitals</li>  
+<li><a href="{{ url('gericare-hospital') }}">Geri Care Hospitals</a></li>   
 <li>></li>     
 <li class="active"> Our Doctor's </li>    
 </ul>
@@ -45,7 +45,7 @@ for  Senior Citizens</span>
     <div class="doctors-filters-btns mCustomScrollbar">
     <button class="nav-link active" id="v-pills-1-tab" data-bs-toggle="pill" data-bs-target="#v-pills-1" type="button" role="tab" aria-controls="v-pills-1" aria-selected="true">
     <div class="geric-img">
-    <img src="{{ asset('/public/website/assets/images/icn-1.png') }}" alt="" class=""> 
+    <img src="{{ asset('/public/website/assets/images/icn-2.png') }}" alt="" class=""> 
     </div>    
     Geriatric Medicine
     </button>
@@ -66,7 +66,7 @@ for  Senior Citizens</span>
 
     <button class="nav-link" id="v-pills-10-tab" data-bs-toggle="pill" data-bs-target="#v-pills-10" type="button" role="tab" aria-controls="v-pills-10" aria-selected="false">
     <div class="geric-img">
-    <img src="{{ asset('/public/website/assets/images/icn-7.png') }}" alt="" class=""> 
+    <img src="{{ asset('/public/website/assets/images/icn-10.png') }}" alt="" class=""> 
     </div>     
     Geriatric Psychiatry
     </button>
@@ -74,7 +74,7 @@ for  Senior Citizens</span>
 
     <button class="nav-link" id="v-pills-7-tab" data-bs-toggle="pill" data-bs-target="#v-pills-7" type="button" role="tab" aria-controls="v-pills-7" aria-selected="false">
     <div class="geric-img">
-    <img src="{{ asset('/public/website/assets/images/icn-7.png') }}" alt="" class=""> 
+    <img src="{{ asset('/public/website/assets/images/icn-6.png') }}" alt="" class=""> 
     </div>     
     Geriatric Neurology
     </button>
@@ -95,7 +95,7 @@ for  Senior Citizens</span>
 
     <button class="nav-link" id="v-pills-4-tab" data-bs-toggle="pill" data-bs-target="#v-pills-4" type="button" role="tab" aria-controls="v-pills-4" aria-selected="false">
     <div class="geric-img">
-    <img src="{{ asset('/public/website/assets/images/uro.png') }}" alt="" class=""> 
+    <img src="{{ asset('/public/website/assets/images/icn-9.png') }}" alt="" class=""> 
     </div>     
     Geriatric Urology
     </button>
@@ -116,7 +116,7 @@ for  Senior Citizens</span>
 
     <button class="nav-link" id="v-pills-11-tab" data-bs-toggle="pill" data-bs-target="#v-pills-11" type="button" role="tab" aria-controls="v-pills-11" aria-selected="false">
     <div class="geric-img">
-    <img src="{{ asset('/public/website/assets/images/icn-7.png') }}" alt="" class=""> 
+    <img src="{{ asset('/public/website/assets/images/icn-16.png') }}" alt="" class=""> 
     </div>     
     Geriatric ICU
     </button>
@@ -132,7 +132,7 @@ for  Senior Citizens</span>
   
     <button class="nav-link" id="v-pills-14-tab" data-bs-toggle="pill" data-bs-target="#v-pills-14" type="button" role="tab" aria-controls="v-pills-14" aria-selected="false">
     <div class="geric-img">
-    <img src="{{ asset('/public/website/assets/images/lungs-vs.png') }}" alt="" class=""> 
+    <img src="{{ asset('/public/website/assets/images/icn-13.png') }}" alt="" class=""> 
     </div>     
 Uro Gynaecology
     </button> 
@@ -140,7 +140,7 @@ Uro Gynaecology
 
     <button class="nav-link" id="v-pills-16-tab" data-bs-toggle="pill" data-bs-target="#v-pills-16" type="button" role="tab" aria-controls="v-pills-15" aria-selected="false">
     <div class="geric-img">
-    <img src="{{ asset('/public/website/assets/images/lungs-vs.png') }}" alt="" class=""> 
+    <img src="{{ asset('/public/website/assets/images/icn-15.png') }}" alt="" class=""> 
     </div>     
     Nephrology
     </button> 
@@ -159,7 +159,7 @@ Uro Gynaecology
 
     <button class="nav-link" id="v-pills-15-tab" data-bs-toggle="pill" data-bs-target="#v-pills-15" type="button" role="tab" aria-controls="v-pills-15" aria-selected="false">
     <div class="geric-img">
-    <img src="{{ asset('/public/website/assets/images/lungs-vs.png') }}" alt="" class=""> 
+    <img src="{{ asset('/public/website/assets/images/icn-3.png') }}" alt="" class=""> 
     </div>     
     Pathology
     </button> 
@@ -783,8 +783,9 @@ Uro Gynaecology
 
 <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
 <div class="pseofmnd">
-We Do Whatever It Takes To<br> 
-Bring You Peace of Mind
+We are here to improve the <br> 
+quality of your life.<br>
+<span>To experience our care, call us today!</span>
 </div>
 </div>
 

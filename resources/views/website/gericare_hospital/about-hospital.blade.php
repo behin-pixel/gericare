@@ -494,7 +494,7 @@ chosen for you</h2>
 <li>
 <a href="{{ url('hospital-departments') }}">
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-15.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-1.png') }}" alt="" class=""> 
   </div>
   <span> Ophthalmology </span>   
 </a>  
@@ -503,7 +503,7 @@ chosen for you</h2>
 <li>
 <a href="{{ url('hospital-departments') }}">
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-15.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-1.png') }}" alt="" class=""> 
   </div>
   <span> Dentistry </span>  
 </a>   
@@ -556,7 +556,7 @@ chosen for you</h2>
 <div class="panell-drts">
 
 <div class="dr-panel">
-<img src="{{ asset('/public/website/assets/images/gericare-doctor-2.jpg') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/doctor-img-2.jpg') }}" alt="" class="">
 <div class="de-detl">
 <h4>Dr N. Lakshmipathy Ramesh</h4>
 <span>Senior Consultant Geriatrician</span>
@@ -581,7 +581,7 @@ chosen for you</h2>
 </div>
 
 <div class="dr-panel">
-<img src="{{ asset('/public/website/assets/images/gericare-doctor-3.jpg') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/Dr-Magesh.jpg') }}" alt="" class="">
 <div class="de-detl">
 <h4> Dr. Magesh R</h4>
 <span>Consultant Geriatrician</span>
@@ -605,7 +605,7 @@ chosen for you</h2>
 </div>
 
 <div class="dr-panel">
-<img src="{{ asset('/public/website/assets/images/gericare-doctor-5.jpg') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/doctor-img-4.jpg') }}" alt="" class="">
 <div class="de-detl">
 <h4>Dr. Vasanth</h4>
 <span>Consultant Geriatrician</span>

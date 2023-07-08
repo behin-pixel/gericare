@@ -17,9 +17,11 @@
 to improve the lives of the elderly.</span>
 </h4>
 <ul>
-<li><a href="./">Home</a></li>   
+<li><a href="{{ url('/') }}"> Home </a></li>   
 <li> > </li>  
-<li>Contact Us</li>   
+<li>Contact Us</li> 
+<li> > </li>  
+<li>Contact Us</li>  
 </ul>
 </div>
 </div>

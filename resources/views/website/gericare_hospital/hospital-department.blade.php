@@ -15,9 +15,9 @@
 <h4>Departments</span>
 </h4>
 <ul>
-<li><a href="../">Home</a></li>  
+<li><a href="{{ url('/') }}"> Home </a></li>   
 <li>></li>  
-<li>Geri Care Hospitals</li>  
+<li><a href="{{ url('gericare-hospital') }}">Geri Care Hospitals</a></li> 
 <li>></li>     
 <li class="active"> Departments </li>    
 </ul>

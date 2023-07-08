@@ -8,7 +8,7 @@
 <img src="{{ asset('/public/website/assets/images/banners/Banner-clinic.jpg') }}" alt="" class="w-100" />
 </div> 
 
-<div class="banner-liners">
+<!-- <div class="banner-liners">
 <div class="container">
 <div class="row">
 <div class="col-lg-12">
@@ -17,14 +17,14 @@
 in the later years.</span>
 </h4>
 <ul>
-<li><a href="../">Home</a></li>   
+<li><a href="{{ url('/') }}"> Home </a></li>  
 <li>></li>  
 <li class="active">Clinics</li>    
 </ul>
 </div>
 </div>
 </div>
-</div>
+</div> -->
 
 </section> 
 
@@ -33,9 +33,15 @@ in the later years.</span>
 <div class="row">
 
 <div class="col-lg-12">
+
+<div class="common-heading text-center">
+<h2>Ensuring Comprehensive Care & Better Quality of Life <br>
+in the later years. </h2>
+</div>
+
 <div class="seconday-paragraph text-center">
 At Geri Care clinics, our approach to treatment is guided by senior Geriatricians who take a multidisciplinary approach. Our staff is specifically trained in medical, psychosocial, and preventive care that is tailored to the unique needs of older adults. <br><br>
-By taking a holistic approach, we aim to improve the quality of life and overall wellness of not just our patients but also their families and caregivers. <br>
+By taking a holistic approach, we aim to improve the quality of life and overall wellness of not just our patients but also their families and caregivers. <br><br>
 
 In addition to general medical care, we conduct comprehensive assessments and treatments for conditions that primarily affect older adults - such as memory loss, falls, urinary problems, vision and hearing loss, advance care planning, caregiver support, and medication safety. 
 </div>
@@ -232,8 +238,9 @@ In addition to general medical care, we conduct comprehensive assessments and tr
 
 <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
 <div class="pseofmnd">
-We do whatever it takes to<br> improve the quality of your life. 
-<span> To experience our care, call us today! </span>
+We are here to improve the <br> 
+quality of your life.<br>
+<span>To experience our care, call us today!</span>
 </div>
 </div>
 

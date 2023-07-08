@@ -3214,7 +3214,7 @@ ul.press-roomr li span.bts-non {
 .bg-layer-2 {
     background-image: url('../images/bg-4.jpg'), url('../images/Rehabilitative-_-Restorative-care-transformed.jpeg');
     background-repeat: no-repeat, no-repeat;
-    background-position: left top, right -40px;
+    background-position: left top, right -80px;
 }
 .bg-layer-3 {
     background-image: url('../images/Dementia-care-transformed.jpeg'), url('../images/bg-3.jpg');
@@ -3223,7 +3223,7 @@ ul.press-roomr li span.bts-non {
 .bg-layer-4 {
     background-image: url('../images/bg-4.jpg'), url('../images/Transitional-Care-transformed.jpeg');
     background-repeat: no-repeat, no-repeat;
-    background-position: left top, right -60px;
+    background-position: left top, right -160px;
 }
 .bg-layer-5 {
     background-image: url('../images/Palliative-Care-transformed.jpeg'), url('../images/bg-3.jpg');
@@ -5042,7 +5042,7 @@ img.resp-onsive {
     }
 
     #homeCarousel.carousel .carousel-caption {
-        padding: 20px 20px 60px;
+        padding: 20px 30px 30px;
         bottom: 20px;
     }
 
@@ -5358,16 +5358,16 @@ background: #fff url('../images/cldr.png') no-repeat scroll 95% center;
         margin-bottom: 0;
     }
     .carousel .carousel-caption h1 {
-        font-size: 22px;
+        font-size: 24px;
         margin-bottom: 20px;
     }
     .carousel .carousel-caption span {
         margin-bottom:20px;
     }
     #homeCarousel.carousel .carousel-caption {
-        bottom: auto;
+       
         top: auto;
-        bottom:35px;
+        bottom:30px;
     }
     img.desky {
         display: none !important;
@@ -5488,8 +5488,8 @@ img.resp-onsive {
     ul.press-roomr li img, ul.press-release li img { width:100%}
      
 
-
-
+    .clnc-dtt {padding:15px;}
+    .clnc-dtt p {font-size: 15px; line-height: 22px;}
 
 
 }

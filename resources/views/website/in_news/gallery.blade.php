@@ -16,9 +16,9 @@
 <span> </span>
 </h4>
 <ul>
-<li><a href="../">Home</a></li>   
+<li><a href="{{ url('/') }}"> Home </a></li>   
 <li> > </li>  
-<li>News Room</li>  
+<li><a href="{{ url('news-and-events') }}"> News Room </a></li>  
 <li> > </li> 
 <li> Gallery </li>  
 </ul>
@@ -141,7 +141,7 @@
 				<div class="col-lg-3 gallery-img">
 				    <a data-fancybox="gallery6" href="{{ asset('/public/website/assets/images/gallery/beach/1.jpg') }}" data-caption="Elders Day Celebration October 1, 2022">
 						<img src="{{ asset('/public/website/assets/images/gallery/beach/main-img.jpg') }}" alt="" class="img-fluid w-100" />
-						<span>Elders Day Celebration October 1, 2022Elders Day Celebration October 1, 2022</span>
+						<span>Elders Day Celebration October 1, 2022</span>
 					</a>
 					<a class="d-none" data-fancybox="gallery6" href="{{ asset('/public/website/assets/images/gallery/beach/2.jpg') }}" data-caption="Elders Day Celebration October 1, 2022">&nbsp;</a>
 
