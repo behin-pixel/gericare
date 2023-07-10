@@ -24,7 +24,7 @@
 						<ul>
 							<li><a href="{{ url('/') }}">Home</a></li>
 							<li><a href="{{ url('gericare-hospital') }}">About Us</a></li> 
-							<li><a href="{{ url('assisted-living/#servce-cre') }}">Services</a></li> 
+							<li><a href="https://www.gericare.in/blog" target="_blank">Blog</a></li> 
 							<li><a href="{{ url('gallery') }}">Gallery</a></li>    
 						</ul>
 				</div>

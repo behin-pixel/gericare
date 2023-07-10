@@ -141,7 +141,7 @@
                   <a href="{{ url('gallery') }}">Gallery</a>
                 </li>
                 <li class="@if(request()->routeIs(['in-news.blog'])) active @endif">
-                  <a href="https://www.gericare.in/blognew" target="_blank" >Blog</a>
+                  <a href="https://www.gericare.in/blog" target="_blank" >Blog</a>
                 </li>
               </ul>
             </li>   

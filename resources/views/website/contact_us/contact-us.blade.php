@@ -77,15 +77,16 @@ to improve the lives of the elderly.</span>
 											<input type="tel" name="mobile_no" id="aphone" value="" class="form-control" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*?)\..*/g, '$1');" maxlength="10" required/>
 										</div>
 										<div class="col-sm-12 col-md-12 col-lg-6">
-											<label class="text-dark">Email (required)<span class="text-danger">*</span></label>
+											<label class="text-dark">Email </label>
 											<input type="email" name="email" id="aemail" value="" class="form-control"/>
 										</div>
 										<div class="col-sm-12 col-md-12 col-lg-6">
 											<label class="text-dark">Select Type (required)<span class="text-danger">*</span></label>
-											<select class="form-control jsrequired" id="services" name="services">
+											<select class="form-control jsrequired" id="services" name="services" required>
     <option value="">Select Type</option>
     <option value="Feedback">Feedback</option>
     <option value="General">General</option> 
+</select>
 										</div>
 										<div class="col-sm-12 col-md-12 col-lg-12">
 											<label class="text-dark">Message</label>

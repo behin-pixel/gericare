@@ -9,8 +9,6 @@
     <meta name = "description" content = "{{$decription ?? 'Looking for passionate Geriatric Care in Chennai? Geri Care offers quality Elder Care Services tailored for Senior Citizens. Book an appointment Today!' }}" /> 
     
     <link rel="shortcut icon" type="image/x-icon" href="{{ asset('/public/website/assets/images/favicon.png') }}"/>  
-    
-    <link rel="shortcut icon" type="image/x-icon" href="{{ asset('/public/website/assets/images/logo.svg') }}"/>
 	<!-- Bootstrap -->
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet"
 		integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
@@ -784,7 +782,13 @@ $(window).scroll(function () {
         });
 </script>
 
+
+
 @stack('scripts')
+
+
+<script>(function(w, d) { w.CollectId = "5ff9e36a8f2c9f53a7643a30"; var h = d.head || d.getElementsByTagName("head")[0]; var s = d.createElement("script"); s.setAttribute("type", "text/javascript"); s.async=true; s.setAttribute("src", "https://collectcdn.com/launcher.js"); h.appendChild(s); })(window, document);</script>
+
 
 </body>
 </html>

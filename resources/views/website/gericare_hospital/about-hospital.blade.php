@@ -347,7 +347,7 @@ chosen for you</h2>
 <li>
 <a href="{{ url('hospital-departments') }}">
 <div class="geric-img">
-<img src="{{ asset('/public/website/assets/images/icn-2.png') }}" alt="" class=""> 
+<img src="{{ asset('/public/website/assets/images/icn-18.png') }}" alt="" class=""> 
 </div>
 <span> Geriatric Medicine </span>
 </a>      
@@ -494,7 +494,7 @@ chosen for you</h2>
 <li>
 <a href="{{ url('hospital-departments') }}">
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-1.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-20.png') }}" alt="" class=""> 
   </div>
   <span> Ophthalmology </span>   
 </a>  
@@ -503,7 +503,7 @@ chosen for you</h2>
 <li>
 <a href="{{ url('hospital-departments') }}">
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-1.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-21.png') }}" alt="" class=""> 
   </div>
   <span> Dentistry </span>  
 </a>   
@@ -521,7 +521,7 @@ chosen for you</h2>
 <li>
 <a href="{{ url('hospital-departments') }}">
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-3.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-22.png') }}" alt="" class=""> 
   </div>
   <span> Lab Services </span> 
 </a>   

@@ -49,7 +49,7 @@
 <h4><img src="{{ asset('/public/website/assets/images/expe.png') }}" alt="" class=""> Experience <span> 9+ Years</span></h4>
 <h4><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> Education <span>M.B.B.S., M.D(Geriatrics)</span></h4>
 <h4><img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class=""> Languages <span> Tamil, English, Hindi</span></h4>
-<h4><img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class=""> LoLocation <span> Adambakkam</span></h4>
+<h4><img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class=""> Location <span> Adambakkam</span></h4>
 </div>
 </div>
 
@@ -80,8 +80,8 @@
 <ul>
 <li>December 2019: Travel Grant/Young Scholar Award at the 1st World congress on falls and postural stability, Kuala Lumpur.</li>
 <li>September 2019: Travel Grant/Best 100 Abstract Award at the 15th European Geriatric Medicine society conference, Krakow.</li> 
-<li>July 2017: Travel Grant/Young Scholar Award at the 21st International Congress on Geriatrics and Gerontology, San Francisco.
-2016: Third place in Open quiz, Geriatrics, Indian Ageing congress</li>
+<li>July 2017: Travel Grant/Young Scholar Award at the 21st International Congress on Geriatrics and Gerontology, San Francisco.</li>
+<li>2016: Third place in Open quiz, Geriatrics, Indian Ageing congress</li>
 </ul>
 
 </div>
