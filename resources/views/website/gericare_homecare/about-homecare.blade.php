@@ -65,7 +65,7 @@ Our experienced caregivers have been delivering affordable and reliable care in 
 <div class="servce">
 <img src="{{ asset('/public/website/assets/images/icon-2.png') }}" alt="" class="" />
 <h4> Access our Location </h4>
-<p> No.8, Dr. Nair Road, Behind Vani Mahal, T.Nagar, Chennai - 600 017 </p>
+<p> 21, 1st Avenue, Indira Nagar, Adyar, Chennai - 600 020  </p>
 <a href="{{ url('contact-us') }}"> View On Maps <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
 </div>
 
