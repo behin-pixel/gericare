@@ -3897,6 +3897,68 @@ button.gm-ui-hover-effect{background-color:#ff0000 !important;top:0 !important;r
 
 .common-heading sup{font-size: 12px;top:-20px;}
 
+.error-site img{margin-bottom: 50px;}
+
+
+.error-site h4{font-weight: 700;
+    color: #000000;
+    margin: 0;
+      margin-bottom: 0px;
+    font-size: 24px;
+    font-family: 'Red Hat Display', sans-serif;
+    line-height: 32px;
+    margin-bottom: 10px;}
+
+    .error-site h5{font-weight:400;
+        color: #454545;
+        margin: 0;
+          margin-bottom: 0px;
+        font-size: 18px;
+        font-family: 'Inter', sans-serif;
+        line-height: 32px;
+        margin-bottom: 10px;}
+
+        .error-site a{display: inline-block;font-weight: 600;line-height: 22px;
+            border-radius: 4px;background: #17161A;color:#fff;margin-top:5px;
+            padding: 12px 20px 12px;font-family: 'Inter', sans-serif;}
+
+            .error-site a:hover{background: #7C164B;
+                color: #FFF;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
