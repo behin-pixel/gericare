@@ -304,13 +304,13 @@ color:#fff;
 line-height: 21px;}
 
 
-.whatsapp-chat { position:fixed; bottom: 85px; right: 15px; z-index: 999; transition: all 500ms ease-in-out }
+.whatsapp-chat { position:fixed; bottom: 72px; right: 15px; z-index: 999; transition: all 500ms ease-in-out }
 .whatsapp-chat a { width:44px; height:44px; display: inline-block;  background: #3cb94a; color: #fff; font-size: 13px;  border-radius: 100%;  transition: all 500ms ease-in-out; text-align: center; }
 .whatsapp-chat a span {color: #fff; font-size: 15px;   }
 
 .whatsapp-chat a i { font-size: 25px; padding-right: 2px; position: relative; top:9px;left:1px;}
-
-
+#chat-bot-launcher-container{right: 15px !important;}
+#chat-bot-launcher-container.chat-bot-avatar-launcher .chat-bot-launcher-button{height: 44px !important;width: 44px  !important;}
 
 
 @media (max-width:992px) {

@@ -47,7 +47,7 @@ document.write('<scr'+'ipt type="text/javascript" src="https://maps.googleapis.c
 			locations: [
 				[13.0668164, 80.2672573, 'images/map1.png', '', '<h2>The India Cements Ltd</h2><h5>Registered Office</h5><p>Dhun Building, <br> No: 827, AnnaSalai, Chennai - 600 002. <br>Tamil Nadu, India</p>'],
 				
-				[13.0209015, 80.2669046, 'images/map1.png', '', '<h2>The India Cements Ltd</h2><h5>Corporate Office</h5><p>No: 93, Santhome High Road, Karpagam Avenue, R.A.Puram, <br>Chennai - 600028. <br>Tamil Nadu, India</p>'],
+				[13.0209015, 80.2669046, 'images/map1.png', '', '<h2>The India Cements Ltd</h2><h5>Corporate Office</h5><p>No: 93, Santhome High Road, Karpagam Avenue, R.A.Puram, <br>Chennai - 600 028. <br>Tamil Nadu, India</p>'],
 				
 				
 			],
