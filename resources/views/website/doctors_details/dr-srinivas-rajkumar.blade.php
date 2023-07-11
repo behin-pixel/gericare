@@ -46,10 +46,10 @@
 <div class="col-lg-8">
 <div class="doc-tor-cnt">
 <h3>Dr Srinivas Rajkumar T<span>Consultant Psychiatrist</span></h3>
-<h4><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> Experience <span> 9+ Years</span></h4>
+<h4><img src="{{ asset('/public/website/assets/images/expe.png') }}" alt="" class=""> Experience <span> 9+ Years</span></h4>
 <h4><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> Education <span>MD (Psychiatry)</span></h4>
-<h4><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> Languages <span> Tamil, English, Hindi</span></h4>
-<h4><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> Location <span> T.Nagar - All days<br>
+<h4><img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class=""> Languages <span> Tamil, English, Hindi</span></h4>
+<h4><img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class=""> Location <span> T.Nagar - All days<br>
 Adambakkam - All days <br>
 Adyar - Tuesday Mornings
 </span></h4>

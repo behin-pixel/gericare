@@ -49,7 +49,7 @@ $name='Dr Sreedevi';
 <h4><img src="{{ asset('/public/website/assets/images/expe.png') }}" alt="" class=""> Experience <span> 16+ Years</span></h4>
 <h4><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> Education <span>MBBS, DNB(Respiratory Medicine)</span></h4>
 <h4><img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class=""> Languages <span> Tamil, English, Hindi, Kannada</span></h4>
-<h4><img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class=""> Locations <span> - </span></h4>
+<!-- <h4><img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class=""> Locations <span> - </span></h4> -->
 </div>
 </div>
 
