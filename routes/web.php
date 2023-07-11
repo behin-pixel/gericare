@@ -25,10 +25,6 @@ Route::group(['prefix' => 'laravel-filemanager', 'middleware' => ['auth_users']]
 //  Route::get('/', function(){
 //       return view('website.index');
 //   });
-
-  Route::get('/error', function(){
-       return view('errors.404');
-   });
   Route::get('/',[ConsultantFormController::class,'index'])->name('home');
 
 // Route::get('/hospitals/gericare-hospitals',function(){
