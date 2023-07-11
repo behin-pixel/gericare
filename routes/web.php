@@ -181,9 +181,9 @@ Route::get('about-gericare',[PageViewController::class,'aboutGericarePage'])->na
 
 Route::get('leadership',[PageViewController::class,'leaderShipPage'])->name('about-us.leadership-team');
 
-Route::get('/about-us/team-dr-srinivas',[PageViewController::class,'leaderShipSrinivasPage'])->name('about-us.team-dr-srinivas');
+Route::get('/about-gericare/team-dr-srinivas',[PageViewController::class,'leaderShipSrinivasPage'])->name('about-us.team-dr-srinivas');
 
-Route::get('/about-us/team-dr-lakshmipathy',[PageViewController::class,'leaderShipLakshmipathyPage'])->name('about-us.team-dr-lakshmipathy');
+Route::get('/about-gericare/team-dr-lakshmipathy',[PageViewController::class,'leaderShipLakshmipathyPage'])->name('about-us.team-dr-lakshmipathy');
 
 Route::get('/about-us/awards-achievements',[PageViewController::class,'awardsPage'])->name('about-us.awards-achievements');
 
