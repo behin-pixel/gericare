@@ -31,9 +31,9 @@
 				<div class="quick-links spce-nded"> 
 						<ul> 
 							<li><a href="{{ url('testimonials') }}">Patient Stories</a></li>
-							<li><a href="{{ url('faqs') }}">FAQ's</a></li>
-							<li><a href="{{ url('career') }}">Career</a></li> 
+							<li><a href="{{ url('faqs') }}">FAQ's</a></li> 
 							<li><a href="{{ url('contact-us') }}">Reach Us</a></li>  
+							<li><a href="{{ url('terms-and-conditions') }}">Terms & Conditions</a></li>  
 						</ul>
 				</div>
 				<div class="quick-links">

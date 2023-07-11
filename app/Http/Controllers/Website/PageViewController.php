@@ -324,6 +324,10 @@ class PageViewController extends Controller
     {
         return view('website.faq');
     }
+    public function termsConditionsPage()
+    {
+        return view('website.terms-and-conditions');
+    }
     public function mediaGalleryPage()
     {
         $media_release=MediaRelease::where('status','1')->get();

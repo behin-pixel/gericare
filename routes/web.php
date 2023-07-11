@@ -222,5 +222,9 @@ Route::get('testimonials',[PageViewController::class,'testimonialPage'])->name('
 Route::get('videotestimonials',[PageViewController::class,'videotestimonialPage'])->name('videotestimonials'); 
 
 Route::get('faqs',[PageViewController::class,'faqPage'])->name('faq'); 
+
+Route::get('terms-and-conditions',[PageViewController::class,'termsConditionsPage'])->name('terms-and-conditions'); 
+
+
 Route::get('news-detail/{slug?}',[PageViewController::class,'newsDetailPage'])->name('news-detail'); 
 
