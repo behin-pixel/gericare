@@ -89,7 +89,7 @@
 
 <div class="whatsapp-chat">	 <a href="https://api.whatsapp.com/send?phone=914440614061&amp;text=Hello GERICARE, I have something to ask..." target="_blank" class="font-semiBold"> <span><i class="fa fa-whatsapp"></i>   </span> </a></div>
 
-<a href="#" class="back-to-top"><i class="fa fa-angle-up" aria-hidden="true"></i></a> 
+<!-- <a href="#" class="back-to-top"><i class="fa fa-angle-up" aria-hidden="true"></i></a>  -->
 
   <div class="modal fade" id="exampleModalCenter" tabindex="-1" aria-labelledby="exampleModalCenterTitle" >
   <div class="modal-dialog modal-dialog-centered">
