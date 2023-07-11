@@ -109,7 +109,7 @@ to improve the lives of the elderly.</span>
                 <div class="col-lg-12 margin-top-50">
 
 				<div class="dark-gray-bg text-center">
-				<h2 class="h3 mar-bot-20">Our locations</h2>
+				<h2 class="h3 mar-bot-20">Our Locations</h2>
 				</div>
 <div class="serveces-doctrs dark-gray-bg text-center">
 
