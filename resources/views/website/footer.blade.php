@@ -73,7 +73,7 @@
 <span><a href="{{ url('our-doctors') }}">Find a Doctor</a></span>
 </li>
 <li>
-<a href="{{ url('contact-us') }}"><img src="{{ asset('/public/website/assets/images/lo.png') }}"></a>
+<a href="{{ url('contact-us#gericarelocations') }}"><img src="{{ asset('/public/website/assets/images/lo.png') }}"></a>
 <span><a href="{{ url('contact-us#gericarelocations') }}">Locate us</a></span>
 </li> 
 </ul>
