@@ -44,7 +44,7 @@
 <h5>MD, MRCP (UK), DIP.Geriatric Medicine (UK)</h5>
 <span>Founder & Director </span>
 <div class="common-button drk mt-3">
-<a class="p-2" href="{{ url('about-us/team-dr-srinivas') }}">Read More</a>
+<a class="p-2" href="{{ url('about-gericare/team-dr-srinivas') }}">Read More</a>
 </div>
 </div>
 </div>
@@ -60,7 +60,7 @@
 <h5>M.D (Geriatrics) </h5>
 <span>Founder & Director </span>
 <div class="common-button drk mt-3">
-<a class="p-2" href="{{ url('about-us/team-dr-lakshmipathy') }}">Read More</a> 
+<a class="p-2" href="{{ url('about-gericare/team-dr-lakshmipathy') }}">Read More</a> 
 </div>
 </div>
 </div>
