@@ -106,7 +106,7 @@ in the Country.</span>
 </div>
 
 <div class="col-lg-5">
-<img src="{{ asset('/public/website/assets/images/full-build.jpg') }}" alt="" class="w-100" />
+<img src="{{ asset('/public/website/assets/images/full-build.jpg') }}" alt="Senior Citizen Hospital in Chennai" class="w-100" />
 </div>
 
 <div class="col-lg-7"> 

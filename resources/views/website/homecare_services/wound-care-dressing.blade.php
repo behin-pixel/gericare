@@ -31,7 +31,7 @@
 @include('website.servicessidebar')
 
 <div class="col-lg-9">
-<img src="{{ asset('/public/website/assets/images/Wound-Care-and-Dressing.jpg') }}" alt="" class="w-100 mb-4">
+<img src="{{ asset('/public/website/assets/images/Wound-Care-and-Dressing.jpg') }}" alt="Wound Care And Dressing " class="w-100 mb-4">
 <div class="common-para">
 <p>Skilled healthcare professionals can provide wound care and dressing services at home, by assessing and managing various types of wounds, including surgical incisions, pressure ulcers, and other injuries, ensuring proper wound healing and minimizing the risk of infection.</p>
 </div>

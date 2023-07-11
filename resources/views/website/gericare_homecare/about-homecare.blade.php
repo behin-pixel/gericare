@@ -125,7 +125,7 @@ Our experienced caregivers have been delivering affordable and reliable care in 
 <div class="servce-strture"> 
 
 <div class="main-srvcestr">
-<img src="{{ asset('/public/website/assets/images/Geriatric-Physiotherapy-at-Home.jpg') }}" alt="" class="" />
+<img src="{{ asset('/public/website/assets/images/Geriatric-Physiotherapy-at-Home.jpg') }}" alt="Physiotherapist For Home Visits" class="" />
 <div class="minrester">
 <h4>Geriatric Physiotherapy at Home</h4>
 <p>Geriatric physiotherapy involves specialized physical therapy techniques ...</p>
@@ -134,7 +134,7 @@ Our experienced caregivers have been delivering affordable and reliable care in 
 </div>
 
 <div class="main-srvcestr">
-<img src="{{ asset('/public/website/assets/images/Psychiatrist-Home-Visit.jpg') }}" alt="" class="" />
+<img src="{{ asset('/public/website/assets/images/Psychiatrist-Home-Visit.jpg') }}" alt="Geriatric Physiotherapy at Home" class="" />
 <div class="minrester">
 <h4>Psychiatrist Home Visits</h4>
 <p>During these visits, our psychiatrist will assess symptoms, prescribe appropriate medications ...</p>
@@ -143,7 +143,7 @@ Our experienced caregivers have been delivering affordable and reliable care in 
 </div>
 
 <div class="main-srvcestr">
-<img src="{{ asset('/public/website/assets/images/Orthopedician-Home-Visit.jpg') }}" alt="" class="" />
+<img src="{{ asset('/public/website/assets/images/Orthopedician-Home-Visit.jpg') }}" alt="Orthopedic specialists visit patients" class="" />
 <div class="minrester">
 <h4>Orthopedician Home Visits</h4>
 <p>Our Orthopedic specialists visit patients at their homes to assess and manage ...</p>
@@ -161,7 +161,7 @@ Our experienced caregivers have been delivering affordable and reliable care in 
 </div>
 
 <div class="main-srvcestr">
-<img src="{{ asset('/public/website/assets/images/IV-Fluids-Monitoring.jpg') }}" alt="" class="" />
+<img src="{{ asset('/public/website/assets/images/IV-Fluids-Monitoring.jpg') }}" alt="iv fluids monitoring services at home" class="" />
 <div class="minrester">
 <h4>IV Fluids Monitoring</h4>
 <p>In certain situations, such as dehydration or specific medical conditions, the administration ...</p>
@@ -170,7 +170,7 @@ Our experienced caregivers have been delivering affordable and reliable care in 
 </div>
 
 <div class="main-srvcestr">
-<img src="{{ asset('/public/website/assets/images/Urinary-Catheterization.jpg') }}" alt="" class="" />
+<img src="{{ asset('/public/website/assets/images/Urinary-Catheterization.jpg') }}" alt="Urinary catheterisation at Home" class="" />
 <div class="minrester">
 <h4>Urinary Catheterization</h4>
 <p>When appropriate, our professionals can perform urinary catheterization at home. ...</p>
@@ -179,7 +179,7 @@ Our experienced caregivers have been delivering affordable and reliable care in 
 </div>
 
 <div class="main-srvcestr">
-<img src="{{ asset('/public/website/assets/images/Outpatient-Antibiotic-Administration.jpg') }}" alt="" class="" />
+<img src="{{ asset('/public/website/assets/images/Outpatient-Antibiotic-Administration.jpg') }}" alt="Outpatient parenteral antimicrobial therapy at Home" class="" />
 <div class="minrester">
 <h4>Outpatient Antibiotic Administration </h4>
 <p>In cases where patients require intravenous antibiotic therapy but do not need ...</p>
@@ -188,7 +188,7 @@ Our experienced caregivers have been delivering affordable and reliable care in 
 </div>
 
 <div class="main-srvcestr">
-<img src="{{ asset('/public/website/assets/images/Wound-Care-and-Dressing.jpg') }}" alt="" class="" />
+<img src="{{ asset('/public/website/assets/images/Wound-Care-and-Dressing.jpg') }}" alt="Wound Care And Dressing " class="" />
 <div class="minrester">
 <h4>Wound Care & Dressing</h4>
 <p>Skilled healthcare professionals can provide wound care and dressing services ...</p>
@@ -197,7 +197,7 @@ Our experienced caregivers have been delivering affordable and reliable care in 
 </div>
 
 <div class="main-srvcestr">
-<img src="{{ asset('/public/website/assets/images/ECG-at-Home.jpg') }}" alt="" class="" />
+<img src="{{ asset('/public/website/assets/images/ECG-at-Home.jpg') }}" alt="ECG at Home" class="" />
 <div class="minrester">
 <h4>ECG at Home</h4>
 <p>Electrocardiogram (ECG) is a common diagnostic test for assessing heart function. ...</p>
@@ -206,7 +206,7 @@ Our experienced caregivers have been delivering affordable and reliable care in 
 </div>
 
 <div class="main-srvcestr">
-<img src="{{ asset('/public/website/assets/images/Skilled-Nursing-Care.jpg') }}" alt="" class="" />
+<img src="{{ asset('/public/website/assets/images/Skilled-Nursing-Care.jpg') }}" alt="Skilled Nursing Care at Home" class="" />
 <div class="minrester">
 <h4>Skilled Nursing Care</h4>
 <p>Our skilled nurses can perform various medical tasks, including wound care, ...</p>

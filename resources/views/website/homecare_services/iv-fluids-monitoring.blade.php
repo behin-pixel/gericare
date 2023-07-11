@@ -31,7 +31,7 @@
 @include('website.servicessidebar')
 
 <div class="col-lg-9">
-<img src="{{ asset('/public/website/assets/images/IV-Fluids-Monitoring.jpg') }}" alt="" class="w-100 mb-4">
+<img src="{{ asset('/public/website/assets/images/IV-Fluids-Monitoring.jpg') }}" alt="iv fluids monitoring services at home" class="w-100 mb-4">
 <div class="common-para">
 <p>In certain situations, such as dehydration or specific medical conditions, the administration of intravenous (IV) fluids may be necessary. Healthcare professionals can provide IV fluids at home, ensuring the patient receives the necessary hydration and medical treatment.</p>
 </div>

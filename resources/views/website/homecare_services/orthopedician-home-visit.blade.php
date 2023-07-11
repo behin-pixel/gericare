@@ -31,7 +31,7 @@
 @include('website.servicessidebar')
 
 <div class="col-lg-9">
-<img src="{{ asset('/public/website/assets/images/Orthopedician-Home-Visit.jpg') }}" alt="" class="w-100 mb-4">
+<img src="{{ asset('/public/website/assets/images/Orthopedician-Home-Visit.jpg') }}" alt="Orthopedic specialists visit patients" class="w-100 mb-4">
 <div class="common-para">
 <p>Our Orthopedic specialists visit patients at their homes to assess and manage orthopedic conditions, such as fractures, joint problems, and musculoskeletal injuries. They can provide consultations, order diagnostic tests (such as X-rays), offer treatment options, and recommend rehabilitation programs.</p>
 </div>

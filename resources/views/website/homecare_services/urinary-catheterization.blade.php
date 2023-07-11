@@ -31,7 +31,7 @@
 @include('website.servicessidebar')
 
 <div class="col-lg-9">
-<img src="{{ asset('/public/website/assets/images/Urinary-Catheterization.jpg') }}" alt="" class="w-100 mb-4">
+<img src="{{ asset('/public/website/assets/images/Urinary-Catheterization.jpg') }}" alt="Urinary catheterisation at Home" class="w-100 mb-4">
 <div class="common-para">
 <p>When appropriate, our professionals can perform urinary catheterization at home. This procedure involves the insertion of a thin tube into the bladder to drain urine. Home-based urinary catheterization can be helpful for patients who require ongoing bladder management.</p>
 </div>

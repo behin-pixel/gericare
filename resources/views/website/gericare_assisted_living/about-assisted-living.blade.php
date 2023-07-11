@@ -142,7 +142,7 @@ Choose Geri Care for trusted Assisted Living and Skilled Nursing Facility in Che
 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 <div class="spotlght-lists">
 
-<img class="resp-onsive" src="{{ asset('/public/website/assets/images/Respite-Care-transformed.jpeg') }}" alt="" >
+<img class="resp-onsive" src="{{ asset('/public/website/assets/images/Respite-Care-transformed.jpeg') }}" alt="Respite Care" >
 
 <div class="common-heads aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
 <h2> Respite Care </h2>
@@ -165,7 +165,7 @@ Choose Geri Care for trusted Assisted Living and Skilled Nursing Facility in Che
 
 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 <div class="spotlght-lists text-end">
-<img class="resp-onsive" src="{{ asset('/public/website/assets/images/Rehabilitative-_-Restorative-care-transformed.jpeg') }}" alt="" >
+<img class="resp-onsive" src="{{ asset('/public/website/assets/images/Rehabilitative-_-Restorative-care-transformed.jpeg') }}" alt="Rehabilitative & Restorative Care" >
 <div class="common-heads text-drk aos-init aos-animate" data-aos="fade-right" data-aos-duration="1000">
 <h2> Rehabilitative & Restorative Care </h2>
 </div>
@@ -197,7 +197,7 @@ Choose Geri Care for trusted Assisted Living and Skilled Nursing Facility in Che
 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 <div class="spotlght-lists">
 
-<img class="resp-onsive" src="{{ asset('/public/website/assets/images/Dementia-care-transformed.jpeg') }}" alt="" >
+<img class="resp-onsive" src="{{ asset('/public/website/assets/images/Dementia-care-transformed.jpeg') }}" alt="Dementia Care" >
 
 <div class="common-heads aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
 <h2> Dementia Care </h2>
@@ -220,7 +220,7 @@ Choose Geri Care for trusted Assisted Living and Skilled Nursing Facility in Che
 
 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 <div class="spotlght-lists text-end">
-<img class="resp-onsive" src="{{ asset('/public/website/assets/images/Transitional-Care-transformed.jpeg') }}" alt="" >
+<img class="resp-onsive" src="{{ asset('/public/website/assets/images/Transitional-Care-transformed.jpeg') }}" alt="Transitional Care" >
 <div class="common-heads text-drk aos-init aos-animate" data-aos="fade-right" data-aos-duration="1000">
 <h2> Transitional Care  </h2>
 </div>

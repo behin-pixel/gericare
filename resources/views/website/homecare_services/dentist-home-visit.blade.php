@@ -31,7 +31,7 @@
 @include('website.servicessidebar')
 
 <div class="col-lg-9">
-<img src="{{ asset('/public/website/assets/images/Dentist-Home-Visit.jpg') }}" alt="" class="w-100 mb-4">
+<img src="{{ asset('/public/website/assets/images/Dentist-Home-Visit.jpg') }}" alt="Dentist Home Visit" class="w-100 mb-4">
 <div class="common-para">
 <p>dental check-ups, cleanings, fillings, denture care, and other necessary dental treatments. These visits can be especially beneficial for elderly patients who have difficulty traveling to a dental clinic.</p>
 </div>

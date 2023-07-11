@@ -31,7 +31,7 @@
 @include('website.servicessidebar')
 
 <div class="col-lg-9">
-<img src="{{ asset('/public/website/assets/images/Geriatric-Physiotherapy-at-Home.jpg') }}" alt="" class="w-100 mb-4">
+<img src="{{ asset('/public/website/assets/images/Geriatric-Physiotherapy-at-Home.jpg') }}" alt="Physiotherapist For Home Visits" class="w-100 mb-4">
 <div class="common-para">
 <p>Geriatric physiotherapy involves specialized physical therapy techniques tailored to the needs of elderly individuals. We visit the patient's home to provide assessment, exercise programs, mobility training, and rehabilitation services. These sessions focus on improving strength, balance, flexibility, and overall physical function.</p>
 </div>

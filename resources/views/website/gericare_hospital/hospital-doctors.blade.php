@@ -178,7 +178,7 @@ Uro Gynaecology
 
     <div class="dctrs-detls">
     <div class="dctrm-img">
-    <img src="{{ asset('/public/website/assets/images/doctor-img-2.jpg') }}" alt="" class="">
+    <img src="{{ asset('/public/website/assets/images/doctor-img-2.jpg') }}" alt="Dr N. Lakshmipathy Ramesh - Senior Consultant Geriatrician" class="">
     </div>
     <div class="dctrm-deitals">
     <h3> Dr N. Lakshmipathy Ramesh  </h3>
@@ -194,7 +194,7 @@ Uro Gynaecology
 
     <div class="dctrs-detls">
     <div class="dctrm-img">
-    <img src="{{ asset('/public/website/assets/images/doctor-img-1.jpg') }}" alt="" class="">
+    <img src="{{ asset('/public/website/assets/images/doctor-img-1.jpg') }}" alt="Dr. V. Srinivas - Senior Consultant Geriatrician" class="">
     </div>
     <div class="dctrm-deitals">
     <h3> Dr. V. Srinivas </h3>

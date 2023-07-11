@@ -96,7 +96,7 @@ In addition to general medical care, we conduct comprehensive assessments and tr
 <div class="clinics-lsts">
 
 <div class="cliinc-detlis">
-<img src="{{ asset('/public/website/assets/images/Falls-prevention-(Osteoporosis)-clinic.jpg') }}" alt="" class="w-100" />
+<img src="{{ asset('/public/website/assets/images/Falls-prevention-(Osteoporosis)-clinic.jpg') }}" alt="Falls prevention (Osteoporosis) clinic" class="w-100" />
 <h4>Falls prevention (Osteoporosis) clinic</h4>
 <div class="clnc-dtt">
 <h5>Falls prevention (Osteoporosis) clinic</h5>
@@ -105,7 +105,7 @@ In addition to general medical care, we conduct comprehensive assessments and tr
 </div>
 
 <div class="cliinc-detlis">
-<img src="{{ asset('/public/website/assets/images/Memory-clinic.jpg') }}" alt="" class="w-100" />
+<img src="{{ asset('/public/website/assets/images/Memory-clinic.jpg') }}" alt="Memory Clinic" class="w-100" />
 <h4>Memory clinic</h4>
 <div class="clnc-dtt">
 <h5>Memory clinic</h5>
@@ -114,7 +114,7 @@ In addition to general medical care, we conduct comprehensive assessments and tr
 </div>
 
 <div class="cliinc-detlis">
-<img src="{{ asset('/public/website/assets/images/Incontinence-clinic-(Urinary).jpg') }}" alt="" class="w-100" />
+<img src="{{ asset('/public/website/assets/images/Incontinence-clinic-(Urinary).jpg') }}" alt="Incontinence clinic (Urinary)" class="w-100" />
 <h4>Incontinence clinic (Urinary)</h4>
 <div class="clnc-dtt">
 <h5>Incontinence clinic (Urinary)</h5>
@@ -123,7 +123,7 @@ In addition to general medical care, we conduct comprehensive assessments and tr
 </div>
 
 <div class="cliinc-detlis">
-<img src="{{ asset('/public/website/assets/images/Preventive-Geriatric-health-check.jpg') }}" alt="" class="w-100" />
+<img src="{{ asset('/public/website/assets/images/Preventive-Geriatric-health-check.jpg') }}" alt="Preventive Geriatric health check" class="w-100" />
 <h4>Preventive Geriatric health check</h4>
 <div class="clnc-dtt">
 <h5>Preventive Geriatric health check</h5>
@@ -132,7 +132,7 @@ In addition to general medical care, we conduct comprehensive assessments and tr
 </div>
 
 <div class="cliinc-detlis">
-<img src="{{ asset('/public/website/assets/images/Adult-vaccination-clinic.jpg') }}" alt="" class="w-100" />
+<img src="{{ asset('/public/website/assets/images/Adult-vaccination-clinic.jpg') }}" alt="Adult vaccination clinic" class="w-100" />
 <h4>Adult vaccination clinic</h4>
 <div class="clnc-dtt">
 <h5>Adult vaccination clinic</h5>
@@ -150,7 +150,7 @@ In addition to general medical care, we conduct comprehensive assessments and tr
 </div> -->
 
 <div class="cliinc-detlis">
-<img src="{{ asset('/public/website/assets/images/Seniors-Diabetic-clinic.jpg') }}" alt="" class="w-100" />
+<img src="{{ asset('/public/website/assets/images/Seniors-Diabetic-clinic.jpg') }}" alt="Seniors Diabetic clinic" class="w-100" />
 <h4>Seniors Diabetic clinic</h4>
 <div class="clnc-dtt">
 <h5>Seniors Diabetic clinic</h5>
@@ -159,7 +159,7 @@ In addition to general medical care, we conduct comprehensive assessments and tr
 </div>
 
 <div class="cliinc-detlis">
-<img src="{{ asset('/public/website/assets/images/Hypertension-clinic.jpg') }}" alt="" class="w-100" />
+<img src="{{ asset('/public/website/assets/images/Hypertension-clinic.jpg') }}" alt="Hypertension clinic" class="w-100" />
 <h4>Hypertension clinic</h4>
 <div class="clnc-dtt">
 <h5>Hypertension clinic</h5>
@@ -168,7 +168,7 @@ In addition to general medical care, we conduct comprehensive assessments and tr
 </div>
 
 <div class="cliinc-detlis">
-<img src="{{ asset('/public/website/assets/images/Sleep-disorder-Clinic.jpg') }}" alt="" class="w-100" />
+<img src="{{ asset('/public/website/assets/images/Sleep-disorder-Clinic.jpg') }}" alt="Sleep disorder Clinic" class="w-100" />
 <h4>Sleep disorder Clinic</h4>
 <div class="clnc-dtt">
 <h5>Sleep disorder Clinic</h5>
@@ -202,7 +202,7 @@ In addition to general medical care, we conduct comprehensive assessments and tr
 <div class="serveces-doctrs">
 
 <div class="servce">
-<img src="{{ asset('/public/website/assets/images/location-gericare-3.jpg') }}" alt="" class="w-100" />
+<img src="{{ asset('/public/website/assets/images/location-gericare-3.jpg') }}" alt="Geri Care Clinics - Adyar" class="w-100" />
 <div class="servrse-contest">
 <h4> Geri Care Clinics - Adyar </h4>
  <p>21, 1st avenue, Indira Nagar, <br> Adyar, Chennai 600020</p>
@@ -212,7 +212,7 @@ In addition to general medical care, we conduct comprehensive assessments and tr
 </div>
 
 <div class="servce">
-<img src="{{ asset('/public/website/assets/images/location-gericare-4.jpg') }}" alt="" class="w-100" />
+<img src="{{ asset('/public/website/assets/images/location-gericare-4.jpg') }}" alt="Geri Care Clinics - Anna Nagar" class="w-100" />
 <div class="servrse-contest">
 <h4> Geri Care Clinics - Anna Nagar </h4>
 <p>Plot no.3698, Q Block-100, 3rd Avenue, <br> Anna Nagar, Chennai, Tamil Nadu 600040

@@ -556,7 +556,7 @@ chosen for you</h2>
 <div class="panell-drts">
 
 <div class="dr-panel">
-<img src="{{ asset('/public/website/assets/images/doctor-img-2.jpg') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/doctor-img-2.jpg') }}" alt="Dr N. Lakshmipathy Ramesh - Senior Consultant Geriatrician" class="">
 <div class="de-detl">
 <h4>Dr N. Lakshmipathy Ramesh</h4>
 <span>Senior Consultant Geriatrician</span>
@@ -581,7 +581,7 @@ chosen for you</h2>
 </div>
 
 <div class="dr-panel">
-<img src="{{ asset('/public/website/assets/images/Dr-Magesh.jpg') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/Dr-Magesh.jpg') }}" alt="Dr. Magesh R - Consultant Geriatrician" class="">
 <div class="de-detl">
 <h4> Dr. Magesh R</h4>
 <span>Consultant Geriatrician</span>
@@ -605,7 +605,7 @@ chosen for you</h2>
 </div>
 
 <div class="dr-panel">
-<img src="{{ asset('/public/website/assets/images/doctor-img-4.jpg') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/doctor-img-4.jpg') }}" alt="Dr. K. Vasanth - Consultant Geriatrician" class="">
 <div class="de-detl">
 <h4>Dr. Vasanth</h4>
 <span>Consultant Geriatrician</span>

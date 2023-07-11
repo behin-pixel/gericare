@@ -31,7 +31,7 @@
 @include('website.servicessidebar')
 
 <div class="col-lg-9">
-<img src="{{ asset('/public/website/assets/images/Care-for-Bedridden-Patients.jpg') }}" alt="" class="w-100 mb-4">
+<img src="{{ asset('/public/website/assets/images/Care-for-Bedridden-Patients.jpg') }}" alt="Care For Bedridden Patients" class="w-100 mb-4">
 <div class="common-para">
 <p>Our skilled nurses and nursing attendants can provide care for bedridden patients at home. They can assist with turning and repositioning the patient to prevent pressure sores, provide assistance with personal hygiene, manage urinary and bowel needs, administer medications, all while ensuring the patient's comfort and well-being.</p>
 </div>

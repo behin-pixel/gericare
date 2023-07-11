@@ -31,7 +31,7 @@
 @include('website.servicessidebar')
 
 <div class="col-lg-9">
-<img src="{{ asset('/public/website/assets/images/Psychiatrist-Home-Visit.jpg') }}" alt="" class="w-100 mb-4">
+<img src="{{ asset('/public/website/assets/images/Psychiatrist-Home-Visit.jpg') }}" alt="Geriatric Physiotherapy at Home" class="w-100 mb-4">
 <div class="common-para">
 <p>During these visits, we assess symptoms, prescribe appropriate medications, provide psychotherapy, and offer support for conditions such as depression, anxiety, dementia-related behavioral changes, and other psychiatric disorders.</p>
 </div>

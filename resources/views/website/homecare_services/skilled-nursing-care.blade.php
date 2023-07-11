@@ -31,7 +31,7 @@
 @include('website.servicessidebar')
 
 <div class="col-lg-9">
-<img src="{{ asset('/public/website/assets/images/Skilled-Nursing-Care.jpg') }}" alt="" class="w-100 mb-4">
+<img src="{{ asset('/public/website/assets/images/Skilled-Nursing-Care.jpg') }}" alt="Skilled Nursing Care at Home" class="w-100 mb-4">
 <div class="common-para">
 <p>Our skilled nurses can perform various medical tasks, including wound care, administering medications, monitoring vital signs, managing chronic conditions, providing post-operative care, and assisting with activities of daily living. They work closely with the patient's healthcare team to ensure continuity of care and promote the patient's overall well-being.</p>
 </div>
