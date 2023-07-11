@@ -47,11 +47,7 @@
 				</div>
                         <div class="contact-links">
                             <h4>Reach us at</h4>
-                            <ul>
-                                <li>
-                                    <a href=""><img src="{{ asset('/public/website/assets/images/loc.png') }}"> 21, 1st Avenue, Indira Nagar,<br>
-									Adyar, Chennai - 600 020 </a>
-                                </li>
+                            <ul> 
                                 <li>
                                     <a href="tel:+914440614061"><img src="{{ asset('/public/website/assets/images/calls.png') }}"> +91 44 4061 4061 </a>
                                 </li>
