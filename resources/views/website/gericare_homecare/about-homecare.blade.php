@@ -66,7 +66,7 @@ Our experienced caregivers have been delivering affordable and reliable care in 
 <img src="{{ asset('/public/website/assets/images/icon-2.png') }}" alt="" class="" />
 <h4> Access our Location </h4>
 <p> 21, 1st Avenue, Indira Nagar, Adyar, Chennai - 600 020  </p>
-<a href="{{ url('contact-us') }}"> View On Maps <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
+<a href="{{ url('contact-us#gericarelocations') }}"> View On Maps <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
 </div>
 
 <div class="servce">
