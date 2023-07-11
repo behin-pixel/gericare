@@ -31,8 +31,8 @@
 				<div class="quick-links spce-nded"> 
 						<ul> 
 							<li><a href="{{ url('testimonials') }}">Patient Stories</a></li>
-							<li><a href="{{ url('faq') }}">FAQ's</a></li>
-							<li><a href="{{ url('careers') }}">Career</a></li> 
+							<li><a href="{{ url('faqs') }}">FAQ's</a></li>
+							<li><a href="{{ url('career') }}">Career</a></li> 
 							<li><a href="{{ url('contact-us') }}">Reach Us</a></li>  
 						</ul>
 				</div>
@@ -74,7 +74,7 @@
 </li>
 <li>
 <a href="{{ url('contact-us') }}"><img src="{{ asset('/public/website/assets/images/lo.png') }}"></a>
-<span><a href="{{ url('contact-us') }}">Locate us</a></span>
+<span><a href="{{ url('contact-us#gericarelocations') }}">Locate us</a></span>
 </li> 
 </ul>
 </div>

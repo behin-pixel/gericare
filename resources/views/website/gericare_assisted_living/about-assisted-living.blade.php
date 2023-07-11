@@ -76,7 +76,7 @@ Choose Geri Care for trusted Assisted Living and Skilled Nursing Facility in Che
 <img src="{{ asset('/public/website/assets/images/icon-3.png') }}" alt="" class="" />
 <h4> Book your Visit </h4>
 <p> Schedule an appointment to <br>check out our facility </p>
-<a href="{{ url('book-appointment') }}"> Book Your Appointment <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
+<a href="{{ url('book-an-appointment') }}"> Book Your Appointment <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
 </div>
 
 </div>

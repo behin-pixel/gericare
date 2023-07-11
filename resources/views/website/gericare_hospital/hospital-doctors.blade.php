@@ -752,8 +752,8 @@ Uro Gynaecology
         <h4>Pathologist </h4>
         <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> MBBS, MD(Pathology)</h5>
         <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class=""> Tamil, English   </h5>
-        <a href="{{ url('book-appointment') }}">Book Appointment</a>
-        <a href="{{ url('book-appointment') }}">View Profile</a>
+        <a href="{{ url('book-an-appointment') }}">Book Appointment</a>
+        <a href="{{ url('book-an-appointment') }}">View Profile</a>
         </div>
         </div>
       </div> 

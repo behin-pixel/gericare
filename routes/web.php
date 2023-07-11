@@ -200,7 +200,7 @@ Route::get('video-gallery',[PageViewController::class,'VideoGalleryPage'])->name
 
 Route::get('contact-us',[PageViewController::class,'contactUsPage'])->name('contact-us');
 
-Route::get('book-appointment',[PageViewController::class,'bookAppointmentPage'])->name('book-appointment');
+Route::get('book-an-appointment',[PageViewController::class,'bookAppointmentPage'])->name('book-appointment');
 
 Route::get('thanks-contactus',[PageViewController::class,'ThanksContactusPage'])->name('thanks-contactus');
 
@@ -216,11 +216,11 @@ Route::get('doctor-appointmnet-thanks',[PageViewController::class,'doctorAppoint
 Route::get('consult-thanks',[PageViewController::class,'consultThanksPage'])->name('consult-thanks');
 
 
-Route::get('careers',[PageViewController::class,'careerPage'])->name('careers');
+Route::get('career',[PageViewController::class,'careerPage'])->name('careers');
 
 Route::get('testimonials',[PageViewController::class,'testimonialPage'])->name('testimonials'); 
 Route::get('videotestimonials',[PageViewController::class,'videotestimonialPage'])->name('videotestimonials'); 
 
-Route::get('faq',[PageViewController::class,'faqPage'])->name('faq'); 
+Route::get('faqs',[PageViewController::class,'faqPage'])->name('faq'); 
 Route::get('news-detail/{slug?}',[PageViewController::class,'newsDetailPage'])->name('news-detail'); 
 

@@ -47,7 +47,7 @@ Geri Care, India's 1<sup>st</sup> multi-speciality hospital, is the visionary br
 <img src="{{ asset('/public/website/assets/images/icon-3.png') }}" alt="" class="" />
 <h4> Book an Appointment </h4>
 <p> Schedule an appointment as per <br>your health requirement </p>
-<a href="{{ url('book-appointment') }}"> Book Your Appointment <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
+<a href="{{ url('book-an-appointment') }}"> Book Your Appointment <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
 </div>
 
 </div>

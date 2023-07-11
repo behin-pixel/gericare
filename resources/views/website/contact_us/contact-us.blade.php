@@ -102,6 +102,7 @@ to improve the lives of the elderly.</span>
 							</div>
 						</div>
 					</div>
+					<a id="gericarelocations"></a>
 				</div>
 
                 

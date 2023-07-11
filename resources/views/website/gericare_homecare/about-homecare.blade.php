@@ -73,7 +73,7 @@ Our experienced caregivers have been delivering affordable and reliable care in 
 <img src="{{ asset('/public/website/assets/images/icon-3.png') }}" alt="" class="" />
 <h4> Book a Visit </h4>
 <p> Book your appointment with us for a smooth and hassle free experience </p>
-<a href="{{ url('book-appointment') }}"> Book Your Appointment <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
+<a href="{{ url('book-an-appointment') }}"> Book Your Appointment <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
 </div>
 
 </div>

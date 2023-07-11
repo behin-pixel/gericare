@@ -6,7 +6,7 @@
       <div class="d-flex align-items-center justify-content-center justify-content-sm-end">
           <ul class="top-socials">
             <li>
-              <a href="{{ url('book-appointment') }}">
+              <a href="{{ url('book-an-appointment') }}">
                 Book an Appointment
               </a>
             </li> 
@@ -23,7 +23,7 @@
 
 <div class="mobile-header">
 <a href="tel:+914440614061" target="_blank"><img src="{{ asset('/public/website/assets/images/calling.png') }}" alt="" />+91 44 4061 4061</a>
-<a href="{{ url('book-appointment') }}"> Book an Appointment </a>
+<a href="{{ url('book-an-appointment') }}"> Book an Appointment </a>
 </div>
 
 <header>
@@ -152,7 +152,7 @@
                   <a href="{{ url('contact-us') }}">Get in Touch</a>
                 </li> 
                 <li class="@if(request()->routeIs(['careers'])) active @endif">
-                  <a href="{{ url('careers') }}">Careers</a>
+                  <a href="{{ url('career') }}">Careers</a>
                 </li>
                  </ul> 
             </li> 
