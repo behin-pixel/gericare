@@ -7,7 +7,7 @@
 <div class="container">
 <div class="row">
     @php 
-    $name='Dr. Lakshmipathy Ramesh';
+    $name='Dr. N. Lakshmipathy Ramesh';
     @endphp 
 <div class="col-lg-12">
 <h1>Our Doctors</h1>
@@ -18,7 +18,7 @@
 <li> > </li>
 <li><a href="{{ url('our-doctors') }}"> Our Doctors  </a></li>
 <li> > </li>
-<li class="active"> Dr. Lakshmipathy Ramesh </li>
+<li class="active"> Dr. N. Lakshmipathy Ramesh </li>
 </ul>
 </div>
 

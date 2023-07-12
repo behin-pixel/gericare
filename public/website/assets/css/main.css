@@ -4200,6 +4200,8 @@ button.gm-ui-hover-effect {
 }
 
 @media(min-width:768px) {
+    .full-deg-cnt span {
+        height:auto;}
     .infrastructure .nav-tabs {
         display: flex;
         align-items: center;
