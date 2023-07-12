@@ -556,7 +556,7 @@ Uro Gynaecology
         
         <div class="dctrs-detls">
         <div class="dctrm-img">
-        <img src="{{ asset('/public/website/assets/images/doctor-img-16.jpg') }}" alt="" class="">
+        <img src="{{ asset('/public/website/assets/images/up-srinivas.webp') }}" alt="" class="">
         </div>
         <div class="dctrm-deitals">
         <h3>Dr. U.P. Srinivas </h3>
@@ -621,7 +621,7 @@ Uro Gynaecology
         <h4>Nephrology</h4>
         <div class="dctrs-detls">
         <div class="dctrm-img">
-        <img src="{{ asset('/public/website/assets/images/balamurugan-b.jpg') }}" alt="" class="">
+        <img src="{{ asset('/public/website/assets/images/balamurugan-b.webp') }}" alt="" class="">
         </div>
         <div class="dctrm-deitals">
         <h3>Dr. B. Balamurugan</h3>

@@ -39,7 +39,7 @@
 
 <div class="col-lg-5">
 <div class="doc-tor-img">
-<img src="{{ asset('/public/website/assets/images/doctor-img-16.jpg') }}" alt="" class="w-100">
+<img src="{{ asset('/public/website/assets/images/up-srinivas.webp') }}" alt="" class="w-100">
 </div>
 </div>
 

@@ -58,18 +58,8 @@ Adyar - Tuesday Mornings
 
 </div>
 
-
 <div class="main-contdvshon">
-<h4>Qualification </h4>
-<ul>
-<li>M.D (Psychiatry) -  All India Institute of Medical Sciences, New Delhi</li>
-<li>M.B.B.S. - Madurai Medical College, Madurai, Tamil Nadu, India</li>
- 
-</ul>
-</div>
-
-<div class="main-contdvshon">
-<h4>About Us</h4>
+<h4>Doctor's Profile</h4>
 <p>Dr Srinivas Rajkumar T is a popular Geriatric Psychiatrist in Chennai. He believes in comprehensive evaluation of mental health conditions following a biopsychosocial approach. He is a patient listener who understands the needs of both patients and family members and helps them understand the illness and make well informed treatment decisions. Treatment usually involves a combination of medications, therapy and behavioral interventions to ensure best possible recovery.
 </p>
 <p>He has been a pioneer in working with cutting edge devices and techniques for the treatment of mental health conditions. He is well versed with treatment modalities like Electro convulsive therapy (ECT), repetitive transcranial magnetic stimulation (rTMS), transcranial direct current stimulation (tDCS),  Ketamine Therapy etc.</p>
@@ -87,6 +77,18 @@ Adyar - Tuesday Mornings
 
 
 
+</div>
+
+
+
+
+<div class="main-contdvshon">
+<h4>Education </h4>
+<ul>
+<li>M.D (Psychiatry) -  All India Institute of Medical Sciences, New Delhi</li>
+<li>M.B.B.S. - Madurai Medical College, Madurai, Tamil Nadu, India</li>
+ 
+</ul>
 </div>
 
 <div class="main-contdvshon">
