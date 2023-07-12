@@ -16,7 +16,7 @@
       
       <img src="{{ asset('/public/website/assets/images/banners/mobile-banner-1.jpg') }}" alt="" class="moby w-100 d-block d-lg-none" />
       <div class="carousel-caption animated animatedFadeInUp fadeInUp">
-        <h1 class="text-blue">India's 1<sup>st</sup> Multi-Speciality Hospital for Senior Citizens Geri Care Hospital Now in Adambakkam!</h1>
+        <h1 class="text-blue">India's 1<sup>st</sup> Multi-Speciality Hospital for Senior Citizens <br>now in Adambakkam!</h1>
         <!-- <span class="text-blue">for Senior Citizens Gericare Hospital Now in Adambakkam</span> -->
     <a href="{{ url('gericare-hospital') }}">Explore More</a>
       </div>
@@ -87,7 +87,7 @@
 <div class="logos-pot">
 <img src="{{ asset('/public/website/assets/images/logo-1.png') }}" alt="">
 </div>
-<span>Experience the first-of-its-kind, 24x7 Assisted living & skilled nursing home services from the expert care of Geriatricians.</span>
+<span>Experience the first-of-its-kind, 24x7 Assisted Living & Skilled Nursing services combined with decades <br>of geriatric expertise.</span>
 <div class="red-mre">
 <a href="{{ url('assisted-living') }}">Read More <img src="{{ asset('/public/website/assets/images/red-mre.png') }}" alt=""></div></a>
 </div>
@@ -110,7 +110,7 @@
 <div class="logos-pot">
 <img src="{{ asset('/public/website/assets/images/logo-4.png') }}" alt="">
 </div>
-<span>Experience the best geriatric care now - Say goodbye to long waits and hello to exceptional treatment at Geri Care Clinic! Book your appointment today.</span>
+<span>Walk into the best geriatric clinic in the city and say hello to exceptional treatment,  undivided attention <br> and long-lasting care.</span>
 <div class="red-mre">
 <a href="{{ url('about-clinics') }}">Read More <img src="{{ asset('/public/website/assets/images/red-mre.png') }}" alt=""></div></a>
 </div>
@@ -164,7 +164,7 @@
 </div>
 
 <div class="common-para">
-<p>Gaeri Care, a name that resonates with extensive medical, nursing and physiotherapy treatments has been operating in the realm of specialized geriatric care services for more than three decades. </p>
+<p>Gaeri Care, a name that resonates with extensive medical, nursing and physiotherapy treatments has been operating in the realm of specialized geriatric care services for more than three decades now. </p>
 </div>
 
 <div class="common-button drk">
@@ -363,7 +363,7 @@
 <h2>One-of-a-kind Geriatric Care</h2>
 </div>
 <div class="common-para">
-<p>Introducing India's first-ever multi-specialty hospital designed exclusively for senior citizens, offering<br> a comprehensive range of specialized medical services tailored to meet the unique healthcare needs of seniors.</p>
+<p>Introducing India's 1st ever multi-specialty hospital designed exclusively for senior citizens, offering<br> a comprehensive range of specialized medical services tailored to meet their unique healthcare needs.</p>
 </div> 
 
 </div>
@@ -649,7 +649,7 @@
 Nov 04 2019
 </div>
 <div class="minrester">
-<h4>India’s Leading Geriatricians now in your parent’s Living Room!</h4>
+<h4>India’s Leading Geriatricians now in your Parent’s Living Room!</h4>
 <p>According to Indian Ageing Report 2017, 12 crore adults – almost the population of Japan....</p>
 <a href="https://www.gericare.in/blog/general/indias-leading-geriatricians-now-in-your-parents-living-room/" target="_blank">Read More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
 </div>
@@ -673,7 +673,7 @@ Nov 04 2019
 Nov 04 2019
 </div>
 <div class="minrester">
-<h4>Some Myths of Aging</h4>
+<h4>Some Myths about Aging</h4>
 <p>Dr.K.Vasanth MD (Geriatrics) about some false assumptions of ageing. 1. All elderly people ...</p>
 <a href="https://www.gericare.in/blog/gericare/some-myths-of-aging/" target="_blank">Read More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
 </div>
@@ -685,7 +685,7 @@ Nov 04 2019
 Nov 04 2019
 </div>
 <div class="minrester">
-<h4>Feel at Home with India’s First Homecare run by Specialist Geriatricians</h4>
+<h4>Feel at Home with India’s 1st Homecare run by Specialist Geriatricians</h4>
 <p>We know what it feels like to leave aging parents home alone during an important official visit. We....</p>
 <a href="https://www.gericare.in/blog/general/feel-at-home-with-indias-first-homecare-run-by-specialist-geriatricians/" target="_blank">Read More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
 </div>

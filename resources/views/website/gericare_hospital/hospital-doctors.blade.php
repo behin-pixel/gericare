@@ -181,7 +181,7 @@ Uro Gynaecology
     <img src="{{ asset('/public/website/assets/images/doctor-img-2.jpg') }}" alt="Dr N. Lakshmipathy Ramesh - Senior Consultant Geriatrician" class="">
     </div>
     <div class="dctrm-deitals">
-    <h3> Dr N. Lakshmipathy Ramesh  </h3>
+    <h3> Dr. N. Lakshmipathy Ramesh  </h3>
     <h4> Senior Consultant Geriatrician </h4>
     <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> MBBS, M.D (Geriatrics), PGD (Diabetes) </h5>
     <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class=""> T.Nagar, Adambakkam, Adyar  </h5>
@@ -275,7 +275,7 @@ Uro Gynaecology
      <img src="{{ asset('/public/website/assets/images/no-img-m.jpg') }}" alt="" class="">
      </div>
      <div class="dctrm-deitals">
-     <h3> Dr S Manicka Saravanan  </h3>
+     <h3> Dr. S. Manicka Saravanan  </h3>
      <h4> Consultant Geriatrician  </h4>
      <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class="">  MBBS, MD (Geriatrics)  </h5>
      <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class="">  Adambakkam</h5>

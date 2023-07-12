@@ -41,14 +41,13 @@ under the expert care of Geriatricans</span>
 <div class="common-heading text-center">
 
 <h2>India’s 1<sup>st</sup> 24/7 Assisted Living & Skilled Nursing <br>
-under the expert care of Geriatricans. </h2>
+under the expert care of Geriatricans</h2>
 
 <!-- <h2>State-of-the-art residential arrangements <br>
 to assist those in need. </h2> -->
 </div>
 <div class="seconday-paragraph text-center">
-In an innovative endeavor, Geri Care offers 24/7 Assisted Living and Skilled Nursing Facility in Chennai, specifically designed to cater to the specific needs of older adults who require medical attention and support in their day-to-day lives. Our state-of-the-art facility houses a comprehensive range of services and amenities that provide residents in Chennai, ensuring utmost comfort, safety, and a homely atmosphere. Our professional experts, and our dedicated team provides constant availability of care, alleviating concerns and offering peace of mind to both residents and their families. <br> <br> 
-Choose Geri Care for trusted Assisted Living and Skilled Nursing Facility in Chennai, where personalized care and well-being are our top priorities.<br>
+In an innovative endeavor, Geri Care offers 24/7 Assisted Living and Skilled Nursing Facility in Chennai, specifically designed to cater to the specific needs of older adults who require medical attention and support in their day-to-day lives. Our state-of-the-art facility houses a comprehensive range of services and amenities that care, treat and provide for residents in Chennai, ensuring utmost comfort, safety, and a homely atmosphere. Our professional experts, along with a dedicated team, provide constant care, alleviating concerns and offering peace of mind to both residents and their families. Choose Geri Care for trusted Assisted Living and Skilled Nursing facilities in Chennai, where personalized care and well-being are top priorities.<br>
 </div>
 </div>
 
@@ -61,7 +60,7 @@ Choose Geri Care for trusted Assisted Living and Skilled Nursing Facility in Che
 <div class="servce">
 <img src="{{ asset('/public/website/assets/images/icon-1.png') }}" alt="" class="" />
 <h4> Meet our Experts  </h4>
-<p> Interact with our Assisted Living <br>team of experts. </p>
+<p> Interact with our Assisted Living <br>team of experts </p>
 <a href="{{ url('our-doctors') }}"> View All Doctors <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
 </div>
 
@@ -349,7 +348,7 @@ Choose Geri Care for trusted Assisted Living and Skilled Nursing Facility in Che
 <div class="geric-img">
   <img src="{{ asset('/public/website/assets/images/fac-9.png') }}" alt="" class=""> 
   </div>
-  <span> Three Levels of nursing care  </span>    
+  <span> Three levels of nursing care  </span>    
 </li>
 
 <li>
@@ -370,7 +369,7 @@ Choose Geri Care for trusted Assisted Living and Skilled Nursing Facility in Che
 <div class="geric-img">
 <img src="{{ asset('/public/website/assets/images/fac-12.png') }}" alt="" class=""> 
 </div>
-<span> Initial comprehensive geriatric assessment (CGA) </span>    
+<span> Initial Comprehensive Geriatric Assessment (CGA) </span>    
 </li>
 
 <li>
@@ -546,8 +545,9 @@ Choose Geri Care for trusted Assisted Living and Skilled Nursing Facility in Che
 
 <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
 <div class="pseofmnd">
-We do whatever it takes <br>to make you feel at home.<br>
-<span>To experience our Assisted Living facility, call us today!</span>
+To experience a quantum of care <br>
+that makes you feel at home...<br>
+<span>Call us today!</span>
 </div>
 </div>
 

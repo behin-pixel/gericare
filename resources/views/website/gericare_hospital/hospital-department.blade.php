@@ -37,7 +37,7 @@
 <div class="row">
 <div class="col-lg-7">
 <div class="common-heading">
-<h2 class="mb-4">Dedicated centers of excellence, with specialists in every function </h2>
+<h2 class="mb-4">Dedicated Centers of Excellence, with Specialists in every function </h2>
 </div>
 
 <div class="row dctr-detilsbox   mt-4">

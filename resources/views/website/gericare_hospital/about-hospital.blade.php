@@ -86,17 +86,17 @@ Geri Care, India's 1<sup>st</sup> multi-speciality hospital, is the visionary br
 
 <div class="age-layer">
 <h4>Continuity of Care</h4>
-<p>From acute hospital care to our day hospital and outpatient clinics, along with personalized rehabilitation and assisted living options, we ensure the highest level of medical support and comfort.</p>
+<p>From clinical interventions to comprehensive hospital treatments, and post hospitalization home care services along with assisted living options, we ensure continuous medical support and comfort 24/7.</p>
 </div>
 
 <div class="age-layer">
 <h4>Multi-disciplinary Approach</h4>
-<p>We bring cutting-edge research and innovative approaches to the forefront of excellence in geriatric care.</p>
+<p>We bring cutting-edge research and innovative approaches that reflect geriatric excellence and help transform the lives of the elderly, their loved ones and family members.</p>
 </div>
 
 <div class="age-layer">
-<h4>Unique Health Culture</h4>
-<p>We prioritize tailored treatment plans and comprehensive care to ensure a remarkable hospital experience.</p>
+<h4>Unique Healthcare Culture</h4>
+<p>We pride over a culture that prioritizes tailored treatment plans & comprehensive care to ensure remarkable treatments along with a positive healthcare experience that helps the elderly recover and heal at ease.</p>
 </div>
 
 
@@ -173,12 +173,12 @@ Geri Care, India's 1<sup>st</sup> multi-speciality hospital, is the visionary br
 <div class="col-lg-5">
 
 <div class="common-heading text-start">
-<h2>World Class facilities<br>
-chosen for you</h2>
+<h2>World-class Facilities<br>
+Chosen for You</h2>
 </div>
 
 <div class="common-para text-start">
-<p class="mb-0">At Geri Care, we have invested in state-of-the-art<br> facilities and world class amenities to<br> ensure quality, accurate and reliable<br> services to the elders, who require a positive<br> mindset and emotional support.</p>
+<p class="mb-0">At Geri Care, we have invested in state-of-the-art<br> facilities and world-class amenities to<br> ensure quality, accurate and reliable<br> services to the elders, who require a positive<br> mindset and emotional support.</p>
 </div>
 
 </div>
@@ -550,7 +550,7 @@ chosen for you</h2>
 <div class="col-lg-12">
 
 <div class="common-heading text-center">
-<h2>Our Panel of Expert Doctors</h2>
+<h2>Our Panel of Geriatric Experts</h2>
 </div>
 
 <div class="panell-drts">
@@ -649,7 +649,7 @@ chosen for you</h2>
 <img src="{{ asset('/public/website/assets/images/location-gericare-1.jpg') }}" alt="" class="w-100" />
 <div class="servrse-contest">
 <h4> Geri Care Hospital - T. Nagar </h4>
- <p>No.8, Dr. Nair Road, Behind Vani mahal,<br>
+ <p>No.8, Dr. Nair Road, Behind Vani Mahal,<br>
 T. Nagar, Chennai 600017</p>
 <a href="https://goo.gl/maps/u6K6owxWtpxry8EV8" target="_blank"> View on map <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
 </div>
@@ -690,9 +690,9 @@ Chennai, Tamil Nadu 600088</p>
 
 <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
 <div class="pseofmnd">
-We Do Whatever It Takes To<br> 
-Bring You Peace of Mind<br>
-<span>To experience it, call us today.</span>
+To experience a level of care that<br> 
+brings you peace of mind...<br>
+<span>Call us today.</span>
 </div>
 </div>
 

@@ -123,13 +123,12 @@ within 24 hours.</span>
 								<div class="col-sm-12 col-md-6 col-lg-6">
 									<label class="text-light">Appointment For </label>
 									<select class="form-control jsrequired" id="services" name="services" required>
-                    <option value="">Select your Service</option>
-                    <option value="Geri Care Hospital">Geri Care Hospital</option>
-										<option value="Geri Care Assisted Living">Geri Care Assisted Living</option>
-										<option value="Geri Care Clinics">Geri Care Clinics</option>	
-										<option value="Geri Care Home Care">Geri Care Home Care</option>	
-										 
-										</select>
+                    				<option value="">Select your Service</option>
+                    				<option value="Geri Care Hospital">Geri Care Hospital</option>
+									<option value="Geri Care Assisted Living">Geri Care Assisted Living</option>
+									<option value="Geri Care Clinics">Geri Care Clinics</option>	
+									<option value="Geri Care Home Care">Geri Care Home Care</option>	
+									</select>
 								</div> 
 								<div class="col-sm-12 col-md-6 col-lg-6">
 									<label class="text-light">Name<span class="text-danger">*</span></label>
@@ -145,8 +144,44 @@ within 24 hours.</span>
 									</div>
 								</div>
 								<div class="col-sm-12 col-md-6 col-lg-6">
-									<label class="text-light">Appointment Time (HH:MM:DAY)</label>	
-									<input type="time" class="form-control" placeholder="HH/MM" name="appointment_time" required id=""/>
+								<div class="row">
+								<div class="col-sm-12 col-md-6 col-lg-4">
+								<label class="text-light">Hour</label>	
+								<select class="form-control jsrequired" id="services" name="services" required>
+                    				<option value="">Select</option>
+                    				<option value="1">1</option> 
+                    				<option value="2">2</option> 
+                    				<option value="3">3</option> 
+                    				<option value="4">4</option> 
+                    				<option value="5">5</option> 
+                    				<option value="6">6</option> 
+                    				<option value="7">7</option> 
+                    				<option value="8">8</option> 
+                    				<option value="9">9</option> 
+                    				<option value="10">10</option> 
+                    				<option value="11">11</option> 
+                    				<option value="12">12</option> 
+									</select>
+								</div>
+								<div class="col-sm-12 col-md-6 col-lg-4">
+								<label class="text-light">Minute</label>	
+								<select class="form-control jsrequired" id="services" name="services" required>
+                    				<option value="">Select</option>
+                    				<option value="00">00</option> 
+                    				<option value="15">15</option> 
+                    				<option value="30">30</option> 
+                    				<option value="45">45</option> 
+									</select>
+								</div>
+								<div class="col-sm-12 col-md-6 col-lg-4">
+								<label class="text-light">Day</label>	
+								<select class="form-control jsrequired" id="services" name="services" required>
+                    				<option value="">Select</option>
+                    				<option value="am">AM</option> 
+                    				<option value="pm">PM</option> 
+									</select>
+								</div>
+								</div>
 								</div>
 								<div class="col-sm-12 col-md-6 col-lg-6">
 									<label class="text-light">Email </label>
