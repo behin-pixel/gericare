@@ -3,7 +3,8 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
-    <meta name="viewport" content="width=device-width, initial-scale=1,  maximum-scale=1, user-scalable=0"  > 
+    <meta name="viewport" content="width=device-width, initial-scale=1,  maximum-scale=1, user-scalable=0"  >
+    <meta name="robots" content="noodp"> 
 
     <title>{{$title ?? 'Geriatric Care In Chennai | Elder Care In Chennai - Geri Care' }}</title> 
     <meta name = "description" content = "{{$decription ?? 'Looking for passionate Geriatric Care in Chennai? Geri Care offers quality Elder Care Services tailored for Senior Citizens. Book an appointment Today!' }}" /> 
