@@ -39,13 +39,13 @@ Geriatricians </span>
 <h2>Comprehensive Geriatric Care <br>at Home for your Loved Ones</h2>
 </div>
 <div class="seconday-paragraph text-center">
-At Geri Care, we conduct comprehensive evaluation at the patient's home to assess their overall health and well-being. <br>This evaluation includes assessing the patient's medical history, conducting physical examinations, evaluating their living conditions, functional status, and social support.<br> 
+At Geri Care, we visit the patient's home, and conduct comprehensive evaluation to assess their overall health and well-being. <br>This includes assessing the patient's medical history, conducting physical examinations, evaluating their living conditions, functional status, and social support.<br> 
 
-<br>Our care plans involve collaboration with a multidisciplinary team consisting of doctors, nurses, physiotherapists, <br>and caregivers to execute the plan and improve the quality of life for the elderly patient.<br>
+<br>Our care plans involve collaboration with a multi-disciplinary team consisting of doctors, nurses, physiotherapists, <br>and caregivers to execute the plan and improve the quality of life for the elderly patient.<br>
  
 <br>Additionally, the team can provide counseling to the family if they are uncertain about hospitalizing their loved ones.<br>
 
-Our experienced caregivers have been delivering affordable and reliable care in the comfort of patients’ homes since 2018.
+Our experienced caregivers have been delivering affordable and reliable care in the comfort of the patients’ homes, since 2018.
 </div>
 </div>
 
@@ -58,7 +58,7 @@ Our experienced caregivers have been delivering affordable and reliable care in 
 <div class="servce">
 <img src="{{ asset('/public/website/assets/images/icon-1.png') }}" alt="" class="" />
 <h4> Meet Our Experts </h4>
-<p> Select a doctor and schedule <br>an appointment. </p>
+<p> Select a doctor and schedule <br>an appointment</p>
 <a href="{{ url('our-doctors') }}"> View All Doctors <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
 </div>
 
@@ -72,7 +72,7 @@ Our experienced caregivers have been delivering affordable and reliable care in 
 <div class="servce">
 <img src="{{ asset('/public/website/assets/images/icon-3.png') }}" alt="" class="" />
 <h4> Book a Visit </h4>
-<p> Book your appointment with us for a smooth and hassle free experience </p>
+<p> Book your appointment with us for a smooth and hassle-free experience </p>
 <a href="{{ url('book-an-appointment') }}"> Book Your Appointment <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
 </div>
 
@@ -256,9 +256,9 @@ Our experienced caregivers have been delivering affordable and reliable care in 
 
 <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
 <div class="pseofmnd">
-We do whatever it takes <br> 
-to bring you peace of mind.<br>
-<span>To enjoy your freedom, call us today.</span>
+To experience a method of care<br> 
+that gives you a sense of freedom...<br>
+<span>Call us today.</span>
 </div>
 </div>
 

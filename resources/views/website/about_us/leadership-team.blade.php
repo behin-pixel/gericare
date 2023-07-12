@@ -40,8 +40,8 @@
 <img src="{{ asset('/public/website/assets/images/dr-1.jpg') }}" alt="" class="w-100" />
 </div>
 <div class="tem-drcnt">
-<h4>Dr V. Srinivas</h4>
-<h5>MD, MRCP (UK), DIP.Geriatric Medicine (UK)</h5>
+<h4>Dr. V. Srinivas</h4>
+<h5>MD, MRCP (UK), DIP. Geriatric Medicine (UK)</h5>
 <span>Founder & Director </span>
 <div class="common-button drk mt-3">
 <a class="p-2" href="{{ url('about-gericare/team-dr-srinivas') }}">Read More</a>
@@ -56,8 +56,8 @@
 <img src="{{ asset('/public/website/assets/images/dr-2.jpg') }}" alt="" class="w-100" />
 </div>
 <div class="tem-drcnt">
-<h4>Dr N. Lakshmipathy Ramesh</h4>
-<h5>M.D (Geriatrics) </h5>
+<h4>Dr. N. Lakshmipathy Ramesh</h4>
+<h5>MD (Geriatrics) </h5>
 <span>Founder & Director </span>
 <div class="common-button drk mt-3">
 <a class="p-2" href="{{ url('about-gericare/team-dr-lakshmipathy') }}">Read More</a> 

@@ -41,7 +41,7 @@ in the later years. </h2>
 
 <div class="seconday-paragraph text-center">
 At Geri Care clinics, our approach to treatment is guided by senior Geriatricians who take a multidisciplinary approach. Our staff is specifically trained in medical, psychosocial, and preventive care that is tailored to the unique needs of older adults. <br><br>
-By taking a holistic approach, we aim to improve the quality of life and overall wellness of not just our patients but also their families and caregivers. <br><br>
+By taking an integrated approach, we aim to improve the quality of life and overall wellness of not just our patients but also their family members and caregivers. <br><br>
 
 In addition to general medical care, we conduct comprehensive assessments and treatments for conditions that primarily affect older adults - such as memory loss, falls, urinary problems, vision and hearing loss, advance care planning, caregiver support, and medication safety. 
 </div>
@@ -70,7 +70,7 @@ In addition to general medical care, we conduct comprehensive assessments and tr
 <div class="servce">
 <img src="{{ asset('/public/website/assets/images/icon-3.png') }}" alt="" class="" />
 <h4> Book an Appointment </h4>
-<p> Schedule a meeting with our family of caregivers. </p>
+<p> Schedule a meeting with our family of caregivers </p>
 <a href="{{ url('book-an-appointment') }}"> Book Your Appointment <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
 </div>
 
@@ -124,10 +124,10 @@ In addition to general medical care, we conduct comprehensive assessments and tr
 
 <div class="cliinc-detlis">
 <img src="{{ asset('/public/website/assets/images/Preventive-Geriatric-health-check.jpg') }}" alt="Preventive Geriatric health check" class="w-100" />
-<h4>Preventive Geriatric health check</h4>
+<h4>Preventive Health Checks clinic</h4>
 <div class="clnc-dtt">
-<h5>Preventive Geriatric health check</h5>
-<p>Designed to address the unique health needs of elderly individuals, our Geriatric Preventive Health Checks offer a thorough evaluation of physical, cognitive, and emotional health, empowering older adults to proactively manage their well-being and enjoy a higher quality of life.</p>
+<h5>Preventive Health Checks clinic</h5>
+<p>Designed to address the unique health needs of elderly individuals, our Geriatric Preventive Health Checks clinic offers a thorough evaluation of physical, cognitive, and emotional health, empowering older adults to proactively manage their well-being and enjoy an improved quality of life.</p>
 </div>
 </div>
 
@@ -169,9 +169,9 @@ In addition to general medical care, we conduct comprehensive assessments and tr
 
 <div class="cliinc-detlis">
 <img src="{{ asset('/public/website/assets/images/Sleep-disorder-Clinic.jpg') }}" alt="Sleep disorder Clinic" class="w-100" />
-<h4>Sleep disorder Clinic</h4>
+<h4>Sleep disorder clinic</h4>
 <div class="clnc-dtt">
-<h5>Sleep disorder Clinic</h5>
+<h5>Sleep disorder clinic</h5>
 <p>At our Sleep Disorder Clinic, we provide comprehensive care and innovative therapies to address sleep disorders, aiming to improve sleep patterns, enhance daytime functioning, and promote optimal sleep hygiene</p>
 </div>
 </div>
@@ -238,9 +238,9 @@ In addition to general medical care, we conduct comprehensive assessments and tr
 
 <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
 <div class="pseofmnd">
-We are here to improve the <br> 
-quality of your life.<br>
-<span>To experience our care, call us today!</span>
+To experience a kind of care that<br> 
+improves the quality of your life...<br>
+<span>Call us today!</span>
 </div>
 </div>
 

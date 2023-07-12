@@ -40,8 +40,8 @@ in the Country.</span>
 <h2>Transforming Lives through<br> Personalized Care</h2>
 </div>
 <div class="common-para">
-<p>Gaeri Care, a name that resonates with extensive medical, nursing and physiotherapy treatments has been operating in the realm of specialized geriatric care services for more than three decades. </p>
-<p>From personalised home care to clinical interventions, and hospital services to assisted living during and after recovery, Geri Care is a continuum of 360 care that reflects utmost respect for the trade and compassion for fellow human beings.</p>
+<p>Geri Care, a name that resonates with extensive medical, nursing and physiotherapy treatments has been operating in the realm of specialized geriatric care services for more than three decades. </p>
+<p>From personalised home care to clinical interventions, and hospital services to assisted living during and after recovery, Geri Care is a continuum of 360 care that reflects utmost respect for the trade and compassion for human beings.</p>
 </div>
 </div>
 </div>
@@ -120,19 +120,19 @@ in the Country.</span>
 <div class="cario-seters">
 <span><img src="{{ asset('/public/website/assets/images/cardio-2.png') }}" alt="" class="" /></span>
 <h4>Multi-disciplinary Approach</h4>
-<p>We bring cutting-edge research and innovative approaches to the forefront of excellence in geriatric care.</p>
+<p>We bring cutting-edge research and innovative approaches that reflect geriatric excellence.</p>
 </div>
 
 <div class="cario-seters">
 <span><img src="{{ asset('/public/website/assets/images/cardio-3.png') }}" alt="" class="" /></span>
 <h4>Unique Health Culture</h4>
-<p>We prioritize tailored treatment plans and comprehensive care to ensure a remarkable hospital experience.</p>
+<p>We prioritize tailored treatment plans & comprehensive care to ensure remarkable recoveries.</p>
 </div>
 
 <div class="cario-seters">
 <span><img src="{{ asset('/public/website/assets/images/cardio-4.png') }}" alt="" class="" /></span>
 <h4>Continuity of Care</h4>
-<p>From acute hospital care to our day hospital and outpatient clinics, along with personalized rehabilitation and assisted living options, we ensure the highest level of medical support and comfort.</p>
+<p>We ensure the highest level of medical support through our range of facilities encompassing hospitals, clinics, assisted living facilities and home care services.</p>
 </div> 
 
 </div>
@@ -147,9 +147,9 @@ in the Country.</span>
 
 <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
 <div class="pseofmnd">
-We do whatever it takes <br> 
-to enhance the quality of your life.<br>
-<span>To experience well-being, call us today.</span>
+To experience a degree of care<br> 
+that lasts a lifetime...<br>
+<span>Call us today!</span>
 </div>
 </div>
 

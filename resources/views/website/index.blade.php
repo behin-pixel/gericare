@@ -363,7 +363,7 @@
 <h2>One-of-a-kind Geriatric Care</h2>
 </div>
 <div class="common-para">
-<p>Introducing India's 1st ever multi-specialty hospital designed exclusively for senior citizens, offering<br> a comprehensive range of specialized medical services tailored to meet their unique healthcare needs.</p>
+<p>Introducing India's 1<sup>st</sup> ever multi-specialty hospital designed exclusively for senior citizens, offering<br> a comprehensive range of specialized medical services tailored to meet their unique healthcare needs.</p>
 </div> 
 
 </div>

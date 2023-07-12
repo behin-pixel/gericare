@@ -84,8 +84,8 @@
     <div id="collapse4" class="accordion-collapse collapse" aria-labelledby="heading4" data-bs-parent="#accordionExample">
       <div class="accordion-body">
       <ul>
-        <li><img src="{{ asset('/public/website/assets/images/hme-icn.png') }}" alt="Geri care Hospitals" class="img-fluid"> Physiotherapists know the pain points and can able to identify the musculoskeletal, neurological, and cardiovascular problems of the elders.</li>
-        <li><img src="{{ asset('/public/website/assets/images/hme-icn.png') }}" alt="Geri care Hospitals" class="img-fluid"> Every different body condition requires different types of curing and caring.</li>
+        <li><img src="{{ asset('/public/website/assets/images/hme-icn.png') }}" alt="Geri care Hospitals" class="img-fluid"> Physiotherapists know the pain points and are able to identify the musculoskeletal, neurological, and cardiovascular problems of the elderly.</li>
+        <li><img src="{{ asset('/public/website/assets/images/hme-icn.png') }}" alt="Geri care Hospitals" class="img-fluid"> Different body conditions requires different types of cure and care.</li>
         <li><img src="{{ asset('/public/website/assets/images/hme-icn.png') }}" alt="Geri care Hospitals" class="img-fluid"> Our Physiotherapists identify the strength, balance, coordination, flexibility <br>and pain levels of the patients.</li>
       </ul>  
       </div>
@@ -101,7 +101,7 @@
       <div class="accordion-body">
       <ul>
       <li><img src="{{ asset('/public/website/assets/images/hme-icn.png') }}" alt="Geri care Hospitals" class="img-fluid"> An ambulance not only helps elders during an emergency, but it is also used when the elders want to travel.</li>
-      <li><img src="{{ asset('/public/website/assets/images/hme-icn.png') }}" alt="Geri care Hospitals" class="img-fluid"> An ambulance consists of first-aid and life support tools to help elders have a safe journey.</li>
+      <li><img src="{{ asset('/public/website/assets/images/hme-icn.png') }}" alt="Geri care Hospitals" class="img-fluid"> An ambulance consists of first-aid and life support tools to help elders have a safe journey in times of medical need.</li>
       </ul> 
       </div>
     </div>
