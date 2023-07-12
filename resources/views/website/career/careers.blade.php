@@ -18,7 +18,7 @@
 <ul>
 <li><a href="./">Home</a></li>   
 <li> > </li>  
-<li>Career</li>   
+<li>Careers</li>   
 </ul>
 </div>
 </div>

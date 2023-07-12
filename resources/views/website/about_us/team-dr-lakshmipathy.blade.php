@@ -18,7 +18,7 @@
 <li> > </li>
 <li><a href="{{ url('leadership') }}"> Leadership Team</a></li>
 <li> > </li>
-<li class="active"> Dr N Lakshmipathy Ramesh </li>
+<li class="active"> Dr. N. Lakshmipathy Ramesh </li>
 </ul>
 </div>
 

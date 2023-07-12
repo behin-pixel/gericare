@@ -558,7 +558,7 @@ Chosen for You</h2>
 <div class="dr-panel">
 <img src="{{ asset('/public/website/assets/images/dr-n-lakshmipathy-ramesh.webp') }}" alt="Dr N. Lakshmipathy Ramesh - Senior Consultant Geriatrician" class="">
 <div class="de-detl">
-<h4>Dr N. Lakshmipathy Ramesh</h4>
+<h4>Dr. N. Lakshmipathy Ramesh</h4>
 <span>Senior Consultant Geriatrician</span>
 </div> 
 <div class="de-detl-btn">

@@ -2713,6 +2713,7 @@ ul.press-roomr li span.bts-non {
 
 .dctrm-deitals {
     padding-left: 250px;
+    min-height: 200px;
 }
 
 .dctrm-deitals h3 {
