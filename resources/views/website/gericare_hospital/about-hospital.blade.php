@@ -556,7 +556,7 @@ Chosen for You</h2>
 <div class="panell-drts">
 
 <div class="dr-panel">
-<img src="{{ asset('/public/website/assets/images/doctor-img-2.jpg') }}" alt="Dr N. Lakshmipathy Ramesh - Senior Consultant Geriatrician" class="">
+<img src="{{ asset('/public/website/assets/images/dr-n-lakshmipathy-ramesh.webp') }}" alt="Dr N. Lakshmipathy Ramesh - Senior Consultant Geriatrician" class="">
 <div class="de-detl">
 <h4>Dr N. Lakshmipathy Ramesh</h4>
 <span>Senior Consultant Geriatrician</span>
@@ -593,7 +593,7 @@ Chosen for You</h2>
 </div>
 
 <div class="dr-panel">
-<img src="{{ asset('/public/website/assets/images/doctor-img-3.jpg') }}" alt="Dr. Ashwin Subramaniam, Senior Consultant- Internal Medicine & Diabetologist" class="">
+<img src="{{ asset('/public/website/assets/images/dr-ashwin-subramaniam.webp') }}" alt="Dr. Ashwin Subramaniam, Senior Consultant- Internal Medicine & Diabetologist" class="">
 <div class="de-detl">
 <h4>Dr. Ashwin</h4>
 <span> Physician & Diabetologist </span>
@@ -605,7 +605,7 @@ Chosen for You</h2>
 </div>
 
 <div class="dr-panel">
-<img src="{{ asset('/public/website/assets/images/doctor-img-4.jpg') }}" alt="Dr. K. Vasanth - Consultant Geriatrician" class="">
+<img src="{{ asset('/public/website/assets/images/dr-k-vasanth.webp') }}" alt="Dr. K. Vasanth - Consultant Geriatrician" class="">
 <div class="de-detl">
 <h4>Dr. Vasanth</h4>
 <span>Consultant Geriatrician</span>

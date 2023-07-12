@@ -7,7 +7,7 @@
 <div class="container">
 <div class="row">
 @php 
-    $name='Dr N Lakshmipathy Ramesh';
+    $name='Dr. N. Lakshmipathy Ramesh';
     @endphp 
 <div class="col-lg-12">
 <h1>Leadership</h1>
@@ -37,13 +37,13 @@
 
 <div class="row dctr-detilsbox">
 
-<div class="col-lg-4">
+<div class="col-lg-5">
 <div class="doc-tor-img">
 <img src="{{ asset('/public/website/assets/images/dr-2.jpg') }}" alt="" class="w-100">
 </div>
 </div>
 
-<div class="col-lg-8">
+<div class="col-lg-7">
 <div class="doc-tor-cnt">
 <h3>Dr. N. Lakshmipathy Ramesh <span>Founder - Managing Director </span></h3>
 <!-- <h4><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> Experience <span> 30+ Years</span></h4> -->

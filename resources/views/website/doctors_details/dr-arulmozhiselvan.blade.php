@@ -20,7 +20,7 @@
 </ul>
 </div>
 @php 
-$name='Dr Arulmozhiselvan';
+$name='Dr. V. Arulmozhiselvan';
 @endphp 
 </div>
 </div>
@@ -37,13 +37,13 @@ $name='Dr Arulmozhiselvan';
 
 <div class="row dctr-detilsbox">
 
-<div class="col-lg-4">
+<div class="col-lg-5">
 <div class="doc-tor-img">
-<img src="{{ asset('/public/website/assets/images/no-img-m.jpg') }}" alt="" class="w-100">
+<img src="{{ asset('/public/website/assets/images/dr-v-arulmozhiselvan.webp') }}" alt="" class="w-100">
 </div>
 </div>
 
-<div class="col-lg-8">
+<div class="col-lg-7">
 <div class="doc-tor-cnt">
 <h3>Dr. V. Arulmozhiselvan <span>Consultant Geriatrician</span></h3>
 <h4><img src="{{ asset('/public/website/assets/images/expe.png') }}" alt="" class=""> Experience <span> 8+ Years</span></h4>

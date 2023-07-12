@@ -24,7 +24,7 @@
 </div>
 </section>
 @php 
-$name='Dr Balamurugan B';
+$name='Dr. B. Balamurugan';
 @endphp 
 <section class="doctor-details-contest">
 <div class="container">
@@ -37,13 +37,13 @@ $name='Dr Balamurugan B';
 
 <div class="row dctr-detilsbox">
 
-<div class="col-lg-4">
+<div class="col-lg-5">
 <div class="doc-tor-img">
 <img src="{{ asset('/public/website/assets/images/balamurugan-b.jpg') }}" alt="" class="w-100">
 </div>
 </div>
 
-<div class="col-lg-8">
+<div class="col-lg-7">
 <div class="doc-tor-cnt">
 <h3>Dr. B. Balamurugan<span>Senior Consultant Nephrologist</span></h3>
 <h4><img src="{{ asset('/public/website/assets/images/expe.png') }}" alt="" class=""> Experience <span> 24+ Years</span></h4>

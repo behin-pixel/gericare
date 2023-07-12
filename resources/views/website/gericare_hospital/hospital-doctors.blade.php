@@ -21,7 +21,7 @@ for  Senior Citizens</span>
 <li>></li>  
 <li><a href="{{ url('gericare-hospital') }}">Geri Care Hospitals</a></li>   
 <li>></li>     
-<li class="active"> Our Doctor's </li>    
+<li class="active"> Our Doctors </li>    
 </ul>
 </div>
 </div>
@@ -178,7 +178,7 @@ Uro Gynaecology
 
     <div class="dctrs-detls">
     <div class="dctrm-img">
-    <img src="{{ asset('/public/website/assets/images/doctor-img-2.jpg') }}" alt="Dr N. Lakshmipathy Ramesh - Senior Consultant Geriatrician" class="">
+    <img src="{{ asset('/public/website/assets/images/dr-n-lakshmipathy-ramesh.webp') }}" alt="Dr N. Lakshmipathy Ramesh - Senior Consultant Geriatrician" class="">
     </div>
     <div class="dctrm-deitals">
     <h3> Dr. N. Lakshmipathy Ramesh  </h3>
@@ -210,7 +210,7 @@ Uro Gynaecology
       
     <div class="dctrs-detls">
      <div class="dctrm-img">
-     <img src="{{ asset('/public/website/assets/images/dcv.jpg') }}" alt="Dr. Magesh R - Consultant Geriatrician" class="w-100">
+     <img src="{{ asset('/public/website/assets/images/dr-mageshr.webp') }}" alt="Dr. Magesh R - Consultant Geriatrician" class="w-100">
      </div>
      <div class="dctrm-deitals">
      <h3> Dr. Magesh R </h3>
@@ -225,7 +225,7 @@ Uro Gynaecology
 
      <div class="dctrs-detls">
      <div class="dctrm-img">
-     <img src="{{ asset('/public/website/assets/images/doctor-img-3.jpg') }}" alt="Dr. Ashwin Subramaniam, Senior Consultant- Internal Medicine & Diabetologist" class="">
+     <img src="{{ asset('/public/website/assets/images/dr-ashwin-subramaniam.webp') }}" alt="Dr. Ashwin Subramaniam, Senior Consultant- Internal Medicine & Diabetologist" class="">
      </div>
      <div class="dctrm-deitals">
      <h3> Dr. Ashwin Subramaniam </h3>
@@ -241,7 +241,7 @@ Uro Gynaecology
 
     <div class="dctrs-detls">
      <div class="dctrm-img">
-     <img src="{{ asset('/public/website/assets/images/doctor-img-4.jpg') }}" alt="Dr. K. Vasanth - Consultant Geriatrician" class="">
+     <img src="{{ asset('/public/website/assets/images/dr-k-vasanth.webp') }}" alt="Dr. K. Vasanth - Consultant Geriatrician" class="">
      </div>
      <div class="dctrm-deitals">
      <h3> Dr. K. Vasanth </h3>
@@ -257,7 +257,7 @@ Uro Gynaecology
 
     <div class="dctrs-detls">
      <div class="dctrm-img">
-     <img src="{{ asset('/public/website/assets/images/doctor-img-5.jpg') }}" alt="Dr. K. Anupuma - Consultant Geriatrician" class="">
+     <img src="{{ asset('/public/website/assets/images/dr-k-anupuma.webp') }}" alt="Dr. K. Anupuma - Consultant Geriatrician" class="">
      </div>
      <div class="dctrm-deitals">
      <h3> Dr. K. Anupuma </h3>
@@ -272,7 +272,7 @@ Uro Gynaecology
 
      <div class="dctrs-detls">
      <div class="dctrm-img">
-     <img src="{{ asset('/public/website/assets/images/no-img-m.jpg') }}" alt="" class="">
+     <img src="{{ asset('/public/website/assets/images/Dr-s-manicka-saravanan.webp') }}" alt="" class="">
      </div>
      <div class="dctrm-deitals">
      <h3> Dr. S. Manicka Saravanan  </h3>
@@ -288,7 +288,7 @@ Uro Gynaecology
 
      <div class="dctrs-detls">
      <div class="dctrm-img">
-     <img src="{{ asset('/public/website/assets/images/no-img-m.jpg') }}" alt="" class="">
+     <img src="{{ asset('/public/website/assets/images/dr-v-arulmozhiselvan.webp') }}" alt="" class="">
      </div>
      <div class="dctrm-deitals">
      <h3> Dr. V. Arulmozhiselvan  </h3>
@@ -350,7 +350,7 @@ Uro Gynaecology
 
     <div class="dctrs-detls">
     <div class="dctrm-img">
-    <img src="{{ asset('/public/website/assets/images/doctor-img-8.jpg') }}" alt="" class="">
+    <img src="{{ asset('/public/website/assets/images/dr.rejivrajendranath.webp') }}" alt="" class="">
     </div>
     <div class="dctrm-deitals">
     <h3> Dr. Rejiv Rajendranath  </h3>
@@ -364,7 +364,7 @@ Uro Gynaecology
      
     <div class="dctrs-detls">
     <div class="dctrm-img">
-    <img src="{{ asset('/public/website/assets/images/doctor-img-9.jpg') }}" alt="" class="">
+    <img src="{{ asset('/public/website/assets/images/dr.kathiresan.webp') }}" alt="" class="">
     </div>
     <div class="dctrm-deitals">
     <h3> Dr. Kathiresan </h3>
@@ -459,7 +459,7 @@ Uro Gynaecology
         </div>
         <div class="dctrs-detls">
         <div class="dctrm-img">
-        <img src="{{ asset('/public/website/assets/images/doctor-img-14.jpg') }}" alt="" class="">
+        <img src="{{ asset('/public/website/assets/images/dr.thiruvengitaprasad.webp') }}" alt="" class="">
         </div>
         <div class="dctrm-deitals">
         <h3> Dr. Thiruvengita Prasad </h3>
@@ -479,7 +479,7 @@ Uro Gynaecology
 
         <div class="dctrs-detls">
         <div class="dctrm-img">
-        <img src="{{ asset('/public/website/assets/images/doctor-img-28.jpg') }}" alt="" class="">
+        <img src="{{ asset('/public/website/assets/images/dr-srinivas-rajkumar-t.webp') }}" alt="" class="">
         </div>
         <div class="dctrm-deitals">
         <h3> Dr Srinivas Rajkumar T </h3>
@@ -509,7 +509,7 @@ Uro Gynaecology
 
         <div class="dctrs-detls">
         <div class="dctrm-img">
-        <img src="{{ asset('/public/website/assets/images/doctor-img-30.jpg') }}" alt="" class="">
+        <img src="{{ asset('/public/website/assets/images/mrs-tinu-thamby-t.webp') }}" alt="" class="">
         </div>
         <div class="dctrm-deitals">
         <h3> Mrs. Tinu Thamby T  </h3>
@@ -531,7 +531,7 @@ Uro Gynaecology
         <h4>Geriatric Psychology</h4>
         <div class="dctrs-detls">
         <div class="dctrm-img">
-        <img src="{{ asset('/public/website/assets/images/doctor-img-30.jpg') }}" alt="" class="">
+        <img src="{{ asset('/public/website/assets/images/mrs-tinu-thamby-t.webp') }}" alt="" class="">
         </div>
         <div class="dctrm-deitals">
         <h3> Mrs. Tinu Thamby T  </h3>
@@ -692,7 +692,7 @@ Uro Gynaecology
         <h4>Geriatric ICU</h4>
         <div class="dctrs-detls">
         <div class="dctrm-img">
-        <img src="{{ asset('/public/website/assets/images/doctor-img-23.jpg') }}" alt="" class="">
+        <img src="{{ asset('/public/website/assets/images/dr.susovan-mitra.webp') }}" alt="" class="">
         </div>
         <div class="dctrm-deitals">
         <h3> Dr. Susovan Mitra </h3>
