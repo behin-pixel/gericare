@@ -142,7 +142,13 @@ within 24 hours.</span>
 										<span class="input-group-text"><i class="fa fa-calendar"></i></span>
 										</div>
 									</div>
+</div>
+
+<div class="col-sm-12 col-md-6 col-lg-6">
+									<label class="text-light">Time </label> 
+									<input type="time" class="form-control" name="appointment_time"  id="timepicker"/ placeholder="Select Time *" required>
 								</div>
+								<!--  
 								<div class="col-sm-12 col-md-6 col-lg-6">
 								<div class="row">
 								<div class="col-sm-12 col-md-6 col-lg-4">
@@ -182,7 +188,7 @@ within 24 hours.</span>
 									</select>
 								</div>
 								</div>
-								</div>
+								</div> -->
 								<div class="col-sm-12 col-md-6 col-lg-6">
 									<label class="text-light">Email </label>
 									<input type="email" name="email" id="aemail" class="form-control" />
