@@ -51,7 +51,7 @@
                   <a href="{{ url('hospital-departments') }}">Departments</a>
                 </li>
                 <li class="@if(request()->routeIs(['gericare-hospital.hospital-doctors'])) active @endif">
-                  <a href="{{ url('our-doctors') }}">Our Doctor's</a>
+                  <a href="{{ url('our-doctors') }}">Our Doctors</a>
                 </li> 
                 <li class="@if(request()->routeIs(['gericare-hospital.hospital-facilities'])) active @endif">
                   <a href="{{ url('gericare-hospital/#hospital-facilities') }}">Facilities</a>
@@ -67,7 +67,7 @@
                   <a href="{{ url('assisted-living') }}">About Assisted Living</a>
                 </li>
                 <li class="@if(request()->routeIs(['gericare-assisted-living.assisted-living-service'])) active @endif">
-                  <a href="{{ url('assisted-living/#servce-cre') }}">Services we Offer</a>
+                  <a href="{{ url('assisted-living/#services-we-offer') }}">Services we Offer</a>
                 </li> 
                 <li class="@if(request()->routeIs(['gericare-assisted-living.assisted-living-facilities'])) active @endif">
                   <a href="{{ url('assisted-living/#facilities-amenities') }}">Facilities & Amenities</a>
@@ -92,8 +92,8 @@
               <li class="@if(request()->routeIs(['gericare-clinics.about-clinics'])) active @endif">
                   <a href="{{ url('about-clinics') }}">About Clinic</a>
                 </li>
-                <li class="@if(request()->routeIs(['gericare-clinics.about-clinics#clinic'])) active @endif">
-                  <a href="{{ url('about-clinics/#clinic') }}">Services we Offer</a>
+                <li class="@if(request()->routeIs(['gericare-clinics.about-clinics#clinic-services'])) active @endif">
+                  <a href="{{ url('about-clinics/#clinic-services') }}">Services we Offer</a>
                 </li>
                 <li class="@if(request()->routeIs(['gericare-clinics.about-clinics#locations'])) active @endif">
                   <a href="{{ url('about-clinics/#locations') }}">Locations</a>
@@ -106,7 +106,7 @@
                   <a href="{{ url('homecare') }}">About Home care </a>
                 </li>
                 <li class="@if(request()->routeIs(['gericare-assisted-living.assisted-living-service'])) active @endif">
-                  <a href="{{ url('homecare/#servce-weofr') }}">Services we Offer</a>
+                  <a href="{{ url('homecare/#homecare-services') }}">Services we Offer</a>
                 </li>
               </ul>
             </li> 

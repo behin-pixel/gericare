@@ -16,7 +16,7 @@ $name='Dr Sreedevi';
 <li> > </li>
 <li> <a href="{{ url('gericare-hospital') }}">Geri Care Hospitals </a></li>
 <li> > </li>
-<li><a href="{{ url('our-doctors') }}"> Our Doctor's  </a></li>
+<li><a href="{{ url('our-doctors') }}"> Our Doctors  </a></li>
 <li> > </li>
 <li class="active"> Dr. K. Sreedevi  </li>
 </ul>
