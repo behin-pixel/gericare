@@ -33,7 +33,7 @@
 <div class="col-lg-12">
 <div class="accordion-body">
 <p>
-Welcome to our website. If you continue to browse and use this website, you are agreeing to comply with and be bound by the following terms and conditions of use, which together with our privacy policy govern Kauvery Hospital’s relationship with you in relation to this website. If you disagree with any part of these terms and conditions, please do not use our website.</p>
+Welcome to our website. If you continue to browse and use this website, you are agreeing to comply with and be bound by the following terms and conditions of use, which together with our privacy policy govern Geri Care's relationship with you in relation to this website. If you disagree with any part of these terms and conditions, please do not use our website.</p>
 
 <p>The term ‘Geri Care’ or ‘us’ or ‘we’ refers to the owner of the website whose registered office is 21, 1st Avenue, Indira Nagar, Adyar, Chennai - 600 020. The term ‘you’ refers to the user or viewer of our website (https://www.gericare.in/).
 </p>
@@ -43,7 +43,7 @@ Welcome to our website. If you continue to browse and use this website, you are 
 <ul>
 <li><img src="{{ asset('/public/website/assets/images/hme-icn.png') }}" alt="" class="" /> The content of the pages of this website is for your general information and use only. It is subject to change without notice.</li>
 
-<li><img src="{{ asset('/public/website/assets/images/hme-icn.png') }}" alt="" class="" /> This website uses cookies to monitor browsing preferences. If you do allow cookies to be used, the following personal information may be stored by us for use by third parties: We collect certain personal information from you when you contact us or when receive news or book online appointments at the Site.</li>
+<li><img src="{{ asset('/public/website/assets/images/hme-icn.png') }}" alt="" class="" /> This website uses cookies to monitor browsing preferences. If you do allow cookies to be used, the following personal information may be stored by us for use by third parties: We collect certain personal information from you when you contact us or when receive news or book online appointments at the site.</li>
 
 <li><img src="{{ asset('/public/website/assets/images/hme-icn.png') }}" alt="" class="" /> Neither we nor any third parties provide any warranty or guarantee as to the accuracy, timeliness, performance, completeness or suitability of the information and materials found or offered on this website for any particular purpose. You acknowledge that such information and materials may contain inaccuracies or errors and we expressly exclude liability for any such inaccuracies or errors to the fullest extent permitted by law.</li>
 
@@ -57,7 +57,6 @@ Welcome to our website. If you continue to browse and use this website, you are 
 
 <li><img src="{{ asset('/public/website/assets/images/hme-icn.png') }}" alt="" class="" /> From time to time, this website may also include links to other websites. These links are provided for your convenience to provide further information. They do not signify that we endorse the website(s). We have no responsibility for the content of the linked website(s).</li>
 
-<li><img src="{{ asset('/public/website/assets/images/hme-icn.png') }}" alt="" class="" /> Your use of this website and any dispute arising out of such use of the website is subject to the laws of Government of India.</li> 
 
 </ul>
 </div>
