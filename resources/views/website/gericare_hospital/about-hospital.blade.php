@@ -773,7 +773,7 @@
 
 
                 <div class="ambulance-runing text-end mt-5">
-                    <h4>24x7 Emergency Ambulance Available <br> Call Us at: <span>+91 44 4061 4061</span></h4>
+                    <h4>24x7 Emergency Ambulance Available <br> Call Us at: <span><a href="tel:+914440614061">+91 44 4061 4061</a></span></h4>
 
                     <div class="ambuloo">
                         <img src="{{ asset('/public/website/assets/images/ambulance-servie.gif') }}"

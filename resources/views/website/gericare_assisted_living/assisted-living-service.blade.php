@@ -55,7 +55,7 @@ Come home to Geri Care, to be treated and cared for by internationally renowned 
 
 <div class="servce">
 <img src="{{ asset('/public/website/assets/images/icon-2.png') }}" alt="Geri Care Hospital" class="" />
-<h4> Our Location </h4>
+<h4> Our Locations </h4>
 <p> No.8, Dr. Nair Road, Behind Vani Mahal, T.Nagar, Chennai - 600 017 </p>
 <a href="{{ url('contact-us') }}"> View On Map <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="Geri Care Hospital" class="" /></a>
 </div>
@@ -70,7 +70,7 @@ Come home to Geri Care, to be treated and cared for by internationally renowned 
 </div>
 
 <div class="ambulance-runing text-end">
-<h4>24x7 Emergency Ambulance Available <br> Call Us at: <span>+91 44 4061 4061</span></h4>
+<h4>24x7 Emergency Ambulance Available <br> Call Us at: <span><a href=""></a>+91 44 4061 4061</a></span></h4>
 
 <div class="ambuloo">
 <img src="{{ asset('/public/website/assets/images/ambulance-servie.gif') }}" alt="Geri Care Hospital" class="" />

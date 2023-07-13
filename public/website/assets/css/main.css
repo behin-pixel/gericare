@@ -1575,6 +1575,12 @@ img.moby {
     font-size: 30px;
     font-family: 'Red Hat Display', sans-serif;
 }
+.ambulance-runing h4 span a{
+    font-weight: 700;
+    font-size: 30px;
+    color:#7C164B;
+    font-family: 'Red Hat Display', sans-serif;
+}
 
 .age-stemp {
     padding: 0;
@@ -5016,6 +5022,10 @@ button.gm-ui-hover-effect {
 }
 
 @media(max-width: 890px) {
+
+    .gericare-services.blog-datas .main-srvcestr .minrester h4 {
+        min-height: auto;
+      }
     
     .leader-shipment .col-lg-7 {
         flex: 0 0 auto;
@@ -5103,6 +5113,7 @@ button.gm-ui-hover-effect {
 }
 
 @media(max-width: 800px) {
+    .full-deg-cnt br{display: none !important;}
     .pseofmnd-lst ul li:last-child a {
         padding: 20px 44px 20px 59px;
     }
@@ -5230,6 +5241,9 @@ button.gm-ui-hover-effect {
         font-size: 20px;
     }
     .ambulance-runing h4 span {
+        font-size: 24px;
+    }
+    .ambulance-runing h4 span a{
         font-size: 24px;
     }
 
@@ -5571,7 +5585,9 @@ button.gm-ui-hover-effect {
 }
 
 @media(max-width: 580px) {
-
+    .kind-geriatric .common-para p {
+        width: 100%;}
+br{display: none !important;}
     .leader-shipment .col-lg-7 {
         flex: 0 0 auto;
         width: 95%;
@@ -5656,7 +5672,7 @@ button.gm-ui-hover-effect {
         text-align: center;
     }
     .expert-care .common-para {
-        width: 95%;
+        width: 100%;
         margin: 0 auto;
     }
 
