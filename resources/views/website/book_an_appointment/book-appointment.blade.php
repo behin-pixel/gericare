@@ -144,7 +144,7 @@ within 24 hours.</span>
 									</div>
 </div>
 
-<div class="col-sm-12 col-md-6 col-lg-6">
+<!-- <div class="col-sm-12 col-md-6 col-lg-6">
 <label class="text-light">Appointment Time</label>	
 								<select class="form-control tmepcr" id="services" name="services" required>
                     				<option value="">Select Time</option>
@@ -210,12 +210,12 @@ within 24 hours.</span>
                     				<option value="10:45pm">10:45 PM</option>  
                     				<option value="11:00pm">11:00 PM</option> 
 								</select>
-								</div>
+								</div> -->
 
-<!-- <div class="col-sm-12 col-md-6 col-lg-6">
+ <div class="col-sm-12 col-md-6 col-lg-6">
 									<label class="text-light">Time </label> 
 									<input type="time" class="form-control" name="appointment_time"  id="timepicker"/ placeholder="Select Time *" required>
-								</div> -->
+								</div> 
 								<!--  
 								<div class="col-sm-12 col-md-6 col-lg-6">
 								<div class="row">

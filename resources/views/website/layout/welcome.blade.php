@@ -7,8 +7,8 @@
     <meta name="robots" content="noodp"> 
 
     <title>{{$title ?? 'Geriatric Care In Chennai | Elder Care In Chennai - Geri Care' }}</title> 
-    <meta name = "description" content = "{{$decription ?? 'Looking for passionate Geriatric Care in Chennai? Geri Care offers quality Elder Care Services tailored for Senior Citizens. Book an appointment Today!' }}" /> 
-    
+    <meta name = "description" content = "{{$decription ?? 'Looking for passionate Geriatric Care in Chennai? Geri Care offers quality Elder Care Services tailored for Senior Citizens. Book an appointment Today!' }}" />  
+
     <link rel="shortcut icon" type="image/x-icon" href="{{ asset('/public/website/favicon.png') }}"/>  
 	<!-- Bootstrap -->
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet"
