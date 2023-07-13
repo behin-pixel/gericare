@@ -34,7 +34,7 @@ class BookAppointmentController extends Controller
             $ins['appointment_services'] = $request->services ?? null;
             $ins['doctor_name'] = $request->doctor_name ?? null;
             $ins['appointment_date'] = date('Y-m-d', strtotime($appointment_date));
-            $ins['appointment_time'] = date('H:i:s', strtotime($request->appointment_time));
+            $ins['appointment_time'] = $request->appointment_time;
             $ins['enquiry_from'] = $request->from;
             $ins['name'] = $request->name;
             $ins['email'] = $request->email; 
