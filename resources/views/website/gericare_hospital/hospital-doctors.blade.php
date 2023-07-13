@@ -674,7 +674,7 @@ Uro Gynaecology
         </div>
         <div class="dctrs-detls">
         <div class="dctrm-img">
-        <img src="{{ asset('/public/website/assets/images/doctor-img-29.jpg') }}" alt="Geri Care Hospital" class="">
+        <img src="{{ asset('/public/website/assets/images/sridevi.webp') }}" alt="Geri Care Hospital" class="">
         </div>
         <div class="dctrm-deitals">
         <h3>Dr. Sreedevi</h3>

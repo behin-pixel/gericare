@@ -99,8 +99,8 @@ Our experienced caregivers have been delivering affordable and reliable care in 
 <div class="col-lg-12">
 
 <picture>
-  <source media="(min-width:800px)" srcset="{{ asset('/public/website/assets/images/hme-cre.png') }}">
-  <img src="{{ asset('/public/website/assets/images/hme-cre-mob.png') }}"  class="img-responsive" alt="Geri Care Hospital" > 
+  <source media="(min-width:800px)" srcset="{{ asset('/public/website/assets/images/hme-cre.jpg') }}">
+  <img src="{{ asset('/public/website/assets/images/hme-cre-mob.jpg') }}"  class="img-responsive" alt="Geri Care Hospital" > 
 </picture>
 
 </div>
