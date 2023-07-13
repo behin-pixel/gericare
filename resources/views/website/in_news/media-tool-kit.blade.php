@@ -42,7 +42,7 @@
 <div class="serveces-doctrs">
 
 <div class="servce text-center">
-<img src="{{ asset('/public/website/assets/images/logo.png') }}" alt="Geri Care Hospital" class="w-100" />
+<img src="{{ asset('/public/website/assets/images/gericare-logo.png') }}" alt="Geri Care Hospital" class="w-100" />
 <h4> Available formats  </h4>
 <p> JPG | PNG | SVG </p>
 <a href="{{ url('/public/website/uploads/gericare.zip') }}"> Download <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="Geri Care Hospital" class="" /></a>

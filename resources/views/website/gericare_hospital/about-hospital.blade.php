@@ -17,8 +17,8 @@
 
                 <div class="col-lg-12">
                     <div class="common-heading text-center">
-                        <h2>India’s 1<sup>st</sup> Multi-Speciality Hospital<br> envisioned by
-                            Expert Geriatricians</h2>
+                        <h1>India’s 1<sup>st</sup> Multi-Speciality Hospital<br> envisioned by
+                            Expert Geriatricians</h1>
                     </div>
                     <div class="seconday-paragraph text-center">
                         Geri Care, India's 1<sup>st</sup> multi-speciality hospital, is the visionary brainchild of renowned

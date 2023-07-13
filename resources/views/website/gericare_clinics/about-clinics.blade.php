@@ -35,8 +35,8 @@ in the later years.</span>
 <div class="col-lg-12">
 
 <div class="common-heading text-center">
-<h2>Ensuring Comprehensive Care & Better Quality of Life <br>
-in the later years. </h2>
+<h1>Ensuring Comprehensive Care & Better Quality of Life <br>
+in the later years. </h1>
 </div>
 
 <div class="seconday-paragraph text-center">

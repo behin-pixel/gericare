@@ -118,6 +118,15 @@ a:hover {
     outline: none !important;
 }
 
+.common-heading h1 {
+    font-family: 'Red Hat Display', sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 1.4;
+    color: #7C164B;
+    margin-bottom: 40px;
+}
+
 .common-heading h2 {
     font-family: 'Red Hat Display', sans-serif;
     font-weight: 700;
@@ -3107,6 +3116,10 @@ ul.press-roomr li span.bts-non {
     line-height: 42px;
 }
 
+.location-fixer .common-heading h1 {
+    margin: 0;
+}
+
 .location-fixer .common-heading h2 {
     margin: 0;
 }
@@ -3121,6 +3134,10 @@ ul.press-roomr li span.bts-non {
 
 .location-fixer .servce {
     padding: 0;
+}
+
+.location-fixer .common-heading h1 {
+    font-size: 40px;
 }
 
 .location-fixer .common-heading h2 {
@@ -3291,6 +3308,7 @@ ul.press-roomr li span.bts-non {
 
 .spotlght-lists .common-parra.text-drk p {
     color: #000;
+    font-size: 16px;
 }
 .event-layer.cont-right .spotlght-lists {
     padding-left: 0;
@@ -4031,7 +4049,7 @@ button.gm-ui-hover-effect {
 
 .common-heading sup {
     font-size: 12px;
-    top: -20px;
+    top: -16px;
 }
 
 .error-site img {
@@ -4561,6 +4579,9 @@ button.gm-ui-hover-effect {
     .why-love .col-lg-10 {
         width: 100%;
     }
+    .common-heading h1 {
+        font-size: 26px;
+    }
     .common-heading h2 {
         font-size: 26px;
     }
@@ -4653,14 +4674,24 @@ button.gm-ui-hover-effect {
     .pseofmnd br {
         display: none;
     }
+    .common-heading h1 {
+        margin-bottom: 15px;
+    }
     .common-heading h2 {
         margin-bottom: 15px;
     }
     .world-facilities p.mb-0 {
         margin-bottom: 30px !important;
     }
+    .common-heading h1 br {
+        display: none;
+    }
     .common-heading h2 br {
         display: none;
+    }
+    .location-fixer .common-heading h1 {
+        font-size: 26px;
+        margin-bottom: 15px;
     }
     .location-fixer .common-heading h2 {
         font-size: 26px;
@@ -5674,6 +5705,11 @@ br{display: none !important;}
     .expert-care .common-para {
         width: 100%;
         margin: 0 auto;
+    }
+
+    .common-heading h1 {
+        font-size: 26px;
+        margin-bottom: 15px;
     }
 
     .common-heading h2 {

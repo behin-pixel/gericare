@@ -40,8 +40,8 @@ under the expert care of Geriatricans</span>
 <div class="col-lg-12">
 <div class="common-heading text-center">
 
-<h2>India’s 1<sup>st</sup> 24/7 Assisted Living & Skilled Nursing <br>
-under the expert care of Geriatricans</h2>
+<h1>India’s 1<sup>st</sup> 24/7 Assisted Living & Skilled Nursing <br>
+under the expert care of Geriatricans</h1>
 
 <!-- <h2>State-of-the-art residential arrangements <br>
 to assist those in need. </h2> -->

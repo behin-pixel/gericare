@@ -18,7 +18,7 @@
 <ul>
 <li><a href="./">Home</a></li>   
 <li> > </li>  
-<li>Testimonials</li>   
+<li>Patient Stories</li>   
 <li> > </li>   
 <li class="active">Story Testimonials</li>   
 </ul>
