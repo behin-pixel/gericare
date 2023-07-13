@@ -17,6 +17,28 @@
         <link rel="canonical" href="{{ url(Route::getFacadeRoot()->current()->uri() ?? '/') }}" />
     @endif
 
+    @if (!is_null(Route::getFacadeRoot()->current()))
+        <!-- Facebook Meta Tags -->
+        <meta property="og:url" content="{{ url(Route::getFacadeRoot()->current()->uri() ?? '/') }}">
+        <meta property="og:type" content="website">
+        <meta property="og:title"
+            content="{{ $title ?? 'Geriatric Care In Chennai | Elder Care In Chennai - Geri Care' }}">
+        <meta property="og:description"
+            content="{{ $decription ?? 'Looking for passionate Geriatric Care in Chennai? Geri Care offers quality Elder Care Services tailored for Senior Citizens. Book an appointment Today!' }}">
+        <meta property="og:image" content="https://www.gericare.in/public/website/assets/images/banners/banner-1.jpg">
+    @endif
+
+    @if (!is_null(Route::getFacadeRoot()->current()))
+        <!-- Twitter Meta Tags -->
+        <meta name="twitter:card" content="summary_large_image">
+        <meta property="twitter:domain" content="gericare.in">
+        <meta property="twitter:url" content="{{ url(Route::getFacadeRoot()->current()->uri() ?? '/') }}">
+        <meta name="twitter:title"
+            content="{{ $title ?? 'Geriatric Care In Chennai | Elder Care In Chennai - Geri Care' }}">
+        <meta name="twitter:description"
+            content="{{ $decription ?? 'Looking for passionate Geriatric Care in Chennai? Geri Care offers quality Elder Care Services tailored for Senior Citizens. Book an appointment Today!' }}">
+        <meta name="twitter:image" content="https://www.gericare.in/public/website/assets/images/banners/banner-1.jpg">
+    @endif
 
 
     <!-- Bootstrap -->
