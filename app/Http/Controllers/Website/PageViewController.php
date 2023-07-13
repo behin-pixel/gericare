@@ -16,7 +16,8 @@ class PageViewController extends Controller
         $title = 'Best Home Healthcare In Chennai | Geriatrician Near Me';
         $decription = 'Geri Care provides top-notch home healthcare services in Chennai with expert Geriatricians for senior citizens. Book an appointment now for personalized care.';
         $keyword = '';
-        return view('website.gericare_hospital.about-hospital', compact('title', 'decription', 'keyword'));  
+        $testimonial=Testimonial::where('status','1')->orderBy('created_at','desc')->where('type','Hospital')->get();
+        return view('website.gericare_hospital.about-hospital', compact('title', 'decription', 'keyword','testimonial'));  
     }
     public function hospitalDepartmentPage()
     {

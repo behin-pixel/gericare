@@ -824,6 +824,62 @@
             </div>
         </div>
     </section>
+  
+    @if(count($testimonial)>0)
+    <section class="why-love">
+<div class="container">
+<div class="row justify-content-center">
+
+<div class="col-lg-12">
+
+<div class="common-heading text-center">
+   
+<h2>Patient Success Stories</h2>
+</div>
+
+<div class="google-revews">    
+
+  @foreach ($testimonial as $testimonials )
+
+  <div class="revew-box text-center">
+
+    <div class="rev-rat d-flex align-items-center justify-content-center">
+    <img src="{{ asset('/public/website/assets/images/star.png') }}" alt="Geri Care Hospital" class="">
+    <img src="{{ asset('/public/website/assets/images/star.png') }}" alt="Geri Care Hospital" class="">
+    <img src="{{ asset('/public/website/assets/images/star.png') }}" alt="Geri Care Hospital" class="">
+    <img src="{{ asset('/public/website/assets/images/star.png') }}" alt="Geri Care Hospital" class="">
+    <img src="{{ asset('/public/website/assets/images/half-star.png') }}" alt="Geri Care Hospital" class="">
+    </div>
+    <div class="rev-cnt">
+      {!! $testimonials['description'] !!}
+   
+    </div>
+    <div class="rev-img">
+    <h4> {{$testimonials['title']}}<span> {{$testimonials['designation']}} </span></h4>
+    </div>
+    <div class="rev-goog d-flex align-items-center justify-content-center">
+
+       <!-- <img src="{{ asset($testimonials["photo"]) }}" alt="Geri Care Hospital" class="">
+
+
+    <img src="{{ asset(Storage::url("app/{$testimonials["photo"]}")) }}"  /> -->
+    <img src="{{ asset('/public/website/assets/images/gog.png') }}"  />
+ 
+    </div>
+    
+    </div>
+    
+  @endforeach
+
+</div>
+
+</div>
+
+</div>
+
+</div> 
+</section>
+@endif
 
     @include('website.bottomform')
 
