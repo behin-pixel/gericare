@@ -1406,6 +1406,7 @@ img.moby {
     color: #FFF;
     font-weight: 700;
     margin: 0;
+    text-transform: none;
 }
 
 .banner-liners h1 span {
