@@ -581,7 +581,7 @@ Chosen for You</h2>
 </div>
 
 <div class="dr-panel">
-<img src="{{ asset('/public/website/assets/images/Dr-Magesh.jpg') }}" alt="Dr. Magesh R - Consultant Geriatrician" class="">
+<img src="{{ asset('/public/website/assets/images/dr-mageshr.webp') }}" alt="Dr. Magesh R - Consultant Geriatrician" class="">
 <div class="de-detl">
 <h4> Dr. Magesh R</h4>
 <span>Consultant Geriatrician</span>

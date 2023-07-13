@@ -299,7 +299,7 @@ Request Call Back
 <div class="google-revews">   
 
 
-  @foreach ($testimonial as $testimonials )
+  @foreach ($testimonial as $testimonials)
 
   <div class="revew-box text-center">
 
