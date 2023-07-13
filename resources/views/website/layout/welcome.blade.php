@@ -49,6 +49,16 @@
 
   gtag('config', 'UA-150382938-1');
 </script>   
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-X3KEJWRV0M"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-X3KEJWRV0M');
+</script>
    
 
 <script type="application/ld+json">
@@ -56,7 +66,7 @@
 "@context": "https://schema.org/",
 "@type": "Product",
 "name": "Geri Care",
-"image": "https://www.gericare.in/static/images/geri-care-logo.png",
+"image": "https://www.gericare.in/public/website/assets/images/logo.png",
 "description": "We at Gericare Understand Your Need for Home Care Taker Services for the Elders in Chennai. We Provide the Best Home Care Taker Services for Elderly at the Comfort of Your Home.",
 "mpn": "001",
 "sku": "+914440614061",
