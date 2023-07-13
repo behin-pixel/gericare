@@ -12,8 +12,8 @@
 <div class="container">
 <div class="row">
 <div class="col-lg-12">
-<h1>Join Geri Care's community
-<span>of passionate caregivers</span>
+<h1>Join Geri Care's Community 
+<span>of Passionate Caregivers</span>
 </h1>
 <ul>
 <li><a href="./">Home</a></li>   
@@ -35,7 +35,7 @@
 						<div class="row align-items-center">
 							<div class="col-sm-12 col-md-12 col-lg-6 col-xl-5" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
 								<div class="orange-bg shadow pad-30 pb-0 text-center">
-									<h2 class="h3 text-white mar-bot-20 text-center casrtmzed">Explore your passion and unlock your potential at Geri Care, where expert minds work together!</h2>
+									<h2 class="h3 text-white mar-bot-20 text-center casrtmzed">If you are passionate about working closely with the elderly community and would like to contribute to enhancing the quality of their lives with expert care and compassion, write to us at enquiry@gericare.in</h2>
 								
 									<img src="{{ asset('/public/website/assets/images/careers.png') }}" alt="Geri Care Hospital" class="img-fluid">
 								</div>
