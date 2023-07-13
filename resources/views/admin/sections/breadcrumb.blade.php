@@ -96,9 +96,9 @@
            $image = Sentinel::getUser()->image;
             ?>
             @if(isset($image) && !empty($image))
-            <img src="{{ asset_url($image) }}" alt="" width="32" height="32" class="rounded-5 me-2">
+            <img src="{{ asset_url($image) }}" alt="Geri Care Hospital" width="32" height="32" class="rounded-5 me-2">
             @else
-            <img src="{{ asset('public/images/avatar.png') }}" alt="" width="32" height="32" class="rounded-5 me-2">
+            <img src="{{ asset('public/images/avatar.png') }}" alt="Geri Care Hospital" width="32" height="32" class="rounded-5 me-2">
             @endif
         </a>
         <ul class="dropdown-menu dropdown-menu-dark bg-my-dark text-small shadow" aria-labelledby="dropdownUser1" style="">

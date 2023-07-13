@@ -38,7 +38,7 @@
 <div class="doc-tor-img">
     
 <a data-fancybox="gallery1" href="{{url('/public/files/news_event/gallery_image/'.$news_event_one->gallery_image)}}" data-caption="Geri Care Hospital">
-<img src="{{url('/public/files/news_event/gallery_image/'.$news_event_one->gallery_image)}}" alt="" class="w-100">
+<img src="{{url('/public/files/news_event/gallery_image/'.$news_event_one->gallery_image)}}" alt="Geri Care Hospital" class="w-100">
 </a>
 @if ($news_event_one->image)
 <a class="d-none" data-fancybox="gallery1" href="{{url('/public/files/news_event/'.$news_event_one->image)}}" data-caption="Get Back to Life ! Sparkle your Intimate Beauty">&nbsp;</a>

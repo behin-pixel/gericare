@@ -5,15 +5,15 @@
 <section class="inner-banner p-0">
 
 <div class="">
-<img src="{{ asset('/public/website/assets/images/banners/Banner.jpg') }}" alt="" class="w-100" />
+<img src="{{ asset('/public/website/assets/images/banners/Banner.jpg') }}" alt="Geri Care Hospital" class="w-100" />
 </div> 
 
 <div class="banner-liners">
 <div class="container">
 <div class="row">
 <div class="col-lg-12">
-<h4>Departments</span>
-</h4>
+<h1>Departments</span>
+</h1>
 <ul>
 <li><a href="{{ url('/') }}"> Home </a></li>   
 <li>></li>  
@@ -43,7 +43,7 @@
 <div class="row dctr-detilsbox   mt-4">
         <div class=" col-md-4 col-lg-4">
             <div class="doc-tor-img">
-                <img src="{{ asset('/public/website/assets/images/department-2.jpg') }}" alt="" class="w-100">
+                <img src="{{ asset('/public/website/assets/images/department-2.jpg') }}" alt="Geri Care Hospital" class="w-100">
             </div>
         </div>
         <div class="col-md-8 col-lg-8">
@@ -51,7 +51,7 @@
                 <h3>Geriatric Cardiology </h3>
                          <p>Combining expertise in cardiology and geriatrics, our Geriatric Cardiology department delivers personalized care for elderly individuals, ensuring optimal heart function and improved quality of life. </p>
                          <div class="minrester-link">
-                    <a href="{{ url('our-doctors') }}"   tabindex="0">Find a doctor<img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="" class=""></a>
+                    <a href="{{ url('our-doctors') }}"   tabindex="0">Find a doctor<img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="Geri Care Hospital" class=""></a>
                     </div>  
             </div>
         </div>
@@ -60,7 +60,7 @@
 <div class="row dctr-detilsbox   mt-4">
         <div class=" col-md-4 col-lg-4">
             <div class="doc-tor-img">
-                <img src="{{ asset('/public/website/assets/images/department-4.jpg') }}" alt="" class="w-100">
+                <img src="{{ asset('/public/website/assets/images/department-4.jpg') }}" alt="Geri Care Hospital" class="w-100">
             </div>
         </div>
         <div class="col-md-8 col-lg-8">
@@ -68,7 +68,7 @@
                 <h3>Ortho Geriatrics </h3>
                          <p>Our Orthogeriatrics department offers comprehensive orthopedic care designed specifically for elderly patients, promoting timely and effective management of hip fractures and age-related musculoskeletal conditions such as OA and osteoporosis.</p>
                          <div class="minrester-link">
-                       <a href="{{ url('our-doctors') }}"   tabindex="0">Find a doctor<img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="" class=""></a>
+                       <a href="{{ url('our-doctors') }}"   tabindex="0">Find a doctor<img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="Geri Care Hospital" class=""></a>
                     </div>  
             </div>
         </div>
@@ -77,7 +77,7 @@
 <div class="row dctr-detilsbox   mt-4">
         <div class=" col-md-4 col-lg-4">
             <div class="doc-tor-img">
-                <img src="{{ asset('/public/website/assets/images/department-6.jpg') }}" alt="" class="w-100">
+                <img src="{{ asset('/public/website/assets/images/department-6.jpg') }}" alt="Geri Care Hospital" class="w-100">
             </div>
         </div>
         <div class="col-md-8 col-lg-8">
@@ -85,7 +85,7 @@
                 <h3>Geriatric Neurology </h3>
                          <p>Combining neurologic expertise and geriatric care, our Geriatric Neurology department offers comprehensive evaluation and treatment for neurological conditions such as parkinsons disease, peripheral neuropathy, stroke, seizure disorders in older adults, providing personalized care to enhance brain health and cognitive function.</p>
                          <div class="minrester-link">
-                           <a href="{{ url('our-doctors') }}"   tabindex="0">Find a doctor<img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="" class=""></a>
+                           <a href="{{ url('our-doctors') }}"   tabindex="0">Find a doctor<img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="Geri Care Hospital" class=""></a>
                         </div>  
             </div>
         </div>
@@ -95,7 +95,7 @@
 <div class="row dctr-detilsbox   mt-4">
         <div class=" col-md-4 col-lg-4">
             <div class="doc-tor-img">
-                <img src="{{ asset('/public/website/assets/images/department-7.jpg') }}" alt="" class="w-100">
+                <img src="{{ asset('/public/website/assets/images/department-7.jpg') }}" alt="Geri Care Hospital" class="w-100">
             </div>
         </div>
         <div class="col-md-8 col-lg-8">
@@ -103,7 +103,7 @@
                 <h3>Geriatric Surgery</h3>
                          <p>Our Geriatric Surgery department provides specialized surgical care for older adults, ensuring safe and effective procedures tailored to the unique needs of elderly patients.</p>
                     <div class="minrester-link">
-                       <a href="{{ url('our-doctors') }}"   tabindex="0">Find a doctor<img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="" class=""></a>
+                       <a href="{{ url('our-doctors') }}"   tabindex="0">Find a doctor<img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="Geri Care Hospital" class=""></a>
                     </div>  
             </div>
         </div>
@@ -112,7 +112,7 @@
 <div class="row dctr-detilsbox  ">
         <div class=" col-md-4 col-lg-4">
             <div class="doc-tor-img">
-                <img src="{{ asset('/public/website/assets/images/department-1.jpg') }}" alt="" class="w-100">
+                <img src="{{ asset('/public/website/assets/images/department-1.jpg') }}" alt="Geri Care Hospital" class="w-100">
             </div>
         </div>
         <div class="col-md-8 col-lg-8">
@@ -120,7 +120,7 @@
                 <h3>Geriatric Oncology </h3>
                          <p>Specialized care for elderly cancer patients, combining oncology expertise with geriatric medicine to ensure personalized and comprehensive treatment. Equipped with a team of Medical Oncologists and Surgical Oncologists and a dedicated Tumour Board, the Geriatric Oncology department offers 360 degree care right from hospital to homecare for elderly patients.</p>
                     <div class="minrester-link">
-                    <a href="{{ url('our-doctors') }}"   tabindex="0">Find a doctor<img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="" class=""></a>
+                    <a href="{{ url('our-doctors') }}"   tabindex="0">Find a doctor<img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="Geri Care Hospital" class=""></a>
                     </div>   
             </div>
         </div>
@@ -129,7 +129,7 @@
 <div class="row dctr-detilsbox   mt-4">
         <div class=" col-md-4 col-lg-4">
             <div class="doc-tor-img">
-                <img src="{{ asset('/public/website/assets/images/department-3.jpg') }}" alt="" class="w-100">
+                <img src="{{ asset('/public/website/assets/images/department-3.jpg') }}" alt="Geri Care Hospital" class="w-100">
             </div>
         </div>
         <div class="col-md-8 col-lg-8">
@@ -137,7 +137,7 @@
                 <h3>Geriatric Urology</h3>
                          <p>Our Geriatric Urology department offers tailored urological care for older adults, addressing age-related urinary issues such as prostate issues, urinary incontinence, UTIs with compassion and expertise.</p>
                     <div class="minrester-link">
-                       <a href="{{ url('our-doctors') }}"   tabindex="0">Find a doctor<img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="" class=""></a>
+                       <a href="{{ url('our-doctors') }}"   tabindex="0">Find a doctor<img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="Geri Care Hospital" class=""></a>
                     </div>  
             </div>
         </div>
@@ -146,7 +146,7 @@
 <div class="row dctr-detilsbox   mt-4">
         <div class=" col-md-4 col-lg-4">
             <div class="doc-tor-img">
-                <img src="{{ asset('/public/website/assets/images/department-5.jpg') }}" alt="" class="w-100">
+                <img src="{{ asset('/public/website/assets/images/department-5.jpg') }}" alt="Geri Care Hospital" class="w-100">
             </div>
         </div>
         <div class="col-md-8 col-lg-8">
@@ -154,7 +154,7 @@
                 <h3>Gasteroentrology </h3>
                          <p>Specializing in digestive health for older adults, our Geriatric Gastroenterology department provides personalized care and advanced treatments to address age-related gastrointestinal conditions such as indigestion, constipation, IBS, GERD with precision and compassion. Equipped with Upper GI Scopy and Colonoscopy, the hospital provides holistic solutions for GI problems.</p>
                          <div class="minrester-link">
-                       <a href="{{ url('our-doctors') }}"   tabindex="0">Find a doctor<img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="" class=""></a>
+                       <a href="{{ url('our-doctors') }}"   tabindex="0">Find a doctor<img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="Geri Care Hospital" class=""></a>
                     </div>  
             </div>
         </div>
@@ -163,7 +163,7 @@
 <div class="row dctr-detilsbox   mt-4">
         <div class=" col-md-4 col-lg-4">
             <div class="doc-tor-img">
-                <img src="{{ asset('/public/website/assets/images/department-8.jpg') }}" alt="" class="w-100">
+                <img src="{{ asset('/public/website/assets/images/department-8.jpg') }}" alt="Geri Care Hospital" class="w-100">
             </div>
         </div>
         <div class="col-md-8 col-lg-8">
@@ -171,7 +171,7 @@
                 <h3>Pulmonology</h3>
                          <p>Specializing in chronic respiratory for older adults, our Geriatric Pulmonology department provides comprehensive diagnostics such as PFT, Bronchoscopy and treatment services for pulmonary conditions in elderly patients such as asthma, COPD, Respiratory failure, Chronic Bronchitis, IL, ensuring optimal lung function and general well being.</p>
                     <div class="minrester-link">
-                       <a href="{{ url('our-doctors') }}"   tabindex="0">Find a doctor<img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="" class=""></a>
+                       <a href="{{ url('our-doctors') }}"   tabindex="0">Find a doctor<img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="Geri Care Hospital" class=""></a>
                     </div>  
             </div>
         </div>
@@ -180,7 +180,7 @@
 <div class="row dctr-detilsbox   mt-4">
         <div class=" col-md-4 col-lg-4">
             <div class="doc-tor-img">
-                <img src="{{ asset('/public/website/assets/images/department-9.jpg') }}" alt="" class="w-100">
+                <img src="{{ asset('/public/website/assets/images/department-9.jpg') }}" alt="Geri Care Hospital" class="w-100">
             </div>
         </div>
         <div class="col-md-8 col-lg-8">
@@ -188,7 +188,7 @@
                 <h3>Geriatric ICU </h3>
                          <p>At our Geriatric ICU, we offer individualized and advanced critical care for older adults, addressing complex medical needs and age-specific considerations to deliver exceptional support and promote recovery. We are one of India's first hospitals to respect patient’s advanced healthcare directives.</p>
                     <div class="minrester-link">
-                       <a href="{{ url('our-doctors') }}"   tabindex="0">Find a doctor<img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="" class=""></a>
+                       <a href="{{ url('our-doctors') }}"   tabindex="0">Find a doctor<img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="Geri Care Hospital" class=""></a>
                     </div>  
             </div>
         </div>
@@ -196,7 +196,7 @@
 <div class="row dctr-detilsbox   mt-4">
         <div class=" col-md-4 col-lg-4">
             <div class="doc-tor-img">
-                <img src="{{ asset('/public/website/assets/images/department-10.jpg') }}" alt="" class="w-100">
+                <img src="{{ asset('/public/website/assets/images/department-10.jpg') }}" alt="Geri Care Hospital" class="w-100">
             </div>
         </div>
         <div class="col-md-8 col-lg-8">
@@ -204,7 +204,7 @@
                 <h3>Dermatology </h3>
                          <p>Specializing in skin health for older adults, our Geriatric Dermatology department offers tailored treatments and skincare solutions, addressing age-related dermatological conditions such as psoriasis, dry skin, bullous pemphigoid, melanoma with expertise and compassion.</p>
                     <div class="minrester-link">
-                       <a href="{{ url('our-doctors') }}"   tabindex="0">Find a doctor<img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="" class=""></a>
+                       <a href="{{ url('our-doctors') }}"   tabindex="0">Find a doctor<img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="Geri Care Hospital" class=""></a>
                     </div>  
             </div>
         </div>
@@ -212,7 +212,7 @@
 <div class="row dctr-detilsbox   mt-4">
         <div class=" col-md-4 col-lg-4">
             <div class="doc-tor-img">
-                <img src="{{ asset('/public/website/assets/images/department-11.jpg') }}" alt="" class="w-100">
+                <img src="{{ asset('/public/website/assets/images/department-11.jpg') }}" alt="Geri Care Hospital" class="w-100">
             </div>
         </div>
         <div class="col-md-8 col-lg-8">
@@ -220,7 +220,7 @@
                 <h3>Vascular Surgery </h3>
                          <p>The vascular surgery department offers advanced surgical interventions and personalized treatment plans to address age-related vascular conditions such as peripheral vascular diseases.</p>
                     <div class="minrester-link">
-                       <a href="{{ url('our-doctors') }}"   tabindex="0">Find a doctor<img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="" class=""></a>
+                       <a href="{{ url('our-doctors') }}"   tabindex="0">Find a doctor<img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="Geri Care Hospital" class=""></a>
                     </div>  
             </div>
         </div>
@@ -228,7 +228,7 @@
 <div class="row dctr-detilsbox   mt-4">
         <div class=" col-md-4 col-lg-4">
             <div class="doc-tor-img">
-                <img src="{{ asset('/public/website/assets/images/department-12.jpg') }}" alt="" class="w-100">
+                <img src="{{ asset('/public/website/assets/images/department-12.jpg') }}" alt="Geri Care Hospital" class="w-100">
             </div>
         </div>
         <div class="col-md-8 col-lg-8">
@@ -236,7 +236,7 @@
                 <h3>Uro Gynaecology </h3>
                          <p>Combining expertise in urology and gynecology, our Urogynecology department provides personalized care for women's pelvic health, addressing urinary and pelvic floor disorders with compassion and advanced treatment option.</p>
                     <div class="minrester-link">
-                       <a href="{{ url('our-doctors') }}"   tabindex="0">Find a doctor<img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="" class=""></a>
+                       <a href="{{ url('our-doctors') }}"   tabindex="0">Find a doctor<img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="Geri Care Hospital" class=""></a>
                     </div>  
             </div>
         </div>
@@ -245,7 +245,7 @@
 <div class="row dctr-detilsbox   mt-4">
         <div class=" col-md-4 col-lg-4">
             <div class="doc-tor-img">
-                <img src="{{ asset('/public/website/assets/images/department-15.jpg') }}" alt="" class="w-100">
+                <img src="{{ asset('/public/website/assets/images/department-15.jpg') }}" alt="Geri Care Hospital" class="w-100">
             </div>
         </div>
         <div class="col-md-8 col-lg-8">
@@ -253,7 +253,7 @@
                 <h3>Nephrology and Dialysis 24x7</h3>
                          <p>Combining expertise in geriatrics and nephrology, our Geriatric Nephrology and Dialysis department offers comprehensive care for older adults with kidney disease, including state-of-the-art dialysis services, ensuring enhanced quality of life and constant follow up.</p>
                     <div class="minrester-link">
-                       <a href="{{ url('our-doctors') }}"   tabindex="0">Find a doctor<img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="" class=""></a>
+                       <a href="{{ url('our-doctors') }}"   tabindex="0">Find a doctor<img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="Geri Care Hospital" class=""></a>
                     </div>  
             </div>
         </div>
@@ -262,7 +262,7 @@
 <div class="row dctr-detilsbox   mt-4">
         <div class=" col-md-4 col-lg-4">
             <div class="doc-tor-img">
-                <img src="{{ asset('/public/website/assets/images/department-14.jpg') }}" alt="" class="w-100">
+                <img src="{{ asset('/public/website/assets/images/department-14.jpg') }}" alt="Geri Care Hospital" class="w-100">
             </div>
         </div>
         <div class="col-md-8 col-lg-8">
@@ -270,7 +270,7 @@
                 <h3>Geriatric Physiotherapy  </h3>
                          <p>Geriatric physiotherapists utilize a holistic approach, combining exercises, manual therapy, and other therapeutic techniques to address age-related conditions such as arthritis, osteoporosis, balance impairments, and mobility limitations. By tailoring treatment plans to individual needs, geriatric physiotherapy helps older adults regain or maintain their physical abilities, enhancing their overall well-being and promoting active and independent living. Services are provided across all care settings such as Home and Assisted living facilities also.</p>
                     <div class="minrester-link">
-                       <a href="{{ url('our-doctors') }}"   tabindex="0">Find a doctor<img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="" class=""></a>
+                       <a href="{{ url('our-doctors') }}"   tabindex="0">Find a doctor<img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="Geri Care Hospital" class=""></a>
                     </div>  
             </div>
         </div>
@@ -279,7 +279,7 @@
 <div class="row dctr-detilsbox   mt-4">
         <div class=" col-md-4 col-lg-4">
             <div class="doc-tor-img">
-                <img src="{{ asset('/public/website/assets/images/department-13.jpg') }}" alt="" class="w-100">
+                <img src="{{ asset('/public/website/assets/images/department-13.jpg') }}" alt="Geri Care Hospital" class="w-100">
             </div>
         </div>
         <div class="col-md-8 col-lg-8">
@@ -287,7 +287,7 @@
                 <h3>Lab Services </h3>
                          <p>Our state-of-the-art lab services for accurate and timely diagnostic testing, ensuring precise results to guide your healthcare decisions at the comfort of your home.</p>
                     <div class="minrester-link">
-                       <a href="{{ url('our-doctors') }}"   tabindex="0">Find a doctor<img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="" class=""></a>
+                       <a href="{{ url('our-doctors') }}"   tabindex="0">Find a doctor<img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="Geri Care Hospital" class=""></a>
                     </div>  
             </div>
         </div>

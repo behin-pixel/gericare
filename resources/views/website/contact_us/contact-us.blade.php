@@ -5,17 +5,17 @@
 <section class="inner-banner p-0">
 
 <div class="">
-<img src="{{ asset('/public/website/assets/images/banners/Contact-Us.jpg') }}" alt="" class="w-100" />
+<img src="{{ asset('/public/website/assets/images/banners/Contact-Us.jpg') }}" alt="Geri Care Hospital" class="w-100" />
 </div> 
 
 <div class="banner-liners">
 <div class="container">
 <div class="row">
 <div class="col-lg-12">
-<h4>Contact us today for a better tomorrow.
+<h1>Contact us today for a better tomorrow.
 <span>We have the proven ability <br>
 to improve the lives of the elderly.</span>
-</h4>
+</h1>
 <ul>
 <li><a href="{{ url('/') }}"> Home </a></li>   
 <li> > </li>  
@@ -37,10 +37,10 @@ to improve the lives of the elderly.</span>
 							<div class="col-sm-12 col-md-12 col-lg-6 col-xl-5" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
 								<div class="orange-bg shadow pad-30">
 									<h2 class="h3 text-white mar-bot-20">Contact Info</h2>
-									<p class="contact-icons"><img src="{{ asset('/public/website/assets/images/contact-icon1.png') }}" alt="" class="" /><strong>Geri Care Hospital</strong> 
+									<p class="contact-icons"><img src="{{ asset('/public/website/assets/images/contact-icon1.png') }}" alt="Geri Care Hospital" class="" /><strong>Geri Care Hospital</strong> 
                                     No.8, Dr. Nair Road,<br> Behind Vani Mahal,<br> T.Nagar, Chennai - 600 017.</p>
-									<p class="contact-icons"><img src="{{ asset('/public/website/assets/images/contact-icon2.png') }}" alt="" class="" />+91 44 4061 4061</p> 
-									<p class="contact-icons"><img src="{{ asset('/public/website/assets/images/contact-icon4.png') }}" alt="" class="" /><a href="mailto:enquiry@gericare.in" target="_blank" class="text-white">enquiry@gericare.in</a></p>
+									<p class="contact-icons"><img src="{{ asset('/public/website/assets/images/contact-icon2.png') }}" alt="Geri Care Hospital" class="" />+91 44 4061 4061</p> 
+									<p class="contact-icons"><img src="{{ asset('/public/website/assets/images/contact-icon4.png') }}" alt="Geri Care Hospital" class="" /><a href="mailto:enquiry@gericare.in" target="_blank" class="text-white">enquiry@gericare.in</a></p>
 									<ul class="contact-socials">
 										<li>
 											<a class="facebook" href="https://www.facebook.com/GeriCareChennai" target="_blank"> <i class="fa fa-facebook" aria-hidden="true"></i> </a>
@@ -112,39 +112,39 @@ to improve the lives of the elderly.</span>
 <div class="serveces-doctrs dark-gray-bg text-center">
 
 <div class="servce">
-<img src="{{ asset('/public/website/assets/images/icon-2.png') }}" alt="" class="" />
+<img src="{{ asset('/public/website/assets/images/icon-2.png') }}" alt="Geri Care Hospital" class="" />
 <h4> Geri Care Hospital </h4>
 <span class="text-center"> T Nagar </span>
 <p> No.8, Dr.Nair road, Behind Vani Mahal,<br> T Nagar, Chennai - 600 017</p>
-<a href="https://goo.gl/maps/u6K6owxWtpxry8EV8" target="_blank"> Locate Us <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a> 
+<a href="https://goo.gl/maps/u6K6owxWtpxry8EV8" target="_blank"> Locate Us <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="Geri Care Hospital" class="" /></a> 
 
 <span class="text-center"> Adambakkam </span>
 <p>100 Feet Velachery Inner Ring Road,<br> Ward F, Block 17, Adambakkam, <br> Chennai - 600 088</p>
-<a href="https://goo.gl/maps/KFAt8ytkXKEeuxZ59" target="_blank"> Locate Us <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
+<a href="https://goo.gl/maps/KFAt8ytkXKEeuxZ59" target="_blank"> Locate Us <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="Geri Care Hospital" class="" /></a>
 </div> 
 
 <div class="servce">
-<img src="{{ asset('/public/website/assets/images/icon-2.png') }}" alt="" class="" />
+<img src="{{ asset('/public/website/assets/images/icon-2.png') }}" alt="Geri Care Hospital" class="" />
 <h4> Geri Care Clinics </h4>
 <span class="text-center"> Adyar </span>
 <p> 21, 1st Avenue, Indira Nagar,<br> Adyar, Chennai - 600 020</p>
-<a href="https://goo.gl/maps/iZ6WNkecYyEqYKBZ6" target="_blank"> Locate Us <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a> 
+<a href="https://goo.gl/maps/iZ6WNkecYyEqYKBZ6" target="_blank"> Locate Us <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="Geri Care Hospital" class="" /></a> 
 
 <span class="text-center"> Anna Nagar </span>
 <p>Plot no.3698, Q Block-100, 3rd Avenue,  <br> Anna Nagar, Chennai - 600 040</p>
-<a href="https://goo.gl/maps/FLwu1wnwvRHQEqdb7" target="_blank"> Locate Us <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
+<a href="https://goo.gl/maps/FLwu1wnwvRHQEqdb7" target="_blank"> Locate Us <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="Geri Care Hospital" class="" /></a>
 </div>
 
 <div class="servce">
-<img src="{{ asset('/public/website/assets/images/icon-2.png') }}" alt="" class="" />
+<img src="{{ asset('/public/website/assets/images/icon-2.png') }}" alt="Geri Care Hospital" class="" />
 <h4> Geri Care Assisted Living </h4>
 <span class="text-center"> Thoraipakam </span>
 <p> Balamurugan Garden 1st Main Road,<br> Thoraipakkam, Chennai - 600 097</p>
-<a href="https://goo.gl/maps/eZNZbkaZcb3gtZqE7" target="_blank"> Locate Us <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a> 
+<a href="https://goo.gl/maps/eZNZbkaZcb3gtZqE7" target="_blank"> Locate Us <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="Geri Care Hospital" class="" /></a> 
 
 <span class="text-center"> RA Puram </span>
 <p>New no.10, Old no.23, 7th Main Road,<br> RA Puram, Chennai - 600 028 </p>
-<a href="https://goo.gl/maps/j6n7agMHAkr19NEf8" target="_blank"> Locate Us <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
+<a href="https://goo.gl/maps/j6n7agMHAkr19NEf8" target="_blank"> Locate Us <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="Geri Care Hospital" class="" /></a>
 </div>  
 
 </div> 

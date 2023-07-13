@@ -5,16 +5,16 @@
 <section class="inner-banner p-0">
 
 <div class="">
-<img src="{{ asset('/public/website/assets/images/banners/patient-stories.jpg') }}" alt="" class="w-100" />
+<img src="{{ asset('/public/website/assets/images/banners/patient-stories.jpg') }}" alt="Geri Care Hospital" class="w-100" />
 </div> 
 
 <div class="banner-liners">
 <div class="container">
 <div class="row">
 <div class="col-lg-12">
-<h4>Patient Stories
+<h1>Patient Stories
 <span> </span>
-</h4>
+</h1>
 <ul>
 <li><a href="./">Home</a></li>   
 <li> > </li>  
@@ -51,7 +51,7 @@ $video_id = $video_id[1];
 @endphp
 <div class="col-lg-3 gallery-img mb-3">
 <a data-fancybox="gallery{{$testimonials['id']}}" href="{{$testimonials['video_link']}}" data-caption="Geri Care - Wellness by Geriatricians">
-<img src=" http://img.youtube.com/vi/{{$video_id}}/mqdefault.jpg" alt="" class="img-fluid" />
+<img src=" http://img.youtube.com/vi/{{$video_id}}/mqdefault.jpg" alt="Geri Care Hospital" class="img-fluid" />
 <span>{{$testimonials['title']}}</span>
 </a> 
 </div> 		

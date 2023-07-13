@@ -39,18 +39,18 @@
 
 <div class="col-lg-5">
 <div class="doc-tor-img">
-<img src="{{ asset('/public/website/assets/images/doctor-img-24.jpg') }}" alt="" class="w-100">
+<img src="{{ asset('/public/website/assets/images/doctor-img-24.jpg') }}" alt="Geri Care Hospital" class="w-100">
 </div>
 </div>
 
 <div class="col-lg-7">
 <div class="doc-tor-cnt">
 <h3>Dr. AP Subash Kumar<span>Breast Surgical Oncologist </span></h3>
-  <h4><img src="{{ asset('/public/website/assets/images/expe.png') }}" alt="" class=""> Experience <span> 35+ Years</span></h4> 
-<h4><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> Education <span>MBBS, FRCSI, FRCS (Ed), FRCS (Gen), CCST- UK
+  <h4><img src="{{ asset('/public/website/assets/images/expe.png') }}" alt="Geri Care Hospital" class=""> Experience <span> 35+ Years</span></h4> 
+<h4><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="Geri Care Hospital" class=""> Education <span>MBBS, FRCSI, FRCS (Ed), FRCS (Gen), CCST- UK
 </span></h4>
- <h4><img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class=""> Languages <span> English, Hindi, தமிழ் </span></h4>
-<h4><img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class=""> Location <span>  </span></h4>  
+ <h4><img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="Geri Care Hospital" class=""> Languages <span> English, Hindi, தமிழ் </span></h4>
+<h4><img src="{{ asset('/public/website/assets/images/location.png') }}" alt="Geri Care Hospital" class=""> Location <span>  </span></h4>  
 </div>
 </div>
 

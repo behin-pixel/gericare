@@ -5,15 +5,14 @@
 <section class="inner-banner p-0">
 
 <div class="">
-<img src="{{ asset('/public/website/assets/images/banners/FAQs.jpg') }}" alt="" class="w-100" />
+<img src="{{ asset('/public/website/assets/images/banners/FAQs.jpg') }}" alt="Geri Care Hospital" class="w-100" />
 </div> 
 
 <div class="banner-liners">
 <div class="container">
 <div class="row">
 <div class="col-lg-12">
-<h4>Frequenty Asked Questions
-</h4>
+<h1>Frequenty Asked Questions</h1>
 <ul>
 <li><a href="./">Home</a></li>   
 <li> > </li>  

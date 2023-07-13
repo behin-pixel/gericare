@@ -5,7 +5,7 @@
 <section class="inner-banner p-0">
 
 <div class="">
-<img src="{{ asset('/public/website/assets/images/banners/assisted.jpg') }}" alt="" class="w-100" />
+<img src="{{ asset('/public/website/assets/images/banners/assisted.jpg') }}" alt="Geri Care Hospital" class="w-100" />
 </div> 
 
 <!-- <div class="banner-liners">
@@ -58,24 +58,24 @@ In an innovative endeavor, Geri Care offers 24/7 Assisted Living and Skilled Nur
 <div class="serveces-doctrs">
 
 <div class="servce">
-<img src="{{ asset('/public/website/assets/images/icon-1.png') }}" alt="" class="" />
+<img src="{{ asset('/public/website/assets/images/icon-1.png') }}" alt="Geri Care Hospital" class="" />
 <h4> Meet our Experts  </h4>
 <p> Interact with our Assisted Living <br>team of experts </p>
-<a href="{{ url('our-doctors') }}"> View All Doctors <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
+<a href="{{ url('our-doctors') }}"> View All Doctors <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="Geri Care Hospital" class="" /></a>
 </div>
 
 <div class="servce">
-<img src="{{ asset('/public/website/assets/images/icon-2.png') }}" alt="" class="" />
+<img src="{{ asset('/public/website/assets/images/icon-2.png') }}" alt="Geri Care Hospital" class="" />
 <h4> Locate our Facility </h4>
 <p> Find an Assisted Living Center <br>near your home </p>
-<a href="#add-res-bar"> View On Maps <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
+<a href="#add-res-bar"> View On Maps <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="Geri Care Hospital" class="" /></a>
 </div>
 
 <div class="servce">
-<img src="{{ asset('/public/website/assets/images/icon-3.png') }}" alt="" class="" />
+<img src="{{ asset('/public/website/assets/images/icon-3.png') }}" alt="Geri Care Hospital" class="" />
 <h4> Book your Visit </h4>
 <p> Schedule an appointment to <br>check out our facility </p>
-<a href="{{ url('book-an-appointment') }}"> Book Your Appointment <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
+<a href="{{ url('book-an-appointment') }}"> Book Your Appointment <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="Geri Care Hospital" class="" /></a>
 </div>
 
 </div>
@@ -84,7 +84,7 @@ In an innovative endeavor, Geri Care offers 24/7 Assisted Living and Skilled Nur
 <h4>24x7 Emergency Ambulance Available <br> Call Us at: <span>+91 44 4061 4061</span></h4>
 
 <div class="ambuloo">
-<img src="{{ asset('/public/website/assets/images/ambulance-servie.gif') }}" alt="" class="" />
+<img src="{{ asset('/public/website/assets/images/ambulance-servie.gif') }}" alt="Geri Care Hospital" class="" />
 </div>
 
 </div> -->
@@ -103,7 +103,7 @@ In an innovative endeavor, Geri Care offers 24/7 Assisted Living and Skilled Nur
 
 <picture>
   <source media="(min-width: 800px)" srcset="{{ asset('/public/website/assets/images/ass.jpg') }}">
-  <img src="{{ asset('/public/website/assets/images/ass-mob.jpg') }}"  class="img-responsive" alt="" > 
+  <img src="{{ asset('/public/website/assets/images/ass-mob.jpg') }}"  class="img-responsive" alt="Geri Care Hospital" > 
 </picture>
 
 </div>
@@ -251,7 +251,7 @@ In an innovative endeavor, Geri Care offers 24/7 Assisted Living and Skilled Nur
 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 <div class="spotlght-lists">
 
-<img class="resp-onsive" src="{{ asset('/public/website/assets/images/Palliative-Care-transformed.jpeg') }}" alt="" >
+<img class="resp-onsive" src="{{ asset('/public/website/assets/images/Palliative-Care-transformed.jpeg') }}" alt="Geri Care Hospital" >
 
 <div class="common-heads aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
 <h2> Palliative Care </h2>
@@ -290,105 +290,105 @@ In an innovative endeavor, Geri Care offers 24/7 Assisted Living and Skilled Nur
 
 <li>
 <div class="geric-img">
-<img src="{{ asset('/public/website/assets/images/fac-1.png') }}" alt="" class=""> 
+<img src="{{ asset('/public/website/assets/images/fac-1.png') }}" alt="Geri Care Hospital" class=""> 
 </div>
 <span> Daily doctor visit </span>    
 </li>
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/fac-2.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/fac-2.png') }}" alt="Geri Care Hospital" class=""> 
   </div>
   <span>  Medication management  </span>    
 </li>
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/fac-3.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/fac-3.png') }}" alt="Geri Care Hospital" class=""> 
   </div>
   <span> 24x7 skilled nursing availability </span>    
 </li>
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/fac-4.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/fac-4.png') }}" alt="Geri Care Hospital" class=""> 
   </div>
   <span> Nutritiously curated food </span>    
 </li>
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/fac-5.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/fac-5.png') }}" alt="Geri Care Hospital" class=""> 
   </div>
   <span> Group yoga & physiotherapy </span>    
 </li>
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/fac-6.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/fac-6.png') }}" alt="Geri Care Hospital" class=""> 
   </div>
   <span> Periodic WhatsApp communication </span>    
 </li>
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/fac-7.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/fac-7.png') }}" alt="Geri Care Hospital" class=""> 
   </div>
   <span> Outside specialist consultations  </span>    
 </li>
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/fac-8.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/fac-8.png') }}" alt="Geri Care Hospital" class=""> 
   </div>
   <span> 24x7 emergency coordination </span>    
 </li>
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/fac-9.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/fac-9.png') }}" alt="Geri Care Hospital" class=""> 
   </div>
   <span> Three levels of nursing care  </span>    
 </li>
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/fac-10.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/fac-10.png') }}" alt="Geri Care Hospital" class=""> 
   </div>
   <span> Weekly geriatrician visits & medical review </span>    
 </li>
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/fac-11.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/fac-11.png') }}" alt="Geri Care Hospital" class=""> 
   </div>
   <span> Indoor & outdoor recreational activities </span>    
 </li>
 
 <li>
 <div class="geric-img">
-<img src="{{ asset('/public/website/assets/images/fac-12.png') }}" alt="" class=""> 
+<img src="{{ asset('/public/website/assets/images/fac-12.png') }}" alt="Geri Care Hospital" class=""> 
 </div>
 <span> Initial Comprehensive Geriatric Assessment (CGA) </span>    
 </li>
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/fac-13.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/fac-13.png') }}" alt="Geri Care Hospital" class=""> 
   </div>
   <span> Fully furnished elder-friendly accommodations </span>    
 </li>
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/fac-14.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/fac-14.png') }}" alt="Geri Care Hospital" class=""> 
   </div>
   <span> Geriatrician reviewed, individualized, care plans </span>    
 </li>
 
 <li>
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/fac-15.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/fac-15.png') }}" alt="Geri Care Hospital" class=""> 
   </div>
   <span> Nutritious vegetarian diet meals & mid-day snacks </span>    
 </li>
@@ -429,42 +429,42 @@ In an innovative endeavor, Geri Care offers 24/7 Assisted Living and Skilled Nur
 <div class="galleruie-slider-rapuram text-end">
 
 <!-- <div class="facity-img">
-<img src="{{ asset('/public/website/assets/images/gallery-3.jpg') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/gallery-3.jpg') }}" alt="Geri Care Hospital" class="">
 </div>  -->
 
 
 
 <div class="facity-img">
-<img src="{{ asset('/public/website/assets/images/gallery-1.jpg') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/gallery-1.jpg') }}" alt="Geri Care Hospital" class="">
 </div> 
 
 <div class="facity-img">
-<img src="{{ asset('/public/website/assets/images/gallery-4.jpg') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/gallery-4.jpg') }}" alt="Geri Care Hospital" class="">
 </div>
 
 <div class="facity-img">
-<img src="{{ asset('/public/website/assets/images/gallery-5.jpg') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/gallery-5.jpg') }}" alt="Geri Care Hospital" class="">
 </div> 
 
 <div class="facity-img">
-<img src="{{ asset('/public/website/assets/images/gallery-6.jpg') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/gallery-6.jpg') }}" alt="Geri Care Hospital" class="">
 </div> 
 
 <!-- <div class="facity-img">
-<img src="{{ asset('/public/website/assets/images/gallery-7.jpg') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/gallery-7.jpg') }}" alt="Geri Care Hospital" class="">
 </div>  -->
 
 <div class="facity-img">
-<img src="{{ asset('/public/website/assets/images/gallery-8.jpg') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/gallery-8.jpg') }}" alt="Geri Care Hospital" class="">
 </div>
 
 <div class="facity-img">
-<img src="{{ asset('/public/website/assets/images/gallery-2.jpg') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/gallery-2.jpg') }}" alt="Geri Care Hospital" class="">
 </div> 
 
 
  <!-- <div class="facity-img">
-<img src="{{ asset('/public/website/assets/images/gallery-4.jpg') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/gallery-4.jpg') }}" alt="Geri Care Hospital" class="">
 </div>    -->
 
 
@@ -512,22 +512,22 @@ In an innovative endeavor, Geri Care offers 24/7 Assisted Living and Skilled Nur
 <div class="serveces-doctrs">
 
 <div class="servce">
-<img src="{{ asset('/public/website/assets/images/Loaction-RA Puram.jpg') }}" alt="" class="w-100" />
+<img src="{{ asset('/public/website/assets/images/Loaction-RA Puram.jpg') }}" alt="Geri Care Hospital" class="w-100" />
 <div class="servrse-contest">
 <h4> Geri Care Assisted Living - RA Puram </h4>
  <p>New #10, Old #23, 7th Main Road, <br> RA Puram, Chennai - 600028</p>
 <!-- <p> No.8, Dr. Nair Road, Behind Vani<br> Mahal, T.Nagar, Chennai - 600 017 </p> -->
-<a href="https://goo.gl/maps/j6n7agMHAkr19NEf8" target="_blank"> View On Map <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
+<a href="https://goo.gl/maps/j6n7agMHAkr19NEf8" target="_blank"> View On Map <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="Geri Care Hospital" class="" /></a>
 </div>
 </div>
 
 <div class="servce">
-<img src="{{ asset('/public/website/assets/images/Loaction-Thoraipakkam.jpg') }}" alt="" class="w-100" />
+<img src="{{ asset('/public/website/assets/images/Loaction-Thoraipakkam.jpg') }}" alt="Geri Care Hospital" class="w-100" />
 <div class="servrse-contest">
 <h4> Geri Care Assisted Living - Thoraipakkam </h4>
 <p>AKS Residency, Balamurugan Garden 1st Main Road, <br> Thoraipakkam, Chennai-600097</p>
 <!-- <p> 100 Feet Velachery, 100 Feet Rd, Ward F,<br> Block 17, Adambakkam, Chennai - 600 088 </p> -->
-<a href="https://goo.gl/maps/eZNZbkaZcb3gtZqE7" target="_blank"> View On Map <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
+<a href="https://goo.gl/maps/eZNZbkaZcb3gtZqE7" target="_blank"> View On Map <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="Geri Care Hospital" class="" /></a>
 </div>
 </div> 
 
@@ -556,14 +556,14 @@ that makes you feel at home...<br>
 <ul>
 <li>
 <a href="https://api.whatsapp.com/send?phone=914440614061&text=Hello GERICARE, I have something to ask..." target="_blank">
-<img src="{{ asset('/public/website/assets/images/wp-cta.png') }}" alt="" class="" />
+<img src="{{ asset('/public/website/assets/images/wp-cta.png') }}" alt="Geri Care Hospital" class="" />
 <span>24*7 SERVICE AVAILABLE</span>  
 +91 44 4061 4061
 </a>
 </li>
 <li>
 <a href="" data-bs-toggle="modal" data-bs-target="#exampleModalCenter">
-<img src="{{ asset('/public/website/assets/images/call-cta.png') }}" alt="" class="" /> 
+<img src="{{ asset('/public/website/assets/images/call-cta.png') }}" alt="Geri Care Hospital" class="" /> 
 Request Call Back
 </a>
 </li>
@@ -594,11 +594,11 @@ Request Call Back
   <div class="revew-box text-center">
 
     <div class="rev-rat d-flex align-items-center justify-content-center">
-    <img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-    <img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-    <img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-    <img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-    <img src="{{ asset('/public/website/assets/images/half-star.png') }}" alt="" class="">
+    <img src="{{ asset('/public/website/assets/images/star.png') }}" alt="Geri Care Hospital" class="">
+    <img src="{{ asset('/public/website/assets/images/star.png') }}" alt="Geri Care Hospital" class="">
+    <img src="{{ asset('/public/website/assets/images/star.png') }}" alt="Geri Care Hospital" class="">
+    <img src="{{ asset('/public/website/assets/images/star.png') }}" alt="Geri Care Hospital" class="">
+    <img src="{{ asset('/public/website/assets/images/half-star.png') }}" alt="Geri Care Hospital" class="">
     </div>
     <div class="rev-cnt">
       {!! $testimonials['description'] !!}
@@ -609,7 +609,7 @@ Request Call Back
     </div>
     <div class="rev-goog d-flex align-items-center justify-content-center">
 
-       <!-- <img src="{{ asset($testimonials["photo"]) }}" alt="" class="">
+       <!-- <img src="{{ asset($testimonials["photo"]) }}" alt="Geri Care Hospital" class="">
 
 
     <img src="{{ asset(Storage::url("app/{$testimonials["photo"]}")) }}"  /> -->

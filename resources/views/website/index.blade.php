@@ -11,10 +11,10 @@
   <div class="carousel-inner">
 
     <div class="carousel-item active">
-      <img src="{{ asset('/public/website/assets/images/banners/banner-1.jpg') }}" alt="" class="desky w-100 d-none d-lg-block" />
-      <img src="{{ asset('/public/website/assets/images/banners/mobile-banner-1.jpg') }}" alt="" class="desky w-100 d-block d-lg-none" />
+      <img src="{{ asset('/public/website/assets/images/banners/banner-1.jpg') }}" alt="Geri Care Hospital" class="desky w-100 d-none d-lg-block" />
+      <img src="{{ asset('/public/website/assets/images/banners/mobile-banner-1.jpg') }}" alt="Geri Care Hospital" class="desky w-100 d-block d-lg-none" />
       
-      <img src="{{ asset('/public/website/assets/images/banners/mobile-banner-1.jpg') }}" alt="" class="moby w-100 d-block d-lg-none" />
+      <img src="{{ asset('/public/website/assets/images/banners/mobile-banner-1.jpg') }}" alt="Geri Care Hospital" class="moby w-100 d-block d-lg-none" />
       <div class="carousel-caption animated animatedFadeInUp fadeInUp">
         <h1 class="text-blue">India's 1<sup>st</sup> Multi-Speciality Hospital for Senior Citizens <br>now in Adambakkam!</h1>
         <!-- <span class="text-blue">for Senior Citizens Gericare Hospital Now in Adambakkam</span> -->
@@ -23,8 +23,8 @@
     </div> 
 
 <!-- <div class="carousel-item">
-  <img src="{{ asset('/public/website/assets/images/banners/Banner-2.jpg') }}" alt="" class="w-100 d-none d-lg-block" />
-  <img src="{{ asset('/public/website/assets/images/banners/Mobile-Banner-2.jpg') }}" alt="" class="w-100 d-block d-lg-none" />
+  <img src="{{ asset('/public/website/assets/images/banners/Banner-2.jpg') }}" alt="Geri Care Hospital" class="w-100 d-none d-lg-block" />
+  <img src="{{ asset('/public/website/assets/images/banners/Mobile-Banner-2.jpg') }}" alt="Geri Care Hospital" class="w-100 d-block d-lg-none" />
   <div class="carousel-caption animated animatedFadeInUp fadeInUp">
     <h1 class="text-blue">Meet the experts of 360 care</h1>
     <span class="text-blue">that reflects passion & utmost respect!</span>
@@ -33,8 +33,8 @@
 </div> 
 
 <div class="carousel-item">
-  <img src="{{ asset('/public/website/assets/images/banners/Banner-3.jpg') }}" alt="" class="w-100 d-none d-lg-block" />
-  <img src="{{ asset('/public/website/assets/images/banners/Mobile-Banner-3.jpg') }}" alt="" class="w-100 d-block d-lg-none" />
+  <img src="{{ asset('/public/website/assets/images/banners/Banner-3.jpg') }}" alt="Geri Care Hospital" class="w-100 d-none d-lg-block" />
+  <img src="{{ asset('/public/website/assets/images/banners/Mobile-Banner-3.jpg') }}" alt="Geri Care Hospital" class="w-100 d-block d-lg-none" />
   <div class="carousel-caption animated animatedFadeInUp fadeInUp">
     <h1 class="text-blue">Care that lasts forever</h1>
     <span class="text-blue">and a sense of personal freedom.</span>
@@ -62,17 +62,17 @@
 <div class="col-lg-6 p-0">
 <div class="full-deg-cnt">
 <div class="logos-pot">
-<img src="{{ asset('/public/website/assets/images/logo-2.png') }}" alt="">
+<img src="{{ asset('/public/website/assets/images/logo-2.png') }}" alt="Geri Care Hospital">
 </div>
 <span>Where internationally renowned Geriatricians take a multidisciplinary and passionate approach to the treatment and rehabilitation of seniors.</span>
 <div class="red-mre">
-<a href="{{ url('gericare-hospital') }}">Read More <img src="{{ asset('/public/website/assets/images/red-mre.png') }}" alt=""></div></a>
+<a href="{{ url('gericare-hospital') }}">Read More <img src="{{ asset('/public/website/assets/images/red-mre.png') }}" alt="Geri Care Hospital"></div></a>
 </div>
 </div> 
 
 <div class="col-lg-6 p-0">
 <div class="full-deg-img">
-<img src="{{ asset('/public/website/assets/images/Geri-Care-Hospitals.jpg') }}" alt="" class="w-100">
+<img src="{{ asset('/public/website/assets/images/Geri-Care-Hospitals.jpg') }}" alt="Geri Care Hospital" class="w-100">
 </div>
 </div>
 
@@ -85,17 +85,17 @@
 <div class="col-lg-6 p-0">
 <div class="full-deg-cnt">
 <div class="logos-pot">
-<img src="{{ asset('/public/website/assets/images/logo-1.png') }}" alt="">
+<img src="{{ asset('/public/website/assets/images/logo-1.png') }}" alt="Geri Care Hospital">
 </div>
 <span>Experience the first-of-its-kind, 24x7 Assisted Living & Skilled Nursing services combined with decades <br>of geriatric expertise.</span>
 <div class="red-mre">
-<a href="{{ url('assisted-living') }}">Read More <img src="{{ asset('/public/website/assets/images/red-mre.png') }}" alt=""></div></a>
+<a href="{{ url('assisted-living') }}">Read More <img src="{{ asset('/public/website/assets/images/red-mre.png') }}" alt="Geri Care Hospital"></div></a>
 </div>
 </div> 
 
 <div class="col-lg-6 p-0">
 <div class="full-deg-img">
-<img src="{{ asset('/public/website/assets/images/Geri-Care-Assisted-Living.jpg') }}" alt="" class="w-100">
+<img src="{{ asset('/public/website/assets/images/Geri-Care-Assisted-Living.jpg') }}" alt="Geri Care Hospital" class="w-100">
 </div>
 </div>
 
@@ -108,17 +108,17 @@
 <div class="col-lg-6 p-0">
 <div class="full-deg-cnt">
 <div class="logos-pot">
-<img src="{{ asset('/public/website/assets/images/logo-4.png') }}" alt="">
+<img src="{{ asset('/public/website/assets/images/logo-4.png') }}" alt="Geri Care Hospital">
 </div>
 <span>Walk into the best geriatric clinic in the city and say hello to exceptional treatment,  undivided attention <br> and long-lasting care.</span>
 <div class="red-mre">
-<a href="{{ url('about-clinics') }}">Read More <img src="{{ asset('/public/website/assets/images/red-mre.png') }}" alt=""></div></a>
+<a href="{{ url('about-clinics') }}">Read More <img src="{{ asset('/public/website/assets/images/red-mre.png') }}" alt="Geri Care Hospital"></div></a>
 </div>
 </div> 
 
 <div class="col-lg-6 p-0">
 <div class="full-deg-img">
-<img src="{{ asset('/public/website/assets/images/Geri-Care-Clinics.jpg') }}" alt="" class="w-100">
+<img src="{{ asset('/public/website/assets/images/Geri-Care-Clinics.jpg') }}" alt="Geri Care Hospital" class="w-100">
 </div>
 </div>
 
@@ -131,17 +131,17 @@
 <div class="col-lg-6 p-0">
 <div class="full-deg-cnt">
 <div class="logos-pot">
-<img src="{{ asset('/public/website/assets/images/logo-3.png') }}" alt="">
+<img src="{{ asset('/public/website/assets/images/logo-3.png') }}" alt="Geri Care Hospital">
 </div>
 <span>Get immediate and timely care from our experts in the comfort of your home. Book your appointment with our doctors for comprehensive consulting.</span>
 <div class="red-mre">
-<a href="{{ url('homecare') }}">Read More <img src="{{ asset('/public/website/assets/images/red-mre.png') }}" alt=""></div></a>
+<a href="{{ url('homecare') }}">Read More <img src="{{ asset('/public/website/assets/images/red-mre.png') }}" alt="Geri Care Hospital"></div></a>
 </div>
 </div> 
 
 <div class="col-lg-6 p-0">
 <div class="full-deg-img">
-<img src="{{ asset('/public/website/assets/images/Geri-Care-Homecare.jpg') }}" alt="" class="w-100">
+<img src="{{ asset('/public/website/assets/images/Geri-Care-Homecare.jpg') }}" alt="Geri Care Hospital" class="w-100">
 </div>
 </div>
 
@@ -176,9 +176,9 @@
 
 <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12"> 
 <div class="expert-img">
-<img src="{{ asset('/public/website/assets/images/expert.jpg') }}" alt="" class="w-100">
+<img src="{{ asset('/public/website/assets/images/expert.jpg') }}" alt="Geri Care Hospital" class="w-100">
 <div class="gertiarics">
-<img src="{{ asset('/public/website/assets/images/hand.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/hand.png') }}" alt="Geri Care Hospital" class="">
 <span>3+ Decades of Experience</span>
 </div>
 </div>
@@ -197,11 +197,11 @@
 <div class="call-box text-end">
 <h4>24x7 Ambulance Service Available</h4>
 <div class="common-button">
-<a href="tel:+914440614061"><img src="{{ asset('/public/website/assets/images/call.png') }}" alt="" class=""> +91 44 4061 4061</a>
+<a href="tel:+914440614061"><img src="{{ asset('/public/website/assets/images/call.png') }}" alt="Geri Care Hospital" class=""> +91 44 4061 4061</a>
 </div>
 
 <div class="ablan-ce">
-<img src="{{ asset('/public/website/assets/images/ambulance.gif') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/ambulance.gif') }}" alt="Geri Care Hospital" class="">
 </div>
 </div>
 </div>
@@ -235,7 +235,7 @@
     <div class="tab-pane fade show active" id="v-pills-1" role="tabpanel" aria-labelledby="v-pills-1-tab">
      
     <div class="skills-img">
-    <img src="{{ asset('/public/website/assets/images/hospitalo.jpg') }}" alt="" class="w-100">
+    <img src="{{ asset('/public/website/assets/images/hospitalo.jpg') }}" alt="Geri Care Hospital" class="w-100">
     <div class="skills-cnt">
     <span>Round-the-clock availability, ensuring that patients receive immediate care and attention.</span>  
     </div>
@@ -246,7 +246,7 @@
     <div class="tab-pane fade" id="v-pills-2" role="tabpanel" aria-labelledby="v-pills-2-tab">
         
     <div class="skills-img">
-    <img src="{{ asset('/public/website/assets/images/hospitalo-1.jpg') }}" alt="" class="w-100">
+    <img src="{{ asset('/public/website/assets/images/hospitalo-1.jpg') }}" alt="Geri Care Hospital" class="w-100">
     <div class="skills-cnt">
     <span>Long-standing experience in treating and managing the unique medical needs of older adults.</span>  
     </div>
@@ -257,7 +257,7 @@
     <div class="tab-pane fade" id="v-pills-3" role="tabpanel" aria-labelledby="v-pills-3-tab">
       
     <div class="skills-img">
-    <img src="{{ asset('/public/website/assets/images/360-personalized-care.jpg') }}" alt="" class="w-100">
+    <img src="{{ asset('/public/website/assets/images/360-personalized-care.jpg') }}" alt="Geri Care Hospital" class="w-100">
     <div class="skills-cnt">
     <span>Comprehensive and customised treatment plans that are unique and enriching for seniors.</span>  
     </div>
@@ -268,7 +268,7 @@
     <div class="tab-pane fade" id="v-pills-4" role="tabpanel" aria-labelledby="v-pills-4-tab"> 
       
     <div class="skills-img">
-    <img src="{{ asset('/public/website/assets/images/expert-geriatricians.jpg') }}" alt="" class="w-100">
+    <img src="{{ asset('/public/website/assets/images/expert-geriatricians.jpg') }}" alt="Geri Care Hospital" class="w-100">
     <div class="skills-cnt">
     <span>Medical professionals with extensive knowledge and experience in treating elderly patients.</span>  
     </div>
@@ -279,7 +279,7 @@
     <div class="tab-pane fade" id="v-pills-5" role="tabpanel" aria-labelledby="v-pills-5-tab"> 
             
     <div class="skills-img">
-    <img src="{{ asset('/public/website/assets/images/best-in-class-staff.jpg') }}" alt="" class="w-100">
+    <img src="{{ asset('/public/website/assets/images/best-in-class-staff.jpg') }}" alt="Geri Care Hospital" class="w-100">
     <div class="skills-cnt">
     <span>Dedicated and skilled staff that works collaboratively to ensure comfort and well-being.</span>  
     </div>
@@ -288,7 +288,7 @@
     </div>
 
     <div class="dts-picx">
-    <img src="{{ asset('/public/website/assets/images/dots.png') }}" alt="" class="w-100">  
+    <img src="{{ asset('/public/website/assets/images/dots.png') }}" alt="Geri Care Hospital" class="w-100">  
     </div>
 
   </div>
@@ -318,11 +318,11 @@
   <div class="revew-box text-center">
 
     <div class="rev-rat d-flex align-items-center justify-content-center">
-    <img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-    <img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-    <img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-    <img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-    <img src="{{ asset('/public/website/assets/images/half-star.png') }}" alt="" class="">
+    <img src="{{ asset('/public/website/assets/images/star.png') }}" alt="Geri Care Hospital" class="">
+    <img src="{{ asset('/public/website/assets/images/star.png') }}" alt="Geri Care Hospital" class="">
+    <img src="{{ asset('/public/website/assets/images/star.png') }}" alt="Geri Care Hospital" class="">
+    <img src="{{ asset('/public/website/assets/images/star.png') }}" alt="Geri Care Hospital" class="">
+    <img src="{{ asset('/public/website/assets/images/half-star.png') }}" alt="Geri Care Hospital" class="">
     </div>
     <div class="rev-cnt">
       {!! $testimonials['description'] !!}
@@ -331,7 +331,7 @@
     <h4> {{$testimonials['title']}}<span> {{$testimonials['designation']}} </span></h4>
     </div>
     <div class="rev-goog d-flex align-items-center justify-content-center">
-    <!-- <img src="{{ asset($testimonials["photo"]) }}" alt="" class="">
+    <!-- <img src="{{ asset($testimonials["photo"]) }}" alt="Geri Care Hospital" class="">
 
 
     <img src="{{ asset(Storage::url("app/{$testimonials["photo"]}")) }}"  /> -->
@@ -376,7 +376,7 @@
 <li>
 <a href="{{ url('hospital-departments') }}">
 <div class="geric-img">
-<img src="{{ asset('/public/website/assets/images/icn-18.png') }}" alt="" class=""> 
+<img src="{{ asset('/public/website/assets/images/icn-18.png') }}" alt="Geri Care Hospital" class=""> 
 </div>
 <span> Geriatric Medicine </span>
 </a>      
@@ -385,7 +385,7 @@
 <li>
 <a href="{{ url('hospital-departments') }}">
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-1.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-1.png') }}" alt="Geri Care Hospital" class=""> 
   </div>
   <span> Geriatric Cardiology  </span>  
 </a>   
@@ -394,7 +394,7 @@
 <li>
 <a href="{{ url('hospital-departments') }}">
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-4.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-4.png') }}" alt="Geri Care Hospital" class=""> 
   </div>
   <span> Ortho Geriatrics </span>  
 </a>   
@@ -403,7 +403,7 @@
 <li>
 <a href="{{ url('hospital-departments') }}">
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-10.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-10.png') }}" alt="Geri Care Hospital" class=""> 
   </div>
   <span> Geriatric Psychiatry </span>  
 </a>   
@@ -412,7 +412,7 @@
 <li>
 <a href="{{ url('hospital-departments') }}">
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-6.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-6.png') }}" alt="Geri Care Hospital" class=""> 
   </div>
   <span>Geriatric Neurology </span>  
 </a>   
@@ -421,7 +421,7 @@
 <li>
 <a href="{{ url('hospital-departments') }}">
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-7.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-7.png') }}" alt="Geri Care Hospital" class=""> 
   </div>
   <span>Geriatric Surgery </span> 
 </a>    
@@ -430,7 +430,7 @@
 <li>
 <a href="{{ url('hospital-departments') }}">
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-2.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-2.png') }}" alt="Geri Care Hospital" class=""> 
   </div>
   <span> Geriatric Oncology </span>  
 </a>   
@@ -439,7 +439,7 @@
 <li>
 <a href="{{ url('hospital-departments') }}">
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-9.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-9.png') }}" alt="Geri Care Hospital" class=""> 
   </div>
   <span> Geriatric Urology </span> 
 </a>    
@@ -450,7 +450,7 @@
 <li>
 <a href="{{ url('hospital-departments') }}">
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-5.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-5.png') }}" alt="Geri Care Hospital" class=""> 
   </div>
   <span> Gasteroentrology </span>  
 </a>   
@@ -460,7 +460,7 @@
 <li>
 <a href="{{ url('hospital-departments') }}">
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-8.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-8.png') }}" alt="Geri Care Hospital" class=""> 
   </div>
   <span> Pulmonology </span>  
 </a>   
@@ -469,7 +469,7 @@
 <li>
 <a href="{{ url('hospital-departments') }}">
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-16.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-16.png') }}" alt="Geri Care Hospital" class=""> 
   </div>
   <span>Geriatric  ICU </span>  
 </a>   
@@ -478,7 +478,7 @@
 <li>
 <a href="{{ url('hospital-departments') }}">
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-11.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-11.png') }}" alt="Geri Care Hospital" class=""> 
   </div>
   <span> Dermatology </span>  
 </a>   
@@ -487,7 +487,7 @@
 <li>
 <a href="{{ url('hospital-departments') }}">
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-12.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-12.png') }}" alt="Geri Care Hospital" class=""> 
   </div>
   <span> Vascular Surgery </span>  
 </a>   
@@ -496,7 +496,7 @@
 <li>
 <a href="{{ url('hospital-departments') }}">
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-13.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-13.png') }}" alt="Geri Care Hospital" class=""> 
   </div>
   <span> Uro Gynaecology </span>  
 </a>   
@@ -505,7 +505,7 @@
 <li>
 <a href="{{ url('hospital-departments') }}">
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-15.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-15.png') }}" alt="Geri Care Hospital" class=""> 
   </div>
   <span> Nephrology and Dialysis 24x7 </span>  
 </a>   
@@ -514,7 +514,7 @@
 <li>
 <a href="{{ url('hospital-departments') }}">
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-17.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-17.png') }}" alt="Geri Care Hospital" class=""> 
   </div>
   <span> ENT </span>   
 </a>  
@@ -523,7 +523,7 @@
 <li>
 <a href="{{ url('hospital-departments') }}">
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-20.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-20.png') }}" alt="Geri Care Hospital" class=""> 
   </div>
   <span> Ophthalmology </span>   
 </a>  
@@ -532,7 +532,7 @@
 <li>
 <a href="{{ url('hospital-departments') }}">
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-21.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-21.png') }}" alt="Geri Care Hospital" class=""> 
   </div>
   <span> Dentistry </span>  
 </a>   
@@ -541,7 +541,7 @@
 <li>
 <a href="{{ url('hospital-departments') }}">
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-14.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-14.png') }}" alt="Geri Care Hospital" class=""> 
   </div>
   <span>Geriatric Physiotherapy </span> 
 </a>    
@@ -550,7 +550,7 @@
 <li>
 <a href="{{ url('hospital-departments') }}">
 <div class="geric-img">
-  <img src="{{ asset('/public/website/assets/images/icn-22.png') }}" alt="" class=""> 
+  <img src="{{ asset('/public/website/assets/images/icn-22.png') }}" alt="Geri Care Hospital" class=""> 
   </div>
   <span> Lab Services </span> 
 </a>   
@@ -589,7 +589,7 @@
 
 <div class="grp-str">
 <div class="grp-img">
-<img src="{{ asset('/public/website/assets/images/grp-1.jpg') }}" alt="" class="w-100"> 
+<img src="{{ asset('/public/website/assets/images/grp-1.jpg') }}" alt="Geri Care Hospital" class="w-100"> 
 <div class="post-dte">
 <h4>19<span>Nov</span></h4>
 </div>
@@ -601,7 +601,7 @@
 
 <div class="grp-str">
 <div class="grp-img">
-<img src="{{ asset('/public/website/assets/images/grp-2.jpg') }}" alt="" class="w-100"> 
+<img src="{{ asset('/public/website/assets/images/grp-2.jpg') }}" alt="Geri Care Hospital" class="w-100"> 
 <div class="post-dte">
 <h4>19<span>Nov</span></h4>
 </div>
@@ -613,7 +613,7 @@
 
 <div class="grp-str">
 <div class="grp-img">
-<img src="{{ asset('/public/website/assets/images/grp-3.jpg') }}" alt="" class="w-100"> 
+<img src="{{ asset('/public/website/assets/images/grp-3.jpg') }}" alt="Geri Care Hospital" class="w-100"> 
 <div class="post-dte">
 <h4>20<span>Nov</span></h4>
 </div>
@@ -644,50 +644,50 @@
 <div class="blogs-strture">
 
 <div class="main-srvcestr">
-<img src="{{ asset('/public/website/assets/images/blog-img-1.jpg') }}" alt="" class="" />
+<img src="{{ asset('/public/website/assets/images/blog-img-1.jpg') }}" alt="Geri Care Hospital" class="" />
 <div class="dmy">
 Nov 04 2019
 </div>
 <div class="minrester">
 <h4>India’s Leading Geriatricians now in your Parent’s Living Room!</h4>
 <p>According to Indian Ageing Report 2017, 12 crore adults – almost the population of Japan....</p>
-<a href="https://www.gericare.in/blog/general/indias-leading-geriatricians-now-in-your-parents-living-room/" target="_blank">Read More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
+<a href="https://www.gericare.in/blog/general/indias-leading-geriatricians-now-in-your-parents-living-room/" target="_blank">Read More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="Geri Care Hospital" class="" /></a>
 </div>
 </div> 
 
 <div class="main-srvcestr">
-<img src="{{ asset('/public/website/assets/images/blog-img-2.jpg') }}" alt="" class="" />
+<img src="{{ asset('/public/website/assets/images/blog-img-2.jpg') }}" alt="Geri Care Hospital" class="" />
 <div class="dmy">
 Nov 04 2019
 </div>
 <div class="minrester">
 <h4>Are you forgetting Dementia?</h4>
 <p>Dr.K.Vasanth MD (Geriatrics) about memory problems in elderly. I have memory loss!! ... </p>
-<a href="https://www.gericare.in/blog/general/are-you-forgetting-dementia/" target="_blank">Read More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
+<a href="https://www.gericare.in/blog/general/are-you-forgetting-dementia/" target="_blank">Read More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="Geri Care Hospital" class="" /></a>
 </div>
 </div> 
 
 <div class="main-srvcestr">
-<img src="{{ asset('/public/website/assets/images/blog-img-3.jpg') }}" alt="" class="" />
+<img src="{{ asset('/public/website/assets/images/blog-img-3.jpg') }}" alt="Geri Care Hospital" class="" />
 <div class="dmy">
 Nov 04 2019
 </div>
 <div class="minrester">
 <h4>Some Myths about Aging</h4>
 <p>Dr.K.Vasanth MD (Geriatrics) about some false assumptions of ageing. 1. All elderly people ...</p>
-<a href="https://www.gericare.in/blog/gericare/some-myths-of-aging/" target="_blank">Read More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
+<a href="https://www.gericare.in/blog/gericare/some-myths-of-aging/" target="_blank">Read More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="Geri Care Hospital" class="" /></a>
 </div>
 </div> 
 
 <div class="main-srvcestr">
-<img src="{{ asset('/public/website/assets/images/blog-img-4.jpg') }}" alt="" class="" />
+<img src="{{ asset('/public/website/assets/images/blog-img-4.jpg') }}" alt="Geri Care Hospital" class="" />
 <div class="dmy">
 Nov 04 2019
 </div>
 <div class="minrester">
 <h4>Feel at Home with India’s 1st Homecare run by Specialist Geriatricians</h4>
 <p>We know what it feels like to leave aging parents home alone during an important official visit. We....</p>
-<a href="https://www.gericare.in/blog/general/feel-at-home-with-indias-first-homecare-run-by-specialist-geriatricians/" target="_blank">Read More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
+<a href="https://www.gericare.in/blog/general/feel-at-home-with-indias-first-homecare-run-by-specialist-geriatricians/" target="_blank">Read More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="Geri Care Hospital" class="" /></a>
 </div>
 </div> 
 
@@ -713,35 +713,35 @@ Nov 04 2019
 </div>
 
 <div class="text-center mb-20">
-<img src="{{ asset('/public/website/assets/images/people-love.png') }}" alt="" class="w-100">
+<img src="{{ asset('/public/website/assets/images/people-love.png') }}" alt="Geri Care Hospital" class="w-100">
 </div>
 
 </div>
 
 <div class="col-lg-12">
 <div class="pept-cnt">
-<h4><img src="{{ asset('/public/website/assets/images/dec-1.png') }}" alt="" class=""> Decades of Experience </h4>
+<h4><img src="{{ asset('/public/website/assets/images/dec-1.png') }}" alt="Geri Care Hospital" class=""> Decades of Experience </h4>
 <p>Decades of experience bring the latest medical practices and technologies together for the best possible care.</p>
 </div>
 </div>
 
 <div class="col-lg-12">
 <div class="pept-cnt">
-<h4><img src="{{ asset('/public/website/assets/images/dec-2.png') }}" alt="" class=""> 24x7 Availability </h4>
+<h4><img src="{{ asset('/public/website/assets/images/dec-2.png') }}" alt="Geri Care Hospital" class=""> 24x7 Availability </h4>
 <p>Our geriatric hospital is open 24x7 with round-the-clock staff to provide care and support for elderly patients.</p>
 </div>
 </div>
 
 <div class="col-lg-12">
 <div class="pept-cnt">
-<h4><img src="{{ asset('/public/website/assets/images/dec-3.png') }}" alt="" class=""> Expert Geriatricians</h4>
+<h4><img src="{{ asset('/public/website/assets/images/dec-3.png') }}" alt="Geri Care Hospital" class=""> Expert Geriatricians</h4>
 <p>Our team of expert geriatricians provides high-quality care to our patients.</p>
 </div>
 </div>
 
 <div class="col-lg-12">
 <div class="pept-cnt">
-<h4><img src="{{ asset('/public/website/assets/images/dec-4.png') }}" alt="" class=""> Best-in-Class Staff</h4>
+<h4><img src="{{ asset('/public/website/assets/images/dec-4.png') }}" alt="Geri Care Hospital" class=""> Best-in-Class Staff</h4>
 <p>We employ the best-in-class staff dedicated to providing exceptional care to our patients.</p>
 </div>
 </div>
@@ -775,38 +775,38 @@ Nov 04 2019
 <div class="geriatic-care">
 
 <div class="ger-care">
-<img src="{{ asset('/public/website/assets/images/Mobile-Geriatric-Cardiology.jpg') }}" alt="" class="w-100">
+<img src="{{ asset('/public/website/assets/images/Mobile-Geriatric-Cardiology.jpg') }}" alt="Geri Care Hospital" class="w-100">
 <div class="ger-cntnt text-start">
 <h4>Geriatric Oncology </h4>
 <p>This is a field of medicine that specializes on the treatment of heart diseases in older patients.</p>
-<a href="">Read More <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class=""></a>
+<a href="">Read More <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="Geri Care Hospital" class=""></a>
 </div>
 </div>
 
 <div class="ger-care">
-<img src="{{ asset('/public/website/assets/images/Mobile--Geriatric-Oncology.jpg') }}" alt="" class="w-100">
+<img src="{{ asset('/public/website/assets/images/Mobile--Geriatric-Oncology.jpg') }}" alt="Geri Care Hospital" class="w-100">
 <div class="ger-cntnt text-start">
 <h4>Geriatric Oncology</h4>
 <p>This field of medicine focuses on the diagnosis and treatment of cancer in older patients.</p>
-<a href="">Read More <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class=""></a>
+<a href="">Read More <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="Geri Care Hospital" class=""></a>
 </div>
 </div> 
 
 <div class="ger-care">
-<img src="{{ asset('/public/website/assets/images/mobile--Gastroenterology.jpg') }}" alt="" class="w-100">
+<img src="{{ asset('/public/website/assets/images/mobile--Gastroenterology.jpg') }}" alt="Geri Care Hospital" class="w-100">
 <div class="ger-cntnt text-start">
 <h4>Gastroenterology</h4>
 <p>This medical specialty focuses on the diagnosis and treatment of diseases and disorders affecting the digestive system.</p>
-<a href="">Read More <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class=""></a>
+<a href="">Read More <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="Geri Care Hospital" class=""></a>
 </div>
 </div>
 
 <div class="ger-care">
-<img src="{{ asset('/public/website/assets/images/Mobie--Orthogeriatrics.jpg') }}" alt="" class="w-100">
+<img src="{{ asset('/public/website/assets/images/Mobie--Orthogeriatrics.jpg') }}" alt="Geri Care Hospital" class="w-100">
 <div class="ger-cntnt text-start">
 <h4>Orthogeriatrics</h4>
 <p>This field of medicine focuses on the care of elderly patients who have suffered orthopedic injuries.</p>
-<a href="">Read More <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class=""></a>
+<a href="">Read More <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="Geri Care Hospital" class=""></a>
 </div>
 </div>
 
@@ -835,7 +835,7 @@ Nov 04 2019
 <div class="press-detils">
 
 <div class="press-cnt">
-<img src="{{ asset('/public/website/assets/images/grp-1.jpg') }}" alt="" class="w-100">
+<img src="{{ asset('/public/website/assets/images/grp-1.jpg') }}" alt="Geri Care Hospital" class="w-100">
 <div class="press-cntnt text-start">
 <span>09 May 2023 </span>
 <h4>First-of-its-kind Assisted Living center lauched in RA Puram </h4>
@@ -843,7 +843,7 @@ Nov 04 2019
 </div>
 
 <div class="press-cnt">
-<img src="{{ asset('/public/website/assets/images/grp-1.jpg') }}" alt="" class="w-100">
+<img src="{{ asset('/public/website/assets/images/grp-1.jpg') }}" alt="Geri Care Hospital" class="w-100">
 <div class="press-cntnt text-start">
 <span>09 May 2023 </span>
 <h4>First-of-its-kind Assisted Living center lauched in RA Puram </h4>
@@ -876,7 +876,7 @@ Nov 04 2019
 </span>
 
 <div class="common-button">
-<a href="tel:+914440614061" target="_blank"><img src="{{ asset('/public/website/assets/images/call.png') }}" alt="" class=""> +91 44 4061 4061</a>
+<a href="tel:+914440614061" target="_blank"><img src="{{ asset('/public/website/assets/images/call.png') }}" alt="Geri Care Hospital" class=""> +91 44 4061 4061</a>
 </div>
 
 </div>

@@ -5,16 +5,16 @@
 <section class="inner-banner p-0">
 
 <div class="">
-<img src="{{ asset('/public/website/assets/images/banners/ned-kit.jpg') }}" alt="" class="w-100" />
+<img src="{{ asset('/public/website/assets/images/banners/ned-kit.jpg') }}" alt="Geri Care Hospital" class="w-100" />
 </div> 
 
 <div class="banner-liners">
 <div class="container">
 <div class="row">
 <div class="col-lg-12">
-<h4>Media ToolKit
+<h1>Media ToolKit
 <span> </span>
-</h4>
+</h1>
 <ul>
 <li><a href="../">Home</a></li>   
 <li> > </li>  
@@ -42,38 +42,38 @@
 <div class="serveces-doctrs">
 
 <div class="servce text-center">
-<img src="{{ asset('/public/website/assets/images/logo.png') }}" alt="" class="w-100" />
+<img src="{{ asset('/public/website/assets/images/logo.png') }}" alt="Geri Care Hospital" class="w-100" />
 <h4> Available formats  </h4>
 <p> JPG | PNG | SVG </p>
-<a href="{{ url('/public/website/uploads/gericare.zip') }}"> Download <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
+<a href="{{ url('/public/website/uploads/gericare.zip') }}"> Download <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="Geri Care Hospital" class="" /></a>
 </div> 
 
 <div class="servce text-center">
-<img src="{{ asset('/public/website/assets/images/logo-1.png') }}" alt="" class="logo-offet" />
+<img src="{{ asset('/public/website/assets/images/logo-1.png') }}" alt="Geri Care Hospital" class="logo-offet" />
 <h4> Available formats  </h4>
 <p> JPG | PNG | SVG </p>
-<a href="{{ url('/public/website/uploads/gericare-assisted-living.zip') }}"> Download <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
+<a href="{{ url('/public/website/uploads/gericare-assisted-living.zip') }}"> Download <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="Geri Care Hospital" class="" /></a>
 </div> 
 
 <div class="servce text-center">
-<img src="{{ asset('/public/website/assets/images/logo-2.png') }}" alt="" class="logo-offet" />
+<img src="{{ asset('/public/website/assets/images/logo-2.png') }}" alt="Geri Care Hospital" class="logo-offet" />
 <h4> Available formats  </h4>
 <p> JPG | PNG | SVG </p>
-<a href="{{ url('/public/website/uploads/gericare-hospital.zip') }}"> Download <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
+<a href="{{ url('/public/website/uploads/gericare-hospital.zip') }}"> Download <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="Geri Care Hospital" class="" /></a>
 </div>  
 
 <div class="servce text-center">
-<img src="{{ asset('/public/website/assets/images/logo-3.png') }}" alt="" class="logo-offet" />
+<img src="{{ asset('/public/website/assets/images/logo-3.png') }}" alt="Geri Care Hospital" class="logo-offet" />
 <h4> Available formats  </h4>
 <p> JPG | PNG | SVG </p>
-<a href="{{ url('/public/website/uploads/gericare-homecare.zip') }}"> Download <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
+<a href="{{ url('/public/website/uploads/gericare-homecare.zip') }}"> Download <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="Geri Care Hospital" class="" /></a>
 </div>  
 
 <div class="servce text-center">
-<img src="{{ asset('/public/website/assets/images/logo-4.png') }}" alt="" class="logo-offet" />
+<img src="{{ asset('/public/website/assets/images/logo-4.png') }}" alt="Geri Care Hospital" class="logo-offet" />
 <h4> Available formats  </h4>
 <p> JPG | PNG | SVG </p>
-<a href="{{ url('/public/website/uploads/gericare-clinic.zip') }}"> Download <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
+<a href="{{ url('/public/website/uploads/gericare-clinic.zip') }}"> Download <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="Geri Care Hospital" class="" /></a>
 </div> 
 
 </div>  

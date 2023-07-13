@@ -31,7 +31,7 @@
 @include('website.servicessidebar')
 
 <div class="col-lg-9">
-<img src="{{ asset('/public/website/assets/images/Home-Sample-Collection.jpg') }}" alt="" class="w-100 mb-4">
+<img src="{{ asset('/public/website/assets/images/Home-Sample-Collection.jpg') }}" alt="Geri Care Hospital" class="w-100 mb-4">
 <div class="common-para">
 <p>To avoid the inconvenience of visiting a laboratory or clinic, healthcare professionals can offer home blood/sample collection services. A phlebotomist or trained nurse can visit the patient's home, collect blood samples or other necessary specimens, and send them to the laboratory for testing. This service is especially beneficial for elderly patients who have mobility issues or find it challenging to travel to a healthcare facility.</p>
 </div>
@@ -57,14 +57,14 @@ Bring You Peace of Mind
 <ul>
 <li>
 <a href="https://api.whatsapp.com/send?phone=914440614061&text=Hello GERICARE, I have something to ask..." target="_blank">
-<img src="{{ asset('/public/website/assets/images/wp-cta.png') }}" alt="" class="" />
+<img src="{{ asset('/public/website/assets/images/wp-cta.png') }}" alt="Geri Care Hospital" class="" />
 <span>24*7 SERVICE AVAILABLE</span>  
 +91 44 4061 4061
 </a>
 </li>
 <li>
 <a href="" data-bs-toggle="modal" data-bs-target="#exampleModalCenter">
-<img src="{{ asset('/public/website/assets/images/call-cta.png') }}" alt="" class="" /> 
+<img src="{{ asset('/public/website/assets/images/call-cta.png') }}" alt="Geri Care Hospital" class="" /> 
 Request Call Back
 </a>
 </li>

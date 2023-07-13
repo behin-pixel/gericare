@@ -5,7 +5,7 @@
 <div class="row">
 
 <div class="cont-mob-frm">
-<img src="{{ asset('/public/website/assets/images/surps.jpg') }}" alt="" class="w-100">
+<img src="{{ asset('/public/website/assets/images/surps.jpg') }}" alt="Geri Care Hospital" class="w-100">
 
 <div class="cntr-frm">
 

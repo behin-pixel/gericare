@@ -5,16 +5,16 @@
 <section class="inner-banner p-0">
 
 <div class="">
-<img src="{{ asset('/public/website/assets/images/banners/patient-stories.jpg') }}" alt="" class="w-100" />
+<img src="{{ asset('/public/website/assets/images/banners/patient-stories.jpg') }}" alt="Geri Care Hospital" class="w-100" />
 </div> 
 
 <div class="banner-liners">
 <div class="container">
 <div class="row">
 <div class="col-lg-12">
-<h4>Patient Stories
+<h1>Patient Stories
 <span> </span>
-</h4>
+</h1>
 <ul>
 <li><a href="./">Home</a></li>   
 <li> > </li>  
@@ -47,11 +47,11 @@
 	
 <div class="testimonials"> 
 <div class="rev-rat">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-<img src="{{ asset('/public/website/assets/images/half-star.png') }}" alt="" class="">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="Geri Care Hospital" class="">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="Geri Care Hospital" class="">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="Geri Care Hospital" class="">
+<img src="{{ asset('/public/website/assets/images/star.png') }}" alt="Geri Care Hospital" class="">
+<img src="{{ asset('/public/website/assets/images/half-star.png') }}" alt="Geri Care Hospital" class="">
 </div>    
 <span>{{$testimonials['title']}} <small> {{$testimonials['designation']}}</small></span>
 <div class="testimonial-content mCustomScrollbar"> 

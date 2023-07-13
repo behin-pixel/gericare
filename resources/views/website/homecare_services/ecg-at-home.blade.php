@@ -31,7 +31,7 @@
 @include('website.servicessidebar')
 
 <div class="col-lg-9">
-<img src="{{ asset('/public/website/assets/images/ECG-at-Home.jpg') }}" alt="" class="w-100 mb-4">
+<img src="{{ asset('/public/website/assets/images/ECG-at-Home.jpg') }}" alt="Geri Care Hospital" class="w-100 mb-4">
 <div class="common-para">
 <p>Electrocardiogram (ECG) is a common diagnostic test for assessing heart function. Healthcare professionals can perform ECGs at home using portable equipment, allowing for convenient monitoring and evaluation of the patient's cardiac health.</p>
 </div>
@@ -57,14 +57,14 @@ Bring You Peace of Mind
 <ul>
 <li>
 <a href="https://api.whatsapp.com/send?phone=914440614061&text=Hello GERICARE, I have something to ask..." target="_blank">
-<img src="{{ asset('/public/website/assets/images/wp-cta.png') }}" alt="" class="" />
+<img src="{{ asset('/public/website/assets/images/wp-cta.png') }}" alt="Geri Care Hospital" class="" />
 <span>24*7 SERVICE AVAILABLE</span>  
 +91 44 4061 4061
 </a>
 </li>
 <li>
 <a href="" data-bs-toggle="modal" data-bs-target="#exampleModalCenter">
-<img src="{{ asset('/public/website/assets/images/call-cta.png') }}" alt="" class="" /> 
+<img src="{{ asset('/public/website/assets/images/call-cta.png') }}" alt="Geri Care Hospital" class="" /> 
 Request Call Back
 </a>
 </li>

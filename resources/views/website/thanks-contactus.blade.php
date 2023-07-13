@@ -28,7 +28,7 @@
 <div class="tank-you-cont">
 <h4>Thank You</h4>
 <div class="">
-<img src="{{ asset('/public/website/assets/images/check.png') }}" alt="" class="" />
+<img src="{{ asset('/public/website/assets/images/check.png') }}" alt="Geri Care Hospital" class="" />
 </div> 
 <h5>Your form has been submitted successfully!</h5>
 <p>We’ll get in touch with you shortly..</p>

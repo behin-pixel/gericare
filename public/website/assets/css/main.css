@@ -1399,7 +1399,7 @@ img.moby {
     top: 30%;
 }
 
-.banner-liners h4 {
+.banner-liners h1 {
     font-family: 'Red Hat Display', sans-serif;
     font-size: 36px;
     line-height: 52px;
@@ -1408,7 +1408,7 @@ img.moby {
     margin: 0;
 }
 
-.banner-liners h4 span {
+.banner-liners h1 span {
     font-family: 'Red Hat Display', sans-serif;
     font-size: 36px;
     line-height: 52px;
@@ -2118,7 +2118,7 @@ select.form-control {
     cursor: pointer;
 }
 
-input[type="time"] {
+select.tmepcr{
     cursor: pointer;
     background: #fff url('../images/clk.png') no-repeat scroll 95% center;
 }
@@ -4477,14 +4477,14 @@ button.gm-ui-hover-effect {
     .age-bars::before {
         left: -20px;
     }
-    .banner-liners h4 {
+    .banner-liners h1 {
         font-size: 26px;
         line-height: 39px;
     }
     .home-gericare .seconday-paragraph {
         width: 90%;
     }
-    .banner-liners h4 span {
+    .banner-liners h1 span {
         font-size: 24px;
         line-height: 42px;
     }
@@ -4685,11 +4685,11 @@ button.gm-ui-hover-effect {
         object-fit: cover;
         height: 250px;
     }
-    .inner-banner .banner-liners h4 {
+    .inner-banner .banner-liners h1 {
         font-size: 18px;
         line-height: 30px;
     }
-    .inner-banner .banner-liners h4 span {
+    .inner-banner .banner-liners h1 span {
         font-size: 18px;
         line-height: 30px;
     }

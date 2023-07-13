@@ -57,14 +57,14 @@ Bring You Peace of Mind
 <ul>
 <li>
 <a href="https://api.whatsapp.com/send?phone=914440614061&text=Hello GERICARE, I have something to ask..." target="_blank">
-<img src="{{ asset('/public/website/assets/images/wp-cta.png') }}" alt="" class="" />
+<img src="{{ asset('/public/website/assets/images/wp-cta.png') }}" alt="Geri Care Hospital" class="" />
 <span>24*7 SERVICE AVAILABLE</span>  
 +91 44 4061 4061
 </a>
 </li>
 <li>
 <a href="" data-bs-toggle="modal" data-bs-target="#exampleModalCenter">
-<img src="{{ asset('/public/website/assets/images/call-cta.png') }}" alt="" class="" /> 
+<img src="{{ asset('/public/website/assets/images/call-cta.png') }}" alt="Geri Care Hospital" class="" /> 
 Request Call Back
 </a>
 </li>

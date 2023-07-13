@@ -6,7 +6,7 @@
 
 <div class="">
 
-<img src="{{ asset('/public/website/assets/images/404.jpg') }}" alt="" class="" /> 
+<img src="{{ asset('/public/website/assets/images/404.jpg') }}" alt="Geri Care Hospital" class="" /> 
 
 <h4>Error!</h4>
 <h4>Sorry! Page not found!</h4>

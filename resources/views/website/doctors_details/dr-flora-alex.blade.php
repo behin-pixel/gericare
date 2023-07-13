@@ -39,17 +39,17 @@
 
 <div class="col-lg-5">
 <div class="doc-tor-img">
-<img src="{{ asset('/public/website/assets/images/no-img-f.jpg') }}" alt="" class="w-100">
+<img src="{{ asset('/public/website/assets/images/no-img-f.jpg') }}" alt="Geri Care Hospital" class="w-100">
 </div>
 </div>
 
 <div class="col-lg-7">
 <div class="doc-tor-cnt">
 <h3>Dr Flora Alex<span>Consultant Geriatrician</span></h3>
-<h4><img src="{{ asset('/public/website/assets/images/expe.png') }}" alt="" class=""> Experience <span> 8+ Years</span></h4>
-<h4><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> Education <span>M.B.B.S., M.D (Geriatrics)</span></h4>
-<h4><img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class=""> Languages <span> Tamil, English</span></h4>
-<h4><img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class=""> Locations <span> OP - Anna Nagar<br>
+<h4><img src="{{ asset('/public/website/assets/images/expe.png') }}" alt="Geri Care Hospital" class=""> Experience <span> 8+ Years</span></h4>
+<h4><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="Geri Care Hospital" class=""> Education <span>M.B.B.S., M.D (Geriatrics)</span></h4>
+<h4><img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="Geri Care Hospital" class=""> Languages <span> Tamil, English</span></h4>
+<h4><img src="{{ asset('/public/website/assets/images/location.png') }}" alt="Geri Care Hospital" class=""> Locations <span> OP - Anna Nagar<br>
 Home visits on appointment basis
 </span></h4>
 </div>

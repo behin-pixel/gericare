@@ -63,11 +63,11 @@
 <!-- Indicators/dots -->
 <div class="carousel-indicators">
   <button type="button" data-bs-target="#testimonailas" data-bs-slide-to="0" class="active"><img
-      src="{{ asset('/public/website/assets/images/fem.png') }}" alt="" class="d-block"></button>
+      src="{{ asset('/public/website/assets/images/fem.png') }}" alt="Geri Care Hospital" class="d-block"></button>
   <button type="button" data-bs-target="#testimonailas" data-bs-slide-to="1"><img
-      src="{{ asset('/public/website/assets/images/mal.png') }}" alt="" class="d-block"></button>
+      src="{{ asset('/public/website/assets/images/mal.png') }}" alt="Geri Care Hospital" class="d-block"></button>
   <button type="button" data-bs-target="#testimonailas" data-bs-slide-to="2"><img
-      src="{{ asset('/public/website/assets/images/fem.png') }}" alt="" class="d-block"></button> 
+      src="{{ asset('/public/website/assets/images/fem.png') }}" alt="Geri Care Hospital" class="d-block"></button> 
 </div>
 
 <!-- The slideshow/carousel -->

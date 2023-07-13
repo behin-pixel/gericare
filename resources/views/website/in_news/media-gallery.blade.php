@@ -5,16 +5,16 @@
 <section class="inner-banner p-0">
 
 <div class="">
-<img src="{{ asset('/public/website/assets/images/banners/news.jpg') }}" alt="" class="w-100" />
+<img src="{{ asset('/public/website/assets/images/banners/news.jpg') }}" alt="Geri Care Hospital" class="w-100" />
 </div> 
 
 <div class="banner-liners">
 <div class="container">
 <div class="row">
 <div class="col-lg-12">
-<h4>Media
+<h1>Media
 <span> </span>
-</h4>
+</h1>
 <ul>
 <li><a href="../">Home</a></li>   
 <li> > </li>  
@@ -42,12 +42,12 @@
 						<li>
 							@if($media_releases['reference_link']!='')	
 							<a  href="{{$media_releases['reference_link']}}" target="_blank">
-								<img src="{{asset(Storage::url("app/{$media_releases["featured_image"]}")) }}" alt="" class="img-fluid" />
+								<img src="{{asset(Storage::url("app/{$media_releases["featured_image"]}")) }}" alt="Geri Care Hospital" class="img-fluid" />
 								<span><small class="news-date">Published : {{$media_releases_date}}</small> <br>{{$media_releases['title']}}</span>
 							</a>
 							@else
 							<a data-fancybox="gallery{{$media_releases['id']}}" href="{{ asset(Storage::url("app/{$media_releases["featured_image"]}")) }}" data-caption="Geri Care Hospital">
-								<img src="{{asset(Storage::url("app/{$media_releases["featured_image"]}")) }}" alt="" class="img-fluid" />
+								<img src="{{asset(Storage::url("app/{$media_releases["featured_image"]}")) }}" alt="Geri Care Hospital" class="img-fluid" />
 								<span><small class="news-date">Published : {{$media_releases_date}}</small> <br>{{$media_releases['title']}}</span>
 							</a>
 							@endif

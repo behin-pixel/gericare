@@ -31,7 +31,7 @@
 @include('website.servicessidebar')
 
 <div class="col-lg-9">
-<img src="{{ asset('/public/website/assets/images/Live-in-Care.jpg') }}" alt="" class="w-100 mb-4">
+<img src="{{ asset('/public/website/assets/images/Live-in-Care.jpg') }}" alt="Geri Care Hospital" class="w-100 mb-4">
 <div class="common-para">
 <p>For patients who require round-the-clock care, nursing attendants can provide live-in care services. These nursing attendants, usually certified nursing assistants (CNAs) or home health aides (HHAs), stay with the patient in their home and assist with daily activities, personal care, medication reminders, mobility support, and other necessary tasks. Alternatively, if 24-hour care is not required, nursing attendants can be scheduled for 12-hour shifts, ensuring continuous care and support for the patient.</p>
 </div>
@@ -57,14 +57,14 @@ Bring You Peace of Mind
 <ul>
 <li>
 <a href="https://api.whatsapp.com/send?phone=914440614061&text=Hello GERICARE, I have something to ask..." target="_blank">
-<img src="{{ asset('/public/website/assets/images/wp-cta.png') }}" alt="" class="" />
+<img src="{{ asset('/public/website/assets/images/wp-cta.png') }}" alt="Geri Care Hospital" class="" />
 <span>24*7 SERVICE AVAILABLE</span>  
 +91 44 4061 4061
 </a>
 </li>
 <li>
 <a href="" data-bs-toggle="modal" data-bs-target="#exampleModalCenter">
-<img src="{{ asset('/public/website/assets/images/call-cta.png') }}" alt="" class="" /> 
+<img src="{{ asset('/public/website/assets/images/call-cta.png') }}" alt="Geri Care Hospital" class="" /> 
 Request Call Back
 </a>
 </li>

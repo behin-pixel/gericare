@@ -46,10 +46,10 @@
 <div class="col-lg-7">
 <div class="doc-tor-cnt">
 <h3>Dr. N. Lakshmipathy Ramesh<span>Senior Consultant Geriatrician</span></h3>
-<h4><img src="{{ asset('/public/website/assets/images/expe.png') }}" alt="" class=""> Experience <span> 20+ Years</span></h4>
-<h4><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> Education <span> MBBS, M.D (Geriatrics), PGD (Diabetes)</span></h4>
-<h4><img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="" class=""> Languages <span> Tamil, English, Telugu</span></h4>
-<h4><img src="{{ asset('/public/website/assets/images/location.png') }}" alt="" class=""> Locations <span> T. Nagar - All days<br>
+<h4><img src="{{ asset('/public/website/assets/images/expe.png') }}" alt="Geri Care Hospital" class=""> Experience <span> 20+ Years</span></h4>
+<h4><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="Geri Care Hospital" class=""> Education <span> MBBS, M.D (Geriatrics), PGD (Diabetes)</span></h4>
+<h4><img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="Geri Care Hospital" class=""> Languages <span> Tamil, English, Telugu</span></h4>
+<h4><img src="{{ asset('/public/website/assets/images/location.png') }}" alt="Geri Care Hospital" class=""> Locations <span> T. Nagar - All days<br>
 Adambakkam - All days <br>
 Adyar - Tuesday Mornings
 </span></h4>

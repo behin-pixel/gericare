@@ -5,16 +5,16 @@
 <section class="inner-banner p-0">
 
 <div class="">
-<img src="{{ asset('/public/website/assets/images/banners/news.jpg') }}" alt="" class="w-100" />
+<img src="{{ asset('/public/website/assets/images/banners/news.jpg') }}" alt="Geri Care Hospital" class="w-100" />
 </div> 
 
 <div class="banner-liners">
 <div class="container">
 <div class="row">
 <div class="col-lg-12">
-<h4>News & Events
+<h1>News & Events
 <span> </span>
-</h4>
+</h1>
 <ul>
 <li><a href="../">Home</a></li>   
 <li> > </li>  
@@ -41,7 +41,7 @@
     <li> 
 
         <div class="pris-imging">
-        <img src="{{url('/public/files/news_event/gallery_image/'.$news_events['gallery_image'])}}" alt="" class="img-fluid">
+        <img src="{{url('/public/files/news_event/gallery_image/'.$news_events['gallery_image'])}}" alt="Geri Care Hospital" class="img-fluid">
         </div>
         
         <div class="">

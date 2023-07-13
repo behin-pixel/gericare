@@ -5,17 +5,17 @@
 <section class="inner-banner p-0">
 
 <div class="">
-<img src="{{ asset('/public/website/assets/images/banners/Banner-homecare.jpg') }}" alt="" class="w-100" />
+<img src="{{ asset('/public/website/assets/images/banners/Banner-homecare.jpg') }}" alt="Geri Care Hospital" class="w-100" />
 </div> 
 
 <div class="banner-liners">
 <div class="container">
 <div class="row">
 <div class="col-lg-12">
-<h4>India’s 1<sup>st</sup> Home Care
+<h1>India’s 1<sup>st</sup> Home Care
 <span>run by Qualified & Reliable 
 Geriatricians </span>
-</h4>
+</h1>
 <ul>
 <li><a href="{{ url('/') }}"> Home </a></li>   
 <li>></li>  
@@ -56,24 +56,24 @@ Our experienced caregivers have been delivering affordable and reliable care in 
 <div class="serveces-doctrs">
 
 <div class="servce">
-<img src="{{ asset('/public/website/assets/images/icon-1.png') }}" alt="" class="" />
+<img src="{{ asset('/public/website/assets/images/icon-1.png') }}" alt="Geri Care Hospital" class="" />
 <h4> Meet Our Experts </h4>
 <p> Select a doctor and schedule <br>an appointment</p>
-<a href="{{ url('our-doctors') }}"> View All Doctors <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
+<a href="{{ url('our-doctors') }}"> View All Doctors <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="Geri Care Hospital" class="" /></a>
 </div>
 
 <div class="servce">
-<img src="{{ asset('/public/website/assets/images/icon-2.png') }}" alt="" class="" />
+<img src="{{ asset('/public/website/assets/images/icon-2.png') }}" alt="Geri Care Hospital" class="" />
 <h4> Access our Location </h4>
 <p> 21, 1st Avenue, Indira Nagar, Adyar, Chennai - 600 020  </p>
-<a href="{{ url('contact-us#gericarelocations') }}"> View On Maps <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
+<a href="{{ url('contact-us#gericarelocations') }}"> View On Maps <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="Geri Care Hospital" class="" /></a>
 </div>
 
 <div class="servce">
-<img src="{{ asset('/public/website/assets/images/icon-3.png') }}" alt="" class="" />
+<img src="{{ asset('/public/website/assets/images/icon-3.png') }}" alt="Geri Care Hospital" class="" />
 <h4> Book a Visit </h4>
 <p> Book your appointment with us for a smooth and hassle-free experience </p>
-<a href="{{ url('book-an-appointment') }}"> Book Your Appointment <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
+<a href="{{ url('book-an-appointment') }}"> Book Your Appointment <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="Geri Care Hospital" class="" /></a>
 </div>
 
 </div>
@@ -82,7 +82,7 @@ Our experienced caregivers have been delivering affordable and reliable care in 
 <h4>24x7 Emergency Ambulance Available <br> Call Us at: <span>+91 44 4061 4061</span></h4>
 
 <div class="ambuloo">
-<img src="{{ asset('/public/website/assets/images/ambulance-servie.gif') }}" alt="" class="" />
+<img src="{{ asset('/public/website/assets/images/ambulance-servie.gif') }}" alt="Geri Care Hospital" class="" />
 </div>
 
 </div> -->
@@ -100,7 +100,7 @@ Our experienced caregivers have been delivering affordable and reliable care in 
 
 <picture>
   <source media="(min-width:800px)" srcset="{{ asset('/public/website/assets/images/hme-cre.png') }}">
-  <img src="{{ asset('/public/website/assets/images/hme-cre-mob.png') }}"  class="img-responsive" alt="" > 
+  <img src="{{ asset('/public/website/assets/images/hme-cre-mob.png') }}"  class="img-responsive" alt="Geri Care Hospital" > 
 </picture>
 
 </div>
@@ -129,7 +129,7 @@ Our experienced caregivers have been delivering affordable and reliable care in 
 <div class="minrester">
 <h4>Geriatric Physiotherapy at Home</h4>
 <p>Geriatric physiotherapy involves specialized physical therapy techniques ...</p>
-<a href="{{ url('physio-care') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
+<a href="{{ url('physio-care') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="Geri Care Hospital" class="" /></a>
 </div>
 </div>
 
@@ -138,7 +138,7 @@ Our experienced caregivers have been delivering affordable and reliable care in 
 <div class="minrester">
 <h4>Psychiatrist Home Visits</h4>
 <p>During these visits, our psychiatrist will assess symptoms, prescribe appropriate medications ...</p>
-<a href="{{ url('psychiatrist-for-home-visit') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
+<a href="{{ url('psychiatrist-for-home-visit') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="Geri Care Hospital" class="" /></a>
 </div>
 </div>
 
@@ -147,16 +147,16 @@ Our experienced caregivers have been delivering affordable and reliable care in 
 <div class="minrester">
 <h4>Orthopedician Home Visits</h4>
 <p>Our Orthopedic specialists visit patients at their homes to assess and manage ...</p>
-<a href="{{ url('orthopedician-home-visit') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
+<a href="{{ url('orthopedician-home-visit') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="Geri Care Hospital" class="" /></a>
 </div>
 </div>
 
 <div class="main-srvcestr">
-<img src="{{ asset('/public/website/assets/images/Dentist-Home-Visit.jpg') }}" alt="" class="" />
+<img src="{{ asset('/public/website/assets/images/Dentist-Home-Visit.jpg') }}" alt="Geri Care Hospital" class="" />
 <div class="minrester">
 <h4>Dentist Home Visits</h4>
 <p> Our Geriatric Dentistry expert offers dental care at the patient's home, by performing ...</p>
-<a href="{{ url('dentist-at-home') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
+<a href="{{ url('dentist-at-home') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="Geri Care Hospital" class="" /></a>
 </div>
 </div>
 
@@ -165,7 +165,7 @@ Our experienced caregivers have been delivering affordable and reliable care in 
 <div class="minrester">
 <h4>IV Fluids Monitoring</h4>
 <p>In certain situations, such as dehydration or specific medical conditions, the administration ...</p>
-<a href="{{ url('iv-fluids-monitoring') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
+<a href="{{ url('iv-fluids-monitoring') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="Geri Care Hospital" class="" /></a>
 </div>
 </div>
 
@@ -174,7 +174,7 @@ Our experienced caregivers have been delivering affordable and reliable care in 
 <div class="minrester">
 <h4>Urinary Catheterization</h4>
 <p>When appropriate, our professionals can perform urinary catheterization at home. ...</p>
-<a href="{{ url('urinary-catheterization-at-home') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
+<a href="{{ url('urinary-catheterization-at-home') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="Geri Care Hospital" class="" /></a>
 </div>
 </div>
 
@@ -183,7 +183,7 @@ Our experienced caregivers have been delivering affordable and reliable care in 
 <div class="minrester">
 <h4>Outpatient Antibiotic Administration </h4>
 <p>In cases where patients require intravenous antibiotic therapy but do not need ...</p>
-<a href="{{ url('outpatient-parenteral-antimicrobial-administration') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
+<a href="{{ url('outpatient-parenteral-antimicrobial-administration') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="Geri Care Hospital" class="" /></a>
 </div>
 </div>
 
@@ -192,7 +192,7 @@ Our experienced caregivers have been delivering affordable and reliable care in 
 <div class="minrester">
 <h4>Wound Care & Dressing</h4>
 <p>Skilled healthcare professionals can provide wound care and dressing services ...</p>
-<a href="{{ url('wound-care-dressing') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
+<a href="{{ url('wound-care-dressing') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="Geri Care Hospital" class="" /></a>
 </div>
 </div>
 
@@ -201,7 +201,7 @@ Our experienced caregivers have been delivering affordable and reliable care in 
 <div class="minrester">
 <h4>ECG at Home</h4>
 <p>Electrocardiogram (ECG) is a common diagnostic test for assessing heart function. ...</p>
-<a href="{{ url('ecg-test-at-home') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
+<a href="{{ url('ecg-test-at-home') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="Geri Care Hospital" class="" /></a>
 </div>
 </div>
 
@@ -210,34 +210,34 @@ Our experienced caregivers have been delivering affordable and reliable care in 
 <div class="minrester">
 <h4>Skilled Nursing Care</h4>
 <p>Our skilled nurses can perform various medical tasks, including wound care, ...</p>
-<a href="{{ url('nursing-care') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
+<a href="{{ url('nursing-care') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="Geri Care Hospital" class="" /></a>
 </div>
 </div>
 
 <div class="main-srvcestr">
-<img src="{{ asset('/public/website/assets/images/Home-Sample-Collection.jpg') }}" alt="" class="" />
+<img src="{{ asset('/public/website/assets/images/Home-Sample-Collection.jpg') }}" alt="Geri Care Hospital" class="" />
 <div class="minrester">
 <h4>Home Sample Collection</h4>
 <p>To avoid the inconvenience of visiting a laboratory or clinic, healthcare  ...</p>
-<a href="{{ url('nursing-care') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
+<a href="{{ url('nursing-care') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="Geri Care Hospital" class="" /></a>
 </div>
 </div>
 
 <div class="main-srvcestr">
-<img src="{{ asset('/public/website/assets/images/Live-in-Care.jpg') }}" alt="" class="" />
+<img src="{{ asset('/public/website/assets/images/Live-in-Care.jpg') }}" alt="Geri Care Hospital" class="" />
 <div class="minrester">
 <h4>Live-in Care</h4>
 <p>For patients who require round-the-clock care, nursing attendants can ...</p>
-<a href="{{ url('live-in-elderly-care') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
+<a href="{{ url('live-in-elderly-care') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="Geri Care Hospital" class="" /></a>
 </div>
 </div>
 
 <div class="main-srvcestr">
-<img src="{{ asset('/public/website/assets/images/Care-for-Bedridden-Patients.jpg') }}" alt="" class="" />
+<img src="{{ asset('/public/website/assets/images/Care-for-Bedridden-Patients.jpg') }}" alt="Geri Care Hospital" class="" />
 <div class="minrester">
 <h4>Care for Bedridden Patients</h4>
 <p> Our skilled nurses and nursing attendants can provide care for bedridden ...</p>
-<a href="{{ url('care-for-bedridden-elderly-at-home') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="" class="" /></a>
+<a href="{{ url('care-for-bedridden-elderly-at-home') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="Geri Care Hospital" class="" /></a>
 </div>
 </div>
 
@@ -267,14 +267,14 @@ that gives you a sense of freedom...<br>
 <ul>
 <li>
 <a href="https://api.whatsapp.com/send?phone=914440614061&text=Hello GERICARE, I have something to ask..." target="_blank">
-<img src="{{ asset('/public/website/assets/images/wp-cta.png') }}" alt="" class="" />
+<img src="{{ asset('/public/website/assets/images/wp-cta.png') }}" alt="Geri Care Hospital" class="" />
 <span>24*7 SERVICE AVAILABLE</span>  
 +91 44 4061 4061
 </a>
 </li>
 <li>
 <a href="" data-bs-toggle="modal" data-bs-target="#exampleModalCenter">
-<img src="{{ asset('/public/website/assets/images/call-cta.png') }}" alt="" class="" /> 
+<img src="{{ asset('/public/website/assets/images/call-cta.png') }}" alt="Geri Care Hospital" class="" /> 
 Request Call Back
 </a>
 </li>
@@ -304,11 +304,11 @@ Request Call Back
   <div class="revew-box text-center">
 
     <div class="rev-rat d-flex align-items-center justify-content-center">
-    <img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-    <img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-    <img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-    <img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-    <img src="{{ asset('/public/website/assets/images/half-star.png') }}" alt="" class="">
+    <img src="{{ asset('/public/website/assets/images/star.png') }}" alt="Geri Care Hospital" class="">
+    <img src="{{ asset('/public/website/assets/images/star.png') }}" alt="Geri Care Hospital" class="">
+    <img src="{{ asset('/public/website/assets/images/star.png') }}" alt="Geri Care Hospital" class="">
+    <img src="{{ asset('/public/website/assets/images/star.png') }}" alt="Geri Care Hospital" class="">
+    <img src="{{ asset('/public/website/assets/images/half-star.png') }}" alt="Geri Care Hospital" class="">
     </div>
     <div class="rev-cnt">
       {!! $testimonials['description'] !!}
@@ -321,7 +321,7 @@ Request Call Back
 
 
 
-      <!-- <img src="{{ asset($testimonials["photo"]) }}" alt="" class="">
+      <!-- <img src="{{ asset($testimonials["photo"]) }}" alt="Geri Care Hospital" class="">
 
 
     <img src="{{ asset(Storage::url("app/{$testimonials["photo"]}")) }}"  /> -->

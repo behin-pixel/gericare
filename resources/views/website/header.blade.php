@@ -12,7 +12,7 @@
             </li> 
             <li>
               
-            <a href="tel:+914440614061" target="_blank"><img src="{{ asset('/public/website/assets/images/calling.png') }}" alt="" />+91 44 4061 4061</a>
+            <a href="tel:+914440614061" target="_blank"><img src="{{ asset('/public/website/assets/images/calling.png') }}" alt="Geri Care Hospital" />+91 44 4061 4061</a>
             </li>
           </ul>
       </div> 
@@ -22,7 +22,7 @@
 </div>
 
 <div class="mobile-header">
-<a href="tel:+914440614061" target="_blank"><img src="{{ asset('/public/website/assets/images/calling.png') }}" alt="" />+91 44 4061 4061</a>
+<a href="tel:+914440614061" target="_blank"><img src="{{ asset('/public/website/assets/images/calling.png') }}" alt="Geri Care Hospital" />+91 44 4061 4061</a>
 <a href="{{ url('book-an-appointment') }}"> Book an Appointment </a>
 </div>
 
@@ -35,7 +35,7 @@
 
           <div class="logo">
             <a href="{{ url('/') }}">
-              <img src="{{ asset('/public/website/assets/images/logo.png') }}" alt="GRB Logo" />
+              <img src="{{ asset('/public/website/assets/images/logo.png') }}" alt="Gericare Logo" />
             </a>
           </div>
 

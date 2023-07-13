@@ -5,15 +5,15 @@
 <section class="inner-banner p-0">
 
 <div class="">
-<img src="{{ asset('/public/website/assets/images/banners/Banner.jpg') }}" alt="" class="w-100" />
+<img src="{{ asset('/public/website/assets/images/banners/Banner.jpg') }}" alt="Geri Care Hospital" class="w-100" />
 </div> 
 
 <div class="banner-liners">
 <div class="container">
 <div class="row">
 <div class="col-lg-12">
-<h4>Leadership Team
-</h4>
+<h1>Leadership Team
+</h1>
 <ul>
 <li><a href="{{ url('/') }}"> Home </a></li>
 <li> > </li>     
@@ -37,7 +37,7 @@
 <div class="col-lg-6">
 <div class="team-boxes">
 <div class="tem-drimg">
-<img src="{{ asset('/public/website/assets/images/dr-1.jpg') }}" alt="" class="w-100" />
+<img src="{{ asset('/public/website/assets/images/dr-1.jpg') }}" alt="Geri Care Hospital" class="w-100" />
 </div>
 <div class="tem-drcnt">
 <h4>Dr. V. Srinivas</h4>
@@ -53,7 +53,7 @@
 <div class="col-lg-6">
 <div class="team-boxes">
 <div class="tem-drimg">
-<img src="{{ asset('/public/website/assets/images/dr-2.jpg') }}" alt="" class="w-100" />
+<img src="{{ asset('/public/website/assets/images/dr-2.jpg') }}" alt="Geri Care Hospital" class="w-100" />
 </div>
 <div class="tem-drcnt">
 <h4>Dr. N. Lakshmipathy Ramesh</h4>

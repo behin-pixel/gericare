@@ -5,7 +5,7 @@
 <section class="inner-banner p-0">
 
 <div class="">
-<img src="{{ asset('/public/website/assets/images/banners/Banner-clinic.jpg') }}" alt="" class="w-100" />
+<img src="{{ asset('/public/website/assets/images/banners/Banner-clinic.jpg') }}" alt="Geri Care Hospital" class="w-100" />
 </div> 
 
 <!-- <div class="banner-liners">
@@ -54,24 +54,24 @@ In addition to general medical care, we conduct comprehensive assessments and tr
 <div class="serveces-doctrs">
 
 <div class="servce">
-<img src="{{ asset('/public/website/assets/images/icon-1.png') }}" alt="" class="" />
+<img src="{{ asset('/public/website/assets/images/icon-1.png') }}" alt="Geri Care Hospital" class="" />
 <h4> Meet our Experts </h4>
 <p> Find a doctor for a comprehensive assessment of your health </p>
-<a href="{{ url('our-doctors') }}"> View All Doctors <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
+<a href="{{ url('our-doctors') }}"> View All Doctors <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="Geri Care Hospital" class="" /></a>
 </div>
 
 <div class="servce">
-<img src="{{ asset('/public/website/assets/images/icon-2.png') }}" alt="" class="" />
+<img src="{{ asset('/public/website/assets/images/icon-2.png') }}" alt="Geri Care Hospital" class="" />
 <h4> Locate our Clinic </h4>
 <p> Experience the expert care of senior geriatricians near you  </p>
-<a href="#add-res-bar"> View On Maps <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
+<a href="#add-res-bar"> View On Maps <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="Geri Care Hospital" class="" /></a>
 </div>
 
 <div class="servce">
-<img src="{{ asset('/public/website/assets/images/icon-3.png') }}" alt="" class="" />
+<img src="{{ asset('/public/website/assets/images/icon-3.png') }}" alt="Geri Care Hospital" class="" />
 <h4> Book an Appointment </h4>
 <p> Schedule a meeting with our family of caregivers </p>
-<a href="{{ url('book-an-appointment') }}"> Book Your Appointment <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
+<a href="{{ url('book-an-appointment') }}"> Book Your Appointment <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="Geri Care Hospital" class="" /></a>
 </div>
 
 </div> 
@@ -141,7 +141,7 @@ In addition to general medical care, we conduct comprehensive assessments and tr
 </div>
 
 <!-- <div class="cliinc-detlis">
-<img src="{{ asset('/public/website/assets/images/Dementia-care.jpg') }}" alt="" class="w-100" />
+<img src="{{ asset('/public/website/assets/images/Dementia-care.jpg') }}" alt="Geri Care Hospital" class="w-100" />
 <h4>Dementia care </h4>
 <div class="clnc-dtt">
 <h5>Falls prevention (Osteoporosis) clinic</h5>
@@ -207,7 +207,7 @@ In addition to general medical care, we conduct comprehensive assessments and tr
 <h4> Geri Care Clinics - Adyar </h4>
  <p>21, 1st avenue, Indira Nagar, <br> Adyar, Chennai 600020</p>
 <!-- <p> No.8, Dr. Nair Road, Behind Vani<br> Mahal, T.Nagar, Chennai - 600 017 </p> -->
-<a href="https://goo.gl/maps/iZ6WNkecYyEqYKBZ6" target="_blank"> View On Map <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
+<a href="https://goo.gl/maps/iZ6WNkecYyEqYKBZ6" target="_blank"> View On Map <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="Geri Care Hospital" class="" /></a>
 </div>
 </div>
 
@@ -218,7 +218,7 @@ In addition to general medical care, we conduct comprehensive assessments and tr
 <p>Plot no.3698, Q Block-100, 3rd Avenue, <br> Anna Nagar, Chennai, Tamil Nadu 600040
 </p>
 <!-- <p> 100 Feet Velachery, 100 Feet Rd, Ward F,<br> Block 17, Adambakkam, Chennai - 600 088 </p> -->
-<a href="https://goo.gl/maps/FLwu1wnwvRHQEqdb7" target="_blank"> View On Map <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="" class="" /></a>
+<a href="https://goo.gl/maps/FLwu1wnwvRHQEqdb7" target="_blank"> View On Map <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="Geri Care Hospital" class="" /></a>
 </div>
 </div> 
 
@@ -249,14 +249,14 @@ improves the quality of your life...<br>
 <ul>
 <li>
 <a href="https://api.whatsapp.com/send?phone=914440614061&text=Hello GERICARE, I have something to ask..." target="_blank">
-<img src="{{ asset('/public/website/assets/images/wp-cta.png') }}" alt="" class="" />
+<img src="{{ asset('/public/website/assets/images/wp-cta.png') }}" alt="Geri Care Hospital" class="" />
 <span>24*7 SERVICE AVAILABLE</span>  
 +91 44 4061 4061
 </a>
 </li>
 <li>
 <a href="" data-bs-toggle="modal" data-bs-target="#exampleModalCenter">
-<img src="{{ asset('/public/website/assets/images/call-cta.png') }}" alt="" class="" /> 
+<img src="{{ asset('/public/website/assets/images/call-cta.png') }}" alt="Geri Care Hospital" class="" /> 
 Request Call Back
 </a>
 </li>
@@ -285,11 +285,11 @@ Request Call Back
     <div class="revew-box text-center">
   
       <div class="rev-rat d-flex align-items-center justify-content-center">
-      <img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-      <img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-      <img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-      <img src="{{ asset('/public/website/assets/images/star.png') }}" alt="" class="">
-      <img src="{{ asset('/public/website/assets/images/half-star.png') }}" alt="" class="">
+      <img src="{{ asset('/public/website/assets/images/star.png') }}" alt="Geri Care Hospital" class="">
+      <img src="{{ asset('/public/website/assets/images/star.png') }}" alt="Geri Care Hospital" class="">
+      <img src="{{ asset('/public/website/assets/images/star.png') }}" alt="Geri Care Hospital" class="">
+      <img src="{{ asset('/public/website/assets/images/star.png') }}" alt="Geri Care Hospital" class="">
+      <img src="{{ asset('/public/website/assets/images/half-star.png') }}" alt="Geri Care Hospital" class="">
       </div>
       <div class="rev-cnt">
         {!! $testimonials['description'] !!}
@@ -299,7 +299,7 @@ Request Call Back
       <h4> {{$testimonials['title']}}<span> {{$testimonials['designation']}} </span></h4>
       </div>
       <div class="rev-goog d-flex align-items-center justify-content-center">
-    <!-- <img src="{{ asset($testimonials["photo"]) }}" alt="" class="">
+    <!-- <img src="{{ asset($testimonials["photo"]) }}" alt="Geri Care Hospital" class="">
 
 
     <img src="{{ asset(Storage::url("app/{$testimonials["photo"]}")) }}"  /> -->

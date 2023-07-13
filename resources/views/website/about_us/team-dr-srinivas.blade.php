@@ -39,16 +39,16 @@
 
 <div class="col-lg-5">
 <div class="doc-tor-img">
-<img src="{{ asset('/public/website/assets/images/dr-1.jpg') }}" alt="" class="w-100">
+<img src="{{ asset('/public/website/assets/images/dr-1.jpg') }}" alt="Geri Care Hospital" class="w-100">
 </div>
 </div>
 
 <div class="col-lg-7">
 <div class="doc-tor-cnt">
 <h3>Dr V. Srinivas<span>Geriatrician, Founder & Director</span></h3>
-<!-- <h4><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> Experience <span> 30+ Years</span></h4> -->
-<h4><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> Education <span> MD, MRCP (UK), DIP.Geriatric Medicine (UK)</span></h4>
-<!-- <h4><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="" class=""> Languages <span> Tamil, English, Hindi</span></h4> -->
+<!-- <h4><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="Geri Care Hospital" class=""> Experience <span> 30+ Years</span></h4> -->
+<h4><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="Geri Care Hospital" class=""> Education <span> MD, MRCP (UK), DIP.Geriatric Medicine (UK)</span></h4>
+<!-- <h4><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="Geri Care Hospital" class=""> Languages <span> Tamil, English, Hindi</span></h4> -->
 </div>
 </div>
 
