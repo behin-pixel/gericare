@@ -114,25 +114,25 @@ in the Country.</span>
 <div class="cario-seters">
 <span><img src="{{ asset('/public/website/assets/images/cardio-1.png') }}" alt="Geri Care Hospital" class="" /></span>
 <h4>Expert Geriatricians</h4>
-<p>Our Geriatric professionals have undergone exemplary training at renowned institutions including Madras Medical College (MMC) in Chennai and the All India Institute of Medical Sciences (AIIMS) in New Delhi. Additionally, they have gained valuable experience as consultants in esteemed hospitals overseas, particularly in the United Kingdom (UK). </p>
+<p>Our Geriatric professionals have undergone exemplary training at renowned institutions including Madras Medical College (MMC) in Chennai and the All India Institute of Medical Sciences (AIIMS) in New Delhi. Additionally, they have gained valuable experience as consultants in esteemed hospitals overseas, particularly in the United Kingdom (UK).</p>
 </div> 
 
 <div class="cario-seters">
 <span><img src="{{ asset('/public/website/assets/images/cardio-2.png') }}" alt="Geri Care Hospital" class="" /></span>
 <h4>Multi-disciplinary Approach</h4>
-<p>We bring cutting-edge research and innovative approaches that reflect geriatric excellence.</p>
+<p>We bring cutting-edge research and innovative approaches that reflect geriatric excellence and help transform the lives of the elderly, their loved ones and family members.</p>
 </div>
 
 <div class="cario-seters">
 <span><img src="{{ asset('/public/website/assets/images/cardio-3.png') }}" alt="Geri Care Hospital" class="" /></span>
 <h4>Unique Health Culture</h4>
-<p>We prioritize tailored treatment plans & comprehensive care to ensure remarkable recoveries.</p>
+<p>We pride over a culture that prioritizes tailored treatment plans & comprehensive care to ensure remarkable treatments along with a positive healthcare experience that helps the elderly recover and heal at ease.</p>
 </div>
 
 <div class="cario-seters">
 <span><img src="{{ asset('/public/website/assets/images/cardio-4.png') }}" alt="Geri Care Hospital" class="" /></span>
 <h4>Continuity of Care</h4>
-<p>We ensure the highest level of medical support through our range of facilities encompassing hospitals, clinics, assisted living facilities and home care services.</p>
+<p>From clinical interventions to comprehensive hospital treatments, and post hospitalization home care services along with assisted living options, we ensure continuous medical support and comfort 24/7.</p>
 </div> 
 
 </div>

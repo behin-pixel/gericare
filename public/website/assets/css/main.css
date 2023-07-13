@@ -4659,14 +4659,11 @@ button.gm-ui-hover-effect {
         grid-row-gap: 30px;
     }
     .age-bars {
-        padding-bottom: 135px;
+        padding-bottom:35px;
+        margin-bottom:0px;
     }
     .age-bars::before {
-        left: auto;
-        right: 0;
-        background-size: 50%;
-        background-repeat: no-repeat;
-        bottom: -43.3%;
+        display: none;
     }
 
     #cssmenu ul ul li a {
@@ -5192,13 +5189,7 @@ button.gm-ui-hover-effect {
     }
     .patron-say::before {
         height: 47%;
-    }
-    .age-bars {
-        padding-bottom: 108px;
-    }
-    .age-bars::before {
-        right: -230px;
-    }
+    } 
     .pseofmnd-lst ul {
         display: flex;
         align-items: center !important;
@@ -5594,16 +5585,7 @@ button.gm-ui-hover-effect {
     }
     .panell-drts {
         grid-template-columns: repeat(1, 1fr);
-    }
-    .age-bars {
-        padding-bottom: 148px;
-    }
-    .age-bars::before {
-        bottom: -32.3%;
-    }
-    .age-bars {
-        margin-bottom: 60px;
-    }
+    } 
     .ambulance-runing h4 {
         font-size: 18px;
         line-height: 30px;
