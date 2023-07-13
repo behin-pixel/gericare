@@ -75,7 +75,7 @@
                     </div>
                     <div class="col-4">
                         @if ($data->image ?? null)
-                        <img src="{{ asset_url($data->image) }}" class="image_delete" height="100" class="mt-2">
+                        <img src="{{ asset_url($data->image) }}" class="image_delete" height="100" class="mt-2" alt="Geri Care Hospital" >
                         <a class="remove-image" id="delete_image" data-id="{{ $data->id }}" href="#" style="display: inline;">&#215;</a>
                         @endif
                     </div>

@@ -30,7 +30,7 @@
             <small class="text-danger"><b>Note</b> : min image size should be 1200 x 800</small>
         </div>
         @if ($banner->DesktopImage ?? null)
-            <img src="{{ asset_url($banner->DesktopImage) }}" height="60" class="mt-2">
+            <img src="{{ asset_url($banner->DesktopImage) }}" height="60" class="mt-2" alt="Geri Care Hospital" >
         @endif
     </div> 
 </div>

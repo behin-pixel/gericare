@@ -17,7 +17,7 @@
             {!! Form::file('image', ['class' => 'form-control']) !!}
         </div>
         @if ($organ->image ?? null)
-            <img src="{{ asset_url($organ->image) }}" height="60" class="mt-2">
+            <img src="{{ asset_url($organ->image) }}" height="60" class="mt-2" alt="Geri Care Hospital" >
         @endif
     </div> 
 </div>

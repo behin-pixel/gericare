@@ -22,7 +22,7 @@
           
         </div>
         @if ($data->image ?? null)
-            <img src="{{ asset('public/files/news_event/gallery_image/'.$data->gallery_image) }}" height="60" class="mt-2">
+            <img src="{{ asset('public/files/news_event/gallery_image/'.$data->gallery_image) }}" height="60" class="mt-2" alt="Geri Care Hospital">
         @endif
     </div> 
 </div>
@@ -35,7 +35,7 @@
             <input type="file" name="image" class="form-control" accept="image/*">
         </div>
         @if ($data->image ?? null)
-            <img src="{{ asset('public/files/news_event/'.$data->image) }}" height="60" class="mt-2">
+            <img src="{{ asset('public/files/news_event/'.$data->image) }}" height="60" class="mt-2" alt="Geri Care Hospital" >
         @endif
     </div> 
 </div>

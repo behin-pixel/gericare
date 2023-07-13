@@ -5,7 +5,7 @@
         <td style="padding: 30px;"><table width="500" border="0" align="center" cellpadding="0" cellspacing="0" style="background: #fff;">
           <tbody>
             <tr>
-              <td align="center" style="background: #7C164B; padding: 15px; " ><img src="{{ asset('/public/website/assets/images/logo-w.png') }}" width="374" height="75"/></td>
+              <td align="center" style="background: #7C164B; padding: 15px; " ><img src="{{ asset('/public/website/assets/images/logo-w.png') }}" width="374" height="75" alt="Geri Care Hospital" /></td>
             </tr>
             <tr>
               <td align="center" style="padding:20px; color: #8e8e8e; font-family:Helvetica, Arial; font-size:22px;">New submission on <b>Geri Care  </b><br>

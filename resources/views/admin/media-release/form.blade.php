@@ -30,7 +30,7 @@
     <div class="col-5">
         @if(isset($data))
             @if($data->featured_image)
-            <img src="{{asset_url($data->featured_image)}}" alt="No image" id="image_tag" width="100" height="100">
+            <img src="{{asset_url($data->featured_image)}}" alt="Geri Care Hospital" id="image_tag" width="100" height="100">
             @endif
         @endif
     </div>
@@ -47,7 +47,7 @@
     <div class="col-5">
         @if(isset($data))
             @if($data->featured_image)
-            <img src="{{asset_url($data->photo)}}" alt="No image" id="image_tag" width="100" height="100">
+            <img src="{{asset_url($data->photo)}}" alt="Geri Care Hospital" id="image_tag" width="100" height="100">
             @endif
         @endif
     </div>
