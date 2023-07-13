@@ -103,11 +103,11 @@ in improving the elderly lives.</span>
 <img src="{{ asset('/public/website/assets/images/icon-2.png') }}" alt="Geri Care Hospital" class="" />
 <h4> Geri Care Hospital </h4>
 <span class="text-center"> T Nagar </span>
-<p> No.8, Dr.Nair road, Behind Vani mahal,<br> T Nagar, Chennai 600017</p>
+<p> No.8, Dr.Nair road, Behind Vani mahal,<br> T Nagar, Chennai - 600 017</p>
 <a href="https://goo.gl/maps/u6K6owxWtpxry8EV8" target="_blank"> Locate Us <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="Geri Care Hospital" class="" /></a> 
 
 <span class="text-center"> Adambakkam </span>
-<p>100 Feet Velachery inner ring road,<br> Ward F, Block 17, Adambakkam, <br> Chennai, Tamil Nadu 600088</p>
+<p>100 Feet Velachery inner ring road,<br> Ward F, Block 17, Adambakkam, <br> Chennai - 600 088</p>
 <a href="https://goo.gl/maps/KFAt8ytkXKEeuxZ59" target="_blank"> Locate Us <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="Geri Care Hospital" class="" /></a>
 </div> 
 
@@ -115,11 +115,11 @@ in improving the elderly lives.</span>
 <img src="{{ asset('/public/website/assets/images/icon-2.png') }}" alt="Geri Care Hospital" class="" />
 <h4> Geri Care Clinics </h4>
 <span class="text-center"> Adyar </span>
-<p> 21, 1st avenue, Indira Nagar,<br> Adyar, Chennai 600020</p>
+<p> 21, 1st avenue, Indira Nagar,<br> Adyar, Chennai - 600020</p>
 <a href="https://goo.gl/maps/iZ6WNkecYyEqYKBZ6" target="_blank"> Locate Us <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="Geri Care Hospital" class="" /></a> 
 
 <span class="text-center"> Anna nagar </span>
-<p>Plot no.3698, Q Block-100, 3rd Avenue,  <br> Anna Nagar, Chennai, Tamil Nadu 600040</p>
+<p>Plot no.3698, Q Block-100, 3rd Avenue,  <br> Anna Nagar, Chennai - 600 040</p>
 <a href="https://goo.gl/maps/FLwu1wnwvRHQEqdb7" target="_blank"> Locate Us <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="Geri Care Hospital" class="" /></a>
 </div>
 
@@ -131,7 +131,7 @@ in improving the elderly lives.</span>
 <a href="https://goo.gl/maps/eZNZbkaZcb3gtZqE7" target="_blank"> Locate Us <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="Geri Care Hospital" class="" /></a> 
 
 <span class="text-center"> RA Puram </span>
-<p>New no.10, Old no.23, 7th Main Road,<br> RA Puram, Chennai, Tamil Nadu 600028 </p>
+<p>New no.10, Old no.23, 7th Main Road,<br> RA Puram, Chennai - 600 028 </p>
 <a href="https://goo.gl/maps/j6n7agMHAkr19NEf8" target="_blank"> Locate Us <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="Geri Care Hospital" class="" /></a>
 </div>  
 

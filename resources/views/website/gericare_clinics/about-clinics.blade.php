@@ -64,7 +64,7 @@ In addition to general medical care, we conduct comprehensive assessments and tr
 <img src="{{ asset('/public/website/assets/images/icon-2.png') }}" alt="Geri Care Hospital" class="" />
 <h4> Locate our Clinic </h4>
 <p> Experience the expert care of senior geriatricians near you  </p>
-<a href="#add-res-bar"> View On Maps <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="Geri Care Hospital" class="" /></a>
+<a href="#add-res-bar"> View On Map <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="Geri Care Hospital" class="" /></a>
 </div>
 
 <div class="servce">
@@ -205,7 +205,7 @@ In addition to general medical care, we conduct comprehensive assessments and tr
 <img src="{{ asset('/public/website/assets/images/location-gericare-3.jpg') }}" alt="Geri Care Clinics - Adyar" class="w-100" />
 <div class="servrse-contest">
 <h4> Geri Care Clinics - Adyar </h4>
- <p>21, 1st avenue, Indira Nagar, <br> Adyar, Chennai 600020</p>
+ <p>No:21, 1st avenue, Indira Nagar, <br> Adyar, Chennai 600020</p>
 <!-- <p> No.8, Dr. Nair Road, Behind Vani<br> Mahal, T.Nagar, Chennai - 600 017 </p> -->
 <a href="https://goo.gl/maps/iZ6WNkecYyEqYKBZ6" target="_blank"> View On Map <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="Geri Care Hospital" class="" /></a>
 </div>
@@ -215,7 +215,7 @@ In addition to general medical care, we conduct comprehensive assessments and tr
 <img src="{{ asset('/public/website/assets/images/location-gericare-4.jpg') }}" alt="Geri Care Clinics - Anna Nagar" class="w-100" />
 <div class="servrse-contest">
 <h4> Geri Care Clinics - Anna Nagar </h4>
-<p>Plot no.3698, Q Block-100, 3rd Avenue, <br> Anna Nagar, Chennai, Tamil Nadu 600040
+<p>Plot No.3698, Q Block-100, 3rd Avenue, <br> Anna Nagar, Chennai - 600 040
 </p>
 <!-- <p> 100 Feet Velachery, 100 Feet Rd, Ward F,<br> Block 17, Adambakkam, Chennai - 600 088 </p> -->
 <a href="https://goo.gl/maps/FLwu1wnwvRHQEqdb7" target="_blank"> View On Map <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="Geri Care Hospital" class="" /></a>

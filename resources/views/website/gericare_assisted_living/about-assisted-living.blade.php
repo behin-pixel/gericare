@@ -68,7 +68,7 @@ In an innovative endeavor, Geri Care offers 24/7 Assisted Living and Skilled Nur
 <img src="{{ asset('/public/website/assets/images/icon-2.png') }}" alt="Geri Care Hospital" class="" />
 <h4> Locate our Facility </h4>
 <p> Find an Assisted Living Center <br>near your home </p>
-<a href="#add-res-bar"> View On Maps <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="Geri Care Hospital" class="" /></a>
+<a href="#add-res-bar"> View On Map <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="Geri Care Hospital" class="" /></a>
 </div>
 
 <div class="servce">

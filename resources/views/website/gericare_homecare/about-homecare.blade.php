@@ -65,8 +65,8 @@ Our experienced caregivers have been delivering affordable and reliable care in 
 <div class="servce">
 <img src="{{ asset('/public/website/assets/images/icon-2.png') }}" alt="Geri Care Hospital" class="" />
 <h4> Access our Location </h4>
-<p> 21, 1st Avenue, Indira Nagar, Adyar, Chennai - 600 020  </p>
-<a href="{{ url('contact-us#gericarelocations') }}"> View On Maps <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="Geri Care Hospital" class="" /></a>
+<p> No:21, 1st Avenue, Indira Nagar, Adyar, Chennai - 600 020  </p>
+<a href="{{ url('contact-us#gericarelocations') }}"> View On Map <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="Geri Care Hospital" class="" /></a>
 </div>
 
 <div class="servce">

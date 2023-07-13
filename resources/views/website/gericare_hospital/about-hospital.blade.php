@@ -51,7 +51,7 @@
                                 class="" />
                             <h4> Locate your Hospital </h4>
                             <p> Choose a Hospital that is closest<br> to your home </p>
-                            <a href="#add-res-bar"> View On Maps <img
+                            <a href="#add-res-bar"> View On Map <img
                                     src="{{ asset('/public/website/assets/images/small-arr.png') }}"
                                     alt="Geri Care Hospital" class="" /></a>
                         </div>
@@ -746,8 +746,8 @@
                             <div class="servrse-contest">
                                 <h4> Geri Care Hospital - T. Nagar </h4>
                                 <p>No.8, Dr. Nair Road, Behind Vani Mahal,<br>
-                                    T. Nagar, Chennai 600017</p>
-                                <a href="https://goo.gl/maps/u6K6owxWtpxry8EV8" target="_blank"> View on map <img
+                                    T. Nagar, Chennai - 600 017</p>
+                                <a href="https://goo.gl/maps/u6K6owxWtpxry8EV8" target="_blank"> View On Map <img
                                         src="{{ asset('/public/website/assets/images/small-arr.png') }}"
                                         alt="Geri Care Hospital" class="" /></a>
                             </div>
@@ -759,8 +759,8 @@
                             <div class="servrse-contest">
                                 <h4> Geri Care Hospital - Adambakkam </h4>
                                 <p>100 Feet Velachery Inner Ring Road, Ward F, Block 17, Adambakkam,
-                                    Chennai, Tamil Nadu 600088</p>
-                                <a href="https://goo.gl/maps/KFAt8ytkXKEeuxZ59" target="_blank"> View on map <img
+                                    Chennai - 600 088</p>
+                                <a href="https://goo.gl/maps/KFAt8ytkXKEeuxZ59" target="_blank"> View On Map <img
                                         src="{{ asset('/public/website/assets/images/small-arr.png') }}"
                                         alt="Geri Care Hospital" class="" /></a>
                             </div>
