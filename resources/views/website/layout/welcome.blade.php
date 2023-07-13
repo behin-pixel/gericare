@@ -196,6 +196,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <script src="{{ asset('/public/website/assets/js/mdtimepicker.min.js') }}"></script>	 
     <script src="{{ asset('/public/website/assets/js/jquery.mapit.js') }}"></script>	 
     <script src="{{ asset('/public/website/assets/js/initializers.js') }}"></script>	 
+    
 
     <style>
       #loading-image{
