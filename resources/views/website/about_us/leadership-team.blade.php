@@ -32,7 +32,7 @@
 <div class="container">
 <div class="row justify-content-center">
 
-<div class="col-lg-7">
+<div class="col-lg-7 col-sm-12">
 <div class="row">
 <div class="col-lg-6">
 <div class="team-boxes">
@@ -53,7 +53,7 @@
 <div class="col-lg-6">
 <div class="team-boxes">
 <div class="tem-drimg">
-<img src="{{ asset('/public/website/assets/images/dr-2.jpg') }}" alt="Geri Care Hospital" class="w-100" />
+<img src="{{ asset('/public/website/assets/images/founder-lakshmipathy-ramesh.webp') }}" alt="Geri Care Hospital" class="w-100" />
 </div>
 <div class="tem-drcnt">
 <h4>Dr. N. Lakshmipathy Ramesh</h4>

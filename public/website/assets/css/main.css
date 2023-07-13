@@ -4589,6 +4589,12 @@ button.gm-ui-hover-effect {
 }
 
 @media(max-width: 1000px) {
+    .leader-shipment .col-lg-7 {
+        flex: 0 0 auto;
+        width: 85%;
+      }
+      .leader-shipment .col-lg-7 .row > * { 
+        width: 50%;}
     .top-socials li:last-child a {
         padding: 7px 0 7px 20px;
     }
@@ -5010,6 +5016,11 @@ button.gm-ui-hover-effect {
 }
 
 @media(max-width: 890px) {
+    
+    .leader-shipment .col-lg-7 {
+        flex: 0 0 auto;
+        width: 95%;
+      }
     .pseofmnd-lst ul li:last-child a {
         padding: 20px 15px 20px 65px;
     }
@@ -5406,6 +5417,13 @@ button.gm-ui-hover-effect {
 
 
 @media(max-width: 767px) {
+    
+    .leader-shipment .col-lg-7 {
+        flex: 0 0 auto;
+        width: 95%;
+      }
+      .leader-shipment .col-lg-7 .row > * { 
+        width: 100%;margin-bottom: 40px;}
     .home-gericare .seconday-paragraph {
         width: 100%;
       }
@@ -5553,6 +5571,11 @@ button.gm-ui-hover-effect {
 }
 
 @media(max-width: 580px) {
+
+    .leader-shipment .col-lg-7 {
+        flex: 0 0 auto;
+        width: 95%;
+      }
 
     .age-layer p{margin-bottom:0px;}
 

@@ -45,7 +45,7 @@
 
 <div class="col-lg-7">
 <div class="doc-tor-cnt">
-<h3>Dr V. Srinivas<span>Geriatrician, Founder & Director</span></h3>
+<h3>Dr V. Srinivas<span>Founder & Director</span></h3>
 <!-- <h4><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="Geri Care Hospital" class=""> Experience <span> 30+ Years</span></h4> -->
 <h4><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="Geri Care Hospital" class=""> Education <span> MD, MRCP (UK), DIP.Geriatric Medicine (UK)</span></h4>
 <!-- <h4><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="Geri Care Hospital" class=""> Languages <span> Tamil, English, Hindi</span></h4> -->
