@@ -168,7 +168,7 @@ class PageViewController extends Controller
         $title = 'Assisted Living In Chennai for Senior Citizens - Geri Care';
         $decription = 'Get exceptional skilled nursing facility In chennai at Geri Care Assisted Living. Our residential arrangements for the elderly offer respite care, rehabilitative care, and more.';
         $keyword = '';
-        $testimonial=Testimonial::where('status','1')->where('type','Assisted Living')->get();
+        $testimonial=Testimonial::where('status','1')->orderBy('created_at','desc')->where('type','Assisted Living')->get();
         return view('website.gericare_assisted_living.about-assisted-living', compact('title', 'decription', 'keyword','testimonial')); 
     }
     public function assistedLivingServicePage()
@@ -183,7 +183,7 @@ class PageViewController extends Controller
     
     public function aboutClinicsPage()
     {
-        $testimonial=Testimonial::where('status','1')->where('type','Clinic')->get();
+        $testimonial=Testimonial::where('status','1')->where('type','Clinic')->orderBy('created_at','desc')->get();
         return view('website.gericare_clinics.about-clinics',compact('testimonial'));
     }
     public function clinicsServicePage()
@@ -193,7 +193,7 @@ class PageViewController extends Controller
     
     public function aboutHomeCarePage()
     {
-        $testimonial=Testimonial::where('status','1')->where('type','Homecare')->get();
+        $testimonial=Testimonial::where('status','1')->where('type','Homecare')->orderBy('created_at','desc')->get();
         return view('website.gericare_homecare.about-homecare',compact('testimonial'));
     }
     public function doctorVisitPage()
@@ -311,12 +311,12 @@ class PageViewController extends Controller
     }
     public function testimonialPage()
     {
-        $testimonial=Testimonial::where('status','1')->get();
+        $testimonial=Testimonial::where('status','1')->orderBy('created_at','desc')->get();
         return view('website.testimonials',compact('testimonial'));
     }
     public function videotestimonialPage()
     {
-        $testimonial=Testimonial::where('status','1')->get();
+        $testimonial=Testimonial::where('status','1')->orderBy('created_at','desc')->get();
         return view('website.videotestimonials',compact('testimonial'));
        // return view('website.videotestimonials');
     }
@@ -330,12 +330,12 @@ class PageViewController extends Controller
     }
     public function mediaGalleryPage()
     {
-        $media_release=MediaRelease::where('status','1')->get();
+        $media_release=MediaRelease::where('status','1')->orderBy('created_at','desc')->get();
         return view('website.in_news.media-gallery',compact('media_release'));
     } 
     public function newsEventsPage()
     {
-        $news_event=NewsEvent::where('status','1')->get();
+        $news_event=NewsEvent::where('status','1')->orderBy('created_at','desc')->get();
       
         return view('website.in_news.news-events',compact('news_event'));
     } 
@@ -345,7 +345,7 @@ class PageViewController extends Controller
     } 
     public function VideoGalleryPage()
     {
-        $videos=Videos::where('status','1')->get();
+        $videos=Videos::where('status','1')->orderBy('created_at','desc')->get();
         return view('website.in_news.video-gallery',compact('videos'));
 
     } 
