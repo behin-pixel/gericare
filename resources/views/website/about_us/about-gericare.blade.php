@@ -101,7 +101,7 @@ in the Country.</span>
 
 <div class="col-lg-12">
 <div class="common-heading text-center">
-<h2>The Continuum of 360 Care for the Grown up Community</h2>
+<h2>The Continuum of 360° Care for the Grown up Community</h2>
 </div>
 </div>
 

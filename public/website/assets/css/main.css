@@ -5406,6 +5406,11 @@ button.gm-ui-hover-effect {
 
 
 @media(max-width: 767px) {
+    .home-gericare .seconday-paragraph {
+        width: 100%;
+      }
+    .full-deg-cnt span {
+        height: auto;}
     input[type="date"] {
         cursor: pointer;
         background: #fff url('../images/cldr.png') no-repeat scroll 95% center;
@@ -5548,6 +5553,8 @@ button.gm-ui-hover-effect {
 }
 
 @media(max-width: 580px) {
+
+    .age-layer p{margin-bottom:0px;}
 
     .inner-layer-banner h1 {
         font-size: 22px;
@@ -5820,8 +5827,9 @@ button.gm-ui-hover-effect {
         padding: 0 10px;
     }
     .panell-drts {
-        grid-template-columns: repeat(2, 1fr);
-    }
+        grid-template-columns: repeat(1, 1fr);
+        margin: 0px 20px;
+      }
     .dr-panel a {
         font-size: 12px;
     }
