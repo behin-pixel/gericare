@@ -329,7 +329,7 @@ class ApiController extends Controller
             "data" => [
                 "key"      => PaymentConfig::where('gateWayName', 'RAZOR_PAY')->first()->payKeyId ?? config('payment.KeyID'),
                 "title"    => "Pay Online",
-                "image"    => asset('/public/images/logo/favicon.png'),
+                "image"    => asset('/public/website/favicon.png'),
                 "name"     => $customer->name,
                 "email"    => $customer->email,
                 "contact"  => $customer->CustomerDetails['phone_number'] ?? null,
