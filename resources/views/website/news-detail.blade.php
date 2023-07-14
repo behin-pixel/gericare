@@ -10,7 +10,7 @@
 <div class="col-lg-12">
 <h1>News & Events</h1>
 <ul>
-<li><a href=""> Home </a></li>
+<li><a href="{{ url('/') }}"> Home </a></li>
 <li> > </li>
 <li> News & Events </li> 
 <li> > </li>

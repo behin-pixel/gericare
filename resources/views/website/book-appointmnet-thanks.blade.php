@@ -9,7 +9,7 @@
 <div class="col-lg-12">
 <h1>Thank You</h1>
 <ul>
-<li><a href=""> Home </a></li>
+<li><a href="{{ url('/') }}"> Home </a></li>
 <li> > </li>
 <li class="active"> Thank You </li> 
 </ul>
