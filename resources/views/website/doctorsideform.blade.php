@@ -20,16 +20,19 @@
 									<input type="tel" id="aphone" name="mobile_no" value="" class="form-control" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*?)\..*/g, '$1');" maxlength="10" placeholder="Phone *" required>
 								</div>
 								<div class="col-sm-12 col-md-6 col-lg-6">
-									<div class="date"> 
+									<div class="date">
+										 
+								<label class="onl-respsve">Appointment Date</label> 
 										<input type="date" placeholder="Select Date" name="appointment_date" class="form-control" id="fecha1" placeholder="Date *" required>
 										<div class="input-group-append">
 										<span class="input-group-text"><i class="fa fa-calendar"></i></span>
 										</div>
 									</div>
 								</div>
-								<div class="col-sm-12 col-md-6 col-lg-6"> 
+								<div class="col-sm-12 col-md-6 col-lg-6">
+									<label class="onl-respsve">Appointment Time</label> 
 								<select class="form-control tmepcr" id="appointment_time" name="appointment_time" required>
-                    				<option value="">Appointment Time</option>
+                    				<option value="">Time</option>
                     				<option value="8:00am">8:00 AM</option>  
                     				<option value="8:15am">8:15 AM</option>  
                     				<option value="8:30am">8:30 AM</option>  

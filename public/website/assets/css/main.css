@@ -4104,7 +4104,7 @@ button.gm-ui-hover-effect {
 
 .margin-top-50{margin-top:100px;}
 
-
+label.onl-respsve{display: none;}
 
 
 
@@ -4618,6 +4618,8 @@ button.gm-ui-hover-effect {
 }
 
 @media(max-width: 1000px) {
+
+    label.onl-respsve{display: block;color:#000;margin-bottom:5px;text-align:start;font-size: 14px;}
     .leader-shipment .col-lg-7 {
         flex: 0 0 auto;
         width: 85%;
