@@ -58,7 +58,7 @@
 
 <div class="main-contdvshon">
 <h4>Doctor's Profile</h4>
-<p>Dr Kathiresan is a reputed senior surgical oncologist from Chennai. He did his undergraduate(MBBS) from Madras Medical College and then went on to pursue  post graduation in General Surgery(MS) (Gen.Surg) at Madras Medical College. After a brief stint as senior resident in the Department of Plastic Surgery, Govt. Royapettah Hospital, he did his super specialization(MCh) in surgical oncology at Cancer Institute (WIA), Adyar, Chennai in 2002 and successfully completed his “super specialty” course in 2005. After completion he continued at Cancer Institute (WIA) as faculty in the Department of Surgical Oncology.
+<p>Dr. Kathiresan is a reputed senior surgical oncologist from Chennai. He did his undergraduate(MBBS) from Madras Medical College and then went on to pursue  post graduation in General Surgery(MS) (Gen.Surg) at Madras Medical College. After a brief stint as senior resident in the Department of Plastic Surgery, Govt. Royapettah Hospital, he did his super specialization(MCh) in surgical oncology at Cancer Institute (WIA), Adyar, Chennai in 2002 and successfully completed his “super specialty” course in 2005. After completion he continued at Cancer Institute (WIA) as faculty in the Department of Surgical Oncology.
 </p>
 <p>Attracted by the special interest in “Bone and Soft Tissue Tumors”, he designed innovative newer prosthesis which improved the quality of life of patients with bone tumors. He was heading the division of “Musculoskeletal and Genitourinary Oncology” for a period of 7 years. He is not only an eminent teacher in the field of oncology but also was an examiner in Surgical Oncology in various Medical Universities across the India. He has extensive experience in Neo Bladder reconstruction after radical cystectomy of urinary bladder cancer (Making a new pouch to function as urinary bladder after removal)</p>
 <p>Being associated with renowned cancer care hospitals Dr.Kathiresan was awarded 'Best Doctor Award' from the Tamil Nadu, Dr.M.G.R Medical University, Chennai in September 2012.
@@ -75,7 +75,7 @@
 <li>MBBS  Kilpauk Medical College 1998</li>
 <li>DGO  Madras Medical College 2003</li>
 <li>MD Geriatrics -  Madras Medical College 2008</li>
-<li> Fellowship Certificate in Diabetology MV hospitals 2009</li>
+<li> Fellowship Certificate in Diabetology MV Hospitals 2009</li>
 
 </ul>
 </div>

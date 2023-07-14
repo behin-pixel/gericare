@@ -7,7 +7,7 @@
 <div class="container">
 <div class="row">
 	@php 
-    $name='Dr S Manicka Saravanan';
+    $name='Dr. S Manicka Saravanan';
     @endphp 
 <div class="col-lg-12">
 <h1>Our Doctors</h1>
@@ -18,7 +18,7 @@
 <li> > </li>
 <li><a href="{{ url('our-doctors') }}"> Our Doctors  </a></li>
 <li> > </li>
-<li class="active"> Dr S Manicka Saravanan </li>
+<li class="active"> Dr. S Manicka Saravanan </li>
 </ul>
 </div>
 
@@ -45,7 +45,7 @@
 
 <div class="col-lg-7">
 <div class="doc-tor-cnt">
-<h3>Dr S Manicka Saravanan<span>Consultant Geriatrician</span></h3>
+<h3>Dr. S Manicka Saravanan<span>Consultant Geriatrician</span></h3>
 <h4><img src="{{ asset('/public/website/assets/images/expe.png') }}" alt="Geri Care Hospital" class=""> Experience <span> 9+ Years</span></h4>
 <h4><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="Geri Care Hospital" class=""> Education <span>M.B.B.S., M.D(Geriatrics)</span></h4>
 <h4><img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="Geri Care Hospital" class=""> Languages <span> Tamil, English, Hindi</span></h4>
@@ -71,17 +71,17 @@
 <h4>Education</h4>
 <ul>
 <li>M.D (Geriatrics) -  All India Institute of Medical Sciences (AIIMS), Delhi</li>
-<li>M.B.B.S. - Government Theni Medical college, Theni</li> 
+<li>M.B.B.S. - Government Theni Medical College, Theni</li> 
 </ul>
 </div>
 
 <div class="main-contdvshon">
 <h4>Awards </h4>
 <ul>
-<li>December 2019: Travel Grant/Young Scholar Award at the 1st World congress on falls and postural stability, Kuala Lumpur.</li>
+<li>December 2019: Travel Grant/Young Scholar Award at the 1st World Congress on falls and postural stability, Kuala Lumpur.</li>
 <li>September 2019: Travel Grant/Best 100 Abstract Award at the 15th European Geriatric Medicine society conference, Krakow.</li> 
 <li>July 2017: Travel Grant/Young Scholar Award at the 21st International Congress on Geriatrics and Gerontology, San Francisco.</li>
-<li>2016: Third place in Open quiz, Geriatrics, Indian Ageing congress</li>
+<li>2016: Third place in Open quiz, Geriatrics, Indian Ageing Congress</li>
 </ul>
 
 </div>
@@ -100,11 +100,11 @@
 <div class="main-contdvshon">
 <h4>Works & Publications</h4>
 <ul>
-<li>Subramanian MS, Singh V, Chatterjee P, Dwivedi SN, Dey AB. Prevalence and predictors of falls in a health-seeking older population: An outpatient-based study. Aging Med. 2020;00:1–7. https ://doi.org/10.1002/agm2.12096</li>
+<li>Subramanian MS, Singh V, Chatterjee P, Dwivedi SN, Dey AB. Prevalence and predictors of falls in a health-seeking older population: An outpatient-based study. Aging Med. 2020;00:1–7. https://doi.org/10.1002/agm2.12096</li>
 
-<li>Subramanian, M.S., Rao, A.R., Bhattarai, U, et al. Diffuse Large B-cell Lymphoma with Renal Involvement Presenting withMultiple Cranial Nerve Palsy in a Frail Older Adult:a Case Report.SN Compr. Clin. Med.(2021). https://doi.org/10.1007/s42399-021-00956-7</li>
+<li>Subramanian, M.S., Rao, A.R., Bhattarai, U, et al. Diffuse Large B-cell Lymphoma with Renal Involvement Presenting with Multiple Cranial Nerve Palsy in a Frail Older Adult: a Case Report.SN Compr. Clin. Med.(2021). https://doi.org/10.1007/s42399-021-00956-7</li>
 
-<li>Kumari B, Rao A, Subramanian MS, Dey AB.Spontaneous regression of chronic epstein – Barr virus infection‑relatedlymphoproliferative disease. J Indian Acad Geriatr 2021;17:40-2</li>
+<li>Kumari B, Rao A, Subramanian MS, Dey AB.Spontaneous regression of chronic Epstein – Barr virus infection‑relatedlymphoproliferative disease. J Indian Acad Geriatr 2021;17:40-2</li>
 
 <li>Gunasekaran, V, Subramanian, MS, Singh, V, Dey, AB. Outcome of older adults at risk of frailty. Aging Med. 2021; 4: 266– 271. https://doi.org/10.1002/agm2.12181</li>
 
@@ -145,12 +145,12 @@ Bhattarai Urza, Chatterjee Prasun, Gautam Arun, Saravanan Manicka, Khan Maroof, 
 </li>
 
 
-<li><storng>Indian Ageing congress, November 2016</strong><br>
+<li><storng>Indian Ageing Congress, November 2016</strong><br>
 	<strong>Assessment of gait and balance in the oldest old.</strong><br>
 	Manicka Saravanan, Prashun Chatterjee, Avinash Chakrawarty, A.B.Dey
 </li>
 
-<li><storng>3rd International conference on Gerontology and Geriatric Medicine (ICGGM) and international network for the prevention of Elder Abuse (INPEA); New Delhi November 2015</strong><br>
+<li><storng>3rd International Conference on Gerontology and Geriatric Medicine (ICGGM) and international network for the Prevention of Elder Abuse (INPEA); New Delhi November 2015</strong><br>
 	<strong>A study of functionality and cognitive decline in the oldest old.</strong><br>
 	Manicka Saravanan S, Akash Kumar Ambashtha, AB Dey
 </li>

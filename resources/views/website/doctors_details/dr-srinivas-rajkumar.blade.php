@@ -7,7 +7,7 @@
 <div class="container">
 <div class="row">
     @php 
-    $name='Dr Srinivas Rajkumar T';
+    $name='Dr. Srinivas Rajkumar T';
     @endphp 
 <div class="col-lg-12">
 <h1>Our Doctors</h1>
@@ -18,7 +18,7 @@
 <li> > </li>
 <li><a href="{{ url('our-doctors') }}"> Our Doctors  </a></li>
 <li> > </li>
-<li class="active"> Dr Srinivas Rajkumar T </li>
+<li class="active"> Dr. Srinivas Rajkumar T </li>
 </ul>
 </div>
 
@@ -45,7 +45,7 @@
 
 <div class="col-lg-7">
 <div class="doc-tor-cnt">
-<h3>Dr Srinivas Rajkumar T<span>Consultant Psychiatrist</span></h3>
+<h3>Dr. Srinivas Rajkumar T<span>Consultant Psychiatrist</span></h3>
 <h4><img src="{{ asset('/public/website/assets/images/expe.png') }}" alt="Geri Care Hospital" class=""> Experience <span> 9+ Years</span></h4>
 <h4><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="Geri Care Hospital" class=""> Education <span>MD (Psychiatry)</span></h4>
 <h4><img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="Geri Care Hospital" class=""> Languages <span> Tamil, English, Hindi</span></h4>
@@ -60,18 +60,18 @@ Adyar - Tuesday Mornings
 
 <div class="main-contdvshon">
 <h4>Doctor's Profile</h4>
-<p>Dr Srinivas Rajkumar T is a popular Geriatric Psychiatrist in Chennai. He believes in comprehensive evaluation of mental health conditions following a biopsychosocial approach. He is a patient listener who understands the needs of both patients and family members and helps them understand the illness and make well informed treatment decisions. Treatment usually involves a combination of medications, therapy and behavioral interventions to ensure best possible recovery.
+<p>Dr. Srinivas Rajkumar T is a popular Geriatric Psychiatrist in Chennai. He believes in comprehensive evaluation of mental health conditions following a biopsychosocial approach. He is a patient listener who understands the needs of both patients and family members and helps them understand the illness and make well informed treatment decisions. Treatment usually involves a combination of medications, therapy and behavioral interventions to ensure best possible recovery.
 </p>
-<p>He has been a pioneer in working with cutting edge devices and techniques for the treatment of mental health conditions. He is well versed with treatment modalities like Electro convulsive therapy (ECT), repetitive transcranial magnetic stimulation (rTMS), transcranial direct current stimulation (tDCS),  Ketamine Therapy etc.</p>
+<p>He has been a pioneer in working with cutting edge devices and techniques for the treatment of mental health conditions. He is well versed with treatment modalities like Electroconvulsive therapy (ECT), repetitive transcranial magnetic stimulation (rTMS), transcranial direct current stimulation (tDCS),  Ketamine Therapy etc.</p>
 
-<p>Working with Gericare, he offers outpatient consultations, home visits by psychiatrist and psychologist and emergency psychiatry services.</p>
+<p>Working with Geri Care, he offers outpatient consultations, home visits by psychiatrist and psychologist and emergency psychiatry services.</p>
 
 
-<p>He is an avid leader and teacher. He has worked with NGOs, Colleges , Schools, Technology Companies , TV/Media/News organizations  to promote mental health literacy and also deliver mental health care interventions to all strata of the society.</p>
+<p>He is an avid leader and teacher. He has worked with NGOs, Colleges, Schools, Technology Companies, TV/Media/News organizations  to promote mental health literacy and also deliver mental health care interventions to all strata of the society.</p>
 
 <p>He routinely addresses geriatric mental health conditions like Elderly Depression, Bipolar Disorder, Anxiety, Sleep disturbances, Addiction, Dementia, OCD, Schizophrenia, Behavioral Issues etc and ensures they are treated optimally based on best prescription standards meeting global standards. Elderly require careful attention to past psychiatric history, comorbidities and other medications they are on to ensure that they get the right medication for their diagnosis with least side effects. We at gericare have developed an elderly friendly psychiatry evaluation process to make sure these goals are met.</p>
 
-<p>To address the under diagnosis of dementia and mental health conditions for patients who continue to receive treatment for other conditions, we have set up a Mind and Memory Clinic where Mental Health Professionals ( Psychiatrist and Psychologist) work closely with Geriatricians to address this gap in diagnosis and treatment.. </p>
+<p>To address the underdiagnosis of dementia and mental health conditions for patients who continue to receive treatment for other conditions, we have set up a Mind and Memory Clinic where Mental Health Professionals (Psychiatrist and Psychologist) work closely with Geriatricians to address this gap in diagnosis and treatment. </p>
 
 <p>His goal is to ensure that the highest quality of mental health care is made available at an affordable cost to every citizen of the country. </p>
 
@@ -111,7 +111,7 @@ Adyar - Tuesday Mornings
 <ul>
 <li>Conducted one among the initial studies in the country to assess prefrontal cortical activity using fNIRS in children with ADHD as a part of MD Thesis.</li>
 <li>Speaker on Childhood Dissociation in Trauma Conclave in AIIMS, New Delhi</li>
-<li>Speaker on fNIRS : Scope and Limitations in IIT-AIIMS Joint Workshop conducted at NBRC, Gurgaon</li>
+<li>Speaker on fNIRS: Scope and Limitations in IIT-AIIMS Joint Workshop conducted at NBRC, Gurgaon</li>
 <li>Speaker on Mental Health Awareness: Ramjas College</li>
 <li>Speaker on Mental Health Awareness and Early Interventions: Dr. Akhilesh Das Gupta Institute of Technology & Management</li>
 <li>Speaker on Mental Health Literacy and Lifestyle Changes - Tech Mahindra</li>
@@ -134,7 +134,7 @@ Adyar - Tuesday Mornings
 
 <li>Poster titled Recent advances in Neuromodulation – How miniaturization of circuits and understanding of neurobiological basis of illnesses has enabled precise control of specific neuronal circuits - A narrative review in GCBP 2018 - co-author</li>
 
-<li>Poster titled Hypomania after tDCS for Depression :- Indicator of therapeutic response or adverse effect ? in GCBP 2018 - co-author</li>
+<li>Poster titled Hypomania after tDCS for Depression:- Indicator of therapeutic response or adverse effect? in GCBP 2018 - co-author</li>
 
 <li>Poster titled “Seizure and Psychosis: Forced Normalisation – A case report and Narrative Review” – author in ANCIPS 2019</li>
 

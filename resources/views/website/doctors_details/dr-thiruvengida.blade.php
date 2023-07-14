@@ -62,7 +62,7 @@
 He is a member of Tamilnadu Medical Council and Medical Council of India (MCI). Some of the services provided by the doctor are: Fracture Treatment, Joint Pain Treatment, Osteoporosis Treatment, Knee Osteotomy and Correction of deformities etc.
 </p>
 <p>He has been the backbone of Orthogeriatrics department at the Geri Care Hospital. His expertise include managing hip fractures by doing procedures like Total Hip replacement or Hemiarthroplasty. He is also good at managing Osteoarthritis of knee and shoulder joints.</p>
-<p>He works closely with Geriatric Physiotherapists to ensure optimal recovery and rehabilitation for elderly patients</p>
+<p>He works closely with Geriatric Physiotherapists to ensure optimal recovery and rehabilitation for elderly patients.</p>
 </div>
 
 

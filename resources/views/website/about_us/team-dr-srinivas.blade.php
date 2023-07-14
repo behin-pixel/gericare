@@ -56,10 +56,10 @@
 
 <div class="main-contdvshon">
 <!-- <h4>Profile</h4> -->
-<p>A leading Geriatrician with over three decades of clinical practice in India and the UK, Dr V Srinivas obtained the MRCP degree (1992) and Diploma in Geriatric Medicine (1991) from the Royal College of physicians, UK before he went on to establish Geri Care. He also has to his credit MD in General Medicine (1988) and MBBS (1984) from Kilpauk Medical College Chennai.
+<p>A leading Geriatrician with over three decades of clinical practice in India and the UK, Dr V Srinivas obtained the MRCP degree (1992) and Diploma in Geriatric Medicine (1991) from the Royal College of Physicians, UK before he went on to establish Geri Care. He also has to his credit MD in General Medicine (1988) and MBBS (1984) from Kilpauk Medical College Chennai.
 </p>
 <p>Since 1994, he has been a Consultant/Visiting Consultant for several hospitals. In April 2012, he founded the Chennai Geriatrics Centre. He is the President of the Chennai chapter of the “Indian Academy of Geriatrics”, member of the “Indian Geriatrics Society”, the American Geriatrics Society, the British Geriatrics Society, the Indian Medical Association and the Association of Physicians of India. He is also an executive member of the National Association of Senior Citizens Association of India (NASCAI). </p>
-<p>Until 2014, Dr. Srinivas was Visiting Consultant Geriatrician at Queen Alexandra Hospital, Portsmouth, UK. He took an active part in teaching programmes for junior doctors and departmental education meetings. He has also worked at the Royal Liverpool University Hospital, the University hospital in Cardiff, the Queen’s Medical Centre at Nottingham University Hospital, Leicester University Hospital, and Whittington Hospital in London, among others. His special interests include polypharmacy and osteoporosis.
+<p>Until 2014, Dr. Srinivas was Visiting Consultant Geriatrician at Queen Alexandra Hospital, Portsmouth, UK. He took an active part in teaching programmes for junior doctors and departmental education meetings. He has also worked at the Royal Liverpool University Hospital, the University Hospital in Cardiff, the Queen’s Medical Centre at Nottingham University Hospital, Leicester University Hospital, and Whittington Hospital in London, among others. His special interests include polypharmacy and osteoporosis.
 </p>
 </div>
 

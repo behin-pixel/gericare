@@ -7,7 +7,7 @@
 <div class="container">
 <div class="row">
     @php 
-    $name='Dr Flora Alex';
+    $name='Dr. Flora Alex';
     @endphp 
 <div class="col-lg-12">
 <h1>Our Doctors</h1>
@@ -18,7 +18,7 @@
 <li> > </li>
 <li><a href="{{ url('our-doctors') }}"> Our Doctors  </a></li>
 <li> > </li>
-<li class="active"> Dr Flora Alex </li>
+<li class="active"> Dr. Flora Alex </li>
 </ul>
 </div>
 
@@ -45,7 +45,7 @@
 
 <div class="col-lg-7">
 <div class="doc-tor-cnt">
-<h3>Dr Flora Alex<span>Consultant Geriatrician</span></h3>
+<h3>Dr. Flora Alex<span>Consultant Geriatrician</span></h3>
 <h4><img src="{{ asset('/public/website/assets/images/expe.png') }}" alt="Geri Care Hospital" class=""> Experience <span> 8+ Years</span></h4>
 <h4><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="Geri Care Hospital" class=""> Education <span>M.B.B.S., M.D (Geriatrics)</span></h4>
 <h4><img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="Geri Care Hospital" class=""> Languages <span> Tamil, English</span></h4>
@@ -88,7 +88,7 @@ Home visits on appointment basis
 <li>Procalcitonin As A Marker Of Sepsis In Hospitalised Elderly - Published this study in Scholars Journal of Applied Medical Sciences dated 28.02.2019 (DOI: 10.21276/sjams.2019.7.2.79)</li>
 <li>E-Journal: Association Between Short Physical Performance Battery and Recurrent Falls In Elderly
 </li>
-<li>Poster Presentation on “A Study of Relationship Between Procalcitonin And Severity Of Sepsis In Elderly” in GERICON 2017- AIIMS, New Delhi which was published in Journal Of Indian Academy Of Geriatrics, December 2017 Vol.13,No.4</li>
+<li>Poster Presentation on “A Study of Relationship Between Procalcitonin And Severity Of Sepsis In Elderly” in GERICON 2017- AIIMS, New Delhi which was published in Journal Of Indian Academy Of Geriatrics, December 2017 Vol.13, No.4</li>
 
 </ul>
 </div>

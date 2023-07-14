@@ -59,7 +59,7 @@
 <h4>Doctor's Profile</h4>
 <p>Tinu Thamby T is a highly qualified clinical psychologist holding an M.Phil. in Clinical Psychology licensed by the Rehabilitation Council of India (RCI) with a decade of experience in offering various Comprehensive Psychometric assessments and evidence-based psychotherapies.</p>
 
-<p>Her core area of interest is Anxiety spectrum disorders (Generalized Anxiety Disorder (GAD), Panic Disorder, Social Anxiety Disorder (Social Phobia), Specific Phobias, Obsessive-Compulsive Disorder (OCD), Post-Traumatic Stress Disorder (PTSD), Separation Anxiety Disorder) . She excels in providing Exposure Response Prevention therapy (ERP) for OCD and is actively involved in the establishment and guidance of a youth peer support program for individuals living with OCD.
+<p>Her core area of interest is Anxiety spectrum disorders (Generalized Anxiety Disorder (GAD), Panic Disorder, Social Anxiety Disorder (Social Phobia), Specific Phobias, Obsessive-Compulsive Disorder (OCD), Post-Traumatic Stress Disorder (PTSD), Separation Anxiety Disorder). She excels in providing Exposure Response Prevention therapy (ERP) for OCD and is actively involved in the establishment and guidance of a youth peer support program for individuals living with OCD.
 Her expertise includes detailed Psychological assessments for diagnosing various common conditions like ADHD, OCD, Emotional dysregulation, Personality disorders and other Psychiatric Conditions.</p>
 
 <p>She is also certified to carry out comprehensive DBT programs for people suffering from Emotional regulation difficulties. Passionate about youth mental health, Dr. Tinu Thamby T has received training in suicide gatekeeper protocols. </p>
@@ -82,7 +82,7 @@ Her expertise includes detailed Psychological assessments for diagnosing various
 <li>IQ assessments - WISC, MISIC, BKT, WAIS</li>
 <li>NIMHANS- Learning disability battery</li>
 <li>Child Assessments - Screening and detailed assessments for ADHD, Autism & other Neurodevelopmental disorders and behavioral issues</li>
-<li>Projective Assessments - SCT, TAT, Rorschach etc</li>
+<li>Projective Assessments - SCT, TAT, Rorschach, etc</li>
 <li>Personality Assessments </li>
 <li>Neurocognitive Assessments - Dementia screening and Comprehensive memory assessments - WMS, NIMHANS Neurocognitive Battery, PGI-BDD</li>
 

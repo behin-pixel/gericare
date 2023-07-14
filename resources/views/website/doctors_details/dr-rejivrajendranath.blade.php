@@ -57,7 +57,7 @@
 
 <div class="main-contdvshon">
 <h4>Doctor's Profile</h4>
-<p>Dr. Rejiv Rajendranath is a Medical Oncologist & has an experience of 19 years in this field. Having completed MBBS from Kasturba Medical College in 1999, MD - General Medicine from Kasturba Medical College in 2003 and DM - Oncology from Cancer Institute (WIA), Chennai in 2007. Dr.Rejiv had been working with reputed hospitals in Chennai in the oncology department he is a member of Indian Medical Association (IMA) and Indian Society of Medical and Paediatric Oncology (ISMPO). Some of the services provided by the doctor are: Chemotherapy of Solid Tumors, Hormone Therapy For Breast Cancer, Chemotherapy of Haematological Malignancies, Melanoma Treatment and Stem Cell Transplantation etc.</p>
+<p>Dr. Rejiv Rajendranath is a Medical Oncologist & has an experience of 19 years in this field. Having completed MBBS from Kasturba Medical College in 1999, MD - General Medicine from Kasturba Medical College in 2003 and DM - Oncology from Cancer Institute (WIA), Chennai in 2007. Dr.Rejiv had been working with reputed hospitals in Chennai in the oncology department he is a member of Indian Medical Association (IMA) and Indian Society of Medical and Paediatric Oncology (ISMPO). Some of the services provided by the doctor are Chemotherapy of Solid Tumors, Hormone Therapy For Breast Cancer, Chemotherapy of Haematological Malignancies, Melanoma Treatment and Stem Cell Transplantation, etc.</p>
 
 </div> 
 

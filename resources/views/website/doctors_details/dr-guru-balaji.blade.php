@@ -58,13 +58,13 @@
 <div class="main-contdvshon">
 <h4>Doctor's Profile</h4>
 <p>Dr.Guru Balaji is trained both in India and United Kingdom in urology capable of performing open, endourological and laparoscopic procedures.
-Dr.Guru has many publicationsto his credit which includes a research paper on the role of alkaline phosphatase in thyrotoxicosis. He has also contibuted to many international presentations such as- day case laparoscopic adrenalectomy, audit of laparoscopic nephrectomies, role of varicocoel surgery, calculus anuria and many others for US, UK, Netherlands, Singapore and Australia. He has also written national and regional papers on varicocelectomy, iatrogenic urological injuries, renal tumor and transplantation, tuberous sclerosis and many others.</p>
+Dr.Guru has many publications to his credit which includes a research paper on the role of alkaline phosphatase in thyrotoxicosis. He has also contributed to many international presentations such as day case laparoscopic adrenalectomy, audit of laparoscopic nephrectomies, role of Varicocele surgery, calculus anuria and many others for US, UK, Netherlands, Singapore and Australia. He has also written national and regional papers on varicocelectomy, iatrogenic urological injuries, renal tumor and transplantation, tuberous sclerosis and many others.</p>
 
-<p>Dr Guru Balaji is a member of Royal College of Surgeons in Edinburgh, National Academy of Medical Sciences in India (MNAMS), The Tamil Nadu and Pondicherry society of Urology and South Zone Urological Society of India. An avid learner, Dr.Guru had done several courses, had been actively involved in CME programs, paper presentations & has published numerous papers & articles at international, national, regional levels . Dr.Guru had been reaching out to public at large raising awareness on urology related diseases & management.He is also interested in teaching & training undergraduates postgraduates& paramedical students.</p>
+<p>Dr Guru Balaji is a member of Royal College of Surgeons in Edinburgh, National Academy of Medical Sciences in India (MNAMS), The Tamil Nadu and Pondicherry Society of Urology and South Zone Urological Society of India. An avid learner, Dr.Guru had done several courses, had been actively involved in CME programs, paper presentations & has published numerous papers & articles at international, national, regional levels. Dr.Guru had been reaching out to public at large raising awareness on urology related diseases & management. He is also interested in teaching & training undergraduates postgraduates& paramedical students.</p>
 
-<p>He has completed his MBBS from Madras Medical College, Chennai and his DNB from Kilpauk Medical College and did his DNB urology from Madurai. He worked as Assistant professor of Urology at SRM medical College before he went to the UK for more specialized training.
-He has experience in providing required care for the hospitalised patients having been associated with some of the prestigious hospitals over two decades.
-His expertise in managing prostate problems in elderly is well known among our patients.</p>
+<p>He has completed his MBBS from Madras Medical College, Chennai and his DNB from Kilpauk Medical College and did his DNB urology from Madurai. He worked as Assistant professor of Urology at SRM Medical College before he went to the UK for more specialized training.
+He has experience in providing required care for the hospitalized patients having been associated with some of the prestigious hospitals over two decades.
+His expertise in managing prostate problems in elderly is well-known among our patients.</p>
 
 
 </div>
@@ -74,9 +74,9 @@ His expertise in managing prostate problems in elderly is well known among our p
 <ul>
 <li>Member of Royal College of Surgeons - Edinburgh (MRCS)</li>
 <li>Member of National Academy of Medical Sciences -India (MNAMS)</li>
-<li>Member of The Tamil nadu and Pondicherry society of urologist</li>
-<li>Member of the South Zone Urological society of India</li>
-<li>Urological society of India</li>
+<li>Member of The Tamilnadu and Pondicherry Society of urologist</li>
+<li>Member of the South Zone Urological Society of India</li>
+<li>Urological Society of India</li>
 </ul>
 </div>
 

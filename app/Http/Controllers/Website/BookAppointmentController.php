@@ -73,7 +73,7 @@ class BookAppointmentController extends Controller
                 'message' => $request->details ,
                 'subject' => $subject,
                 'appointment_date' => $request->appointment_date,
-                'appointment_time' =>  date('H:i:s', strtotime($request->appointment_time))
+                'appointment_time' =>  $request->appointment_time
             ];
            // dd($mailData);
              

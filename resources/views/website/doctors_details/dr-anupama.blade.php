@@ -68,7 +68,7 @@ $name='Dr. K. Anupuma';
 <li>MBBS  Kilpauk Medical College 1998</li>
 <li>DGO  Madras Medical College 2003</li>
 <li>MD Geriatrics -  Madras Medical College 2008</li>
-<li> Fellowship Certificate in Diabetology MV hospitals 2009</li>
+<li> Fellowship Certificate in Diabetology MV Hospitals 2009</li>
 
 </ul>
 </div>

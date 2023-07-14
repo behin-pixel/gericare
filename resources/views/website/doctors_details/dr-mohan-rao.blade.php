@@ -7,7 +7,7 @@
 <div class="container">
 <div class="row">
 	@php 
-    $name='Dr Mohan Rao';
+    $name='Dr. Mohan Rao';
     @endphp 
 <div class="col-lg-12">
 <h1>Our Doctors</h1>
@@ -18,7 +18,7 @@
 <li> > </li>
 <li><a href="{{ url('our-doctors') }}"> Our Doctors  </a></li>
 <li> > </li>
-<li class="active"> Dr Mohan Rao </li>
+<li class="active"> Dr. Mohan Rao </li>
 </ul>
 </div>
 
@@ -45,7 +45,7 @@
 
 <div class="col-lg-7">
 <div class="doc-tor-cnt">
-<h3>Dr Mohan Rao<span>General Surgeon</span></h3>
+<h3>Dr. Mohan Rao<span>General Surgeon</span></h3>
 <h4><img src="{{ asset('/public/website/assets/images/expe.png') }}" alt="Geri Care Hospital" class=""> Experience <span> 36+ Years</span></h4>
  <h4><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="Geri Care Hospital" class=""> Education <span> MBBS, MS (GEN. SURGERY), FIAGES</span></h4>
  <h4><img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="Geri Care Hospital" class=""> Languages <span> Tamil, English  </span></h4>
@@ -58,7 +58,7 @@
 
 <div class="main-contdvshon">
 <h4>Doctor's Profile</h4>
-<p> Dr A Mohan Rao qualified from Kasturba Medical College Mangalore/ Manipal, Karnataka in 1985 is a Sr. Consultant in General, Minimal Access (Laparoscopic) Surgery and Bariatric Surgery. He is also a Fellow of the Indian Association of Gastro Endo-surgeons. He qualified as a General surgeon in the year 1985 and subsequently trained as a Laparoscopic Surgeon. He has more than 36 years of Surgical Experience as a General Surgeon and 20 years of Laparoscopic Surgery. Areas of Specialty include Laparoscopic Surgery, Bariatric Surgery, Breast Surgery & General Surgery.
+<p> Dr. A Mohan Rao qualified from Kasturba Medical College Mangalore/ Manipal, Karnataka in 1985 is a Sr. Consultant in General, Minimal Access (Laparoscopic) Surgery and Bariatric Surgery. He is also a Fellow of the Indian Association of Gastro Endo-surgeons. He qualified as a General surgeon in the year 1985 and subsequently trained as a Laparoscopic Surgeon. He has more than 36 years of Surgical Experience as a General Surgeon and 20 years of Laparoscopic Surgery. Areas of Specialty include Laparoscopic Surgery, Bariatric Surgery, Breast Surgery & General Surgery.
 </p>
 
  

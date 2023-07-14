@@ -59,11 +59,11 @@
 <h4>Doctor's Profile</h4>
 <p>Dr. Magesh completed his MBBS from Madras Medical College, Chennai. Following which, he underwent training in Internal Medicine at the University Hospital of Hartlepool and obtained MRCP (UK). A career in higher specialist training in Geriatric and Internal Medicine awaited him at the Northern Deanery, University of Newcastle, UK.</p>
 
-<p>During his training, he gained experience in various specialties of Geriatric medicine and Internal Medicine at esteemed hospitals including James Cook University Hospital in Middlesbrough, Royal Sunderland Hospitals in Sunderland, University Hospital of North Tees in Stockton, Royal Victoria Hospitals in Newcastle, and Darlington Memorial Hospitals in Darlington.</p>
+<p>During his training, he gained experience in various specialties of Geriatric Medicine and Internal Medicine at esteemed hospitals including James Cook University Hospital in Middlesbrough, Royal Sunderland Hospitals in Sunderland, University Hospital of North Tees in Stockton, Royal Victoria Hospitals in Newcastle, and Darlington Memorial Hospitals in Darlington.</p>
 
 <p>After successfully completing his training, Dr. Magesh was appointed as a Consultant at the University Hospital of Hartlepool, UK in 2005. He joined Apollo Hospitals, Chennai, as a Consultant in 2007 and took the initiative to establish Outpatient Geriatric Services at Westside Clinic, Anna Nagar, in the year 2010.</p>
 
-<p>Dr. Magesh's journey has equipped him with valuable skills and expertise in the field of Geriatric medicine and Internal Medicine, and helped him garner training for his professional roles in the UK and in India.</p>
+<p>Dr. Magesh's journey has equipped him with valuable skills and expertise in the field of Geriatric Medicine and Internal Medicine and helped him garner training for his professional roles in the UK and in India.</p>
 
 </div>
 
@@ -73,8 +73,8 @@
 <ul>
 <li>MBBS (1995) from prestigious Madras Medical College</li>
 <li>MRCP (UK) (2000) from Royal College of Physicians UK</li>
-<li>UK board Certification in Internal Medicine</li>
-<li>UK board Certification in Geriatric Medicine ( 2005)</li>
+<li>UK Board Certification in Internal Medicine</li>
+<li>UK Board Certification in Geriatric Medicine ( 2005)</li>
 </ul>
 </div>
 
@@ -82,8 +82,8 @@
 <h4>Experience</h4>
 <ul>
 <li>Specialist Registrar Internal Medicine & Geriatrics, Newcastle UK (2001)</li>
-<li>Consultant Physician&Geriatrician, University hospital North Tees & Hartlepool UK (2005)</li>
-<li>Consultant Physician & Geriatrician, Apollo hospitals, Chennai (2007 - Present)</li>
+<li>Consultant Physician&Geriatrician, University Hospital North Tees & Hartlepool UK (2005)</li>
+<li>Consultant Physician & Geriatrician, Apollo Hospitals, Chennai (2007 - Present)</li>
 </ul>
 </div>
 
@@ -100,11 +100,11 @@
 <div class="main-contdvshon">
 <h4>Publications   </h4>
 <ul>
-<li>Fall in Elderly during COVID 19 Pandemic - JIAG 2020;16:133 – 35</li>
-<li>Asymptomatic PE in patient with post COVID 19 - Indian Journal of Applied Research</li>
+<li>Fall in Elderly during COVID-19 Pandemic - JIAG 2020;16:133 – 35</li>
+<li>Asymptomatic PE in patient with post COVID-19 - Indian Journal of Applied Research</li>
 <li>Infection - Vol 10 Nov 2020
 <li>Asymptomatic Osteoporosis in Indian Geriatric - JIAG 2017; 13:101-105 Population						 
-<li>Co morbidity predicts hospitalization in COPD - Age&Ageing Nov 2003;32:37 (s)
+<li>Comorbidity predicts hospitalization in COPD - Age&Ageing Nov 2003;32:37 (s)
 <li>Pathway of care for COPD - Age & Ageing Nov 2003;32:38 (s)
 <li>Audit on use of Anticoagulants in Elderly in AF - Age&Ageing Feb 2002;31:38 (s)
 </ul>

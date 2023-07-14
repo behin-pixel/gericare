@@ -5,8 +5,7 @@ include 'admin.php';
 use App\Http\Controllers\Website\BookAppointmentController;
 use App\Http\Controllers\Website\CareerController;
 use App\Http\Controllers\Website\ConsultantFormController;
-use App\Http\Controllers\Website\PageViewController;
-use App\Models\BookAppointment;
+use App\Http\Controllers\Website\PageViewController; 
 use Illuminate\Support\Facades\Route;
 /*
 |--------------------------------------------------------------------------
@@ -228,3 +227,9 @@ Route::get('terms-and-conditions',[PageViewController::class,'termsConditionsPag
 
 Route::get('news-detail/{slug?}',[PageViewController::class,'newsDetailPage'])->name('news-detail'); 
 
+
+
+Route::get('/error-404', function(){  return view('errors.404');});
+
+
+Route::any('{query}', function() { return redirect('/error-404'); })->where('query', '.*');

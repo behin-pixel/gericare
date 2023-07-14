@@ -58,7 +58,7 @@
 <div class="tem-drcnt">
 <h4>Dr. N. Lakshmipathy Ramesh</h4>
 <h5>MD (Geriatrics) </h5>
-<span>Founder & Director </span>
+<span>Founder & Managing Director  </span>
 <div class="common-button drk mt-3">
 <a class="p-2" href="{{ url('about-gericare/team-dr-lakshmipathy') }}">Read More</a> 
 </div>
