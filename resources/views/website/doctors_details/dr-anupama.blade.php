@@ -16,11 +16,11 @@
 <li> > </li>
 <li><a href="{{ url('our-doctors') }}"> Our Doctors  </a></li>
 <li> > </li>
-<li class="active"> Dr. K. Anupuma  </li>
+<li class="active"> Dr. K. Anupama  </li>
 </ul>
 </div>
 @php 
-$name='Dr. K. Anupuma';
+$name='Dr. K. Anupama';
 @endphp 
 </div>
 </div>
@@ -39,13 +39,13 @@ $name='Dr. K. Anupuma';
 
 <div class="col-lg-5">
 <div class="doc-tor-img">
-<img src="{{ asset('/public/website/assets/images/dr-k-anupuma.webp') }}" alt="Dr. K. Anupuma - Consultant Geriatrician" class="w-100">
+<img src="{{ asset('/public/website/assets/images/dr-k-anupuma.webp') }}" alt="Dr. K. Anupama - Consultant Geriatrician" class="w-100">
 </div>
 </div>
 
 <div class="col-lg-7">
 <div class="doc-tor-cnt">
-<h3>Dr. K. Anupuma <span>Consultant Geriatrician</span></h3>
+<h3>Dr. K. Anupama <span>Consultant Geriatrician</span></h3>
 <h4><img src="{{ asset('/public/website/assets/images/expe.png') }}" alt="Geri Care Hospital" class=""> Experience <span> 18 Years</span></h4>
 <h4><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="Geri Care Hospital" class=""> Education <span>MBBS, DGO, MD(Geriatrics)
 </span></h4>

@@ -257,16 +257,16 @@ Uro Gynaecology
 
     <div class="dctrs-detls">
      <div class="dctrm-img">
-     <img src="{{ asset('/public/website/assets/images/dr-k-anupuma.webp') }}" alt="Dr. K. Anupuma - Consultant Geriatrician" class="">
+     <img src="{{ asset('/public/website/assets/images/dr-k-anupuma.webp') }}" alt="Dr. K. Anupama - Consultant Geriatrician" class="">
      </div>
      <div class="dctrm-deitals">
-     <h3> Dr. K. Anupuma </h3>
+     <h3> Dr. K. Anupama </h3>
      <h4> Consultant Geriatrician  </h4>
      <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="Geri Care Hospital" class="">  MBBS, MD (Geriatrics), DGO  </h5>
      <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="Geri Care Hospital" class=""> Home visit on appointment basis</h5>
      <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="Geri Care Hospital" class="">  Tamil, English, Hindi  </h5>
-     <a href="{{ url('dr-anupuma') }}">Book Appointment</a>
-     <a href="{{ url('dr-anupuma') }}">View Profile</a>
+     <a href="{{ url('dr-anupama') }}">Book Appointment</a>
+     <a href="{{ url('dr-anupama') }}">View Profile</a>
      </div>
      </div>
 
