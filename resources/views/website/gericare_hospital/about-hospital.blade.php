@@ -21,7 +21,7 @@
                             Expert Geriatricians</h1>
                     </div>
                     <div class="seconday-paragraph text-center">
-                        Geri Care, India's 1<sup>st</sup> multi-speciality hospital, is the visionary brainchild of renowned
+                        Geri Care, India's 1<sup>st</sup> multi-speciality hospital for Senior Citizens, is the visionary brainchild of renowned
                         geriatricians, Dr. LPR and Dr. Srinivas. Their extensive experience and expertise have enabled them
                         to assemble a team of professionals from various medical disciplines who possess a deep
                         understanding of the complexities and common health conditions associated with the elderly.
