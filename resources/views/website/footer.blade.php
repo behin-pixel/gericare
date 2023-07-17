@@ -118,7 +118,9 @@
     </div>
     </div>
   </div>
-</div>  	
+</div>
+
+
 
 @section('addon_script')
     <script>

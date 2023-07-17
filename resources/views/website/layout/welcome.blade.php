@@ -291,6 +291,20 @@
 
         }
     </style>
+
+<!--Modal JS Script -->
+<script type="text/javascript">
+    window.onload = () => {
+        $('#popupvideo').modal('show');
+    }
+</script>
+<script type="text/javascript">
+$('#popupvideo').on('hidden.bs.modal', function () {
+    $("#popupvideo iframe").attr("src", $("#popupvideo iframe").attr("src"));
+});
+</script>
+
+
     <div id="preloader" style="display:none"
         style="background:rgba(255,255,255,1); width:100%; height:100%; position:fixed;top:0; left:0;z-index:99999999; padding-top:1%; ">
     </div>

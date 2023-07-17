@@ -4106,6 +4106,8 @@ button.gm-ui-hover-effect {
 
 label.onl-respsve{display: none;}
 
+#popupvideo .modal-header{position: absolute;right: 0;z-index: 999;border: 0px;border-radius:0px;border-top-right-radius:4px;}
+
 
 
 

@@ -885,7 +885,22 @@ Nov 04 2019
 </div>
 </section>
 
+<div class="modal fade" id="popupvideo" tabindex="-1" aria-labelledby="exampleModalCenterTitle" >
+	<div class="modal-dialog modal-lg modal-dialog-centered">
+	  <div class="modal-content text-center"> 
+		<div class="modal-header text-center"> 
+			<button type="button" class="close" data-bs-dismiss="modal" aria-label="Close">
+								<span>×</span>
+							</button>
+		  </div>
+		<div class="modal-body" id="yt-player">
+			<iframe width="100%" height="450" src="https://www.youtube.com/embed/tmBwgmxZEBM?rel=0&enablejsapi=1" title="Geri Care Hospital Adambakkam Launch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	  </div>
+	  </div>
+	</div>
+  </div> 
+
 @include('website.bottommap')
 
-
 @endsection
+
