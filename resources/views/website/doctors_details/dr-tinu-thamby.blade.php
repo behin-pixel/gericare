@@ -56,7 +56,7 @@
 </div>
 
 <div class="main-contdvshon">
-<h4>Doctor's Profile</h4>
+<h4>Profile</h4>
 <p>Tinu Thamby T is a highly qualified clinical psychologist holding an M.Phil. in Clinical Psychology licensed by the Rehabilitation Council of India (RCI) with a decade of experience in offering various Comprehensive Psychometric assessments and evidence-based psychotherapies.</p>
 
 <p>Her core area of interest is Anxiety spectrum disorders (Generalized Anxiety Disorder (GAD), Panic Disorder, Social Anxiety Disorder (Social Phobia), Specific Phobias, Obsessive-Compulsive Disorder (OCD), Post-Traumatic Stress Disorder (PTSD), Separation Anxiety Disorder). She excels in providing Exposure Response Prevention therapy (ERP) for OCD and is actively involved in the establishment and guidance of a youth peer support program for individuals living with OCD.
