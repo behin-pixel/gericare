@@ -25,24 +25,39 @@ class PageViewController extends Controller
     }
     public function hospitalDoctorsPage()
     {
-        return view('website.gericare_hospital.hospital-doctors');
+        $title = 'Our Doctors - Geri Care';
+        $decription = 'Experience superior healthcare with our exceptional doctors. Trust our team for comprehensive medical expertise and personalized care. Visit us today!';
+        $keyword = '';
+        return view('website.gericare_hospital.hospital-doctors', compact('title', 'decription', 'keyword'));
     } 
 
     public function drSrinivasPage()
     {
-        return view('website.doctors_details.dr-srinivas');
+        $title = 'Dr. V. Srinivas - Senior Consultant Geriatrician';
+        $decription = "Dr. V. Srinivas is a leading Geriatrician with over three decades of clinical practice in India and the UK. He is the Founder Director of Geri Care organization.";
+        $keyword = '';
+        return view('website.doctors_details.dr-srinivas', compact('title', 'decription', 'keyword'));
     }
     public function drLakshmipathyPage()
     {
-        return view('website.doctors_details.dr-lakshmipathy');
+        $title = 'Dr. N. Lakshmipathy Ramesh - Senior Consultant Geriatrician';
+        $decription = "Dr. Lakshmipathy Ramesh (Dr. LPR) is an established Geriatrician in Chennai. He has over two decades of experience in taking care of the elderly people.";
+        $keyword = '';
+        return view('website.doctors_details.dr-lakshmipathy', compact('title', 'decription', 'keyword'));
     }
     public function drVasanthPage()
     {
-        return view('website.doctors_details.dr-vasanth');
+        $title = 'Dr K. Vasanth - Consultant Geriatrician';
+        $decription = "Dr. K. Vasanth is an experienced and highly skilled Elderly Care Physician specializing in the complex medical needs of older patients.";
+        $keyword = '';
+        return view('website.doctors_details.dr-vasanth', compact('title', 'decription', 'keyword'));
     }
     public function drAshwinPage()
     {
-        return view('website.doctors_details.dr-ashwin');
+        $title = 'Dr Ashwin Subramaniam - Senior Consultant & Diabetologist';
+        $decription = "Dr. Ashwin is an experienced general physician and diabetologist, His expertise extends to acute and chronic conditions particularly in elderly patients.";
+        $keyword = '';
+        return view('website.doctors_details.dr-ashwin', compact('title', 'decription', 'keyword'));
     }
     public function drManickaSaravananPage()
     {
@@ -59,7 +74,10 @@ class PageViewController extends Controller
     } 
     public function drMageshPage()
     {
-        return view('website.doctors_details.dr-magesh');
+        $title = 'Dr. Magesh R - Consultant Geriatrician';
+        $decription = "Dr. Magesh's journey has equipped him with valuable skills and expertise in the field of Geriatric Medicine and Internal Medicine. Visit our website for more information.";
+        $keyword = ''; 
+        return view('website.doctors_details.dr-magesh', compact('title', 'decription', 'keyword'));
     } 
     public function drMuthuswamyPage()
     {
@@ -194,8 +212,11 @@ class PageViewController extends Controller
     
     public function aboutHomeCarePage()
     {
+        $title = 'Home Health Care Services In Chennai - Geri Care';
+        $decription = 'Discover Exceptional Home Health Care Services in Chennai! Geri Care Provides Top-Quality Healthcare for the Elderly. Call Now for Expert Assistance!';
+        $keyword = '';
         $testimonial=Testimonial::where('status','1')->where('type','Homecare')->orderBy('created_at','desc')->get();
-        return view('website.gericare_homecare.about-homecare',compact('testimonial'));
+        return view('website.gericare_homecare.about-homecare',compact('testimonial','title', 'decription', 'keyword'));
     }
     public function doctorVisitPage()
     {
@@ -228,27 +249,42 @@ class PageViewController extends Controller
     }
     public function psychiatristHomeVisitPage()
     {
-        return view('website.homecare_services.psychiatrist-home-visit');
+        $title = 'Psychiatrists For Home Visit in Chennai - Geri Care';
+        $decription = 'Seeking psychiatric care at home in Chennai? Geri Care offers expert home visit psychiatrists, providing personalized mental health care services. Contact us today!';
+        $keyword = '';
+        return view('website.homecare_services.psychiatrist-home-visit', compact('title', 'decription', 'keyword'));
     }
     public function orthopedicianHomeVisitPage()
     {
-        return view('website.homecare_services.orthopedician-home-visit');
+        $title = 'Orthopaedic Doctors Home Visit in Chennai - Geri Care';
+        $decription = 'In need of orthopaedic care at home in Chennai? Geri Care provides expert home visit orthopaedic doctors offering personalized orthopaedic care services. Contact us today!';
+        $keyword = '';
+        return view('website.homecare_services.orthopedician-home-visit', compact('title', 'decription', 'keyword'));
     }
     public function DentistHomeVisitPage()
     {
-        return view('website.homecare_services.dentist-home-visit');
+        $title = 'Best Dental Care at Home | Dentist Home Visit - Geri Care';
+        $decription = 'Geri Care offers personalized dental care at home with their expert dentist home visit service in Chennai. Experience convenient and superior oral healthcare.';
+        $keyword = '';
+        return view('website.homecare_services.dentist-home-visit', compact('title', 'decription', 'keyword'));
     }
     public function IVFluidsMonitoringPage()
     {
-        return view('website.homecare_services.iv-fluids-monitoring');
+        $title = 'IV Fluids Monitoring - Geri Care';
+        $decription = "Ensure optimal patient care with Geri Care's professional IV fluids monitoring services. Our expert team ensures accurate and efficient administration of IV fluids.";
+        $keyword = '';
+        return view('website.homecare_services.iv-fluids-monitoring', compact('title', 'decription', 'keyword'));
     }
     public function UrinaryCatheterizationPage()
     {
-        return view('website.homecare_services.urinary-catheterization');
+        $title = 'Urinary catheterization treatment at Home - Geri Care';
+        $decription = 'Experience the convenience of urinary catheterization treatment at home with Geri Care. Our services prioritize comfort and ensure proper care in a familiar environment.';
+        $keyword = '';
+        return view('website.homecare_services.urinary-catheterization', compact('title', 'decription', 'keyword'));
     }
     public function OutpatientAntibioticAdministrationPage()
     {
-        return view('website.homecare_services.outpatient-antibiotic-administration');
+        return view('website.homecare_services.outpatient-antibiotic-administration', compact('title', 'decription', 'keyword'));
     } 
     public function WoundCareDressingPage()
     {
@@ -267,7 +303,10 @@ class PageViewController extends Controller
     }
     public function HomeSampleCollectionPage()
     {
-        return view('website.homecare_services.home-sample-collection');
+        $title = 'Book A Home Sample Collection Service - Geri Care';
+        $decription = "Save time and effort with Geri Care's doorstep sample collection services. From blood samples to other tests, we bring reliable healthcare to your door.";
+        $keyword = '';
+        return view('website.homecare_services.home-sample-collection', compact('title', 'decription', 'keyword'));
     }
     public function LiveInCarePage()
     {
@@ -275,16 +314,25 @@ class PageViewController extends Controller
     }
     public function CareForBedriddenPatientsPage()
     {
-        return view('website.homecare_services.care-for-bedridden-patients');
+        $title = 'Home Health Care Services for Bedridden Seniors - Geri Care';
+        $decription = "Geri Care offers comprehensive home health care services for bedridden seniors, prioritizing their comfort and overall well-being. Trust us for compassionate care at home.";
+        $keyword = '';
+        return view('website.homecare_services.care-for-bedridden-patients', compact('title', 'decription', 'keyword'));
     }
     
     public function aboutGericarePage()
     {
-        return view('website.about_us.about-gericare');
+        $title = 'About - Geri Care';
+        $decription = "Gericare is your dedicated companion in senior care, providing holistic support and personalized services. Discover a new standard of well-being today!";
+        $keyword = '';
+        return view('website.about_us.about-gericare', compact('title', 'decription', 'keyword'));
     }
     public function leaderShipPage()
     {
-        return view('website.about_us.leadership-team');
+        $title = 'Leadership Team - Geri Care';
+        $decription = "Meet the exceptional leadership team at Geri Care. Our experienced leaders bring a wealth of knowledge and expertise to ensure exceptional senior care services.";
+        $keyword = '';
+        return view('website.about_us.leadership-team', compact('title', 'decription', 'keyword'));
     }
     public function leaderShipSrinivasPage()
     {
@@ -300,30 +348,45 @@ class PageViewController extends Controller
     }
     public function careerPage()
     {
-        return view('website.career.careers');
+        $title = 'Careers and Employment - Geri Care';
+        $decription = "Discover diverse career paths at Geri Care that allow you to make a meaningful difference in people's lives. Explore our opportunities now!";
+        $keyword = '';
+        return view('website.career.careers', compact('title', 'decription', 'keyword'));
     }
     public function contactUsPage()
-    {
-        return view('website.contact_us.contact-us');
+    { 
+        $title = 'Contact Us - Geri Care';
+        $decription = "Connect with Geri Care, the leading provider of senior care services. Our friendly experts are ready to assist you and provide guidance every step of the way.";
+        $keyword = '';
+        return view('website.contact_us.contact-us', compact('title', 'decription', 'keyword'));
     }
     public function bookAppointmentPage()
     {
-        return view('website.book_an_appointment.book-appointment');
+        $title = 'Book an Appointment - Geri Care';
+        $decription = "Get exceptional senior health care services at Geri Care. Secure your appointment today and receive personalized care from our dedicated team of experts.";
+        $keyword = '';
+        return view('website.book_an_appointment.book-appointment', compact('title', 'decription', 'keyword'));
     }
     public function testimonialPage()
     {
+        $title = 'Testimonials - Geri Care';
+        $decription = "Discover the power of real stories and experiences through our testimonials. Hear what families have to say about Geri Care's commitment to exceptional senior care.";
+        $keyword = '';
         $testimonial=Testimonial::where('status','1')->orderBy('created_at','desc')->get();
-        return view('website.testimonials',compact('testimonial'));
+        return view('website.testimonials',compact('testimonial','title', 'decription', 'keyword'));
     }
     public function videotestimonialPage()
     {
         $testimonial=Testimonial::where('status','1')->orderBy('created_at','desc')->get();
-        return view('website.videotestimonials',compact('testimonial'));
+        return view('website.videotestimonials',compact('testimonial','title', 'decription', 'keyword'));
        // return view('website.videotestimonials');
     }
     public function faqPage()
     {
-        return view('website.faq');
+        $title = 'Frequently Asked Questions (FAQs) - Geri Care';
+        $decription = "Find answers to commonly asked questions about Geri Care's senior care services, facilities, and more. Our FAQ section provides valuable information to address your queries.";
+        $keyword = '';
+        return view('website.faq', compact('title', 'decription', 'keyword'));
     }
     public function termsConditionsPage()
     {
@@ -331,23 +394,35 @@ class PageViewController extends Controller
     }
     public function mediaGalleryPage()
     {
+        $title = 'Media Gallery - Geri Care';
+        $decription = "Step into the vibrant media gallery of Geri Care. Explore our memorable moments, heartwarming interactions, and the spirit of compassionate senior care.";
+        $keyword = '';
         $media_release=MediaRelease::where('status','1')->orderBy('created_at','desc')->get();
-        return view('website.in_news.media-gallery',compact('media_release'));
+        return view('website.in_news.media-gallery',compact('media_release','title', 'decription', 'keyword'));
     } 
     public function newsEventsPage()
     {
+        $title = 'News and Events - Geri Care';
+        $decription = "Experience excellence in geriatric care at our renowned hospital. Stay informed about the latest news and exciting events happening at Geri Care. Join us today!";
+        $keyword = '';
         $news_event=NewsEvent::where('status','1')->orderBy('created_at','desc')->get();
       
-        return view('website.in_news.news-events',compact('news_event'));
+        return view('website.in_news.news-events',compact('news_event','title', 'decription', 'keyword'));
     } 
     public function GalleryPage()
     {
-        return view('website.in_news.gallery');
+        $title = 'Gallery - Geri Care';
+        $decription = "Explore the Captivating Gallery of Geri Care's Home Health Care Services. Witness the heartwarming moments and events that await you. Browse now!";
+        $keyword = '';
+        return view('website.in_news.gallery', compact('title', 'decription', 'keyword'));
     } 
     public function VideoGalleryPage()
     {
+        $title = 'Video Gallery - Geri Care';
+        $decription = "Step into Geri Care's video gallery and witness the transformative impact of our services. Engaging videos that bring the essence of senior care to life.";
+        $keyword = '';
         $videos=Videos::where('status','1')->orderBy('created_at','desc')->get();
-        return view('website.in_news.video-gallery',compact('videos'));
+        return view('website.in_news.video-gallery',compact('videos','title', 'decription', 'keyword'));
 
     } 
     public function MediaToolKitPage()
