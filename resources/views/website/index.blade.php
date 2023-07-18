@@ -164,7 +164,7 @@
 </div>
 
 <div class="common-para">
-<p>Gaeri Care, a name that resonates with extensive medical, nursing and physiotherapy treatments has been operating in the realm of specialized geriatric care services for more than three decades now. </p>
+<p>Geri Care, a name that resonates with extensive medical, nursing and physiotherapy treatments has been operating in the realm of specialized geriatric care services for more than three decades now. </p>
 </div>
 
 <div class="common-button drk">
