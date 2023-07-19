@@ -8,6 +8,7 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Validator;
 use Illuminate\Support\Facades\Mail;
 use App\Mail\EnquiryMail;
+use App\Mail\ThankyouMail;
 use App\Models\Testimonial;
 
 class ConsultantFormController extends Controller
@@ -64,6 +65,9 @@ class ConsultantFormController extends Controller
            // dd($mailData);
              
             Mail::to(env('CLIENT_MAIL'))->bcc(env('BCC_MAIL'))->send(new EnquiryMail($mailData));
+
+            Mail::to($request->email)->bcc(env('BCC_MAIL'))->send(new ThankyouMail($mailData));
+
             $error                      = 0;
             $message                    = 'Form submitted successfully';
             $from_page                  =   $request->from; 
