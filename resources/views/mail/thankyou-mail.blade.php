@@ -1,4 +1,3 @@
-@component('mail::message')
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="background: #f5f8fa;">
     <tbody>
@@ -15,7 +14,7 @@
               <td style="padding: 20px; "><table width="100%" border="0" cellspacing="0" cellpadding="0">
                 <tbody>
                  <tr>
-                        <td height="30" style="font-size: 16px; font-family:Helvetica, Arial; color: #454545; " >Dear {{ $data['name'] }} </td>
+                        <td height="30" style="font-size: 16px; font-family:Helvetica, Arial; color: #454545; " >Dear {{ $data['name'] }}, </td>
                     </tr>
                     <tr>
                         <td height="20" style="font-size: 16px; font-family:Helvetica, Arial; color: #454545; " > </td>
@@ -31,8 +30,7 @@
                     <tr>
                         <td style="font-size: 16px; font-family:Helvetica, Arial; color: #454545; " >
                            <p> In case you have any questions or need further information before the scheduled date, please feel free to reach out to us. We are more than happy to assist you and provide any details you may require.</p>
-                        <p> Once again, thank you for choosing Geri Care. We value your time and trust in us, and we are committed to delivering a positive and rewarding experience during our upcoming appointment.</p>
-                           
+                        <p> Once again, thank you for choosing Geri Care. We value your time and trust in us, and we are committed to delivering a positive and rewarding experience during our upcoming appointment.</p>                           
                         </td>
                     </tr>
                     <tr>
@@ -40,7 +38,7 @@
                     </tr>
                     <tr>
                         <td style="font-size: 16px; font-family:Helvetica, Arial; color: #454545; " >
-                            Warm Regards
+                          <p>Warm Regards</p>
                         </td>
                     </tr>
 
@@ -52,4 +50,4 @@
       </tr>
     </tbody>
     </table>
-@endcomponent
+ 
