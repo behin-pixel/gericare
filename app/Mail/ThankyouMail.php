@@ -25,6 +25,6 @@ class ThankyouMail extends Mailable
      */
     public function build()
     {
-        return $this->markdown('mail.thankyou-mail');
+        return $this->subject('Geri Care : Thank You Mail ')->markdown('mail.thankyou-mail');
     }
 }

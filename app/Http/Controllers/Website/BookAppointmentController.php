@@ -7,6 +7,7 @@ use App\Models\BookAppointment;
 use Illuminate\Support\Facades\Validator;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Mail;
+use App\Mail\ThankyouMail;
 use App\Mail\AppointmentMail;
 
 class BookAppointmentController extends Controller
@@ -78,6 +79,11 @@ class BookAppointmentController extends Controller
            // dd($mailData);
              
             Mail::to(env('CLIENT_MAIL'))->bcc(env('BCC_MAIL'))->send(new AppointmentMail($mailData));
+           
+           //acknowledgement mail function
+            Mail::to($request->email)->bcc(env('BCC_MAIL'))->send(new ThankyouMail($mailData));
+            // end
+
 
             $error                      = 0;
             $message                    = 'Appointment Book request submitted successfully';

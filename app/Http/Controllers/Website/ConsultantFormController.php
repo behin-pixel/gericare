@@ -66,7 +66,10 @@ class ConsultantFormController extends Controller
              
             Mail::to(env('CLIENT_MAIL'))->bcc(env('BCC_MAIL'))->send(new EnquiryMail($mailData));
 
+            //acknowledgement mail function
             Mail::to($request->email)->bcc(env('BCC_MAIL'))->send(new ThankyouMail($mailData));
+            // end
+
 
             $error                      = 0;
             $message                    = 'Form submitted successfully';
