@@ -17,7 +17,7 @@
 in the Country.</span>
 </h1>
 <ul>
-<li><a href="{{ url('/') }}"> Home </a></li>
+<li><a href="{{ url('/') }}"> Home </a></li> 
 <li> > </li>     
 <li >About Us</li> 
 <li> > </li>     
