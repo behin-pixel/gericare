@@ -47,7 +47,7 @@ $name='Dr. B. Balamurugan';
 <div class="doc-tor-cnt">
 <h3>Dr. B. Balamurugan<span>Senior Consultant Nephrologist</span></h3>
 <h4><img src="{{ asset('/public/website/assets/images/expe.png') }}" alt="Geri Care Hospital" class=""> Experience <span> 24+ Years</span></h4>
-<h4><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="Geri Care Hospital" class=""> Education <span>M.B.B.S., M.D (General Medicine), DM (Nephrology)</span></h4>
+<h4 class="educaton"><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="Geri Care Hospital" class=""> Education <span>M.B.B.S., M.D (General Medicine), DM (Nephrology)</span></h4>
 <h4><img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="Geri Care Hospital" class=""> Languages <span> Tamil, English</span></h4>
 <h4><img src="{{ asset('/public/website/assets/images/location.png') }}" alt="Geri Care Hospital" class=""> Locations <span> Adambakkam - All days</span></h4>
 </div>

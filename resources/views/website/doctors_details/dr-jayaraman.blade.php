@@ -47,7 +47,7 @@
 <div class="doc-tor-cnt">
 <h3>Dr Jayaraman<span>Pulmonologist</span></h3>
  <h4><img src="{{ asset('/public/website/assets/images/expe.png') }}" alt="Geri Care Hospital" class=""> Experience <span> 31+ Years</span></h4>
-<h4><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="Geri Care Hospital" class=""> Education <span> MBBS, Diploma in Tuberculosis and Chest Diseases (DTCD)</span></h4>
+<h4 class="educaton"><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="Geri Care Hospital" class=""> Education <span> MBBS, Diploma in Tuberculosis and Chest Diseases (DTCD)</span></h4>
  <h4><img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="Geri Care Hospital" class=""> Languages <span> Tamil, English  </span></h4>
 <!-- <h4><img src="{{ asset('/public/website/assets/images/location.png') }}" alt="Geri Care Hospital" class=""> Location <span>  </span></h4>   -->
 </div>

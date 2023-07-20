@@ -2985,6 +2985,9 @@ ul.press-roomr li span.bts-non {
     line-height: 21px;
     position: relative;
 }
+
+.doc-tor-cnt h4.educaton{min-height: 40px;}
+
 .doc-tor-cnt h4 span {
     display: inline-block;
     position: absolute;

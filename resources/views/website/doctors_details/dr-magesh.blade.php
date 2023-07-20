@@ -47,7 +47,7 @@
 <div class="doc-tor-cnt">
 <h3>Dr. Magesh R<span>Consultant Geriatrician</span></h3>
 <h4><img src="{{ asset('/public/website/assets/images/expe.png') }}" alt="Geri Care Hospital" class=""> Experience <span> 15+ Years</span></h4>
-<h4><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="Geri Care Hospital" class=""> Education <span>MBBS, MRCP, CCT (Int. Med. & Geriatrics), FRCP</span></h4>
+<h4 class="educaton"><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="Geri Care Hospital" class=""> Education <span>MBBS, MRCP, CCT (Int. Med. & Geriatrics), FRCP</span></h4>
 <h4><img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="Geri Care Hospital" class=""> Languages <span> English, Tamil</span></h4>
 <h4><img src="{{ asset('/public/website/assets/images/location.png') }}" alt="Geri Care Hospital" class=""> Locations <span> T.Nagar, Velachery, Adyar</span></h4>
 </div>

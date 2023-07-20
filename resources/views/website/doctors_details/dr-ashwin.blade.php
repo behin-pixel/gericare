@@ -47,7 +47,7 @@ $name='Dr Ashwin Subramaniam';
 <div class="doc-tor-cnt">
 <h3>Dr Ashwin Subramaniam<span>Senior Consultant- Internal Medicine & Diabetologist</span></h3>
 <h4><img src="{{ asset('/public/website/assets/images/expe.png') }}" alt="Geri Care Hospital" class=""> Experience <span> 16+ Years</span></h4>
-<h4><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="Geri Care Hospital" class=""> Education <span>MBBS RMMC, DNB(Internal Medicine), MRCP(UK)</span></h4>
+<h4 class="educaton"><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="Geri Care Hospital" class=""> Education <span>MBBS RMMC, DNB(Internal Medicine), MRCP(UK)</span></h4>
 <h4><img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="Geri Care Hospital" class=""> Languages <span> English, Tamil</span></h4>
 <h4><img src="{{ asset('/public/website/assets/images/location.png') }}" alt="Geri Care Hospital" class=""> Location <span> T Nagar</span></h4>
 </div>

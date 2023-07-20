@@ -379,12 +379,12 @@ Uro Gynaecology
 
 <div class="dctrs-detls">
 <div class="dctrm-img">
-<img src="{{ asset('/public/website/assets/images/doctor-img-10.jpg') }}" alt="Geri Care Hospital" class="">
+<img src="{{ asset('/public/website/assets/images/dr-p-rajkumar.webp') }}" alt="Geri Care Hospital" class="">
 </div>
 <div class="dctrm-deitals">
 <h3> Dr. P. Rajkumar  </h3>
 <h4> Senior Surgical Oncologist  </h4>
-<h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="Geri Care Hospital" class="">MBBS</h5>
+<h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="Geri Care Hospital" class="">MBBS, MS - General Surgery, MCh - Surgical Oncology</h5>
 <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="Geri Care Hospital" class=""> Tamil, English, Hindi</h5>
 <a href="{{ url('our-doctors/dr-rajkumar') }}">Book Appointment</a> 
 <a href="{{ url('our-doctors/dr-rajkumar') }}">View Profile</a>
