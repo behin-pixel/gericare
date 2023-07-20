@@ -65,12 +65,18 @@ class PageViewController extends Controller
     }
     public function drTinuThambyPage()
     {
-        return view('website.doctors_details.dr-tinu-thamby');
+        $title = 'Tinu Thamby T - Clinical Psychologist';
+        $decription = "Tinu Thamby T is a highly qualified clinical psychologist holding an M.Phil. in Clinical Psychology licensed by the Rehabilitation Council of India (RCI) with a decade of experience.";
+        $keyword = '';
+        return view('website.doctors_details.dr-tinu-thamby', compact('title', 'decription', 'keyword'));
     }
 
     public function drSrinivasRajkumarPage()
     {
-        return view('website.doctors_details.dr-srinivas-rajkumar');
+        $title = 'Dr. Srinivas Rajkumar T - Consultant Psychiatrist';
+        $decription = "Dr. Srinivas Rajkumar T is a popular Geriatric Psychiatrist in Chennai. He believes in comprehensive evaluation of mental health conditions following a biopsychosocial approach.";
+        $keyword = ''; 
+        return view('website.doctors_details.dr-srinivas-rajkumar', compact('title', 'decription', 'keyword'));
     } 
     public function drMageshPage()
     {
@@ -81,7 +87,10 @@ class PageViewController extends Controller
     } 
     public function drMuthuswamyPage()
     {
-        return view('website.doctors_details.dr-muthuswamy');
+        $title = 'Dr. Muthuswamy - Senior Interventional Consultant Cardiologist';
+        $decription = "Dr. Muthuswamy specialized in Cardiology and worked as a Consultant in Cardiology at various centres from 1989.";
+        $keyword = ''; 
+        return view('website.doctors_details.dr-muthuswamy', compact('title', 'decription', 'keyword'));
     } 
     public function rejivrajendranathPage()
     {
@@ -89,7 +98,10 @@ class PageViewController extends Controller
     }
     public function drAnupamaPage()
     {
-        return view('website.doctors_details.dr-anupama');
+        $title = 'Dr. K. Anupama - Consultant Geriatrician';
+        $decription = "Dr Anupama is an experienced Geriatrician and one of the few qualified female Geriatricians with expertise in female geriatric conditions. ";
+        $keyword = ''; 
+        return view('website.doctors_details.dr-anupama', compact('title', 'decription', 'keyword'));
     }
     public function drArulmozhiselvanPage()
     {
@@ -109,7 +121,10 @@ class PageViewController extends Controller
     }
     public function  drThiruvengidaPage()
     {
-        return view('website.doctors_details.dr-thiruvengida');
+        $title = 'Dr. G. Thiruvengita Prasad - Senior Orthopedic Surgeon';
+        $decription = "Dr. Thiruvengita Prasad G is a renowned Spine Surgeon, Sports Medicine Surgeon and Orthopedist and has an experience of 22 years in these fields.";
+        $keyword = ''; 
+        return view('website.doctors_details.dr-thiruvengida', compact('title', 'decription', 'keyword'));
     }
     public function  drFloraPage()
     {
@@ -121,7 +136,10 @@ class PageViewController extends Controller
     }
     public function  drBalamuruganSPage()
     {
-        return view('website.doctors_details.dr-balamurugan-s');
+        $title = 'Dr. S. Balamurugan - Senior Neurosurgeon';
+        $decription = "Dr. S. Balamurugan has operated more than 3500 patients in his Neurosurgical career in the Government and Corporate sectors ranging from Aneurysm, AVM surgeries, Skull base Surgeries.";
+        $keyword = ''; 
+        return view('website.doctors_details.dr-balamurugan-s', compact('title', 'decription', 'keyword'));
     }
 
     public function  drSrideviPage()
@@ -146,7 +164,10 @@ class PageViewController extends Controller
     }
     public function  sujathaPage()
     {
-        return view('website.doctors_details.dr-sujatha');
+        $title = 'Dr. Sujatha - Consultant Psychiatrist';
+        $decription = "Dr. Sujatha, Post her M.B.B.S specialized in Psychiatry from Kasturibai medical college and worked as a private consultant from 2001-2007 with a main focus on women and adolescents.";
+        $keyword = ''; 
+        return view('website.doctors_details.dr-sujatha', compact('title', 'decription', 'keyword'));
     }
     public function  jayaramanPage()
     {
@@ -154,11 +175,17 @@ class PageViewController extends Controller
     }
     public function  mohanRaoPage()
     {
-        return view('website.doctors_details.dr-mohan-rao');
+        $title = 'Dr. Mohan Rao - General Surgeon';
+        $decription = "Dr. Mohan Rao qualified as a General surgeon and subsequently trained as a Laparoscopic Surgeon. He has 36 years of Surgical Experience as a General Surgeon and 20 years of Laparoscopic Surgery.";
+        $keyword = ''; 
+        return view('website.doctors_details.dr-mohan-rao', compact('title', 'decription', 'keyword'));
     }
     public function  asirjulinPage()
     {
-        return view('website.doctors_details.dr-asir-julin');
+        $title = 'Dr Asir Julin - Neurologist';
+        $decription = "Dr.Asir has been associated with several reputed hospitals in Chennai as a consultant & stroke treatment specialist during the golden hour. With over 15 years of hands-on experience.";
+        $keyword = ''; 
+        return view('website.doctors_details.dr-asir-julin', compact('title', 'decription', 'keyword'));
     }
     public function  meenakshiPage()
     {
@@ -166,7 +193,10 @@ class PageViewController extends Controller
     }
     public function  banuPrakashPage()
     {
-        return view('website.doctors_details.dr-banu-prakash');
+        $title = 'Dr. Banu Prakash - Ortho Geriatrician';
+        $decription = "Dr. Banu Prakash is a Senior Consultant specializing in primary, complex & revision knee and hip replacement surgeries.";
+        $keyword = ''; 
+        return view('website.doctors_details.dr-banu-prakash', compact('title', 'decription', 'keyword'));
     }
     public function  aarathiPage()
     {
@@ -288,11 +318,17 @@ class PageViewController extends Controller
     } 
     public function WoundCareDressingPage()
     {
-        return view('website.homecare_services.wound-care-dressing');
+        $title = 'Wound Dressing Services at Home - Geri Care';
+        $decription = "Geri Care offers convenient wound dressing services at home, saving you time and effort. Let our skilled team take care of your wound healing needs.";
+        $keyword = ''; 
+        return view('website.homecare_services.wound-care-dressing', compact('title', 'decription', 'keyword'));
     }
     public function ECGatHomePage()
     {
-        return view('website.homecare_services.ecg-at-home');
+        $title = 'ECG Test at Home | Ecg Testing Services At Home - Geri Care';
+        $decription = "Experience hassle-free ECG tests at the comfort of your home with Geri Care's professional testing services. Achieve peace of mind with our convenient and reliable solutions.";
+        $keyword = ''; 
+        return view('website.homecare_services.ecg-at-home', compact('title', 'decription', 'keyword'));
     }
     public function SkilledNursingCarePage()
     {
@@ -310,7 +346,10 @@ class PageViewController extends Controller
     }
     public function LiveInCarePage()
     {
-        return view('website.homecare_services.live-in-care');
+        $title = 'Live-In Senior Care Services - Geri Care';
+        $decription = "Geri Care provides professional live-in elderly care services, prioritizing your loved ones' well-being and comfort. ";
+        $keyword = '';   
+        return view('website.homecare_services.live-in-care', compact('title', 'decription', 'keyword'));
     }
     public function CareForBedriddenPatientsPage()
     {
