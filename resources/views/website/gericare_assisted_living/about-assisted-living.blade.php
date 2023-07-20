@@ -108,7 +108,7 @@ In an innovative endeavor, Geri Care offers 24/7 Assisted Living and Skilled Nur
 
 </div>
 
-<a id="servce-cre"></a>
+<a id="services-we-offer"></a>
 </div>
 </div>
 </section>

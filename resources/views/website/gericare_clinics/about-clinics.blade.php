@@ -77,7 +77,7 @@ In addition to general medical care, we conduct comprehensive assessments and tr
 </div> 
 
 </div>
-<a id="clinic"></a>
+<a id="clinic-services"></a>
 </div>
 </div>
 </section> 

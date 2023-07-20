@@ -412,213 +412,193 @@
                             <ul>
 
                                 <li>
-                                    <a href="{{ url('hospital-departments') }}">
-                                        <div class="geric-img">
-                                            <img src="{{ asset('/public/website/assets/images/icn-18.png') }}"
-                                                alt="Geri Care Hospital" class="">
-                                        </div>
-                                        <span> Geriatric Medicine </span>
-                                    </a>
+                                <a href="{{ url('hospital-departments') }}">
+                                <div class="geric-img">
+                                <img src="{{ asset('/public/website/assets/images/icn-18.png') }}" alt="Geri Care Hospital" class=""> 
+                                </div>
+                                <span> Geriatric Medicine </span>
+                                </a>      
                                 </li>
-
+                                
                                 <li>
-                                    <a href="{{ url('hospital-departments') }}">
-                                        <div class="geric-img">
-                                            <img src="{{ asset('/public/website/assets/images/icn-1.png') }}"
-                                                alt="Geri Care Hospital" class="">
-                                        </div>
-                                        <span> Geriatric Cardiology </span>
-                                    </a>
+                                <a href="{{ url('hospital-departments/#department-geriatric-cardiology') }}">
+                                <div class="geric-img">
+                                  <img src="{{ asset('/public/website/assets/images/icn-1.png') }}" alt="Geri Care Hospital" class=""> 
+                                  </div>
+                                  <span> Geriatric Cardiology  </span>  
+                                </a>   
                                 </li>
-
+                                
                                 <li>
-                                    <a href="{{ url('hospital-departments') }}">
-                                        <div class="geric-img">
-                                            <img src="{{ asset('/public/website/assets/images/icn-4.png') }}"
-                                                alt="Geri Care Hospital" class="">
-                                        </div>
-                                        <span> Ortho Geriatrics </span>
-                                    </a>
+                                <a href="{{ url('hospital-departments/#department-ortho-geriatrics') }}">
+                                <div class="geric-img">
+                                  <img src="{{ asset('/public/website/assets/images/icn-4.png') }}" alt="Geri Care Hospital" class=""> 
+                                  </div>
+                                  <span> Ortho Geriatrics </span>  
+                                </a>   
                                 </li>
-
+                                
                                 <li>
-                                    <a href="{{ url('hospital-departments') }}">
-                                        <div class="geric-img">
-                                            <img src="{{ asset('/public/website/assets/images/icn-10.png') }}"
-                                                alt="Geri Care Hospital" class="">
-                                        </div>
-                                        <span> Geriatric Psychiatry </span>
-                                    </a>
+                                <a href="{{ url('hospital-departments') }}">
+                                <div class="geric-img">
+                                  <img src="{{ asset('/public/website/assets/images/icn-10.png') }}" alt="Geri Care Hospital" class=""> 
+                                  </div>
+                                  <span> Geriatric Psychiatry </span>  
+                                </a>   
                                 </li>
-
+                                
                                 <li>
-                                    <a href="{{ url('hospital-departments') }}">
-                                        <div class="geric-img">
-                                            <img src="{{ asset('/public/website/assets/images/icn-6.png') }}"
-                                                alt="Geri Care Hospital" class="">
-                                        </div>
-                                        <span>Geriatric Neurology </span>
-                                    </a>
+                                <a href="{{ url('hospital-departments/#department-geriatric-neurolgy') }}">
+                                <div class="geric-img">
+                                  <img src="{{ asset('/public/website/assets/images/icn-6.png') }}" alt="Geri Care Hospital" class=""> 
+                                  </div>
+                                  <span>Geriatric Neurology </span>  
+                                </a>   
                                 </li>
-
+                                
                                 <li>
-                                    <a href="{{ url('hospital-departments') }}">
-                                        <div class="geric-img">
-                                            <img src="{{ asset('/public/website/assets/images/icn-7.png') }}"
-                                                alt="Geri Care Hospital" class="">
-                                        </div>
-                                        <span>Geriatric Surgery </span>
-                                    </a>
+                                <a href="{{ url('hospital-departments/#department-geriatric-surgery') }}">
+                                <div class="geric-img">
+                                  <img src="{{ asset('/public/website/assets/images/icn-7.png') }}" alt="Geri Care Hospital" class=""> 
+                                  </div>
+                                  <span>Geriatric Surgery </span> 
+                                </a>    
                                 </li>
-
+                                
                                 <li>
-                                    <a href="{{ url('hospital-departments') }}">
-                                        <div class="geric-img">
-                                            <img src="{{ asset('/public/website/assets/images/icn-2.png') }}"
-                                                alt="Geri Care Hospital" class="">
-                                        </div>
-                                        <span> Geriatric Oncology </span>
-                                    </a>
+                                <a href="{{ url('hospital-departments/#department-geriatric-oncology') }}">
+                                <div class="geric-img">
+                                  <img src="{{ asset('/public/website/assets/images/icn-2.png') }}" alt="Geri Care Hospital" class=""> 
+                                  </div>
+                                  <span> Geriatric Oncology </span>  
+                                </a>   
                                 </li>
-
+                                
                                 <li>
-                                    <a href="{{ url('hospital-departments') }}">
-                                        <div class="geric-img">
-                                            <img src="{{ asset('/public/website/assets/images/icn-9.png') }}"
-                                                alt="Geri Care Hospital" class="">
-                                        </div>
-                                        <span> Geriatric Urology </span>
-                                    </a>
+                                <a href="{{ url('hospital-departments/#department-geriatric-urology') }}">
+                                <div class="geric-img">
+                                  <img src="{{ asset('/public/website/assets/images/icn-9.png') }}" alt="Geri Care Hospital" class=""> 
+                                  </div>
+                                  <span> Geriatric Urology </span> 
+                                </a>    
                                 </li>
-
-
-
+                                
+                                
+                                
                                 <li>
-                                    <a href="{{ url('hospital-departments') }}">
-                                        <div class="geric-img">
-                                            <img src="{{ asset('/public/website/assets/images/icn-5.png') }}"
-                                                alt="Geri Care Hospital" class="">
-                                        </div>
-                                        <span> Gasteroentrology </span>
-                                    </a>
+                                <a href="{{ url('hospital-departments/#department-gasteroentrology') }}">
+                                <div class="geric-img">
+                                  <img src="{{ asset('/public/website/assets/images/icn-5.png') }}" alt="Geri Care Hospital" class=""> 
+                                  </div>
+                                  <span> Gasteroentrology </span>  
+                                </a>   
                                 </li>
-
-
+                                
+                                
                                 <li>
-                                    <a href="{{ url('hospital-departments') }}">
-                                        <div class="geric-img">
-                                            <img src="{{ asset('/public/website/assets/images/icn-8.png') }}"
-                                                alt="Geri Care Hospital" class="">
-                                        </div>
-                                        <span> Pulmonology </span>
-                                    </a>
+                                <a href="{{ url('hospital-departments/#department-pulmonology') }}">
+                                <div class="geric-img">
+                                  <img src="{{ asset('/public/website/assets/images/icn-8.png') }}" alt="Geri Care Hospital" class=""> 
+                                  </div>
+                                  <span> Pulmonology </span>  
+                                </a>   
                                 </li>
-
+                                
                                 <li>
-                                    <a href="{{ url('hospital-departments') }}">
-                                        <div class="geric-img">
-                                            <img src="{{ asset('/public/website/assets/images/icn-16.png') }}"
-                                                alt="Geri Care Hospital" class="">
-                                        </div>
-                                        <span>Geriatric ICU </span>
-                                    </a>
+                                <a href="{{ url('hospital-departments/#department-geriatric-icu') }}">
+                                <div class="geric-img">
+                                  <img src="{{ asset('/public/website/assets/images/icn-16.png') }}" alt="Geri Care Hospital" class=""> 
+                                  </div>
+                                  <span>Geriatric ICU </span>  
+                                </a>   
                                 </li>
-
+                                
                                 <li>
-                                    <a href="{{ url('hospital-departments') }}">
-                                        <div class="geric-img">
-                                            <img src="{{ asset('/public/website/assets/images/icn-11.png') }}"
-                                                alt="Geri Care Hospital" class="">
-                                        </div>
-                                        <span> Dermatology </span>
-                                    </a>
+                                <a href="{{ url('hospital-departments/#department-dermatology') }}">
+                                <div class="geric-img">
+                                  <img src="{{ asset('/public/website/assets/images/icn-11.png') }}" alt="Geri Care Hospital" class=""> 
+                                  </div>
+                                  <span> Dermatology </span>  
+                                </a>   
                                 </li>
-
+                                
                                 <li>
-                                    <a href="{{ url('hospital-departments') }}">
-                                        <div class="geric-img">
-                                            <img src="{{ asset('/public/website/assets/images/icn-12.png') }}"
-                                                alt="Geri Care Hospital" class="">
-                                        </div>
-                                        <span> Vascular Surgery </span>
-                                    </a>
+                                <a href="{{ url('hospital-departments/#department-vascular-surgery') }}">
+                                <div class="geric-img">
+                                  <img src="{{ asset('/public/website/assets/images/icn-12.png') }}" alt="Geri Care Hospital" class=""> 
+                                  </div>
+                                  <span> Vascular Surgery </span>  
+                                </a>   
                                 </li>
-
+                                
                                 <li>
-                                    <a href="{{ url('hospital-departments') }}">
-                                        <div class="geric-img">
-                                            <img src="{{ asset('/public/website/assets/images/icn-13.png') }}"
-                                                alt="Geri Care Hospital" class="">
-                                        </div>
-                                        <span> Uro Gynaecology </span>
-                                    </a>
+                                <a href="{{ url('hospital-departments/#department-uro-gynaecology') }}">
+                                <div class="geric-img">
+                                  <img src="{{ asset('/public/website/assets/images/icn-13.png') }}" alt="Geri Care Hospital" class=""> 
+                                  </div>
+                                  <span> Uro Gynaecology </span>  
+                                </a>   
                                 </li>
-
+                                
                                 <li>
-                                    <a href="{{ url('hospital-departments') }}">
-                                        <div class="geric-img">
-                                            <img src="{{ asset('/public/website/assets/images/icn-15.png') }}"
-                                                alt="Geri Care Hospital" class="">
-                                        </div>
-                                        <span> Nephrology and Dialysis 24x7 </span>
-                                    </a>
+                                <a href="{{ url('hospital-departments/#department-nephrology') }}">
+                                <div class="geric-img">
+                                  <img src="{{ asset('/public/website/assets/images/icn-15.png') }}" alt="Geri Care Hospital" class=""> 
+                                  </div>
+                                  <span> Nephrology and Dialysis 24x7 </span>  
+                                </a>   
                                 </li>
-
+                                
                                 <li>
-                                    <a href="{{ url('hospital-departments') }}">
-                                        <div class="geric-img">
-                                            <img src="{{ asset('/public/website/assets/images/icn-17.png') }}"
-                                                alt="Geri Care Hospital" class="">
-                                        </div>
-                                        <span> ENT </span>
-                                    </a>
+                                <a href="{{ url('hospital-departments') }}">
+                                <div class="geric-img">
+                                  <img src="{{ asset('/public/website/assets/images/icn-17.png') }}" alt="Geri Care Hospital" class=""> 
+                                  </div>
+                                  <span> ENT </span>   
+                                </a>  
                                 </li>
-
+                                
                                 <li>
-                                    <a href="{{ url('hospital-departments') }}">
-                                        <div class="geric-img">
-                                            <img src="{{ asset('/public/website/assets/images/icn-20.png') }}"
-                                                alt="Geri Care Hospital" class="">
-                                        </div>
-                                        <span> Ophthalmology </span>
-                                    </a>
+                                <a href="{{ url('hospital-departments') }}">
+                                <div class="geric-img">
+                                  <img src="{{ asset('/public/website/assets/images/icn-20.png') }}" alt="Geri Care Hospital" class=""> 
+                                  </div>
+                                  <span> Ophthalmology </span>   
+                                </a>  
                                 </li>
-
+                                
                                 <li>
-                                    <a href="{{ url('hospital-departments') }}">
-                                        <div class="geric-img">
-                                            <img src="{{ asset('/public/website/assets/images/icn-21.png') }}"
-                                                alt="Geri Care Hospital" class="">
-                                        </div>
-                                        <span> Dentistry </span>
-                                    </a>
+                                <a href="{{ url('hospital-departments') }}">
+                                <div class="geric-img">
+                                  <img src="{{ asset('/public/website/assets/images/icn-21.png') }}" alt="Geri Care Hospital" class=""> 
+                                  </div>
+                                  <span> Dentistry </span>  
+                                </a>   
                                 </li>
-
+                                
                                 <li>
-                                    <a href="{{ url('hospital-departments') }}">
-                                        <div class="geric-img">
-                                            <img src="{{ asset('/public/website/assets/images/icn-14.png') }}"
-                                                alt="Geri Care Hospital" class="">
-                                        </div>
-                                        <span>Geriatric Physiotherapy </span>
-                                    </a>
+                                <a href="{{ url('hospital-departments/#department-geriatric-physiotherapy') }}">
+                                <div class="geric-img">
+                                  <img src="{{ asset('/public/website/assets/images/icn-14.png') }}" alt="Geri Care Hospital" class=""> 
+                                  </div>
+                                  <span>Geriatric Physiotherapy </span> 
+                                </a>    
                                 </li>
-
+                                
                                 <li>
-                                    <a href="{{ url('hospital-departments') }}">
-                                        <div class="geric-img">
-                                            <img src="{{ asset('/public/website/assets/images/icn-22.png') }}"
-                                                alt="Geri Care Hospital" class="">
-                                        </div>
-                                        <span> Lab Services </span>
-                                    </a>
+                                <a href="{{ url('hospital-departments/#department-lab-services') }}">
+                                <div class="geric-img">
+                                  <img src="{{ asset('/public/website/assets/images/icn-22.png') }}" alt="Geri Care Hospital" class=""> 
+                                  </div>
+                                  <span> Lab Services </span> 
+                                </a>   
                                 </li>
-
-
-
-
-
-                            </ul>
+                                
+                                
+                                
+                                
+                                
+                                </ul> 
 
                         </div>
 
