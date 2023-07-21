@@ -21,7 +21,7 @@
                     </tr>
                     <tr>
                         <td style="font-size: 16px; font-family:Helvetica, Arial; color: #454545; border:0px; " >  
-                         <p>We are pleased to inform you that your appointment has been successfully scheduled.</p>
+                         <p>Thank you for reaching out to Geri Care. We have received your enquiry form, which you submitted through our website, and our specialists are already reviewing the information provided. Please be assured that we will give your case the utmost attention and strive to respond to your enquiry promptly.</p>
                          </td>
                     </tr>
                     <tr>
@@ -29,8 +29,8 @@
                     </tr>                     
                     <tr>
                         <td style="font-size: 16px; font-family:Helvetica, Arial; color: #454545; border:0px; " >
-                           <p> In case you have any questions or need further information before the scheduled date, please feel free to reach out to us. We are more than happy to assist you and provide any details you may require.</p>
-                        <p> Once again, thank you for choosing Geri Care. We value your time and trust in us, and we are committed to delivering a positive and rewarding experience during our upcoming appointment.</p>                           
+                           <p> Should you require immediate assistance or if your matter is urgent, please do not hesitate to call our 24/7 helpline at +91 44 4061 4061</p>
+                        <p> Thank you once again for considering Geri Care for your healthcare needs. We look forward to the opportunity to serve you and provide you with the best possible care.</p>                           
                         </td>
                     </tr>
                     <tr>
@@ -38,7 +38,7 @@
                     </tr>
                     <tr>
                         <td style="font-size: 16px; font-family:Helvetica, Arial; color: #454545; border:0px; " >
-                          <p>Warm Regards</p>
+                          <p>Thanks & Regards</p>
                         </td>
                     </tr>
 
