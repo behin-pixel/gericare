@@ -58,7 +58,7 @@
 <!-- <h4>Profile</h4> -->
 <p><i>“Sky's the Limit to achieve anything. My passion is Geriatrics, and I see to it that, every elderly patient can get better living and best healthcare."</i>
 </p>
-<p>Dr. Lakshmipathy Ramesh Nagarajan is a prominent and highly respected Geriatrician based in Chennai. He is among the select few in the country who specialize in the field of Geriatric care with over 15 years of exclusive experience.
+<p>Dr. Lakshmipathy Ramesh Nagarajan is a prominent and highly respected Geriatrician based in Chennai. He is among the select few in the country who Specialise in the field of Geriatric care with over 15 years of exclusive experience.
  </p>
 <p>His primary focus lies in Preventive Geriatrics, emphasizing the importance of proactive measures to maintain the health and well-being of older adults. Dr. Nagarajan advocates a multi-disciplinary approach to treatment, recognizing the need for a comprehensive and collaborative effort involving various healthcare professionals to address the complex needs of older patients effectively.
 </p>

@@ -87,7 +87,7 @@
         <div class="col-md-8 col-lg-8">
             <div class="servrse-contest-p p-0">
                 <h3>Geriatric Neurology </h3>
-                         <p>Combining neurologic expertise and geriatric care, our Geriatric Neurology department offers comprehensive evaluation and treatment for neurological conditions such as parkinsons disease, peripheral neuropathy, stroke, seizure disorders in older adults, providing personalized care to enhance brain health and cognitive function.</p>
+                         <p>Combining neurologic expertise and geriatric care, our Geriatric Neurology department offers comprehensive evaluation and treatment for neurological conditions such as parkinsons disease, peripheral neuropathy, stroke, seizure disorders in older adults, providing Personalised care to enhance brain health and cognitive function.</p>
                          <a id="department-geriatric-surgery"></a>
                          {{-- <div class="minrester-link">
                            <a href="{{ url('our-doctors') }}"   tabindex="0">Find a doctor<img src="{{ asset('/public/website/assets/images/red.png') }}" alt="Geri Care Hospital" class=""></a>
@@ -178,7 +178,7 @@
         <div class="col-md-8 col-lg-8">
             <div class="servrse-contest-p p-0">
                 <h3>Pulmonology</h3>
-                         <p>Specializing in chronic respiratory for older adults, our Geriatric Pulmonology department provides comprehensive diagnostics such as PFT, Bronchoscopy and treatment services for pulmonary conditions in elderly patients such as asthma, COPD, Respiratory failure, Chronic Bronchitis, IL, ensuring optimal lung function and general well being.</p>
+                         <p>Specialising in chronic respiratory for older adults, our Geriatric Pulmonology department provides comprehensive diagnostics such as PFT, Bronchoscopy and treatment services for pulmonary conditions in elderly patients such as asthma, COPD, Respiratory failure, Chronic Bronchitis, IL, ensuring optimal lung function and general well being.</p>
                          <a id="department-geriatric-icu"></a>
                     {{-- <div class="minrester-link">
                        <a href="{{ url('our-doctors') }}"   tabindex="0">Find a doctor<img src="{{ asset('/public/website/assets/images/red.png') }}" alt="Geri Care Hospital" class=""></a>
@@ -213,7 +213,7 @@
         <div class="col-md-8 col-lg-8">
             <div class="servrse-contest-p p-0">
                 <h3>Dermatology </h3>
-                         <p>Specializing in skin health for older adults, our Geriatric Dermatology department offers tailored treatments and skincare solutions, addressing age-related dermatological conditions such as psoriasis, dry skin, bullous pemphigoid, melanoma with expertise and compassion.</p>
+                         <p>Specialising in skin health for older adults, our Geriatric Dermatology department offers tailored treatments and skincare solutions, addressing age-related dermatological conditions such as psoriasis, dry skin, bullous pemphigoid, melanoma with expertise and compassion.</p>
                          <a id="department-vascular-surgery"></a>
                     {{-- <div class="minrester-link">
                        <a href="{{ url('our-doctors') }}"   tabindex="0">Find a doctor<img src="{{ asset('/public/website/assets/images/red.png') }}" alt="Geri Care Hospital" class=""></a>
@@ -230,7 +230,7 @@
         <div class="col-md-8 col-lg-8">
             <div class="servrse-contest-p p-0">
                 <h3>Vascular Surgery </h3>
-                         <p>The vascular surgery department offers advanced surgical interventions and personalized treatment plans to address age-related vascular conditions such as peripheral vascular diseases.</p>
+                         <p>The vascular surgery department offers advanced surgical interventions and Personalised treatment plans to address age-related vascular conditions such as peripheral vascular diseases.</p>
                          <a id="department-uro-gynaecology"></a>
                     {{-- <div class="minrester-link">
                        <a href="{{ url('our-doctors') }}"   tabindex="0">Find a doctor<img src="{{ asset('/public/website/assets/images/red.png') }}" alt="Geri Care Hospital" class=""></a>
@@ -247,7 +247,7 @@
         <div class="col-md-8 col-lg-8">
             <div class="servrse-contest-p p-0">
                 <h3>Uro Gynaecology </h3>
-                         <p>Combining expertise in urology and gynecology, our Urogynecology department provides personalized care for women's pelvic health, addressing urinary and pelvic floor disorders with compassion and advanced treatment option.</p>
+                         <p>Combining expertise in urology and gynecology, our Urogynecology department provides Personalised care for women's pelvic health, addressing urinary and pelvic floor disorders with compassion and advanced treatment option.</p>
                          <a id="department-nephrology"></a>
                     {{-- <div class="minrester-link">
                        <a href="{{ url('our-doctors') }}"   tabindex="0">Find a doctor<img src="{{ asset('/public/website/assets/images/red.png') }}" alt="Geri Care Hospital" class=""></a>

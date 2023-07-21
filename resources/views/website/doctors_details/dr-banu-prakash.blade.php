@@ -58,7 +58,7 @@
 
 <div class="main-contdvshon">
 <h4>Doctor's Profile</h4>
-<p>Dr. B C Bhanu Prakash is a Senior Consultant specializing in primary, complex & revision knee and hip replacement surgeries. He did his medical education in Stanley Medical College, Chennai and his M.S (Ortho) in M.P. Shah Medical College, Gujarat where he has won the “Best Outgoing postgraduate student award” for the year 2000 – 2001.
+<p>Dr. B C Bhanu Prakash is a Senior Consultant Specialising in primary, complex & revision knee and hip replacement surgeries. He did his medical education in Stanley Medical College, Chennai and his M.S (Ortho) in M.P. Shah Medical College, Gujarat where he has won the “Best Outgoing postgraduate student award” for the year 2000 – 2001.
 
 </p>
 

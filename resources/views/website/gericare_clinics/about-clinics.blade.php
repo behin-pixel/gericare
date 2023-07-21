@@ -99,7 +99,7 @@ In addition to general medical care, we conduct comprehensive assessments and tr
 <h4>Falls prevention (Osteoporosis) clinic</h4>
 <div class="clnc-dtt">
 <h5>Falls prevention (Osteoporosis) clinic</h5>
-<p>Our Falls Clinic offers specialised care for individuals at risk of falls, providing comprehensive assessments, personalized interventions, and preventive strategies to enhance mobility and reduce fall-related injuries</p>
+<p>Our Falls Clinic offers specialised care for individuals at risk of falls, providing comprehensive assessments, Personalised interventions, and preventive strategies to enhance mobility and reduce fall-related injuries</p>
 </div>
 </div>
 
@@ -162,7 +162,7 @@ In addition to general medical care, we conduct comprehensive assessments and tr
 <h4>Hypertension clinic</h4>
 <div class="clnc-dtt">
 <h5>Hypertension clinic</h5>
-<p>Hypertension Clinic offers specialised care for individuals with high blood pressure, providing comprehensive assessments, personalized treatment plans, and lifestyle modifications to effectively manage hypertension and reduce cardiovascular risks</p>
+<p>Hypertension Clinic offers specialised care for individuals with high blood pressure, providing comprehensive assessments, Personalised treatment plans, and lifestyle modifications to effectively manage hypertension and reduce cardiovascular risks</p>
 </div>
 </div>
 

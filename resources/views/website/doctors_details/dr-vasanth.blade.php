@@ -58,7 +58,7 @@
 
 <div class="main-contdvshon">
 <h4>About Us</h4>
-<p>Dr. K. Vasanth is an experienced and highly skilled Elderly Care Physician specializing in the complex medical needs of the elderly. With a particular focus on Homecare, Dr. Vasanth is recognized for being one of those few qualified Geriatricians in the field who specialises in Community Geriatrics that allows him to address a wide range of health issues commonly faced by older adults.</p>
+<p>Dr. K. Vasanth is an experienced and highly skilled Elderly Care Physician Specialising in the complex medical needs of the elderly. With a particular focus on Homecare, Dr. Vasanth is recognized for being one of those few qualified Geriatricians in the field who specialises in Community Geriatrics that allows him to address a wide range of health issues commonly faced by older adults.</p>
 
 <p>Dr. Vasanth holds an MBBS degree from KAPV Government Medical College, Tiruchirappalli, and has completed his MD in Geriatrics from the esteemed Madras Medical College. With this extensive medical education and training, he possesses the knowledge and expertise necessary to provide comprehensive care to geriatric patients.</p>
 

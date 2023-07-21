@@ -57,7 +57,7 @@ $name='Dr. K. Sreedevi';
 
 <div class="main-contdvshon">
 <h4>Doctor's Profile</h4>
-<p>Dr. Sreedevi K is a highly knowledgeable professional with a specialization in the management of diverse respiratory diseases commonly seen in elderly patients. Her expertise encompasses conditions such as asthma, COPD (Chronic Obstructive Pulmonary Disease), bronchiectasis, pneumonias, tuberculosis, pleural diseases, sleep disorders, and interstitial lung diseases.
+<p>Dr. Sreedevi K is a highly knowledgeable professional with a Specialisation in the management of diverse respiratory diseases commonly seen in elderly patients. Her expertise encompasses conditions such as asthma, COPD (Chronic Obstructive Pulmonary Disease), bronchiectasis, pneumonias, tuberculosis, pleural diseases, sleep disorders, and interstitial lung diseases.
 </p>
 <p>Dr. Sreedevi K actively engages in academic pursuits and stays abreast of the latest developments in her field. She has actively participated in NAPCON, the annual conference organized by the Indian Chest Society, where experts convene to share insights and advancements in the realm of respiratory care.
 </p>

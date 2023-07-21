@@ -14,7 +14,7 @@ class PageViewController extends Controller
     public function aboutHospitalPage()
     {
         $title = 'Best Home Healthcare In Chennai | Geriatrician Near Me';
-        $decription = 'Geri Care provides top-notch home healthcare services in Chennai with expert Geriatricians for senior citizens. Book an appointment now for personalized care.';
+        $decription = 'Geri Care provides top-notch home healthcare services in Chennai with expert Geriatricians for senior citizens. Book an appointment now for Personalised care.';
         $keyword = '';
         $testimonial=Testimonial::where('status','1')->orderBy('created_at','desc')->where('type','Hospital')->get();
         return view('website.gericare_hospital.about-hospital', compact('title', 'decription', 'keyword','testimonial'));  
@@ -26,7 +26,7 @@ class PageViewController extends Controller
     public function hospitalDoctorsPage()
     {
         $title = 'Our Doctors - Geri Care';
-        $decription = 'Experience superior healthcare with our exceptional doctors. Trust our team for comprehensive medical expertise and personalized care. Visit us today!';
+        $decription = 'Experience superior healthcare with our exceptional doctors. Trust our team for comprehensive medical expertise and Personalised care. Visit us today!';
         $keyword = '';
         return view('website.gericare_hospital.hospital-doctors', compact('title', 'decription', 'keyword'));
     } 
@@ -48,7 +48,7 @@ class PageViewController extends Controller
     public function drVasanthPage()
     {
         $title = 'Dr K. Vasanth - Consultant Geriatrician';
-        $decription = "Dr. K. Vasanth is an experienced and highly skilled Elderly Care Physician specializing in the complex medical needs of older patients.";
+        $decription = "Dr. K. Vasanth is an experienced and highly skilled Elderly Care Physician Specialising in the complex medical needs of older patients.";
         $keyword = '';
         return view('website.doctors_details.dr-vasanth', compact('title', 'decription', 'keyword'));
     }
@@ -194,7 +194,7 @@ class PageViewController extends Controller
     public function  banuPrakashPage()
     {
         $title = 'Dr. Banu Prakash - Ortho Geriatrician';
-        $decription = "Dr. Banu Prakash is a Senior Consultant specializing in primary, complex & revision knee and hip replacement surgeries.";
+        $decription = "Dr. Banu Prakash is a Senior Consultant Specialising in primary, complex & revision knee and hip replacement surgeries.";
         $keyword = ''; 
         return view('website.doctors_details.dr-banu-prakash', compact('title', 'decription', 'keyword'));
     }
@@ -273,28 +273,28 @@ class PageViewController extends Controller
     public function geriatricPhysiotherapyatHomePage()
     {
         $title = 'Best Physiotherapy at Home in Chennai - Geri Care';
-        $decription = 'Experience convenient home physiotherapy in Chennai with Geri Care. Our expert therapists provide personalized care and rehabilitation services.';
+        $decription = 'Experience convenient home physiotherapy in Chennai with Geri Care. Our expert therapists provide Personalised care and rehabilitation services.';
         $keyword = '';
         return view('website.homecare_services.geriatric-physiotherapy-at-home', compact('title', 'decription', 'keyword')); 
     }
     public function psychiatristHomeVisitPage()
     {
         $title = 'Psychiatrists For Home Visit in Chennai - Geri Care';
-        $decription = 'Seeking psychiatric care at home in Chennai? Geri Care offers expert home visit psychiatrists, providing personalized mental health care services. Contact us today!';
+        $decription = 'Seeking psychiatric care at home in Chennai? Geri Care offers expert home visit psychiatrists, providing Personalised mental health care services. Contact us today!';
         $keyword = '';
         return view('website.homecare_services.psychiatrist-home-visit', compact('title', 'decription', 'keyword'));
     }
     public function orthopedicianHomeVisitPage()
     {
         $title = 'Orthopaedic Doctors Home Visit in Chennai - Geri Care';
-        $decription = 'In need of orthopaedic care at home in Chennai? Geri Care provides expert home visit orthopaedic doctors offering personalized orthopaedic care services. Contact us today!';
+        $decription = 'In need of orthopaedic care at home in Chennai? Geri Care provides expert home visit orthopaedic doctors offering Personalised orthopaedic care services. Contact us today!';
         $keyword = '';
         return view('website.homecare_services.orthopedician-home-visit', compact('title', 'decription', 'keyword'));
     }
     public function DentistHomeVisitPage()
     {
         $title = 'Best Dental Care at Home | Dentist Home Visit - Geri Care';
-        $decription = 'Geri Care offers personalized dental care at home with their expert dentist home visit service in Chennai. Experience convenient and superior oral healthcare.';
+        $decription = 'Geri Care offers Personalised dental care at home with their expert dentist home visit service in Chennai. Experience convenient and superior oral healthcare.';
         $keyword = '';
         return view('website.homecare_services.dentist-home-visit', compact('title', 'decription', 'keyword'));
     }
@@ -362,7 +362,7 @@ class PageViewController extends Controller
     public function aboutGericarePage()
     {
         $title = 'About - Geri Care';
-        $decription = "Gericare is your dedicated companion in senior care, providing holistic support and personalized services. Discover a new standard of well-being today!";
+        $decription = "Gericare is your dedicated companion in senior care, providing holistic support and Personalised services. Discover a new standard of well-being today!";
         $keyword = '';
         return view('website.about_us.about-gericare', compact('title', 'decription', 'keyword'));
     }
@@ -402,7 +402,7 @@ class PageViewController extends Controller
     public function bookAppointmentPage()
     {
         $title = 'Book an Appointment - Geri Care';
-        $decription = "Get exceptional senior health care services at Geri Care. Secure your appointment today and receive personalized care from our dedicated team of experts.";
+        $decription = "Get exceptional senior health care services at Geri Care. Secure your appointment today and receive Personalised care from our dedicated team of experts.";
         $keyword = '';
         return view('website.book_an_appointment.book-appointment', compact('title', 'decription', 'keyword'));
     }
