@@ -74,7 +74,7 @@
 <div class="carousel-inner">
   <div class="carousel-item active">
     <div class="testimonal-details">
-      <p>“My mother is in Gericare Assisted living post spinal surgery since december 2022. I am very surprised to know about this place as they have everything in the infrastructure for elderly people. Rooms are very spacious, calm and clean .They provided great support for my mom in terms of providing her medicine, food and help in the bed. Hats off to the Physiotherapist at Gericare who has done excellent therapy for my mom - who is now walking with walker support.”</p>
+      <p>“My mother is in Geri Care Assisted living post spinal surgery since december 2022. I am very surprised to know about this place as they have everything in the infrastructure for elderly people. Rooms are very spacious, calm and clean .They provided great support for my mom in terms of providing her medicine, food and help in the bed. Hats off to the Physiotherapist at Geri Care who has done excellent therapy for my mom - who is now walking with walker support.”</p>
       <div class="testimona-nme">
         <h4>- Preethi Chandrasekar</h4> 
       </div>
@@ -82,7 +82,7 @@
   </div>
   <div class="carousel-item">
     <div class="testimonal-details">
-      <p>“I had to put my Mom into a rehab facility and scouted for a decent one with good care and amenities. Luckily I came across Gericare. A very caring and compassionate assisted living facility with great staffs and Doctors. They ensure the elders are treated with great respect and care. Provide all medical aid to help them recover soon. I discharged my mom after rehab and now her confidence level has improved a lot. Thanks to everyone in Gericare.”</p>
+      <p>“I had to put my Mom into a rehab facility and scouted for a decent one with good care and amenities. Luckily I came across Geri Care. A very caring and compassionate assisted living facility with great staffs and Doctors. They ensure the elders are treated with great respect and care. Provide all medical aid to help them recover soon. I discharged my mom after rehab and now her confidence level has improved a lot. Thanks to everyone in Geri Care.”</p>
       <div class="testimona-nme">
       <h4>- Vinoth Kumar</h4>
         <!-- <span>Retd. Professor</span> -->
