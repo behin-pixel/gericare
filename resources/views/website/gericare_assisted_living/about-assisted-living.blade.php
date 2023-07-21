@@ -205,7 +205,7 @@ to assist those in need. </h2> -->
 </div>
 
 <div class="common-parra aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
-<p>At Geri Care, our Dementia Care goes beyond objective assessments. Our dedicated team of Geriatricians, Psychiatrists, and Psychologists ensures a comprehensive evaluation of physical and mental health. We prioritize individualized care, considering hobbies, interests, and lifestyle choices - to create a tailored activity schedule. As dementia progresses, our care plan evolves too, but never compromising on meeting our patients' needs.</p>
+<p>At Geri Care, our Dementia Care goes beyond objective assessments. Our dedicated team of Geriatricians, Psychiatrists, and Psychologists ensures a comprehensive evaluation of physical and mental health. We prioritize individualised care, considering hobbies, interests, and lifestyle choices - to create a tailored activity schedule. As dementia progresses, our care plan evolves too, but never compromising on meeting our patients' needs.</p>
 </div> 
 			  
 </div>
@@ -385,7 +385,7 @@ to assist those in need. </h2> -->
 <div class="geric-img">
   <img src="{{ asset('/public/website/assets/images/fac-14.png') }}" alt="Geri Care Hospital" class=""> 
   </div>
-  <span> Geriatrician reviewed, individualized, care plans </span>    
+  <span> Geriatrician reviewed, individualised, care plans </span>    
 </li>
 
 <li>

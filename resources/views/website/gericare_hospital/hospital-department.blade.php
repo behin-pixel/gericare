@@ -196,7 +196,7 @@
         <div class="col-md-8 col-lg-8">
             <div class="servrse-contest-p p-0">
                 <h3>Geriatric ICU </h3>
-                         <p>At our Geriatric ICU, we offer individualized and advanced critical care for older adults, addressing complex medical needs and age-specific considerations to deliver exceptional support and promote recovery. We are one of India's first hospitals to respect patient’s advanced healthcare directives.</p>
+                         <p>At our Geriatric ICU, we offer individualised and advanced critical care for older adults, addressing complex medical needs and age-specific considerations to deliver exceptional support and promote recovery. We are one of India's first hospitals to respect patient’s advanced healthcare directives.</p>
                          <a id="department-dermatology"></a>
                     {{-- <div class="minrester-link">
                        <a href="{{ url('our-doctors') }}"   tabindex="0">Find a doctor<img src="{{ asset('/public/website/assets/images/red.png') }}" alt="Geri Care Hospital" class=""></a>

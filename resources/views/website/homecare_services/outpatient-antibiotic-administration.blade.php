@@ -33,7 +33,7 @@
 <div class="col-lg-9">
 <img src="{{ asset('/public/website/assets/images/Outpatient-Antibiotic-Administration.jpg') }}" alt="Outpatient parenteral antimicrobial therapy at Home" class="w-100 mb-4">
 <div class="common-para">
-<p>In cases where patients require intravenous antibiotic therapy but do not need to be hospitalized, outpatient antibiotic administration can be arranged. We can visit the patient's home to administer the antibiotics and monitor the treatment progress.</p>
+<p>In cases where patients require intravenous antibiotic therapy but do not need to be hospitalised, outpatient antibiotic administration can be arranged. We can visit the patient's home to administer the antibiotics and monitor the treatment progress.</p>
 </div>
 </div>
 

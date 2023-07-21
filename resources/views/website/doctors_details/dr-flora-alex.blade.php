@@ -59,7 +59,7 @@ Home visits on appointment basis
 
 <div class="main-contdvshon">
 <h4>Doctor's Profile</h4>
-<p>Dr. Flora possesses extensive knowledge and expertise in effectively managing diseases commonly found in the elderly. She specialises in conducting Comprehensive Geriatric Assessments (CGA) and tailoring personalized treatment plans accordingly. Dr. Flora has a wealth of knowledge and experience in organizing various specialised clinics to address prevalent geriatric issues and challenges. These clinics include the Comprehensive Geriatric Assessment Clinic, Falls Clinic, Incontinence Clinic, Pain Clinic, Memory Clinic, and Rehabilitation Clinic.</p>
+<p>Dr. Flora possesses extensive knowledge and expertise in effectively managing diseases commonly found in the elderly. She specialises in conducting Comprehensive Geriatric Assessments (CGA) and tailoring personalised treatment plans accordingly. Dr. Flora has a wealth of knowledge and experience in organizing various specialised clinics to address prevalent geriatric issues and challenges. These clinics include the Comprehensive Geriatric Assessment Clinic, Falls Clinic, Incontinence Clinic, Pain Clinic, Memory Clinic, and Rehabilitation Clinic.</p>
 
 <p>Dr. Flora's preferred approach involves working within an integrated healthcare system, and collaborating with a diverse multidisciplinary team that typically consists of physiotherapists, social workers, nurses, and nurse aides who have received specialised training in geriatric care. By engaging this comprehensive team, Dr. Flora aims to provide holistic and well-rounded care to her patients.</p>
 
