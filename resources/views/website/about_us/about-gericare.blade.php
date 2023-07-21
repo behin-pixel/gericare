@@ -14,7 +14,7 @@
 <div class="col-lg-12">
 <h1>Expert Geriatric Care
 <span>for Every Senior Citizen<br>
-in the Country.</span>
+in the Country</span>
 </h1>
 <ul>
 <li><a href="{{ url('/') }}"> Home </a></li> 
@@ -37,10 +37,10 @@ in the Country.</span>
 <div class="col-lg-6">
 <div class="">
 <div class="common-heading">
-<h2>Transforming Lives through<br> Personalized Care</h2>
+<h2>Transforming Lives through<br> Personalised Care </h2>
 </div>
 <div class="common-para">
-<p>Geri Care, a name that resonates with extensive medical, nursing and physiotherapy treatments has been operating in the realm of specialized geriatric care services for more than three decades. </p>
+<p>Geri Care, a name that resonates with extensive medical, nursing and physiotherapy treatments has been operating in the realm of specialised geriatric care services for more than three decades. </p>
 <p>From personalised home care to clinical interventions, and hospital services to assisted living during and after recovery, Geri Care is a continuum of 360 care that reflects utmost respect for the trade and compassion for human beings.</p>
 </div>
 </div>

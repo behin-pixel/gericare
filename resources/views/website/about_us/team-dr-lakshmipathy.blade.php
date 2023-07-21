@@ -56,14 +56,14 @@
 
 <div class="main-contdvshon">
 <!-- <h4>Profile</h4> -->
-<p>“Sky's the Limit to achieve anything. My passion is Geriatrics, and I see to it that, every elderly patient can get better living and best health care"
+<p><i>“Sky's the Limit to achieve anything. My passion is Geriatrics, and I see to it that, every elderly patient can get better living and best healthcare."</i>
 </p>
-<p>Dr. Lakshmipathy Ramesh Nagarajan is a prominent and highly respected Geriatrician based in Chennai. He is among the select few in the country who specialize in the field of Geriatric care with over 15 years of exclusive experience. 
+<p>Dr. Lakshmipathy Ramesh Nagarajan is a prominent and highly respected Geriatrician based in Chennai. He is among the select few in the country who specialize in the field of Geriatric care with over 15 years of exclusive experience.
  </p>
 <p>His primary focus lies in Preventive Geriatrics, emphasizing the importance of proactive measures to maintain the health and well-being of older adults. Dr. Nagarajan advocates a multi-disciplinary approach to treatment, recognizing the need for a comprehensive and collaborative effort involving various healthcare professionals to address the complex needs of older patients effectively.
 </p>
-<p>One of Dr. Nagarajan's key areas of expertise is Comprehensive Geriatric Assessment (CGA). This assessment involves a thorough evaluation of the elder’s physical, mental, and social well-being. By conducting a comprehensive assessment, Dr. Nagarajan gains a holistic understanding of the patient's condition, enabling him to develop personalized treatment and rehabilitation plans tailored to their specific needs.</p>
-<p>Through his extensive experience, dedication, and commitment to the field of Geriatric care, Dr. Lakshmipathy Ramesh Nagarajan has established himself as a leading geriatric expert in Chennai and contributes significantly to enhancing the quality of care and improving the overall well-being of older individuals in India.
+<p>One of Dr. Nagarajan's key areas of expertise is Comprehensive Geriatric Assessment (CGA). This assessment involves a thorough evaluation of the elder’s physical, mental, and social well-being. By conducting a comprehensive assessment, Dr. Nagarajan gains a holistic understanding of the patient's condition, enabling him to develop personalised treatment and rehabilitation plans tailored to their specific needs.</p>
+<p>Through his extensive experience, dedication, and commitment to the field of Geriatric care, Dr. Lakshmipathy Ramesh Nagarajan has established himself as a leading geriatric expert in Chennai and contributes significantly to enhancing the quality of care and improving the overall well-being of older individuals in India. 
 </p>
 </div>
 

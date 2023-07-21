@@ -58,24 +58,17 @@
 
 <div class="main-contdvshon">
 <h4>About Us</h4>
-<p>Dr. K. Vasanth is an experienced and highly skilled Elderly Care Physician specializing in the complex medical needs of older patients. With a particular focus on Homecare for the elderly, Dr. Vasanth is recognized as one of the few qualified Geriatricians in this field. His specialization in Community Geriatrics allows him to address a wide range of health issues commonly faced by older adults.
+<p>Dr. K. Vasanth is an experienced and highly skilled Elderly Care Physician specializing in the complex medical needs of the elderly. With a particular focus on Homecare, Dr. Vasanth is recognized for being one of those few qualified Geriatricians in the field who specialises in Community Geriatrics that allows him to address a wide range of health issues commonly faced by older adults.</p>
 
-</p>
+<p>Dr. Vasanth holds an MBBS degree from KAPV Government Medical College, Tiruchirappalli, and has completed his MD in Geriatrics from the esteemed Madras Medical College. With this extensive medical education and training, he possesses the knowledge and expertise necessary to provide comprehensive care to geriatric patients.</p>
 
-<p>Dr. Vasanth holds an MBBS degree from KAPV Government Medical College, Tiruchirappalli, and has completed his MD in Geriatrics from the esteemed Madras Medical College. With this extensive medical education and training, he possesses the knowledge and expertise necessary to provide comprehensive care to geriatric patients.
-</p>
+<p>One of Dr. Vasanth's notable strengths lies in his ability to handle both acute and chronic health problems that commonly affect the elderly population. He takes a holistic approach to patient care, ensuring that all aspects of their well-being are addressed. With a strong background in home visits, he understands the unique challenges and requirements of providing medical care in the comfort of a patient’s home.</p>
 
-<p>One of Dr. Vasanth's notable strengths lies in his ability to handle both acute and chronic health problems that commonly affect the elderly population. He takes a holistic approach to patient care, ensuring that all aspects of their well-being are addressed. With a strong background in home visits, he understands the unique challenges and requirements of providing medical care in the comfort of patients' own homes.
-</p>
+<p>Dr. Vasanth excels in coordinating care plans for his patients, ensuring that they receive appropriate referrals to specialists when needed. His expertise extends to transitional care for the elderly, helping them smoothly navigate the transitions between different healthcare settings. Additionally, he possesses valuable experience in caring for individuals with dementia, offering compassionate and tailored support for these patients and their families.</p>
 
-<p>Dr. Vasanth excels in coordinating care plans for his patients, ensuring that they receive appropriate referrals to specialists when needed. His expertise extends to transitional care for the elderly, helping them smoothly navigate the transitions between different healthcare settings. Additionally, he possesses valuable experience in caring for individuals with dementia, offering compassionate and tailored support for these patients and their families.
-</p>
+<p>A standout aspect of Dr. Vasanth's practice is his commitment to providing affordable and high-quality long-term care for the elderly. He understands the financial challenges that older individuals and their families may face and strives to ensure that his services remain accessible without compromising on the quality of care provided.</p>
 
-<p>A standout aspect of Dr. Vasanth's practice is his commitment to providing affordable and high-quality long-term care for the elderly. He understands the financial challenges that older individuals and their families may face and strives to ensure that his services remain accessible without compromising on the quality of care provided.
-</p>
-
-<p>Overall, Dr. K. Vasanth's extensive training, experience in Homecare and Community Geriatrics, and dedication to holistic elderly care make him a highly trusted and sought-after physician in the field of geriatric medicine.
-</p>
+<p>Overall, Dr. K. Vasanth's extensive training, experience in Homecare and Community Geriatrics, and dedication to holistic elderly care make him a highly trusted and sought-after physician in the field of geriatric medicine.</p>
 </div>
 
 <div class="main-contdvshon">

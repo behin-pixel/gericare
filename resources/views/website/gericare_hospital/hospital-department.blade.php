@@ -50,7 +50,7 @@
         <div class="col-md-8 col-lg-8">
             <div class="servrse-contest-p p-0">
                 <h3>Geriatric Cardiology </h3>
-                         <p>Combining expertise in cardiology and geriatrics, our Geriatric Cardiology department delivers personalized care for elderly individuals, ensuring optimal heart function and improved quality of life. </p>
+                         <p>Combining expertise in cardiology and geriatrics, our Geriatric Cardiology department delivers personalised care for the elderly, ensuring optimal heart function and improved quality of life.</p>
                          
         <a id="department-ortho-geriatrics"></a>
                          {{-- <div class="minrester-link">
@@ -68,7 +68,7 @@
         </div>
         <div class="col-md-8 col-lg-8">
             <div class="servrse-contest-p p-0">
-                <h3>Ortho Geriatrics </h3>
+                <h3>Orthogeriatrics </h3>
                          <p>Our Orthogeriatrics department offers comprehensive orthopedic care designed specifically for elderly patients, promoting timely and effective management of hip fractures and age-related musculoskeletal conditions such as OA and osteoporosis.</p>
                          <a id="department-geriatric-neurolgy"></a>
                          {{-- <div class="minrester-link">
@@ -106,7 +106,7 @@
         <div class="col-md-8 col-lg-8">
             <div class="servrse-contest-p p-0">
                 <h3>Geriatric Surgery</h3>
-                         <p>Our Geriatric Surgery department provides specialized surgical care for older adults, ensuring safe and effective procedures tailored to the unique needs of elderly patients.</p>
+                         <p>Our Geriatric Surgery department provides specialised surgical care for older adults, ensuring safe and effective procedures tailored to the unique needs of elderly patients.</p>
                          <a id="department-geriatric-oncology"></a>
                     {{-- <div class="minrester-link">
                        <a href="{{ url('our-doctors') }}"   tabindex="0">Find a doctor<img src="{{ asset('/public/website/assets/images/red.png') }}" alt="Geri Care Hospital" class=""></a>
@@ -124,7 +124,7 @@
         <div class="col-md-8 col-lg-8">
             <div class="servrse-contest-p p-0">
                 <h3>Geriatric Oncology </h3>
-                         <p>Specialized care for elderly cancer patients, combining oncology expertise with geriatric medicine to ensure personalized and comprehensive treatment. Equipped with a team of Medical Oncologists and Surgical Oncologists and a dedicated Tumour Board, the Geriatric Oncology department offers 360 degree care right from hospital to homecare for elderly patients.</p>
+                         <p>Equipped with a team of Medical Oncologists and Surgical Oncologists and a dedicated Tumour Board, the Geriatric Oncology department offers 360 degree specialised care right from hospital to homecare for the elderly - combining oncology expertise with geriatric medicine. </p>
                          <a id="department-geriatric-urology"></a>
                     {{-- <div class="minrester-link">
                     <a href="{{ url('our-doctors') }}"   tabindex="0">Find a doctor<img src="{{ asset('/public/website/assets/images/red.png') }}" alt="Geri Care Hospital" class=""></a>
@@ -160,7 +160,7 @@
         <div class="col-md-8 col-lg-8">
             <div class="servrse-contest-p p-0">
                 <h3>Gasteroentrology </h3>
-                         <p>Specializing in digestive health for older adults, our Geriatric Gastroenterology department provides personalized care and advanced treatments to address age-related gastrointestinal conditions such as indigestion, constipation, IBS, GERD with precision and compassion. Equipped with Upper GI Scopy and Colonoscopy, the hospital provides holistic solutions for GI problems.</p>
+                         <p>Equipped with Upper GI Scopy and Colonoscopy, the Gasteroentrology department provides holistic solutions to address age-related gastrointestinal conditions such as indigestion, constipation, IBS, Gastroesophageal Reflux Disease (GERD) and so on. </p>
                          <a id="department-pulmonology"></a>
                          {{-- <div class="minrester-link">
                        <a href="{{ url('our-doctors') }}"   tabindex="0">Find a doctor<img src="{{ asset('/public/website/assets/images/red.png') }}" alt="Geri Care Hospital" class=""></a>
@@ -264,7 +264,7 @@
         </div>
         <div class="col-md-8 col-lg-8">
             <div class="servrse-contest-p p-0">
-                <h3>Nephrology and Dialysis 24x7</h3>
+                <h3>Nephrology and Dialysis 24/7</h3>
                          <p>Combining expertise in geriatrics and nephrology, our Geriatric Nephrology and Dialysis department offers comprehensive care for older adults with kidney disease, including state-of-the-art dialysis services, ensuring enhanced quality of life and constant follow up.</p>
                          <a id="department-geriatric-physiotherapy"></a>
                     {{-- <div class="minrester-link">
@@ -283,7 +283,8 @@
         <div class="col-md-8 col-lg-8">
             <div class="servrse-contest-p p-0">
                 <h3>Geriatric Physiotherapy  </h3>
-                         <p>Geriatric physiotherapists utilize a holistic approach, combining exercises, manual therapy, and other therapeutic techniques to address age-related conditions such as arthritis, osteoporosis, balance impairments, and mobility limitations. By tailoring treatment plans to individual needs, geriatric physiotherapy helps older adults regain or maintain their physical abilities, enhancing their overall well-being and promoting active and independent living. Services are provided across all care settings such as Home and Assisted living facilities also.</p>
+                         <p>Our Geriatric physiotherapists utilize a holistic approach, combining exercises, manual therapy, and other therapeutic techniques to address age-related conditions. Treatment plans are tailored to individual needs to help adults regain and maintain their physical abilities. 
+                        </p>
                          <a id="department-lab-services"></a>
                     {{-- <div class="minrester-link">
                        <a href="{{ url('our-doctors') }}"   tabindex="0">Find a doctor<img src="{{ asset('/public/website/assets/images/red.png') }}" alt="Geri Care Hospital" class=""></a>
@@ -301,7 +302,7 @@
         <div class="col-md-8 col-lg-8">
             <div class="servrse-contest-p p-0">
                 <h3>Lab Services </h3>
-                         <p>Our state-of-the-art lab services for accurate and timely diagnostic testing, ensuring precise results to guide your healthcare decisions at the comfort of your home.</p>
+                         <p>Our state-of-the-art lab services are accurate and timely, ensuring prompt diagnostic testing and precise results - to give elders the care and guidance they need to make the right healthcare decisions from the comfort of their home.</p>
                     {{-- <div class="minrester-link">
                        <a href="{{ url('our-doctors') }}"   tabindex="0">Find a doctor<img src="{{ asset('/public/website/assets/images/red.png') }}" alt="Geri Care Hospital" class=""></a>
                     </div>   --}}

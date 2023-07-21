@@ -57,12 +57,12 @@ $name='Dr Ashwin Subramaniam';
 
 <div class="main-contdvshon">
 <h4>Doctor's Profile</h4>
-<p>Dr. Ashwin is a highly respected general physician and diabetologist based in Chennai, India. With extensive experience in his field, he has garnered a reputation for his ability to handle complex medical problems, both acute and chronic, particularly in elderly patients.</p>
+<p>Dr Ashwin is a highly respected general physician and diabetologist based in Chennai, India. With extensive experience in his field, he has garnered a reputation in handling complex medical problems, both acute and chronic, particularly in elderly patients.</p>
 
 
-<p>He has special interest in lifestyle diseases like Diabetes Mellitus, Hypertension, Dyslipidemia and  infectious diseases like Hepatitis & HIV. </p>
+<p>He has special interest in lifestyle diseases like Diabetes Mellitus, Hypertension, Dyslipidemia and infectious diseases like Hepatitis & HIV.</p>
 
-<p>He has presided in various seminars and CME, educating the junior doctors in approach towards Elderly patients. He regularly conducts Public outreach programs to raise awareness in elderly patients about maintaining a healthy lifestyle. He has shown leadership in setting up and running the acute medical unit for the elderly. He has excellent bedside manners and sound knowledge of ethical standards in delivering medical care.</p>
+<p>He has presided in various seminars and CMEs, educating the junior doctors in their approach towards the elderly. He regularly conducts Public outreach programs to raise awareness among the elderly, about maintaining a healthy lifestyle. He has shown leadership in setting up and running an acute medical unit for the elderly. He has excellent bedside manners and sound knowledge of ethical standards in delivering medical care.</p>
 </div>
 
 <div class="main-contdvshon">

@@ -58,16 +58,17 @@ $name='Dr. V. Arulmozhiselvan';
 
 <div class="main-contdvshon">
 <h4>Doctor's Profile</h4>
-<p>He is a consultant geriatrician, who looks forward to enhancing the health of senior citizens by his expertise in both inpatient and outpatient hospital settings.</p>
+<p>Dr V. Arulmozhiselvan is a Consultant Geriatrician, who looks forward to enhancing the health of senior citizens by his expertise in both inpatient and outpatient hospital settings.</p>
 
 <p>With extensive training and experience, he has excelled by working collaboratively with interdisciplinary teams comprising specialists, physiotherapists, social workers, geriatric nurses, and caregivers. With his presence, Geri Care strives to provide comprehensive care and support to older adults, addressing their unique needs and ensuring their well-being.</p>
 
-<p>He is skillful in managing elderly patients in the Geriatric Intensive Care Unit (ICU). He has good clinical expertise to reduce in-hospital morbidity and mortality rates and to promote further independence among elderly. Working with Geri Care, he wishes to deliver top-notch care to your loved ones.</p>
+<p>He is skillful in managing elderly patients in the Geriatric Intensive Care Unit (ICU). He has good clinical expertise to reduce in-hospital morbidity and mortality rates and to promote further independence among the elderly. Working with Geri Care, he wishes to deliver top-notch care to your loved ones.</p>
 
-<p>Furthermore, he is passionate to educate and inform the community about the importance of geriatric care, fostering a society that values and supports our senior population.</p>
+<p>Furthermore, he is passionate to educate and inform the community about the importance of geriatric care, thereby fostering a society that values and supports the senior population.</p>
 
-<p>Additionally, with our Home Care Team he assesses the support system, addresses the living conditions and health care needs of the elderly, and makes certain that they receive the right level of care in the comfort of their own homes.</p>
-<p>Whether you require outpatient consultations or in-hospital care, he intends to deliver a positive impact on the well-being of elderly and to ensure a higher quality of life for you or your loved ones.</p>
+<p>Additionally, with our Home Care Team, he assesses the support system, addresses living conditions and health care needs of the elderly, and makes certain that they receive the right level of care - from the comfort of their homes.</p>
+
+<p>Whether you require outpatient consultations or in-hospital care, he delivers a positive impact on the well-being of the elderly and ensures a higher quality of life for you and your loved ones.</p>
 
 </div>
 

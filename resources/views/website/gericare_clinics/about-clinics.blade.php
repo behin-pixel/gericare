@@ -36,14 +36,13 @@ in the later years.</span>
 
 <div class="common-heading text-center">
 <h1>Ensuring Comprehensive Care & Better Quality of Life <br>
-in the later years. </h1>
+for the Senior Citizen Community </h1>
 </div>
 
 <div class="seconday-paragraph text-center">
-At Geri Care clinics, our approach to treatment is guided by senior Geriatricians who take a multidisciplinary approach. Our staff is specifically trained in medical, psychosocial, and preventive care that is tailored to the unique needs of older adults. <br><br>
-By taking an integrated approach, we aim to improve the quality of life and overall wellness of not just our patients but also their family members and caregivers. <br><br>
-
-In addition to general medical care, we conduct comprehensive assessments and treatments for conditions that primarily affect older adults - such as memory loss, falls, urinary problems, vision and hearing loss, advance care planning, caregiver support, and medication safety. 
+At Geri Care clinics, our integrated approach to treatment is guided by senior Geriatricians who take a multidisciplinary approach. Our staff is specifically trained in medical, psychosocial, and preventive care that is tailored to the unique needs of older adults. <br><br>
+We aim to enhance the quality of life and overall wellness of not just our patients but also their family members and caregivers.<br><br>
+In addition to general medical care, we conduct comprehensive assessments and treatments for conditions that primarily affect elders - such as memory loss, falls, urinary problems, vision and hearing loss, advance care planning, caregiver support, and medication safety. 
 </div>
 </div>
 
@@ -100,7 +99,7 @@ In addition to general medical care, we conduct comprehensive assessments and tr
 <h4>Falls prevention (Osteoporosis) clinic</h4>
 <div class="clnc-dtt">
 <h5>Falls prevention (Osteoporosis) clinic</h5>
-<p>Our Falls Clinic offers specialized care for individuals at risk of falls, providing comprehensive assessments, personalized interventions, and preventive strategies to enhance mobility and reduce fall-related injuries</p>
+<p>Our Falls Clinic offers specialised care for individuals at risk of falls, providing comprehensive assessments, personalized interventions, and preventive strategies to enhance mobility and reduce fall-related injuries</p>
 </div>
 </div>
 
@@ -109,7 +108,7 @@ In addition to general medical care, we conduct comprehensive assessments and tr
 <h4>Memory clinic</h4>
 <div class="clnc-dtt">
 <h5>Memory clinic</h5>
-<p>At our Memory Clinic, Psychiatrists working closely with Geriatricians, specialize in memory assessment and management, providing compassionate care and innovative therapies to improve cognitive function, enhance quality of life, and support individuals and their families through the challenges of memory impairment and dementia.</p>
+<p>At our Memory Clinic, Psychiatrists working closely with Geriatricians, specialise in memory assessment and management, providing compassionate care and innovative therapies to improve cognitive function, enhance quality of life, and support individuals and their families through the challenges of memory impairment and dementia.</p>
 </div>
 </div>
 
@@ -118,7 +117,7 @@ In addition to general medical care, we conduct comprehensive assessments and tr
 <h4>Incontinence clinic (Urinary)</h4>
 <div class="clnc-dtt">
 <h5>Incontinence clinic (Urinary)</h5>
-<p>Our Incontinence Clinic with Geriatrician and Urologist offers specialized care for individuals experiencing urinary or fecal incontinence, providing thorough assessments, tailored treatment plans, and supportive interventions to improve bladder and bowel control</p>
+<p>Our Incontinence Clinic with Geriatrician and Urologist offers specialised care for individuals experiencing urinary or fecal incontinence, providing thorough assessments, tailored treatment plans, and supportive interventions to improve bladder and bowel control</p>
 </div>
 </div>
 
@@ -163,7 +162,7 @@ In addition to general medical care, we conduct comprehensive assessments and tr
 <h4>Hypertension clinic</h4>
 <div class="clnc-dtt">
 <h5>Hypertension clinic</h5>
-<p>Hypertension Clinic offers specialized care for individuals with high blood pressure, providing comprehensive assessments, personalized treatment plans, and lifestyle modifications to effectively manage hypertension and reduce cardiovascular risks</p>
+<p>Hypertension Clinic offers specialised care for individuals with high blood pressure, providing comprehensive assessments, personalized treatment plans, and lifestyle modifications to effectively manage hypertension and reduce cardiovascular risks</p>
 </div>
 </div>
 
@@ -206,7 +205,7 @@ In addition to general medical care, we conduct comprehensive assessments and tr
 <div class="servrse-contest">
 <h4> Geri Care Clinics - Adyar </h4>
  <p>No:21, 1st avenue, Indira Nagar, <br> Adyar, Chennai 600020</p>
-<!-- <p> No.8, Dr. Nair Road, Behind Vani<br> Mahal, T.Nagar, Chennai - 600 017 </p> -->
+<!-- <p> No.8, Dr. Nair Road, Behind Vani<br> Mahal, T. Nagar, Chennai - 600 017 </p> -->
 <a href="https://goo.gl/maps/iZ6WNkecYyEqYKBZ6" target="_blank"> View On Map <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="Geri Care Hospital" class="" /></a>
 </div>
 </div>

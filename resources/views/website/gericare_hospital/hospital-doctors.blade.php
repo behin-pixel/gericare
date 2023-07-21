@@ -184,7 +184,7 @@ Uro Gynaecology
     <h3> Dr. N. Lakshmipathy Ramesh  </h3>
     <h4> Senior Consultant Geriatrician </h4>
     <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="Geri Care Hospital" class=""> MBBS, M.D (Geriatrics), PGD (Diabetes) </h5>
-    <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="Geri Care Hospital" class=""> T.Nagar, Adambakkam, Adyar  </h5>
+    <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="Geri Care Hospital" class=""> T. Nagar, Adambakkam, Adyar  </h5>
     <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="Geri Care Hospital" class="">  Tamil, English, Telugu  </h5>
     <a href="{{ url('dr-lakshmipathy-ramesh') }}">Book Appointment</a>
     <a href="{{ url('dr-lakshmipathy-ramesh') }}">View Profile</a>
@@ -200,7 +200,7 @@ Uro Gynaecology
     <h3> Dr. V. Srinivas </h3>
     <h4> Senior Consultant Geriatrician </h4>
     <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="Geri Care Hospital" class=""> MD, MRCP (UK), DIP. Geriatric Medicine (UK) </h5>
-    <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="Geri Care Hospital" class=""> T.Nagar, Adambakkam, Adyar  </h5>
+    <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="Geri Care Hospital" class=""> T. Nagar, Adambakkam, Adyar  </h5>
     <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="Geri Care Hospital" class="">  Tamil, English, Telugu, Hindi  </h5>
     <a href="{{ url('dr-srinivas') }}">Book Appointment</a>
     <a href="{{ url('dr-srinivas') }}">View Profile</a>
@@ -216,7 +216,7 @@ Uro Gynaecology
      <h3> Dr. Magesh R </h3>
      <h4> Consultant Geriatrician  </h4>
      <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="Geri Care Hospital" class=""> MBBS, MRCP, CCT (Int. Med. & Geriatrics), FRCP </h5>
-     <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="Geri Care Hospital" class=""> T.Nagar, Adambakkam, Adyar  </h5>
+     <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="Geri Care Hospital" class=""> T. Nagar, Adambakkam, Adyar  </h5>
      <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="Geri Care Hospital" class="">  English, Tamil  </h5>
      <a href="{{ url('dr-magesh ') }}">Book Appointment</a>
      <a href="{{ url('dr-magesh') }}">View Profile</a>
@@ -486,7 +486,7 @@ Uro Gynaecology
         <h4>Consultant Psychiatrist  </h4>
         <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="Geri Care Hospital" class=""> M.D (Psychiatry)</h5>
         <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="Geri Care Hospital" class=""> Tamil, English, Hindi   </h5>
-        <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="Geri Care Hospital" class=""> T.Nagar, Adambakkam, Adyar</h5>
+        <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="Geri Care Hospital" class=""> T. Nagar, Adambakkam, Adyar</h5>
         <a href="{{ url('dr-srinivas-rajkumar') }}">Book Appointment</a>
         <a href="{{ url('dr-srinivas-rajkumar') }}">View Profile</a>
         </div>
@@ -699,7 +699,7 @@ Uro Gynaecology
         <h4>Chief Critical Care Physician & Intensivist</h4>
         <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="Geri Care Hospital" class="">MBBS, MD (Emergency Medicine)</h5>
         <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="Geri Care Hospital" class=""> Tamil, English, Hindi, Bengali   </h5>
-        <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="Geri Care Hospital" class=""> T.Nagar  </h5>
+        <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="Geri Care Hospital" class=""> T. Nagar  </h5>
         <a href="{{ url('our-doctors/dr-susovan') }}">Book Appointment</a>
         <a href="{{ url('our-doctors/dr-susovan') }}">View Profile</a>
         </div>

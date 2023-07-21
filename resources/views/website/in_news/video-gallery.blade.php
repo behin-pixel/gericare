@@ -33,9 +33,9 @@
 		<div class="container">
 			<div class="row">
 				{{-- <div class="col-lg-3 gallery-img mb-3">
-				    <a data-fancybox="gallery1" href="https://www.youtube.com/watch?v=Btq81O68dHY" data-caption="Gericare Hospital | Exclusively For Senior Citizens | Multi Speciality Hospital | 24/7 | T.nagar | Chennai.">
+				    <a data-fancybox="gallery1" href="https://www.youtube.com/watch?v=Btq81O68dHY" data-caption="Gericare Hospital | Exclusively For Senior Citizens | Multi Speciality Hospital | 24/7 | T. Nagar | Chennai.">
 						<img src="{{ asset('/public/website/assets/images/video-1.jpg') }}" alt="Geri Care Hospital" class="img-fluid" />
-						<span>Gericare Hospital | Exclusively For Senior Citizens | Multi Speciality Hospital | 24/7 | T.nagar | Chennai.</span>
+						<span>Gericare Hospital | Exclusively For Senior Citizens | Multi Speciality Hospital | 24/7 | T. Nagar | Chennai.</span>
 					</a>
 					<a class="d-none" data-fancybox="gallery1" href="{{ asset('/public/website/assets/images/gallery/hospital/2.jpg') }}" data-caption="Geri Care Hospital">&nbsp;</a>
 					<a class="d-none" data-fancybox="gallery1" href="{{ asset('/public/website/assets/images/gallery/hospital/3.jpg') }}" data-caption="Geri Care Hospital">&nbsp;</a>
@@ -83,9 +83,9 @@
 							<a class="d-none" data-fancybox="gallery1" href="{{ asset('/public/website/assets/images/news-1.jpg') }}" data-caption="Get Back to Life ! Sparkle your Intimate Beauty">&nbsp;</a>
 						</li>
 						<li>
-							<a data-fancybox="gallery1" href="{{ asset('/public/website/assets/images/news-5.jpg') }}" data-caption="Geri Care, a specialized and exclusive geriatric">
+							<a data-fancybox="gallery1" href="{{ asset('/public/website/assets/images/news-5.jpg') }}" data-caption="Geri Care, a specialised and exclusive geriatric">
 								<img src="{{ asset('/public/website/assets/images/news-5.jpg') }}" alt="Geri Care Hospital" class="img-fluid" />
-								<span><small class="news-date">Published : 20-Nov-2020</small> <br>Geri Care, a specialized and exclusive geriatric....</span>
+								<span><small class="news-date">Published : 20-Nov-2020</small> <br>Geri Care, a specialised and exclusive geriatric....</span>
 							</a>
 						</li>
 						<li>

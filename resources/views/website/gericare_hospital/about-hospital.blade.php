@@ -17,18 +17,12 @@
 
                 <div class="col-lg-12">
                     <div class="common-heading text-center">
-                        <h1>India’s 1<sup>st</sup> Multi-Speciality Hospital<br> envisioned by
-                            Expert Geriatricians</h1>
+                        <h1>India’s 1<sup>st</sup> Multi-Speciality Hospital<br> for Senior Citizens 
+                            envisioned by Expert Geriatricians</h1> 
                     </div>
                     <div class="seconday-paragraph text-center">
-                        Geri Care, India's 1<sup>st</sup> multi-speciality hospital for senior citizens, is the visionary brainchild of renowned
-                        geriatricians,<br> Dr. LPR and Dr. Srinivas. Their extensive experience and expertise have enabled them
-                        to assemble a team of professionals from various medical disciplines who possess a deep
-                        understanding of the complexities and common health conditions associated with the elderly.
-                        <br><br>Unlike traditional hospitals, our revolutionary approach involves a cohesive and coordinated
-                        team that collaboratively designs personalized care plans, eliminating the need for multiple
-                        consultations with minimal or no coordination. At Geri Care, we are dedicated to redefining elderly
-                        healthcare with a truly comprehensive and integrated approach.
+                        Geri Care, India's 1<sup>st</sup> multi-speciality hospital for senior citizens, is the brainchild of renowned Geriatricians, Dr. LPR and Dr. Srinivas. Their extensive experience has enabled them to bring together a team of professionals from various medical disciplines who possess a deep understanding of the complexities and common health conditions associated with the elderly.
+                        <br><br>The revolutionary approach at Geri Care involves a cohesive and coordinated medical intervention that redefines eldery care and collaboratively designs personalised and comprehensive care plans, eliminating the need for multiple consultations with minimal or no coordination. 
                     </div>
                 </div>
 
@@ -40,7 +34,7 @@
                             <img src="{{ asset('/public/website/assets/images/icon-1.png') }}" alt="Geri Care Hospital"
                                 class="" />
                             <h4> Meet our Experts </h4>
-                            <p> Choose a Geriatric Expert for a Consultation </p>
+                            <p> Choose a geriatric expert for a consultation </p>
                             <a href="{{ url('our-doctors') }}"> View All Doctors <img
                                     src="{{ asset('/public/website/assets/images/small-arr.png') }}"
                                     alt="Geri Care Hospital" class="" /></a>
@@ -50,7 +44,7 @@
                             <img src="{{ asset('/public/website/assets/images/icon-2.png') }}" alt="Geri Care Hospital"
                                 class="" />
                             <h4> Locate your Hospital </h4>
-                            <p> Choose a Hospital that is closest<br> to your home </p>
+                            <p> Choose a hospital closest to <br>your home </p>
                             <a href="#add-res-bar"> View On Map <img
                                     src="{{ asset('/public/website/assets/images/small-arr.png') }}"
                                     alt="Geri Care Hospital" class="" /></a>
@@ -96,12 +90,8 @@
                             <div class="age-stemp">
 
                                 <div class="age-layer">
-                                    <h4>Expert Geriatricians </h4>
-                                    <p>Our Geriatric professionals have undergone exemplary training at renowned
-                                        institutions including Madras Medical College (MMC) in Chennai and the All India
-                                        Institute of Medical Sciences (AIIMS) in New Delhi. Additionally, they have gained
-                                        valuable experience as consultants in esteemed hospitals overseas, particularly in
-                                        the United Kingdom (UK). </p>
+                                    <h4>Expert Geriatricians</h4>
+                                    <p>Our experts have undergone exemplary training at renowned institutions including Madras Medical College (MMC) in Chennai and the All India Institute of Medical Sciences (AIIMS) in New Delhi. Additionally, they have gained valuable experience as consultants in esteemed hospitals overseas, particularly in the United Kingdom (UK).</p>
                                 </div>
 
                                 <div class="age-layer">
@@ -113,16 +103,12 @@
 
                                 <div class="age-layer">
                                     <h4>Multi-disciplinary Approach</h4>
-                                    <p>We bring cutting-edge research and innovative approaches that reflect geriatric
-                                        excellence and help transform the lives of the elderly, their loved ones and family
-                                        members.</p>
+                                    <p>We bring cutting-edge research and innovative approaches that reflect geriatric excellence and help transform not just the lives of the elderly, but also their loved ones and family members.</p>
                                 </div>
 
                                 <div class="age-layer">
                                     <h4>Unique Healthcare Culture</h4>
-                                    <p>We pride over a culture that prioritizes tailored treatment plans & comprehensive
-                                        care to ensure remarkable treatments along with a positive healthcare experience
-                                        that helps the elderly recover and heal at ease.</p>
+                                    <p>We take pride over a culture that prioritizes tailored treatment plans & comprehensive care to ensure remarkable treatments along with a positive experience that helps the elderly recover and heal at ease.</p>
                                 </div>
 
 
@@ -255,7 +241,7 @@
                                 class="">
                             <div class="facity-content-underimg">
                                 <span>State-of-the-art ICU </span>
-                                <p>Geriatric ICU setup combines advanced technology and specialized intensive care to
+                                <p>Geriatric ICU setup combines advanced technology and specialised intensive care to
                                     address the unique needs of senior citizens with a focus on their comfort, safety &
                                     recovery.</p>
                             </div>
@@ -371,7 +357,7 @@
                                 alt="Geri Care Hospital" class="">
                             <div class="facity-content-underimg">
                                 <span>Dental services at hospital and at home</span>
-                                <p>Our Geriatric Dental Service provides specialized oral care for older adults, addressing
+                                <p>Our Geriatric Dental Service provides specialised oral care for older adults, addressing
                                     age-related dental concerns with gentle expertise and a compassionate approach.</p>
                             </div>
                         </div>
@@ -774,7 +760,7 @@
                     <div class="pseofmnd">
                         To experience a level of care that<br>
                         brings you peace of mind...<br>
-                        <span>Call us today.</span>
+                        <span>Call us today!</span>
                     </div>
                 </div>
 

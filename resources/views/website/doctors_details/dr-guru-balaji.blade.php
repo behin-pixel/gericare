@@ -62,7 +62,7 @@ Dr.Guru has many publications to his credit which includes a research paper on t
 
 <p>Dr Guru Balaji is a member of Royal College of Surgeons in Edinburgh, National Academy of Medical Sciences in India (MNAMS), The Tamil Nadu and Pondicherry Society of Urology and South Zone Urological Society of India. An avid learner, Dr.Guru had done several courses, had been actively involved in CME programs, paper presentations & has published numerous papers & articles at international, national, regional levels. Dr.Guru had been reaching out to public at large raising awareness on urology related diseases & management. He is also interested in teaching & training undergraduates postgraduates& paramedical students.</p>
 
-<p>He has completed his MBBS from Madras Medical College, Chennai and his DNB from Kilpauk Medical College and did his DNB urology from Madurai. He worked as Assistant professor of Urology at SRM Medical College before he went to the UK for more specialized training.
+<p>He has completed his MBBS from Madras Medical College, Chennai and his DNB from Kilpauk Medical College and did his DNB urology from Madurai. He worked as Assistant professor of Urology at SRM Medical College before he went to the UK for more specialised training.
 He has experience in providing required care for the hospitalized patients having been associated with some of the prestigious hospitals over two decades.
 His expertise in managing prostate problems in elderly is well-known among our patients.</p>
 

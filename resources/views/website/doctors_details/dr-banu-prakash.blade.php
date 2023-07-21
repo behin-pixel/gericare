@@ -62,7 +62,7 @@
 
 </p>
 
-<p>He worked in the prestigious Ganga Hospital, Coimbatore, a super specialty orthopedic and trauma care center for four years where he specialized in primary knee and hip replacement and revision hip and knee replacement. He has done the prestigious “Willis Marshall fellowship” in advanced arthroplasty and arthroscopy under Prof. Jegan Krishnan at the Flinders Medical Center, Adelaide, Australia and he have done short term fellowships in knee and shoulder surgery at Sports Med Hospital, Adelaide and Ashford Hospital, Adelaide, Australia.
+<p>He worked in the prestigious Ganga Hospital, Coimbatore, a super specialty orthopedic and trauma care center for four years where he specialised in primary knee and hip replacement and revision hip and knee replacement. He has done the prestigious “Willis Marshall fellowship” in advanced arthroplasty and arthroscopy under Prof. Jegan Krishnan at the Flinders Medical Center, Adelaide, Australia and he have done short term fellowships in knee and shoulder surgery at Sports Med Hospital, Adelaide and Ashford Hospital, Adelaide, Australia.
 </p>
 
 <p>He is one of the few surgeons who have pioneered computer navigated minimally invasive Hiflex total knee replacement in this part of the country. He is also an expert in uni - compartmental knee arthroplasty, elbow and ankle replacements. He is an expert in trauma surgery including minimally invasive fracture fixations, complex polytrauma and pelvic fracture fixations. He is also the Chief Orthopedic Consultant at Sree Devi Ortho Clinic, Porur.

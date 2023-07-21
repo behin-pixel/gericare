@@ -16,7 +16,7 @@
       
       <img src="{{ asset('/public/website/assets/images/banners/mobile-banner-1.jpg') }}" alt="Geri Care Hospital" class="moby w-100 d-block d-lg-none" />
       <div class="carousel-caption animated animatedFadeInUp fadeInUp">
-        <h1 class="text-blue">India's 1<sup>st</sup> Multi-Speciality Hospital for Senior Citizens <br>now in Adambakkam!</h1>
+        <h1 class="text-blue">India's 1<sup>st</sup> Multi-Speciality Hospital for Senior Citizens launches its 2nd hospital in Adambakkam. </h1>
         <!-- <span class="text-blue">for Senior Citizens Gericare Hospital Now in Adambakkam</span> -->
     <a href="{{ url('gericare-hospital') }}">Explore More</a>
       </div>
@@ -160,11 +160,11 @@
 <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12"> 
 <div class="expert-cnt">
 <div class="common-heading">
-<h2>Transforming Lives through Personalized Care</h2>
+<h2>Transforming Lives through Personalised Care</h2>
 </div>
 
 <div class="common-para">
-<p>Geri Care, a name that resonates with extensive medical, nursing and physiotherapy treatments has been operating in the realm of specialized geriatric care services for more than three decades now. </p>
+<p>Geri Care, a name that resonates with extensive medical, nursing and physiotherapy treatments has been operating in the realm of specialised geriatric care services for more than three decades now. </p>
 </div>
 
 <div class="common-button drk">
@@ -363,7 +363,7 @@
 <h2>One-of-a-kind Geriatric Care</h2>
 </div>
 <div class="common-para">
-<p>Introducing India's 1<sup>st</sup> ever multi-specialty hospital designed exclusively for senior citizens, offering<br> a comprehensive range of specialized medical services tailored to meet their unique healthcare needs.</p>
+<p>Introducing India's 1<sup>st</sup> ever multi-specialty hospital designed exclusively for senior citizens, offering<br> a comprehensive range of specialised medical services tailored to meet their unique healthcare needs.</p>
 </div> 
 
 </div>
@@ -761,7 +761,7 @@ Nov 04 2019
 </div>
 
 <div class="common-para text-center">
-<p>Introducing India's first-ever multi-specialty hospital designed exclusively for senior citizens, offering a comprehensive range of specialized medical services tailored to meet the unique healthcare needs of seniors.</p>
+<p>Introducing India's first-ever multi-specialty hospital designed exclusively for senior citizens, offering a comprehensive range of specialised medical services tailored to meet the unique healthcare needs of seniors.</p>
 </div>
 
 </div>
@@ -778,7 +778,7 @@ Nov 04 2019
 <img src="{{ asset('/public/website/assets/images/Mobile-Geriatric-Cardiology.jpg') }}" alt="Geri Care Hospital" class="w-100">
 <div class="ger-cntnt text-start">
 <h4>Geriatric Oncology </h4>
-<p>This is a field of medicine that specializes on the treatment of heart diseases in older patients.</p>
+<p>This is a field of medicine that specialises on the treatment of heart diseases in older patients.</p>
 <a href="">Read More <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="Geri Care Hospital" class=""></a>
 </div>
 </div>

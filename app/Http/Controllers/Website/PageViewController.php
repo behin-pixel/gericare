@@ -88,7 +88,7 @@ class PageViewController extends Controller
     public function drMuthuswamyPage()
     {
         $title = 'Dr. Muthuswamy - Senior Interventional Consultant Cardiologist';
-        $decription = "Dr. Muthuswamy specialized in Cardiology and worked as a Consultant in Cardiology at various centres from 1989.";
+        $decription = "Dr. Muthuswamy specialised in Cardiology and worked as a Consultant in Cardiology at various centres from 1989.";
         $keyword = ''; 
         return view('website.doctors_details.dr-muthuswamy', compact('title', 'decription', 'keyword'));
     } 
@@ -165,7 +165,7 @@ class PageViewController extends Controller
     public function  sujathaPage()
     {
         $title = 'Dr. Sujatha - Consultant Psychiatrist';
-        $decription = "Dr. Sujatha, Post her M.B.B.S specialized in Psychiatry from Kasturibai medical college and worked as a private consultant from 2001-2007 with a main focus on women and adolescents.";
+        $decription = "Dr. Sujatha, Post her M.B.B.S specialised in Psychiatry from Kasturibai medical college and worked as a private consultant from 2001-2007 with a main focus on women and adolescents.";
         $keyword = ''; 
         return view('website.doctors_details.dr-sujatha', compact('title', 'decription', 'keyword'));
     }

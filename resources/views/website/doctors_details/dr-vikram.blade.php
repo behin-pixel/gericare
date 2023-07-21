@@ -68,7 +68,7 @@
 <p>He then travelled to England as a Specialist Registrar where he got trained in Laparoscopy and Endoscopy. He further obtained FRCS from the Royal College of Surgeons of Glasgow and subsequently passed the D.N.B (Diplomate National Board) in Surgical Gastro Enterology from New Delhi.
 </p>
 
-<p>Being passionate about the subject he has been actively sharing knowledge and publishing papers in many international journals in Surgical Gastro Enterology.  Dr. Vikram is a specialized and trained expert in handling advanced Laparoscopic Procedures, Surgery for Malignancy (Cancers) including esophageal, gastric, colon & rectal cancer, all therapeutic Endoscopic Procedures and Laser Surgery for Anal Procedures.He is one of the pioneers of fast track surgery(Day care surgery ) and specialist in tension free mesh repairs for a hernia.  
+<p>Being passionate about the subject he has been actively sharing knowledge and publishing papers in many international journals in Surgical Gastro Enterology.  Dr. Vikram is a specialised and trained expert in handling advanced Laparoscopic Procedures, Surgery for Malignancy (Cancers) including esophageal, gastric, colon & rectal cancer, all therapeutic Endoscopic Procedures and Laser Surgery for Anal Procedures.He is one of the pioneers of fast track surgery(Day care surgery ) and specialist in tension free mesh repairs for a hernia.  
 </p>
 
 <p>To a lot of papers & publications to his credit Dr. Vikram conducts teaching programmes for the M.R.C.S/ course and for the D.N.B. surgery postgraduates. He is currently a tutor for the royal college of surgeons too.

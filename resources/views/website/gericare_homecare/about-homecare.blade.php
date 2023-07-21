@@ -36,7 +36,7 @@ Geriatricians </span>
 
 <div class="col-lg-12">
 <div class="common-heading text-center">
-<h2>Comprehensive Geriatric Care <br>at Home for your Loved Ones</h2>
+<h2>Comprehensive Geriatric Home Care Services <br> for your Loved Ones at Home</h2>
 </div>
 <div class="seconday-paragraph text-center">
 At Geri Care, we visit the patient's home, and conduct comprehensive evaluation to assess their overall health and well-being. <br>This includes assessing the patient's medical history, conducting physical examinations, evaluating their living conditions, functional status, and social support.<br> 
@@ -45,7 +45,8 @@ At Geri Care, we visit the patient's home, and conduct comprehensive evaluation 
  
 <br>Additionally, the team can provide counseling to the family if they are uncertain about hospitalizing their loved ones.<br>
 
-Our experienced caregivers have been delivering affordable and reliable care in the comfort of the patients’ homes, since 2018.
+Geri Care has been delivering affordable and reliable care in the comfort of the patients’ homes, since 2018. We visit homes, conduct comprehensive evaluations to assess the overall health and well-being by studying the medical history, conducting physical examinations, evaluating their living conditions, functional status, and tailoring social support.<br><br>
+Our care plans involve collaboration with a multi-disciplinary team consisting of doctors, nurses, physiotherapists, and caregivers to execute the plan and improve the quality of life for the elderly patient. Additionally, our team also offers counseling to the family if they are uncertain about hospitalising their loved ones. 
 </div>
 </div>
 
@@ -128,7 +129,7 @@ Our experienced caregivers have been delivering affordable and reliable care in 
 <img src="{{ asset('/public/website/assets/images/Geriatric-Physiotherapy-at-Home.jpg') }}" alt="Physiotherapist For Home Visits" class="" />
 <div class="minrester">
 <h4>Geriatric Physiotherapy at Home</h4>
-<p>Geriatric physiotherapy involves specialized physical therapy techniques ...</p>
+<p>Geriatric physiotherapy involves specialised physical therapy techniques ...</p>
 <a href="{{ url('physio-care') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="Geri Care Hospital" class="" /></a>
 </div>
 </div>
@@ -258,7 +259,7 @@ Our experienced caregivers have been delivering affordable and reliable care in 
 <div class="pseofmnd">
 To experience a method of care<br> 
 that gives you a sense of freedom...<br>
-<span>Call us today.</span>
+<span>Call us today!</span>
 </div>
 </div>
 

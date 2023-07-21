@@ -47,7 +47,9 @@ under the expert care of Geriatricans</h1>
 to assist those in need. </h2> -->
 </div>
 <div class="seconday-paragraph text-center">
-In an innovative endeavor, Geri Care offers 24/7 Assisted Living and Skilled Nursing Facility in Chennai, specifically designed to cater to the specific needs of older adults who require medical attention and support in their day-to-day lives. Our state-of-the-art facility houses a comprehensive range of services and amenities that care, treat and provide for residents in Chennai, ensuring utmost comfort, safety, and a homely atmosphere. Our professional experts, along with a dedicated team, provide constant care, alleviating concerns and offering peace of mind to both residents and their families. Choose Geri Care for trusted Assisted Living and Skilled Nursing facilities in Chennai, where personalized care and well-being are top priorities.<br>
+  In a pioneering attempt, Geri Care offers 24/7 Assisted Living and Skilled Nursing facilities in Chennai, specifically catering to the needs of the elderly, who require medical attention, support and a positive mindset in their day-to-day lives.<br><br>
+  Our state-of-the-art facility houses a comprehensive range of services and amenities to care, treat and provide for residents, ensuring utmost comfort, safety, and a homely atmosphere. <br><br>
+  Our professionals, along with a dedicated team, address concerns and offer peace of mind to both residents and their families. Choose Geri Care for trusted Assisted Living & Skilled Nursing facilities in Chennai, where personalised care and well-being are top priorities.<br><br>
 </div>
 </div>
 
@@ -203,7 +205,7 @@ In an innovative endeavor, Geri Care offers 24/7 Assisted Living and Skilled Nur
 </div>
 
 <div class="common-parra aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
-<p>At Geri Care, our Dementia Care goes beyond objective assessments. Our dedicated team of Geriatricians, Psychiatrists, and Psychologists ensures a comprehensive evaluation of physical and mental health. We prioritize individualized care, considering hobbies, interests, and lifestyle to create a tailored activity schedule. As dementia progresses our care plan evolves but never compromising on meeting our patients' needs.</p>
+<p>At Geri Care, our Dementia Care goes beyond objective assessments. Our dedicated team of Geriatricians, Psychiatrists, and Psychologists ensures a comprehensive evaluation of physical and mental health. We prioritize individualized care, considering hobbies, interests, and lifestyle choices - to create a tailored activity schedule. As dementia progresses, our care plan evolves too, but never compromising on meeting our patients' needs.</p>
 </div> 
 			  
 </div>
@@ -258,7 +260,7 @@ In an innovative endeavor, Geri Care offers 24/7 Assisted Living and Skilled Nur
 </div>
 
 <div class="common-parra aos-init aos-animate" data-aos="fade-right" data-aos-duration="1000">
-<p>At Geri Care, we recognise the importance of geriatric palliative care in enhancing the quality of life for elderly individuals confronting serious illnesses. This specialized care approach focuses on addressing their physical, emotional, and social needs while taking into account the complexities associated with aging.</p>
+<p>At Geri Care, we recognise the importance of geriatric palliative care in enhancing the quality of life for elderly individuals confronting serious illnesses. This specialised care approach focuses on addressing their physical, emotional, and social needs while taking into account the complexities associated with aging.</p>
 </div>
 
 <div class="common-parra aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
@@ -516,7 +518,7 @@ In an innovative endeavor, Geri Care offers 24/7 Assisted Living and Skilled Nur
 <div class="servrse-contest">
 <h4> Geri Care Assisted Living - RA Puram </h4>
  <p>New #10, Old #23, 7th Main Road, <br> RA Puram, Chennai - 600028</p>
-<!-- <p> No.8, Dr. Nair Road, Behind Vani<br> Mahal, T.Nagar, Chennai - 600 017 </p> -->
+<!-- <p> No.8, Dr. Nair Road, Behind Vani<br> Mahal, T. Nagar, Chennai - 600 017 </p> -->
 <a href="https://goo.gl/maps/j6n7agMHAkr19NEf8" target="_blank"> View On Map <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="Geri Care Hospital" class="" /></a>
 </div>
 </div>

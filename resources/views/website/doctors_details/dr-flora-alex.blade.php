@@ -59,12 +59,11 @@ Home visits on appointment basis
 
 <div class="main-contdvshon">
 <h4>Doctor's Profile</h4>
-<p>Dr. Flora possesses extensive knowledge and expertise in effectively managing diseases commonly found in elderly individuals. She specializes in conducting Comprehensive Geriatric Assessments and tailoring personalized treatment plans accordingly. Dr. Flora has a wealth of experience in organizing various specialized clinics to address prevalent geriatric issues and challenges. These clinics include the Comprehensive Geriatric Assessment Clinic, Falls Clinic, Incontinence Clinic, Pain Clinic, Memory Clinic, and Rehabilitation Clinic.</p>
+<p>Dr. Flora possesses extensive knowledge and expertise in effectively managing diseases commonly found in the elderly. She specialises in conducting Comprehensive Geriatric Assessments (CGA) and tailoring personalized treatment plans accordingly. Dr. Flora has a wealth of knowledge and experience in organizing various specialised clinics to address prevalent geriatric issues and challenges. These clinics include the Comprehensive Geriatric Assessment Clinic, Falls Clinic, Incontinence Clinic, Pain Clinic, Memory Clinic, and Rehabilitation Clinic.</p>
 
-<p>Dr. Flora's preferred approach involves working within an integrated healthcare system, collaborating with a diverse multidisciplinary team. This team typically consists of physiotherapists, social workers, nurses, and nurse aides who have received specialized training in geriatric care. By engaging this comprehensive team, Dr. Flora aims to provide holistic and well-rounded care to her patients.</p>
+<p>Dr. Flora's preferred approach involves working within an integrated healthcare system, and collaborating with a diverse multidisciplinary team that typically consists of physiotherapists, social workers, nurses, and nurse aides who have received specialised training in geriatric care. By engaging this comprehensive team, Dr. Flora aims to provide holistic and well-rounded care to her patients.</p>
 
-<p>Additionally, Dr. Flora actively participates in raising awareness about elder abuse and caregiver stress. She offers guidance and support in managing both these critical aspects of elderly care. Dr. Flora's experience extends beyond clinical settings as she has successfully managed complex patients in homecare settings as well as assisted living and skilled nursing facilities (SNFs).
-</p>
+<p>Additionally, Dr. Flora actively participates in raising awareness about elder abuse and caregiver stress. She offers guidance and support in managing both these critical aspects of elderly care. Dr. Flora's experience extends beyond clinical settings as she has successfully managed complex patients in homecare settings as well as assisted living and skilled nursing facilities (SNFs).</p>
 </div>
 
 <div class="main-contdvshon">

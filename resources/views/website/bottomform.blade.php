@@ -4,7 +4,7 @@
 
 <div class="col-lg-10">
 <div class="common-heading text-center">
-<h2>Looking for a Consultation With Us</h2>
+<h2>Looking for a consultation with us?</h2>
 </div>
 <div class="rechus-frms">
 

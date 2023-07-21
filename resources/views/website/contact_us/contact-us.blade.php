@@ -38,7 +38,7 @@ to improve the lives of the elderly.</span>
 								<div class="orange-bg shadow pad-30">
 									<h2 class="h3 text-white mar-bot-20">Contact Info</h2>
 									<p class="contact-icons"><img src="{{ asset('/public/website/assets/images/contact-icon1.png') }}" alt="Geri Care Hospital" class="" /><strong>Geri Care Hospital</strong> 
-                                    No.8, Dr. Nair Road,<br> Behind Vani Mahal,<br> T.Nagar, Chennai - 600 017.</p>
+                                    No.8, Dr. Nair Road,<br> Behind Vani Mahal,<br> T. Nagar, Chennai - 600 017.</p>
 									<p class="contact-icons"><img src="{{ asset('/public/website/assets/images/contact-icon2.png') }}" alt="Geri Care Hospital" class="" />+91 44 4061 4061</p> 
 									<p class="contact-icons"><img src="{{ asset('/public/website/assets/images/contact-icon4.png') }}" alt="Geri Care Hospital" class="" /><a href="mailto:enquiry@gericare.in" target="_blank" class="text-white">enquiry@gericare.in</a></p>
 									<ul class="contact-socials">

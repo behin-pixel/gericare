@@ -58,8 +58,9 @@ $name='Dr. K. Anupama';
 
 <div class="main-contdvshon">
 <h4>Doctor's Profile</h4>
-<p>Dr Anupama is an experienced Geriatrician and one of the few qualified female Geriatricians with expertise in female geriatric conditions. She has worked at major Multispecialty Hospitals in Chennai. She has taken the lead in domiciliary problems in elderly. She is a regular participant in academic forums for elderly. She has done over 5000 home visits for sick elderly. Has been guiding patient families at home to manage chronic conditions such as parkinsons disease, dementia, urinary incontinence, wound management at home.
-</p>
+<p>Dr. Anupama is a highly experienced Geriatrician with specialised expertise in female geriatric conditions. As one of the few qualified female Geriatricians, she has made significant contributions in the field of elderly care in Chennai. With her extensive experience, she has worked at major Multispecialty Hospitals in the city, providing comprehensive medical care and support to the elderly population.</p>
+<p>Dr. Anupama has taken the lead in addressing unique challenges that elder females face while living. She has hence dedicated her services to understanding the importance of a comfortable and safe environment, and has shown active involvement in designing care plans that cater to the specific needs of the elderly women community. </p>
+<p>Her dedication is evident from her 5000 home visits for the sick elderly and in the guidance that she has rendered during her visits, to manage chronic conditions such as parkinsons disease, dementia, urinary incontinence, and wound management.</p>
 </div>
 
 <div class="main-contdvshon">
