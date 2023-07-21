@@ -16,7 +16,7 @@
       
       <img src="{{ asset('/public/website/assets/images/banners/mobile-banner-1.jpg') }}" alt="Geri Care Hospital" class="moby w-100 d-block d-lg-none" />
       <div class="carousel-caption animated animatedFadeInUp fadeInUp">
-        <h1 class="text-blue">India's 1<sup>st</sup> Multi-Speciality Hospital for Senior Citizens launches its 2<sup></sup>nd</sup> hospital in Adambakkam. </h1>
+        <h1 class="text-blue">India's 1<sup>st</sup> Multi-Speciality Hospital for Senior Citizens launches its 2<sup>nd</sup> hospital in Adambakkam. </h1>
         <!-- <span class="text-blue">for Senior Citizens Gericare Hospital Now in Adambakkam</span> -->
     <a href="{{ url('gericare-hospital') }}">Explore More</a>
       </div>
