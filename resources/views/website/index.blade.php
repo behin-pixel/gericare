@@ -685,7 +685,7 @@ Nov 04 2019
 Nov 04 2019
 </div>
 <div class="minrester">
-<h4>Feel at Home with India’s 1st Homecare run by Specialist Geriatricians</h4>
+<h4>Feel at Home with India’s 1<sup>st</sup> Homecare run by Specialist Geriatricians</h4>
 <p>We know what it feels like to leave aging parents home alone during an important official visit. We....</p>
 <a href="https://www.gericare.in/blog/general/feel-at-home-with-indias-first-homecare-run-by-specialist-geriatricians/" target="_blank">Read More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="Geri Care Hospital" class="" /></a>
 </div>

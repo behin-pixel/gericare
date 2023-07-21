@@ -77,9 +77,9 @@
 <div class="main-contdvshon">
 <h4>Awards </h4>
 <ul>
-<li>December 2019: Travel Grant/Young Scholar Award at the 1st World Congress on falls and postural stability, Kuala Lumpur.</li>
+<li>December 2019: Travel Grant/Young Scholar Award at the 1<sup>st</sup> World Congress on falls and postural stability, Kuala Lumpur.</li>
 <li>September 2019: Travel Grant/Best 100 Abstract Award at the 15th European Geriatric Medicine society conference, Krakow.</li> 
-<li>July 2017: Travel Grant/Young Scholar Award at the 21st International Congress on Geriatrics and Gerontology, San Francisco.</li>
+<li>July 2017: Travel Grant/Young Scholar Award at the 21<sup>st</sup> International Congress on Geriatrics and Gerontology, San Francisco.</li>
 <li>2016: Third place in Open quiz, Geriatrics, Indian Ageing Congress</li>
 </ul>
 
@@ -128,17 +128,17 @@
 Bhattarai Urza, Chatterjee Prasun, Gautam Arun, Saravanan Manicka, Khan Maroof, Dey A B
 </li>
 
-	<li><storng>1st WCFPS, Kuala Lumpur December 2019</strong><br>
+	<li><storng>1<sup>st</sup> WCFPS, Kuala Lumpur December 2019</strong><br>
 	<strong>Correlates of falls in health-seeking older Indian population.</strong><br>
 	Manicka Saravanan Subramanian, Vishwajeet Singh, Prashun Chatterjee, Sadanand Dwivedi, Aparajit Ballav Dey
 </li>
 
-<li><storng>15th EuGMS, Krakow September 2019</strong><br>
+<li><storng>15<sup>st</sup> EuGMS, Krakow September 2019</strong><br>
 	<strong>Frailty in the health-seeking older population: Findings from an Indian registry.</strong><br>
 	Subramanian Manicka Saravanan, Gunasekaran Venugopalan, Chatterjee Prashun, Sadanand Dwivedi, Dey Aparajit Ballav
 </li>
 
-<li><storng>21st IAGG, San Francisco;July 2017</strong><br>
+<li><storng>21<sup>st</sup> IAGG, San Francisco;July 2017</strong><br>
 	<strong>Assessment of gait and balance in older Indians.</strong><br>
 	Manicka Saravanann, Prashun Chatterjee, Avinash Chakrawarty, A.B.Dey
 </li>
