@@ -5989,6 +5989,7 @@ br{display: none !important;}
 .servrse-contest-p h3 {
     color: black;
     font-weight: 700;
+    text-transform: none;
 }
 .servrse-contest-p p {
     text-align: justify;
