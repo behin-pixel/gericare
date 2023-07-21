@@ -159,8 +159,8 @@
         </div>
         <div class="col-md-8 col-lg-8">
             <div class="servrse-contest-p p-0">
-                <h3>Gasteroentrology </h3>
-                         <p>Equipped with Upper GI Scopy and Colonoscopy, the Gasteroentrology department provides holistic solutions to address age-related gastrointestinal conditions such as indigestion, constipation, IBS, Gastroesophageal Reflux Disease (GERD) and so on. </p>
+                <h3>Gastroenterology</h3>
+                         <p>Equipped with Upper GI Scopy and Colonoscopy, the Gastroenterologydepartment provides holistic solutions to address age-related gastrointestinal conditions such as indigestion, constipation, IBS, Gastroesophageal Reflux Disease (GERD) and so on. </p>
                          <a id="department-pulmonology"></a>
                          {{-- <div class="minrester-link">
                        <a href="{{ url('our-doctors') }}"   tabindex="0">Find a doctor<img src="{{ asset('/public/website/assets/images/red.png') }}" alt="Geri Care Hospital" class=""></a>

@@ -452,7 +452,7 @@
 <div class="geric-img">
   <img src="{{ asset('/public/website/assets/images/icn-5.png') }}" alt="Geri Care Hospital" class=""> 
   </div>
-  <span> Gasteroentrology </span>  
+  <span> Gastroenterology</span>  
 </a>   
 </li>
 
