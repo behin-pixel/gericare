@@ -7,7 +7,7 @@
 <div class="container">
 <div class="row">
 	@php 
-    $name='Dr. Banu Prakash';
+    $name='Dr. B.C.Bhanu Prakash';
     @endphp 
 <div class="col-lg-12">
 <h1>Our Doctors</h1>
@@ -18,7 +18,7 @@
 <li> > </li>
 <li><a href="{{ url('our-doctors') }}"> Our Doctors  </a></li>
 <li> > </li>
-<li class="active"> Dr. Banu Prakash </li>
+<li class="active"> Dr. B.C.Bhanu Prakash </li>
 </ul>
 </div>
 
@@ -45,7 +45,7 @@
 
 <div class="col-lg-7">
 <div class="doc-tor-cnt">
-<h3>Dr. Banu Prakash<span>Ortho Geriatrician</span></h3>
+<h3>Dr. B.C.Bhanu Prakash<span>Ortho Geriatrician</span></h3>
 <h4><img src="{{ asset('/public/website/assets/images/expe.png') }}" alt="Geri Care Hospital" class=""> Experience <span> 21+ Years</span></h4>
 <h4><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="Geri Care Hospital" class=""> Education <span> MBBS, MS (Orthopedics)</span></h4>
 <h4><img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="Geri Care Hospital" class=""> Languages <span> Tamil, English </span></h4>

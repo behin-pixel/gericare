@@ -449,7 +449,7 @@ Uro Gynaecology
         <img src="{{ asset('/public/website/assets/images/doctor-img-13.jpg') }}" alt="Geri Care Hospital" class="">
         </div>
         <div class="dctrm-deitals">
-        <h3> Dr. Banu Prakash </h3>
+        <h3> Dr. B.C.Bhanu Prakash </h3>
         <h4> Senior Consultant    </h4>
         <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="Geri Care Hospital" class=""> MBBS, MS (Orthopedics)</h5>
         <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="Geri Care Hospital" class=""> Tamil, English</h5>

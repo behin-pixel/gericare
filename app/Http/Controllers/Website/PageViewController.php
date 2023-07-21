@@ -193,8 +193,8 @@ class PageViewController extends Controller
     }
     public function  banuPrakashPage()
     {
-        $title = 'Dr. Banu Prakash - Ortho Geriatrician';
-        $decription = "Dr. Banu Prakash is a Senior Consultant Specialising in primary, complex & revision knee and hip replacement surgeries.";
+        $title = 'Dr. B.C.Bhanu Prakash - Ortho Geriatrician';
+        $decription = "Dr. B.C.Bhanu Prakash is a Senior Consultant Specialising in primary, complex & revision knee and hip replacement surgeries.";
         $keyword = ''; 
         return view('website.doctors_details.dr-banu-prakash', compact('title', 'decription', 'keyword'));
     }
