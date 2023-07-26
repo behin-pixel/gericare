@@ -58,16 +58,11 @@
 
 <div class="main-contdvshon">
 <h4>Doctor's Profile</h4>
-<p>Dr. B C Bhanu Prakash is a Senior Consultant Specialising in primary, complex & revision knee and hip replacement surgeries. He did his medical education in Stanley Medical College, Chennai and his M.S (Ortho) in M.P. Shah Medical College, Gujarat where he has won the “Best Outgoing postgraduate student award” for the year 2000 – 2001.
+<p>Dr. B C Bhanu Prakash is a Senior Consultant specialising in primary, complex & revision knee and hip replacement surgeries. He has completed his medical education from Stanley Medical College, Chennai and his MS (Ortho) in M.P. Shah Medical College, Gujarat, where he has won the “Best Outgoing Postgraduate Student Award” for the year 2000 – 2001.</p>
 
-</p>
+<p>He worked in the prestigious Ganga Hospital, Coimbatore, a super-specialty orthopedic and trauma care center for four years where he specialised in primary knee and hip replacement and revision hip and knee replacement. He has done the prestigious “Willis Marshall fellowship” in advanced arthroplasty and arthroscopy under Prof. Jegan Krishnan at the Flinders Medical Center, Adelaide, Australia, and he has done short term fellowships in knee and shoulder surgery at Sports Med Hospital, Adelaide and Ashford Hospital, Adelaide, Australia.</p>
 
-<p>He worked in the prestigious Ganga Hospital, Coimbatore, a super specialty orthopedic and trauma care center for four years where he specialised in primary knee and hip replacement and revision hip and knee replacement. He has done the prestigious “Willis Marshall fellowship” in advanced arthroplasty and arthroscopy under Prof. Jegan Krishnan at the Flinders Medical Center, Adelaide, Australia and he have done short term fellowships in knee and shoulder surgery at Sports Med Hospital, Adelaide and Ashford Hospital, Adelaide, Australia.
-</p>
-
-<p>He is one of the few surgeons who have pioneered computer navigated minimally invasive Hiflex total knee replacement in this part of the country. He is also an expert in uni - compartmental knee arthroplasty, elbow and ankle replacements. He is an expert in trauma surgery including minimally invasive fracture fixations, complex polytrauma and pelvic fracture fixations. He is also the Chief Orthopedic Consultant at Sree Devi Ortho Clinic, Porur.
-</p>
-
+<p>He is one of the few surgeons who has pioneered computer navigated minimally invasive Hiflex total knee replacement in this part of the country. He is also an expert in uni - compartmental knee arthroplasty, elbow and ankle replacements. He is an expert in trauma surgery including minimally invasive fracture fixations, complex polytrauma and pelvic fracture fixations. He is also the Chief Orthopedic Consultant at Sree Devi Ortho Clinic, Porur.</p>
  
 </div>
  

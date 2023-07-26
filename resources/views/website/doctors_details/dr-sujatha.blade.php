@@ -58,7 +58,11 @@
 
 <div class="main-contdvshon">
 <h4>Doctor's Profile</h4>
-<p>Dr. Sujatha, Post her M.B.B.S specialised in Psychiatry from Kasturibai medical college and worked as a private consultant from 2001-2007 with a main focus on women and adolescents. During those years she co-founded an NGO to provide psychological help to those involved in major disasters like fire, tsunami, etc. Was actively involved in an integrative social experiment of spirituality and mental health. Following her move to the United States, she was actively involved in California’s county suicide program along with research for depression and PTSD at Stanford School of Medicine and veterans hospital. Moved to Chennai in 2016 and is in private practice since then.
+<p>Post her M.B.B.S, Dr. Sujatha specialised in Psychiatry from Kasturibai Medical College and worked as a private consultant from 2001-2007 with a main focus on women and adolescents. 
+</p>
+<p>During those years she co-founded an NGO where she took up integrative social experiments on spirituality and mental health, and offered psychological help to those involved in major disasters like fire, tsunami, etc.  
+</p>
+<p>Following her move to the United States, she was actively involved in California’s county suicide program along with research for depression and PTSD at Stanford School of Medicine and veterans hospital. Dr Sujatha moved to Chennai in 2016 and has been in private practice ever since.
 </p>
 
  

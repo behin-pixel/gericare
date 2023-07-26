@@ -60,7 +60,7 @@ for  Senior Citizens</span>
     <div class="geric-img">
     <img src="{{ asset('/public/website/assets/images/hip-replacement.png') }}" alt="Geri Care Hospital" class=""> 
     </div>     
-    Ortho Geriatrics
+    Orthogeriatrics
     </button>
 
 

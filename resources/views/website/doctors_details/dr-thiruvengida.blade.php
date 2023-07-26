@@ -58,10 +58,9 @@
 
 <div class="main-contdvshon">
 <h4>Doctor's Profile</h4>
-<p>Dr. Thiruvengita Prasad G is a renowned Spine Surgeon, Sports Medicine Surgeon and Orthopedist and has an experience of 22 years in these fields. He completed MBBS from Stanley Medical College & Hospital, Chennai in 1997 and DNB - Orthopedics/Orthopedic Surgery from DNB board, New Delhi in 2001.
-He is a member of Tamilnadu Medical Council and Medical Council of India (MCI). Some of the services provided by the doctor are: Fracture Treatment, Joint Pain Treatment, Osteoporosis Treatment, Knee Osteotomy and Correction of deformities etc.
-</p>
-<p>He has been the backbone of Orthogeriatrics department at the Geri Care Hospital. His expertise include managing hip fractures by doing procedures like Total Hip replacement or Hemiarthroplasty. He is also good at managing Osteoarthritis of knee and shoulder joints.</p>
+<p>Dr. Thiruvengita Prasad G is a renowned Spine Surgeon, Sports Medicine Surgeon and Orthopedist, with an experience of 22 years in the field. He completed MBBS from Stanley Medical College & Hospital, Chennai in 1997 and DNB - Orthopedics/Orthopedic Surgery from DNB board, New Delhi in 2001. </p>
+<p>He is a member of Tamilnadu Medical Council and Medical Council of India (MCI). Some of the services provided by him include Fracture Treatment, Joint Pain Treatment, Osteoporosis Treatment, Knee Osteotomy and Correction of deformities etc.</p>
+<p>He has been the backbone of the Orthogeriatrics department at Geri Care and his expertise includes managing hip fractures through procedures like Total Hip replacement or Hemiarthroplasty. He is also good at managing Osteoarthritis of knee and shoulder joints.</p>
 <p>He works closely with Geriatric Physiotherapists to ensure optimal recovery and rehabilitation for elderly patients.</p>
 </div>
 

@@ -58,7 +58,9 @@
 
 <div class="main-contdvshon">
 <h4>Doctor's Profile</h4>
-<p> Dr. A Mohan Rao qualified from Kasturba Medical College Mangalore/ Manipal, Karnataka in 1985 is a Sr. Consultant in General, Minimal Access (Laparoscopic) Surgery and Bariatric Surgery. He is also a Fellow of the Indian Association of Gastro Endo-surgeons. He qualified as a General surgeon in the year 1985 and subsequently trained as a Laparoscopic Surgeon. He has more than 36 years of Surgical Experience as a General Surgeon and 20 years of Laparoscopic Surgery. Areas of Specialty include Laparoscopic Surgery, Bariatric Surgery, Breast Surgery & General Surgery.
+<p>Dr. A Mohan Rao, qualified from Kasturba Medical College Mangalore/ Manipal, Karnataka in 1985, is a Sr. Consultant in General, Minimal Access (Laparoscopic) Surgery and Bariatric Surgery. He is also a Fellow of the Indian Association of Gastro Endo-surgeons. He qualified as a General surgeon in the year 1985 and subsequently trained as a Laparoscopic Surgeon. 
+</p>
+<p>He has more than 36 years of Surgical Experience as a General Surgeon and 20 years of experience in Laparoscopic Surgery. His areas of specialty include Laparoscopic Surgery, Bariatric Surgery, Breast Surgery & General Surgery.
 </p>
 
  

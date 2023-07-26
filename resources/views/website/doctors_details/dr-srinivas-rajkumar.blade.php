@@ -60,22 +60,21 @@ Adyar - Tuesday Mornings
 
 <div class="main-contdvshon">
 <h4>Doctor's Profile</h4>
-<p>Dr. Srinivas Rajkumar T is a popular Geriatric Psychiatrist in Chennai. He believes in comprehensive evaluation of mental health conditions following a biopsychosocial approach. He is a patient listener who understands the needs of both patients and family members and helps them understand the illness and make well informed treatment decisions. Treatment usually involves a combination of medications, therapy and behavioral interventions to ensure best possible recovery.
+<p>Dr. Srinivas Rajkumar T is a popular Geriatric Psychiatrist in Chennai. He believes in comprehensive evaluation of mental health conditions following a biopsychosocial approach. He is a patient listener who understands the needs of both patients and family members and helps them understand the illness and make well informed treatment decisions. His treatments usually involve a combination of medications, therapy and behavioral interventions to ensure best possible recovery.
 </p>
-<p>He has been a pioneer in working with cutting edge devices and techniques for the treatment of mental health conditions. He is well versed with treatment modalities like Electroconvulsive therapy (ECT), repetitive transcranial magnetic stimulation (rTMS), transcranial direct current stimulation (tDCS),  Ketamine Therapy etc.</p>
+<p>He has been a pioneer in working with cutting-edge devices and techniques for the treatment of mental health conditions. He is well versed with treatment modalities like Electroconvulsive therapy (ECT), repetitive transcranial magnetic stimulation (rTMS), transcranial direct current stimulation (tDCS), Ketamine Therapy etc.
+</p>
 
 <p>Working with Geri Care, he offers outpatient consultations, home visits by psychiatrist and psychologist and emergency psychiatry services.</p>
 
 
-<p>He is an avid leader and teacher. He has worked with NGOs, Colleges, Schools, Technology Companies, TV/Media/News organizations  to promote mental health literacy and also deliver mental health care interventions to all strata of the society.</p>
+<p>He is an avid leader and teacher. He has worked with NGOs, Colleges, Schools, Technology Companies, TV/Media/News organisations to promote mental health literacy and also deliver mental health care interventions to all strata of the society.</p>
 
 <p>He routinely addresses geriatric mental health conditions like Elderly Depression, Bipolar Disorder, Anxiety, Sleep disturbances, Addiction, Dementia, OCD, Schizophrenia, Behavioral Issues etc and ensures they are treated optimally based on best prescription standards meeting global standards. Elderly require careful attention to past psychiatric history, comorbidities and other medications they are on to ensure that they get the right medication for their diagnosis with least side effects. We at gericare have developed an elderly friendly psychiatry evaluation process to make sure these goals are met.</p>
 
-<p>To address the underdiagnosis of dementia and mental health conditions for patients who continue to receive treatment for other conditions, we have set up a Mind and Memory Clinic where Mental Health Professionals (Psychiatrist and Psychologist) work closely with Geriatricians to address this gap in diagnosis and treatment. </p>
+<p>To address the underdiagnosis of dementia and mental health conditions for patients who continue to receive treatment for other conditions, we have set up a Mind and Memory Clinic where Mental Health Professionals (Psychiatrist and Psychologist) work closely with Geriatricians to address this gap in diagnosis and treatment.</p>
 
 <p>His goal is to ensure that the highest quality of mental health care is made available at an affordable cost to every citizen of the country. </p>
-
-
 
 </div>
 

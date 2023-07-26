@@ -58,7 +58,9 @@
 
 <div class="main-contdvshon">
 <h4>Doctor's Profile</h4>
-<p>Dr. Asir Julin is Asst. Professor of Neurology passed out of Rajah Muthiah Medical College Chidambaram with a distinction in Anatomy & MD from Government medical college, Chidambaram, DM Neurology from Madras Medical College. With a special interest in IV thrombolysis Dr.Asir has been associated with several reputed hospitals in Chennai as a consultant & stroke treatment specialist during the golden hour. With over 15 years of hands-on experience, Dr. Asir has worked in government hospitals in both departments of Neurology & Paediatric neurology. Being passionate about the subject Dr. Asir has participated in several national & regional conferences, and had been active in paper presentations, oral presentations, professional certification to his credit.
+<p>Dr. Asir Julin is an Asst. Professor of Neurology who has passed out of Rajah Muthiah Medical College, Chidambaram, with a distinction in Anatomy & MD from Government Medical College, Chidambaram, DM Neurology from Madras Medical College. With a special interest in IV thrombolysis. 
+</p>
+<p>Dr. Asir has been associated with several reputed hospitals in Chennai as a consultant & stroke treatment specialist during the golden hour. With over 15 years of hands-on experience, Dr. Asir has worked in government hospitals in both departments of Neurology & Paediatric neurology. Being passionate about the subject, Dr. Asir has participated in several national & regional conferences, and has been active in paper presentations, oral presentations, and has several professional certifications to his credit. 
 </p>
 </div>
  

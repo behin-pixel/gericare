@@ -59,11 +59,16 @@
 <h4>Profile</h4>
 <p>Tinu Thamby T is a highly qualified clinical psychologist holding an M.Phil. in Clinical Psychology licensed by the Rehabilitation Council of India (RCI) with a decade of experience in offering various Comprehensive Psychometric assessments and evidence-based psychotherapies.</p>
 
-<p>Her core area of interest is Anxiety spectrum disorders (Generalized Anxiety Disorder (GAD), Panic Disorder, Social Anxiety Disorder (Social Phobia), Specific Phobias, Obsessive-Compulsive Disorder (OCD), Post-Traumatic Stress Disorder (PTSD), Separation Anxiety Disorder). She excels in providing Exposure Response Prevention therapy (ERP) for OCD and is actively involved in the establishment and guidance of a youth peer support program for individuals living with OCD. Her expertise includes detailed Psychological assessments for diagnosing various common conditions like ADHD, OCD, Emotional dysregulation, Personality disorders and other Psychiatric Conditions.</p>
+<p>Her core area of interest is Anxiety spectrum disorders (Generalised Anxiety Disorder (GAD), Panic Disorder, Social Anxiety Disorder (Social Phobia), Specific Phobias, Obsessive-Compulsive Disorder (OCD), Post-Traumatic Stress Disorder (PTSD), Separation Anxiety Disorder). </p>
 
-<p>She is also certified to carry out comprehensive DBT programs for people suffering from Emotional regulation difficulties. Passionate about youth mental health, Mrs. Tinu Thamby T has received training in suicide gatekeeper protocols. </p>
+<p>She excels in providing Exposure Response Prevention therapy (ERP) for OCD and is actively involved in the establishment and guidance of a youth peer support program for individuals living with OCD. Her expertise includes detailed Psychological assessments for diagnosing various common conditions like ADHD, OCD, Emotional dysregulation, Personality disorders and other Psychiatric Conditions.</p>
 
-<p>She actively conducts outreach programs in schools and colleges, raising awareness about mental health and promoting suicide prevention initiatives. She has worked with the elderly population as part of a memory clinic. She has been instrumental in organizing outreach activities centered around Dementia awareness and care initiatives, as well as Neurocognitive support. In addition to her expertise, Tinu Thamby T is multilingual and proficient in Tamil, English, and Malayalam. Her strong educational background, extensive experience, and dedication to improving the lives of individuals dealing with various psychological challenges make her a highly respected and sought-after clinical psychologist.</p>
+<p>She is also certified to carry out comprehensive DBT programs for people suffering from Emotional regulation difficulties. Passionate about youth mental health, Mrs. Tinu Thamby T has received training in suicide gatekeeper protocols.</p>
+
+<p>She actively conducts outreach programs in schools and colleges, raising awareness about mental health and promoting suicide prevention initiatives. She has worked with the elderly population as part of a memory clinic. She has been instrumental in organising outreach activities centered around Dementia awareness and care initiatives, as well as Neurocognitive support. </p>
+
+<p>In addition to her expertise, Tinu Thamby T is multilingual and proficient in Tamil, English, and Malayalam. Her strong educational background, extensive experience, and dedication to improving the lives of individuals dealing with various psychological challenges make her a highly respected and sought-after clinical psychologist.</p>
+
 </div>
 
 <div class="main-contdvshon">
