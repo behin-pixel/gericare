@@ -314,7 +314,7 @@ class PageViewController extends Controller
     }
     public function OutpatientAntibioticAdministrationPage()
     {
-        return view('website.homecare_services.outpatient-antibiotic-administration', compact('title', 'decription', 'keyword'));
+        return view('website.homecare_services.outpatient-antibiotic-administration');
     } 
     public function WoundCareDressingPage()
     {
