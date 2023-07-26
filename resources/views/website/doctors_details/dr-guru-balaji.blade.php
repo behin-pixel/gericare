@@ -74,7 +74,7 @@ His expertise in managing prostate problems in elderly is well-known among our p
 <ul>
 <li>Member of Royal College of Surgeons - Edinburgh (MRCS)</li>
 <li>Member of National Academy of Medical Sciences -India (MNAMS)</li>
-<li>Member of The Tamilnadu and Pondicherry Society of urologist</li>
+<li>Member of The Tamil Nadu and Pondicherry Society of urologist</li>
 <li>Member of the South Zone Urological Society of India</li>
 <li>Urological Society of India</li>
 </ul>

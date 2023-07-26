@@ -64,7 +64,7 @@
 </p>
 
 
-<p>He has operated more than 3500 patients in his Neurosurgical career in the Government and Corporate sectors ranging from Aneurysm, AVM surgeries, Skull base Surgeries including Transnasal Pituitary adenoma resections, Skull Base Meningiomas and Craniopharyngioma surgeries, CP angle and Posterior fossa tumors. In the Spinal cord, he has performed various Spinalcord tumor surgeries. In the Spinal column and Discs, he has treated TB Spine, MicroDiscectomy of Cervical and Lumbar disc prolapse, Anterior and Posterior Cervical, and Trans thoracic and Posterior Lumbar fusion procedures for Spinal Stabilization in Spine Fractures. He is also a specialist in Neuro Endoscopic procedures.
+<p>He has operated more than 3500 patients in his Neurosurgical career in the Government and Corporate sectors ranging from Aneurysm, AVM surgeries, Skull base Surgeries including Transnasal Pituitary adenoma resections, Skull Base Meningiomas and Craniopharyngioma surgeries, CP angle and Posterior fossa tumors. In the Spinal cord, he has performed various Spinal cord tumor surgeries. In the Spinal column and Discs, he has treated TB Spine, MicroDiscectomy of Cervical and Lumbar disc prolapse, Anterior and Posterior Cervical, and Trans thoracic and Posterior Lumbar fusion procedures for Spinal Stabilization in Spine Fractures. He is also a specialist in Neuro Endoscopic procedures.
 </p>
 </div>
 

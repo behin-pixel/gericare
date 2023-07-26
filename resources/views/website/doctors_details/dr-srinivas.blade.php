@@ -64,7 +64,7 @@
 
 <p>He is one of the few Geriatricians who deprescribes medicines for elderly and also avoids polypharmacy at all costs. His interest in Falls, inspired Geri Care to start Falls Prevention Clinic, wherein patients are assessed for risk of fall by a Multi Disciplinary team comprising Geriatricians, Physiotherapists, and Nurses using standardized assessment scales.</p>
 
-<p>He actively takes part in all academic activities at Geri Care and also takes special care in training nurses for home care. His vision along with Dr. Lakshmipathy Ramesh to develop a full fledged Geriatric care across all care settings lead to Geri Care being what it stands for today. </p>
+<p>He actively takes part in all academic activities at Geri Care and also takes special care in training nurses for home care. His vision along with Dr. Lakshmipathy Ramesh to develop a full fledged Geriatric care across all care settings led to Geri Care being what it stands for today. </p>
 
 </div>
 

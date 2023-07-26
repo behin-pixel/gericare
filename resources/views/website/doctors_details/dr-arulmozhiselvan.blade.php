@@ -84,7 +84,7 @@ $name='Dr. V. Arulmozhiselvan';
 <h4>Awards </h4>
 <ul>
 <li>Certificate of appreciation from District Collector, Thanjavur for the duty rendered during restricting COVID Pandemic in Thanjavur District</li>
-<li>University 2<sup>nd</sup> Rank in The Tamilnadu Dr. M.G.R. Medical University M.D. Final exams.</li>
+<li>University 2<sup>nd</sup> Rank in The Tamil Nadu Dr. M.G.R. Medical University M.D. Final exams.</li>
 </ul>
 </div>
 
