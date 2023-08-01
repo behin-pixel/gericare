@@ -55,7 +55,7 @@ Come home to Geri Care, to be treated and cared for by internationally renowned 
 
 <div class="servce">
 <img src="{{ asset('/public/website/assets/images/icon-2.png') }}" alt="Geri Care Hospital" class="" />
-<h4> Our Locationss </h4>
+<h4> Our Locations </h4>
 <p> No.8, Dr. Nair Road, Behind Vani Mahal, T. Nagar, Chennai - 600 017 </p>
 <a href="{{ url('contact-us') }}"> View On Map <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="Geri Care Hospital" class="" /></a>
 </div>

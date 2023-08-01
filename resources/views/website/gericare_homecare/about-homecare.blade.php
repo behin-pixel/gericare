@@ -65,7 +65,7 @@ Our care plans involve collaboration with a multi-disciplinary team consisting o
 
 <div class="servce">
 <img src="{{ asset('/public/website/assets/images/icon-2.png') }}" alt="Geri Care Hospital" class="" />
-<h4> Access Our Locationss </h4>
+<h4> Access Our Locations </h4>
 <p> No:21, 1st Avenue, Indira Nagar, Adyar, Chennai - 600 020  </p>
 <a href="https://www.google.com/maps/place/Geri+Care+%7C+Home+Care+%26+Consultation/@12.999337,80.251917,17z/data=!4m6!3m5!1s0x3a5267853522f365:0x1dc3e7d7a2a95d9!8m2!3d12.999337!4d80.2541057!16s%2Fg%2F11gx_ff6bb?entry=tts&shorturl=1" target="_blank"> View On Map <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="Geri Care Hospital" class="" /></a>
 </div>
