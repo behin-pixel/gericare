@@ -118,9 +118,9 @@
                 <li class="@if(request()->routeIs(['about-us.leadership-team'])) active @endif">
                   <a href="{{ url('leadership') }}">Leadership Team</a>
                 </li> 
-                <li class="@if(request()->routeIs(['about-us.awards-achievements'])) active @endif">
+                {{-- <li class="@if(request()->routeIs(['about-us.awards-achievements'])) active @endif">
                   <a href="#">Download Brochure</a>
-                </li> 
+                </li>  --}}
               </ul>
             </li>
             <li id="corporate-menu" class="@if(request()->routeIs(['in-news.news-events','in-news.media-gallery'])) active @endif"><a href="{{ url('news-and-events') }}">News Room</a>
