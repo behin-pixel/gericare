@@ -69,7 +69,7 @@ Route::get('dr-flora-alex',[PageViewController::class,'drFloraPage'])->name('doc
 
 Route::get('our-doctors/dr-up-srinivas',[PageViewController::class,'drUpSrinivasPage'])->name('doctors-details.dr-up-srinivas'); 
 
-Route::get('our-doctors/dr-balamurugan-s',[PageViewController::class,'drBalamuruganSPage'])->name('doctors-details.dr-balamurugan-s'); 
+Route::get('dr-balamurugan-s',[PageViewController::class,'drBalamuruganSPage'])->name('doctors-details.dr-balamurugan-s'); 
 
 Route::get('our-doctors/dr-balamurugan-b',[PageViewController::class,'drBalamuruganBPage'])->name('doctors-details.dr-balamurugan-b'); 
 

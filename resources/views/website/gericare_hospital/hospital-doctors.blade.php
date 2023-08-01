@@ -597,8 +597,8 @@ Uro Gynaecology
         <h4> Senior Neurosurgeon </h4>
         <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="Geri Care Hospital" class="">M.Ch (Neurosurgery)</h5>
         <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="Geri Care Hospital" class=""> Tamil, English   </h5>
-        <a href="{{ url('our-doctors/dr-balamurugan-s') }}">Book Appointment</a>
-        <a href="{{ url('our-doctors/dr-balamurugan-s') }}">View Profile</a>
+        <a href="{{ url('dr-balamurugan-s') }}">Book Appointment</a>
+        <a href="{{ url('dr-balamurugan-s') }}">View Profile</a>
         </div>
         </div>
         <div class="dctrs-detls">
