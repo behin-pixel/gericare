@@ -67,11 +67,11 @@ to improve the lives of the elderly.</span>
 									
                                 <div class="row">
 										<div class="col-sm-12 col-md-12 col-lg-6">
-											<label class="text-dark">Name (required)<span class="text-danger">*</span></label>
+											<label class="text-dark">Name <span class="text-danger">*</span></label>
 											<input type="text" name="name" id="aname" value="" class="form-control"/ required>
 										</div>
 										<div class="col-sm-12 col-md-12 col-lg-6">
-											<label class="text-dark">Phone (required)<span class="text-danger">*</span></label>
+											<label class="text-dark">Phone <span class="text-danger">*</span></label>
 											<input type="tel" name="mobile_no" id="aphone" value="" class="form-control" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*?)\..*/g, '$1');" maxlength="10" required/>
 										</div>
 										<div class="col-sm-12 col-md-12 col-lg-6">
@@ -79,7 +79,7 @@ to improve the lives of the elderly.</span>
 											<input type="email" name="email" id="aemail" value="" class="form-control"/>
 										</div>
 										<div class="col-sm-12 col-md-12 col-lg-6">
-											<label class="text-dark">Select Type (required)<span class="text-danger">*</span></label>
+											<label class="text-dark">Select Type <span class="text-danger">*</span></label>
 											<select class="form-control jsrequired" id="services" name="services" required>
     <option value="">Select Type</option>
     <option value="Feedback">Feedback</option>

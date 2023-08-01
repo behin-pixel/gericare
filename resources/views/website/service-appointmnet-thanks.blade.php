@@ -64,19 +64,19 @@ in improving the elderly lives.</span>
                 				<input type="hidden" name="form_name" value="contact" >
                                 <div class="row">
 										<div class="col-sm-12 col-md-12 col-lg-6">
-											<label class="text-dark">Name (required)<span class="text-danger">*</span></label>
+											<label class="text-dark">Name <span class="text-danger">*</span></label>
 											<input type="text" name="name" id="aname" value="" class="form-control"/>
 										</div>
 										<div class="col-sm-12 col-md-12 col-lg-6">
-											<label class="text-dark">Phone (required)<span class="text-danger">*</span></label>
+											<label class="text-dark">Phone <span class="text-danger">*</span></label>
 											<input type="tel" name="phone" id="aphone" value="" class="form-control" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*?)\..*/g, '$1');" maxlength="10"/>
 										</div>
 										<div class="col-sm-12 col-md-12 col-lg-6">
-											<label class="text-dark">Email (required)<span class="text-danger">*</span></label>
+											<label class="text-dark">Email <span class="text-danger">*</span></label>
 											<input type="email" name="email" id="aemail" value="" class="form-control"/>
 										</div>
 										<div class="col-sm-12 col-md-12 col-lg-6">
-											<label class="text-dark">Subject (required)<span class="text-danger">*</span></label>
+											<label class="text-dark">Subject <span class="text-danger">*</span></label>
 											<input type="text" name="subject" id="asubject" value="" class="form-control"/>
 										</div>
 										<div class="col-sm-12 col-md-12 col-lg-12">

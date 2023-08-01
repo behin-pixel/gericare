@@ -132,7 +132,7 @@ in the Country</span>
 <div class="cario-seters">
 <span><img src="{{ asset('/public/website/assets/images/cardio-4.png') }}" alt="Geri Care Hospital" class="" /></span>
 <h4>Continuity of Care</h4>
-<p>From clinical interventions to comprehensive hospital treatments, and post hospitalization home care services along with assisted living options, we ensure continuous medical support and comfort 24/7.</p>
+<p>From clinical interventions to comprehensive hospital treatments, and post-hospitalization home care services along with assisted living options, we ensure continuous medical support and comfort 24/7.</p>
 </div> 
 
 </div>
