@@ -372,8 +372,8 @@ Uro Gynaecology
     <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="Geri Care Hospital" class="">MBBS, MS (General Surgery), MCh (Surgical Oncology)</h5>
     <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="Geri Care Hospital" class=""> Tamil, English</h5>
     <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="Geri Care Hospital" class="">  T. Nagar</h5>
-    <a href="{{ url('our-doctors/dr-kathiresan') }}">Book Appointment</a>
-    <a href="{{ url('our-doctors/dr-kathiresan') }}">View Profile</a>
+    <a href="{{ url('dr-kathiresan') }}">Book Appointment</a>
+    <a href="{{ url('dr-kathiresan') }}">View Profile</a>
     </div>
     </div>
 
@@ -386,8 +386,8 @@ Uro Gynaecology
 <h4> Senior Surgical Oncologist  </h4>
 <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="Geri Care Hospital" class="">MBBS, MS - General Surgery, MCh - Surgical Oncology</h5>
 <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="Geri Care Hospital" class=""> Tamil, English, Hindi</h5>
-<a href="{{ url('our-doctors/dr-rajkumar') }}">Book Appointment</a> 
-<a href="{{ url('our-doctors/dr-rajkumar') }}">View Profile</a>
+<a href="{{ url('dr-rajkumar') }}">Book Appointment</a> 
+<a href="{{ url('dr-rajkumar') }}">View Profile</a>
 </div>
 </div>
  
@@ -436,8 +436,8 @@ Uro Gynaecology
         <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="Geri Care Hospital" class="">DNB (General Surgery), MRCS (Edin), MNAMS, DNB (Urology)</h5>
         <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="Geri Care Hospital" class="">  English, Tamil   </h5>
 
-        <a href="{{ url('our-doctors/dr-guru-balaji') }}">Book Appointment</a>
-        <a href="{{ url('our-doctors/dr-guru-balaji') }}">View Profile</a>
+        <a href="{{ url('dr-guru-balaji') }}">Book Appointment</a>
+        <a href="{{ url('dr-guru-balaji') }}">View Profile</a>
         </div>
         </div>
         </div>
@@ -466,8 +466,8 @@ Uro Gynaecology
         <h4> Senior Orthopedic Surgeon  </h4>
         <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="Geri Care Hospital" class="">MBBS, DNB (Orthopedics/Orthopedic)</h5>
         <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="Geri Care Hospital" class=""> Tamil, English, Telugu </h5>
-        <a href="{{ url('our-doctors/dr-thiruvengida') }}">Book Appointment</a>
-        <a href="{{ url('our-doctors/dr-thiruvengida') }}">View Profile</a>
+        <a href="{{ url('dr-thiruvengida') }}">Book Appointment</a>
+        <a href="{{ url('dr-thiruvengida') }}">View Profile</a>
         </div>
         </div>
       </div> 
@@ -518,8 +518,8 @@ Uro Gynaecology
         <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="Geri Care Hospital" class=""> Tamil, English   </h5>
         <!-- <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="Geri Care Hospital" class="">   </h5>
         <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="Geri Care Hospital" class="">   </h5> -->
-        <a href="{{ url('our-doctors/tinu-thamby') }}">Book Appointment</a>
-        <a href="{{ url('our-doctors/tinu-thamby') }}">View Profile</a>
+        <a href="{{ url('tinu-thamby') }}">Book Appointment</a>
+        <a href="{{ url('tinu-thamby') }}">View Profile</a>
         </div>
         </div>
 
@@ -539,8 +539,8 @@ Uro Gynaecology
         <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="Geri Care Hospital" class=""> B.A., M.Sc., M.Phil (Clinical Psychology) </h5>
         <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="Geri Care Hospital" class="">   </h5>
         <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="Geri Care Hospital" class="">   </h5> -->
-        <!-- <a href="{{ url('our-doctors/tinu-thamby') }}">Book Appointment</a>
-        <a href="{{ url('our-doctors/tinu-thamby') }}">View Profile</a>
+        <!-- <a href="{{ url('tinu-thamby') }}">Book Appointment</a>
+        <a href="{{ url('tinu-thamby') }}">View Profile</a>
         </div>
         </div>
                
@@ -564,8 +564,8 @@ Uro Gynaecology
         <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="Geri Care Hospital" class="">MBBS, MS, MCh(Surgical Gastroenterology)</h5>
         <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="Geri Care Hospital" class=""> English, Tamil   </h5>
         <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="Geri Care Hospital" class="">  T. Nagar</h5>
-        <a href="{{ url('our-doctors/dr-up-srinivas') }}">Book Appointment</a>
-        <a href="{{ url('our-doctors/dr-up-srinivas') }}">View Profile</a>
+        <a href="{{ url('dr-up-srinivas') }}">Book Appointment</a>
+        <a href="{{ url('dr-up-srinivas') }}">View Profile</a>
         </div>
         </div>
         <div class="dctrs-detls">
@@ -630,8 +630,8 @@ Uro Gynaecology
         <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="Geri Care Hospital" class=""> Tamil, English   </h5>
         <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="Geri Care Hospital" class=""> Adambakkam </h5>
 
-        <a href="{{ url('our-doctors/dr-balamurugan-b') }}">Book Appointment</a>
-        <a href="{{ url('our-doctors/dr-balamurugan-b') }}">View Profile</a>
+        <a href="{{ url('dr-balamurugan-b') }}">Book Appointment</a>
+        <a href="{{ url('dr-balamurugan-b') }}">View Profile</a>
         </div>
         </div>
       </div>
@@ -681,8 +681,8 @@ Uro Gynaecology
         <h4> Senior Pulmonologist</h4>
         <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="Geri Care Hospital" class="">MBBS, DNB(Respiratory Medicine)</h5>
         <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="Geri Care Hospital" class=""> Tamil, Hindi, English, Kannada    </h5>
-        <a href="{{ url('our-doctors/dr-sridevi') }}">Book Appointment</a>
-        <a href="{{ url('our-doctors/dr-sridevi') }}">View Profile</a>
+        <a href="{{ url('dr-sridevi') }}">Book Appointment</a>
+        <a href="{{ url('dr-sridevi') }}">View Profile</a>
         </div>
         </div>
       </div>  
@@ -700,8 +700,8 @@ Uro Gynaecology
         <h5> <img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="Geri Care Hospital" class="">MBBS, MD (Emergency Medicine)</h5>
         <h5> <img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="Geri Care Hospital" class=""> Tamil, English, Hindi, Bengali   </h5>
         <h5> <img src="{{ asset('/public/website/assets/images/location.png') }}" alt="Geri Care Hospital" class=""> T. Nagar  </h5>
-        <a href="{{ url('our-doctors/dr-susovan') }}">Book Appointment</a>
-        <a href="{{ url('our-doctors/dr-susovan') }}">View Profile</a>
+        <a href="{{ url('dr-susovan') }}">Book Appointment</a>
+        <a href="{{ url('dr-susovan') }}">View Profile</a>
         </div>
         </div>
       </div>  

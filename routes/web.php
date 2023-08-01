@@ -57,25 +57,25 @@ Route::get('dr-anupama',[PageViewController::class,'drAnupamaPage'])->name('doct
 
 Route::get('dr-arulmozhiselvan',[PageViewController::class,'drArulmozhiselvanPage'])->name('doctors-details.dr-arulmozhiselvan'); 
 
-Route::get('our-doctors/dr-guru-balaji',[PageViewController::class,'drGuruBalajiPage'])->name('doctors-details.dr-guru-balaji'); 
+Route::get('dr-guru-balaji',[PageViewController::class,'drGuruBalajiPage'])->name('doctors-details.dr-guru-balaji'); 
 
-Route::get('our-doctors/dr-kathiresan',[PageViewController::class,'drKathiseranPage'])->name('doctors-details.dr-kathiresan'); 
+Route::get('dr-kathiresan',[PageViewController::class,'drKathiseranPage'])->name('doctors-details.dr-kathiresan'); 
 
-Route::get('our-doctors/dr-rajkumar',[PageViewController::class,'drRajKumarPage'])->name('doctors-details.dr-rajkumar'); 
+Route::get('dr-rajkumar',[PageViewController::class,'drRajKumarPage'])->name('doctors-details.dr-rajkumar'); 
 
-Route::get('our-doctors/dr-thiruvengida',[PageViewController::class,'drThiruvengidaPage'])->name('doctors-details.dr-thiruvengida'); 
+Route::get('dr-thiruvengida',[PageViewController::class,'drThiruvengidaPage'])->name('doctors-details.dr-thiruvengida'); 
 
 Route::get('dr-flora-alex',[PageViewController::class,'drFloraPage'])->name('doctors-details.dr-flora-alex'); 
 
-Route::get('our-doctors/dr-up-srinivas',[PageViewController::class,'drUpSrinivasPage'])->name('doctors-details.dr-up-srinivas'); 
+Route::get('dr-up-srinivas',[PageViewController::class,'drUpSrinivasPage'])->name('doctors-details.dr-up-srinivas'); 
 
 Route::get('dr-balamurugan-s',[PageViewController::class,'drBalamuruganSPage'])->name('doctors-details.dr-balamurugan-s'); 
 
-Route::get('our-doctors/dr-balamurugan-b',[PageViewController::class,'drBalamuruganBPage'])->name('doctors-details.dr-balamurugan-b'); 
+Route::get('dr-balamurugan-b',[PageViewController::class,'drBalamuruganBPage'])->name('doctors-details.dr-balamurugan-b'); 
 
-Route::get('our-doctors/dr-sridevi',[PageViewController::class,'drSrideviPage'])->name('doctors-details.dr-sridevi'); 
+Route::get('dr-sridevi',[PageViewController::class,'drSrideviPage'])->name('doctors-details.dr-sridevi'); 
 
-Route::get('our-doctors/dr-susovan',[PageViewController::class,'drSusovanPage'])->name('doctors-details.dr-susovan'); 
+Route::get('dr-susovan',[PageViewController::class,'drSusovanPage'])->name('doctors-details.dr-susovan'); 
 
 Route::get('dr-vasanth',[PageViewController::class,'drVasanthPage'])->name('doctors-details.dr-vasanth');
 
@@ -83,7 +83,7 @@ Route::get('dr-ashwin-subramaniam',[PageViewController::class,'drAshwinPage'])->
 
 Route::get('dr-manicka-saravanan',[PageViewController::class,'drManickaSaravananPage'])->name('doctors-details.dr-manicka-saravanan');
 
-Route::get('our-doctors/tinu-thamby',[PageViewController::class,'drTinuThambyPage'])->name('doctors-details.tinu-thamby');
+Route::get('tinu-thamby',[PageViewController::class,'drTinuThambyPage'])->name('doctors-details.tinu-thamby');
 
 Route::get('dr-srinivas-rajkumar',[PageViewController::class,'drSrinivasRajkumarPage'])->name('doctors-details.dr-srinivas-rajkumar'); 
 
