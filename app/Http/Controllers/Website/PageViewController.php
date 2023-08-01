@@ -417,7 +417,7 @@ class PageViewController extends Controller
     public function videotestimonialPage()
     {
         $testimonial=Testimonial::where('status','1')->orderBy('created_at','desc')->get();
-        return view('website.videotestimonials',compact('testimonial','title', 'decription', 'keyword'));
+        return view('website.videotestimonials',compact('testimonial'));
        // return view('website.videotestimonials');
     }
     public function faqPage()
