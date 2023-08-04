@@ -61,7 +61,10 @@ class PageViewController extends Controller
     }
     public function drManickaSaravananPage()
     {
-        return view('website.doctors_details.dr-manicka-saravanan');
+        $title = 'Dr. S Manicka Saravanan - Consultant Geriatrician';
+        $decription = "Dr. Manicka Saravanan, a reputed Geriatrician with a postgraduate degree in Geriatric Medicine from AIIMS, brings close to a decade of clinical and research experience to the organization.";
+        $keyword = '';
+        return view('website.doctors_details.dr-manicka-saravanan', compact('title', 'decription', 'keyword'));
     }
     public function drTinuThambyPage()
     {
@@ -94,7 +97,10 @@ class PageViewController extends Controller
     } 
     public function rejivrajendranathPage()
     {
-        return view('website.doctors_details.dr-rejivrajendranath');
+        $title = 'Dr. Rejiv Rajendranath - Medical Oncologist';
+        $decription = "Dr. Rejiv Rajendranath, a Medical Oncologist with 19 years of experience, offers services such as chemotherapy, hormone therapy, and stem cell transplantation. Member of IMA and ISMPO.";
+        $keyword = ''; 
+        return view('website.doctors_details.dr-rejivrajendranath', compact('title', 'decription', 'keyword'));
     }
     public function drAnupamaPage()
     {
@@ -105,19 +111,32 @@ class PageViewController extends Controller
     }
     public function drArulmozhiselvanPage()
     {
-        return view('website.doctors_details.dr-arulmozhiselvan');
+        $title = 'Dr. V. Arulmozhiselvan - Consultant Geriatrician';
+        $decription = "Dr. V. Arulmozhiselvan, an experienced Consultant Geriatrician, specializes in enhancing the health of senior citizens in both inpatient and outpatient hospital settings. ";
+        $keyword = ''; 
+        return view('website.doctors_details.dr-arulmozhiselvan', compact('title', 'decription', 'keyword'));
     }
     public function drGuruBalajiPage()
     {
-        return view('website.doctors_details.dr-guru-balaji');
+        $title = 'Dr. S. Guru Balaji - Senior Urologist';
+        $decription = "Dr. Guru Balaji, a trained urologist in India and the United Kingdom, specializes in open, endourological, and laparoscopic procedures.";
+        $keyword = ''; 
+        return view('website.doctors_details.dr-guru-balaji', compact('title', 'decription', 'keyword'));
     }
     public function drKathiseranPage()
     {
-        return view('website.doctors_details.dr-kathiresan');
+        $title = 'Dr. Kathiresan - Senior Surgical Oncologist';
+        $decription = "Dr. Kathiresan is a reputable senior surgical oncologist in Chennai with extensive education and experience in the field, including MBBS, MS (Gen.Surg) and MCh in surgical oncology from renowned institutions. ";
+        $keyword = ''; 
+        return view('website.doctors_details.dr-kathiresan', compact('title', 'decription', 'keyword'));
     }
     public function drRajKumarPage()
     {
-        return view('website.doctors_details.dr-rajkumar');
+        
+        $title = 'Dr. P. Rajkumar - Senior Surgical Oncologist';
+        $decription = "Dr. Rajkumar Poovananathan, a senior surgical oncologist at Geri Care Hospital, specializes in geriatric oncology. He heads the Geriatric Oncology Department at the Hospital.";
+        $keyword = ''; 
+        return view('website.doctors_details.dr-rajkumar', compact('title', 'decription', 'keyword'));
     }
     public function  drThiruvengidaPage()
     {
@@ -128,11 +147,17 @@ class PageViewController extends Controller
     }
     public function  drFloraPage()
     {
-        return view('website.doctors_details.dr-flora-alex');
+        $title = 'Dr. Flora Alex - Consultant Geriatrician';
+        $decription = "Dr. Flora, a specialist in managing diseases in the elderly, conducts Comprehensive Geriatric Assessments and tailors personalized treatment plans.";
+        $keyword = ''; 
+        return view('website.doctors_details.dr-flora-alex', compact('title', 'decription', 'keyword'));
     }
     public function  drUpSrinivasPage()
     {
-        return view('website.doctors_details.dr-up-srinivas');
+        $title = 'Dr. U.P. Srinivasan - Senior Surgical Gastroenterolgist';
+        $decription = "Dr. U.P. Srinivasan, a renowned Surgical Gastroenterologist in Chennai, brings a wealth of experience in laparoscopy and gastrointestinal surgery. ";
+        $keyword = ''; 
+        return view('website.doctors_details.dr-up-srinivas', compact('title', 'decription', 'keyword'));
     }
     public function  drBalamuruganSPage()
     {
@@ -144,19 +169,33 @@ class PageViewController extends Controller
 
     public function  drSrideviPage()
     {
-        return view('website.doctors_details.dr-sridevi');
+        $title = 'Dr. K. Sreedevi - Senior Pulmonologist';
+        $decription = "Dr. Sreedevi K. is a senior pulmonologist specializing in managing respiratory diseases in elderly patients. With expertise in conditions such as asthma, COPD, pneumonia, and sleep disorders.";
+        $keyword = ''; 
+        return view('website.doctors_details.dr-sridevi', compact('title', 'decription', 'keyword'));
     }
     public function  drSusovanPage()
     {
-        return view('website.doctors_details.dr-susovan');
+        $title = 'Dr Susovan Mitra - Chief Critical Care Physician & Intensivist';
+        $decription = "Dr. Susovan Mitra possesses vast expertise in effectively managing critical conditions such as Sepsis, MODS, and emergency cases in both neurosurgical and medical fields, specifically in elderly patients.";
+        $keyword = ''; 
+        return view('website.doctors_details.dr-susovan', compact('title', 'decription', 'keyword'));
     }
     public function  drBalamuruganBPage()
     {
-        return view('website.doctors_details.dr-balamurugan-b');
+        
+        $title = 'Dr. Balamurugan B - Senior Consultant Nephrologist';
+        $decription = "Dr. B Balamurugan, a skilled Nephrologist in Chennai with over 30 years of experience, founded a dedicated Nephrology outpatient service in Velachery for comprehensive care of end-stage renal disease.";
+        $keyword = ''; 
+        return view('website.doctors_details.dr-balamurugan-b', compact('title', 'decription', 'keyword'));
     } 
     public function  saiRamPage()
     {
-        return view('website.doctors_details.dr-sairam');
+        
+        $title = 'Dr. Sairam - Vascular Surgeon';
+        $decription = "Meet Dr. Sairam Subramanian, a board-certified vascular surgeon with 12+ years of experience. Specializing in minimally invasive treatments for vascular disease, varicose veins, diabetic feet, and aortic aneurysms.";
+        $keyword = ''; 
+        return view('website.doctors_details.dr-sairam', compact('title', 'decription', 'keyword'));
     }
     public function  subashKumarapPage()
     {
@@ -171,7 +210,10 @@ class PageViewController extends Controller
     }
     public function  jayaramanPage()
     {
-        return view('website.doctors_details.dr-jayaraman');
+        $title = 'Dr Jayaraman - Pulmonologist';
+        $decription = "Dr. S. Jayaraman, a practicing Pulmonologist in Chennai, specializes in diagnosing and treating various pulmonary diseases. he offers meticulous care and various diagnostic and therapeutic procedures.";
+        $keyword = ''; 
+        return view('website.doctors_details.dr-jayaraman', compact('title', 'decription', 'keyword'));
     }
     public function  mohanRaoPage()
     {
@@ -189,7 +231,10 @@ class PageViewController extends Controller
     }
     public function  meenakshiPage()
     {
-        return view('website.doctors_details.dr-meenakshi');
+        $title = 'Dr. Meenakshi - Consultant Obstetrician & Gynaecologist';
+        $decription = "Meet Dr. Meenakshi Balasubramanian - a compassionate gynecologist known for her holistic care and counseling skills. Specializing in high-risk pregnancies, laparoscopy, and Gynec Endocrinologye.";
+        $keyword = '';  
+        return view('website.doctors_details.dr-meenakshi', compact('title', 'decription', 'keyword'));
     }
     public function  banuPrakashPage()
     {
@@ -200,11 +245,17 @@ class PageViewController extends Controller
     }
     public function  aarathiPage()
     {
-        return view('website.doctors_details.dr-arathi-surendranath');
+        $title = 'Dr. Arathi Surendranath - Radiation Oncology';
+        $decription = "Dr. Arathi Surendranath, an experienced Radiation Oncologist, specializes in the treatment of Central Nervous System Tumors. she offers expert care in the oncology department of reputed hospitals.";
+        $keyword = ''; 
+        return view('website.doctors_details.dr-arathi-surendranath', compact('title', 'decription', 'keyword'));
     }
     public function  vikramPage()
     {
-        return view('website.doctors_details.dr-vikram');
+        $title = 'Dr. Vikram - Surgical Gastroenterologist';
+        $decription = "Dr. Vikram, an experienced Geriatric Surgical Gastroenterologist, specializes in endoscopy and endoscopic management of gastrointestinal issues. With over 20 years of experience, he offers expertise in treating hernias and fistulas.";
+        $keyword = ''; 
+        return view('website.doctors_details.dr-vikram', compact('title', 'decription', 'keyword'));
     }
     public function hospitalFacilitiesPage()
     {
