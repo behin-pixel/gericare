@@ -40,7 +40,7 @@ for the Senior Citizen Community </h1>
 </div>
 
 <div class="seconday-paragraph text-center">
-At Geri Care clinics, our integrated approach to treatment is guided by senior Geriatricians who take a multidisciplinary approach. Our staff is specifically trained in medical, psychosocial, and preventive care that is tailored to the unique needs of older adults. <br><br>
+At Geri Care clinics, our integrated approach to treatment is guided by senior <a href="https://www.gericare.in/our-doctors">Geriatricians</a> who take a multidisciplinary approach. Our staff is specifically trained in medical, psychosocial, and preventive care that is tailored to the unique needs of older adults. <br><br>
 We aim to enhance the quality of life and overall wellness of not just our patients but also their family members and caregivers.<br><br>
 In addition to general medical care, we conduct comprehensive assessments and treatments for conditions that primarily affect elders - such as memory loss, falls, urinary problems, vision and hearing loss, advance care planning, caregiver support, and medication safety. 
 </div>

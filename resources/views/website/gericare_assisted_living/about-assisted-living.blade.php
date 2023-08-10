@@ -49,7 +49,7 @@ to assist those in need. </h2> -->
 <div class="seconday-paragraph text-center">
   In a pioneering attempt, Geri Care offers 24/7 Assisted Living and Skilled Nursing facilities in Chennai, specifically catering to the needs of the elderly, who require medical attention, support and a positive mindset in their day-to-day lives.<br><br>
   Our state-of-the-art facility houses a comprehensive range of services and amenities to care, treat and provide for residents, ensuring utmost comfort, safety, and a homely atmosphere. <br><br>
-  Our professionals, along with a dedicated team, address concerns and offer peace of mind to both residents and their families. Choose Geri Care for trusted Assisted Living & Skilled Nursing facilities in Chennai, where personalised care and well-being are top priorities.<br><br>
+  Our professionals, along with a dedicated team, address concerns and offer peace of mind to both residents and their families. Choose Geri Care for trusted Assisted Living & <a href="https://www.gericare.in/nursing-care">Skilled Nursing facilities</a> in Chennai, where personalised care and well-being are top priorities.<br><br>
 </div>
 </div>
 

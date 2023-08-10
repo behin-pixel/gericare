@@ -39,7 +39,7 @@ Geriatricians </span>
 <h2>Comprehensive Geriatric Home Care Services <br> for your Loved Ones at Home</h2>
 </div>
 <div class="seconday-paragraph text-center">
-At Geri Care, we visit the patient's home, and conduct comprehensive evaluation to assess their overall health and well-being. <br>This includes assessing the patient's medical history, conducting physical examinations, evaluating their living conditions, functional status, and social support.<br> 
+At <a href="https://www.gericare.in/">Geri Care</a>, we visit the patient's home, and conduct comprehensive evaluation to assess their overall health and well-being. <br>This includes assessing the patient's medical history, conducting physical examinations, evaluating their living conditions, functional status, and social support.<br> 
 
 <br>Our care plans involve collaboration with a multi-disciplinary team consisting of doctors, nurses, physiotherapists, <br>and caregivers to execute the plan and improve the quality of life for the elderly patient.<br>
  
