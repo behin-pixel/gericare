@@ -39,7 +39,7 @@
 
 <div class="col-lg-5">
 <div class="doc-tor-img">
-<img src="{{ asset('/public/website/assets/images/doctor-img-15.jpg') }}" alt="Geri Care Hospital" class="w-100">
+<img src="{{ asset('/public/website/assets/images/doctor-img-15.jpg') }}" alt="Dr. Vikram - Surgical Gastroenterologist" class="w-100">
 </div>
 </div>
 

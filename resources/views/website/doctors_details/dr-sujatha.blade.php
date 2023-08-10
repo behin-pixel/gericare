@@ -39,7 +39,7 @@
 
 <div class="col-lg-5">
 <div class="doc-tor-img">
-<img src="{{ asset('/public/website/assets/images/doctor-img-22.jpg') }}" alt="Geri Care Hospital" class="w-100">
+<img src="{{ asset('/public/website/assets/images/doctor-img-22.jpg') }}" alt="Dr. Sujatha - Consultant Psychiatrist" class="w-100">
 </div>
 </div>
 

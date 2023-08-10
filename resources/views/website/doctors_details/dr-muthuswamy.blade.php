@@ -39,7 +39,7 @@
 
 <div class="col-lg-5">
 <div class="doc-tor-img">
-<img src="{{ asset('/public/website/assets/images/doctor-img-6.jpg') }}" alt="Dr. Magesh R - Consultant Geriatrician" class="w-100">
+<img src="{{ asset('/public/website/assets/images/doctor-img-6.jpg') }}" alt="Dr. Muthuswamy - Senior Interventional Consultant Cardiologist" class="w-100">
 </div>
 </div>
 

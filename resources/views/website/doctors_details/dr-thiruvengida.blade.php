@@ -39,7 +39,7 @@
 
 <div class="col-lg-5">
 <div class="doc-tor-img">
-<img src="{{ asset('/public/website/assets/images/dr.thiruvengitaprasad.webp') }}" alt="Geri Care Hospital" class="w-100">
+<img src="{{ asset('/public/website/assets/images/dr.thiruvengitaprasad.webp') }}" alt="Dr. G. Thiruvengita Prasad - Senior Orthopedic Surgeon" class="w-100">
 </div>
 </div>
 

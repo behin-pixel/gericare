@@ -189,7 +189,7 @@ Route::get('/about-us/awards-achievements',[PageViewController::class,'awardsPag
 
 Route::get('media-gallery',[PageViewController::class,'mediaGalleryPage'])->name('in-news.media-gallery');
 
-Route::get('news-and-events',[PageViewController::class,'newsEventsPage'])->name('in-news.news-events');
+Route::get('news-and-events-demo',[PageViewController::class,'newsEventsDemoPage'])->name('in-news.news-events-demo');
 
 Route::get('gallery',[PageViewController::class,'GalleryPage'])->name('in-news.gallery');
 
@@ -224,6 +224,12 @@ Route::get('faqs',[PageViewController::class,'faqPage'])->name('faq');
 
 Route::get('terms-and-conditions',[PageViewController::class,'termsConditionsPage'])->name('terms-and-conditions'); 
 
+Route::get('iag-chennai',[PageViewController::class,'iagChennaiPage'])->name('iag-chennai');
+Route::get('inauguration-adambakkam',[PageViewController::class,'inaugurationAdambakkamPage'])->name('inauguration-adambakkam'); 
+Route::get('ra-puram-launch',[PageViewController::class,'raPuramLaunchPage'])->name('ra-puram-launch');
+Route::get('annanagar-clinic-launch',[PageViewController::class,'annaNagarClinicLaunchPage'])->name('annanagar-clinic-launch');
+Route::get('gericriticon-conference',[PageViewController::class,'gericriticonConferencePage'])->name('gericriticon-conference');
+Route::get('news-and-events',[PageViewController::class,'newsEventsPage'])->name('news-and-events');
 
 Route::get('news-detail/{slug?}',[PageViewController::class,'newsDetailPage'])->name('news-detail'); 
 

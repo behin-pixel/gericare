@@ -2512,8 +2512,8 @@ ul.press-release li a span:after {
 }
 ul.press-roomr {
     display: flex;
-    align-items: center;
-    justify-content: center;
+    align-items: flex-start;
+    justify-content: flex-start;
     flex-wrap: wrap;
 }
 

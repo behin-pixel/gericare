@@ -39,7 +39,7 @@ $name='Dr. V. Arulmozhiselvan';
 
 <div class="col-lg-5">
 <div class="doc-tor-img">
-<img src="{{ asset('/public/website/assets/images/dr-v-arulmozhiselvan.webp') }}" alt="Geri Care Hospital" class="w-100">
+<img src="{{ asset('/public/website/assets/images/dr-v-arulmozhiselvan.webp') }}" alt="Dr. V. Arulmozhiselvan - Consultant Geriatrician" class="w-100">
 </div>
 </div>
 

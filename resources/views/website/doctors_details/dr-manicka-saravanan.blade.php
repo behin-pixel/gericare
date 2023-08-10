@@ -39,7 +39,7 @@
 
 <div class="col-lg-5">
 <div class="doc-tor-img">
-<img src="{{ asset('/public/website/assets/images/Dr-s-manicka-saravanan.webp') }}" alt="Geri Care Hospital" class="w-100">
+<img src="{{ asset('/public/website/assets/images/Dr-s-manicka-saravanan.webp') }}" alt="Dr. S Manicka Saravanan - Consultant Geriatrician" class="w-100">
 </div>
 </div>
 

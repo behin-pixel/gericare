@@ -482,6 +482,31 @@ class PageViewController extends Controller
     {
         return view('website.terms-and-conditions');
     }
+
+    public function iagChennaiPage()
+    {
+        return view('website.iag-chennai');
+    }
+    public function inaugurationAdambakkamPage()
+    {
+        return view('website.inauguration-adambakkam');
+    }
+    public function raPuramLaunchPage()
+    {
+        return view('website.ra-puram-launch');
+    }
+    public function annaNagarClinicLaunchPage()
+    {
+        return view('website.annanagar-clinic-launch');
+    }
+    public function gericriticonConferencePage()
+    {
+        return view('website.gericriticon-conference');
+    }
+    public function newsEventsPage()
+    {
+        return view('website.in_news.news-and-events');
+    }
     public function mediaGalleryPage()
     {
         $title = 'Media Gallery - Geri Care';
@@ -490,14 +515,14 @@ class PageViewController extends Controller
         $media_release=MediaRelease::where('status','1')->orderBy('created_at','desc')->get();
         return view('website.in_news.media-gallery',compact('media_release','title', 'decription', 'keyword'));
     } 
-    public function newsEventsPage()
+    public function newsEventsDemoPage()
     {
         $title = 'News and Events - Geri Care';
         $decription = "Experience excellence in geriatric care at our renowned hospital. Stay informed about the latest news and exciting events happening at Geri Care. Join us today!";
         $keyword = '';
         $news_event=NewsEvent::where('status','1')->orderBy('created_at','desc')->get();
       
-        return view('website.in_news.news-events',compact('news_event','title', 'decription', 'keyword'));
+        return view('website.in_news.news-events-demo',compact('news_event','title', 'decription', 'keyword'));
     } 
     public function GalleryPage()
     {

@@ -39,7 +39,7 @@
 
 <div class="col-lg-5">
 <div class="doc-tor-img">
-<img src="{{ asset('/public/website/assets/images/up-srinivas.webp') }}" alt="Geri Care Hospital" class="w-100">
+<img src="{{ asset('/public/website/assets/images/up-srinivas.webp') }}" alt="Dr. U.P. Srinivasan - Senior Surgical Gastroenterolgist" class="w-100">
 </div>
 </div>
 

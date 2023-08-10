@@ -39,7 +39,7 @@
 
 <div class="col-lg-5">
 <div class="doc-tor-img">
-<img src="{{ asset('/public/website/assets/images/det-dcotor-1.jpg') }}" alt="Geri Care Hospital" class="w-100">
+<img src="{{ asset('/public/website/assets/images/det-dcotor-1.jpg') }}" alt="Dr. V. Srinivas - Senior Consultant Geriatrician" class="w-100">
 </div>
 </div>
 
