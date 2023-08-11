@@ -187,7 +187,7 @@
             src="https://www.facebook.com/tr?id=917067238823260&ev=PageView&noscript=1" /></noscript>
     <!-- End Facebook Pixel Code -->
 
-
+    <script defer data-domain="gericare.in" src="https://plausible.io/js/script.js"></script>
 
 </head>
 
