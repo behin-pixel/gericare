@@ -457,6 +457,13 @@ class PageViewController extends Controller
         $keyword = '';
         return view('website.book_an_appointment.book-appointment', compact('title', 'decription', 'keyword'));
     }
+    public function requestAppointmentPage()
+    {
+        $title = 'Request an Appointment - Geri Care';
+        $decription = "Get exceptional senior health care services at Geri Care. Secure your appointment today and receive Personalised care from our dedicated team of experts.";
+        $keyword = '';
+        return view('website.request-an-appointment', compact('title', 'decription', 'keyword'));
+    }
     public function testimonialPage()
     {
         $title = 'Testimonials - Geri Care';

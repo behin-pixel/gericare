@@ -201,6 +201,8 @@ Route::get('contact-us',[PageViewController::class,'contactUsPage'])->name('cont
 
 Route::get('book-an-appointment',[PageViewController::class,'bookAppointmentPage'])->name('book-appointment');
 
+Route::get('request-an-appointment',[PageViewController::class,'requestAppointmentPage'])->name('request-an-appointment');
+
 Route::get('thanks-contactus',[PageViewController::class,'ThanksContactusPage'])->name('thanks-contactus');
 
 Route::get('carrer-thanks',[PageViewController::class,'CarrerThanksPage'])->name('carrer-thanks');

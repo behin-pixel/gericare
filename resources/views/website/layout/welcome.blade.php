@@ -850,7 +850,24 @@ $('#popupvideo').on('hidden.bs.modal', function () {
         });
     </script>
 
-
+<script>
+$(document).ready(function () {
+    $("#type").change(function () {
+        var val = $(this).val();
+        if (val == "Geri Care Hospital - T Nagar") {
+            $("#size").html("<option value=''>Select Department</option><option value='Geriatric Cardiology'>Geriatric Cardiology </option><option value='Orthogeriatrics'>Orthogeriatrics</option><option value='Geriatric Neurology'>Geriatric Neurology</option><option value='Geriatric Surgery'>Geriatric Surgery</option><option value='Geriatric Oncology'>Geriatric Oncology</option><option value='Geriatric Urology'>Geriatric Urology</option><option value='Gastroenterology'>Gastroenterology</option><option value='Pulmonology'>Pulmonology</option>	<option value='Geriatric ICU'>Geriatric ICU</option><option value='Dermatology'>Dermatology</option>	<option value='Vascular Surgery'>Vascular Surgery</option><option value='Uro Gynaecology'>Uro Gynaecology</option><option value='Nephrology and Dialysis 24/7'>Nephrology and Dialysis 24/7</option><option value='Geriatric Physiotherapy'>Geriatric Physiotherapy</option><option value='Lab Services'>Lab Services</option>");
+        } else if (val == "Geri Care Hospital - Adambakkam") {
+            $("#size").html("<option value=''>Select Department</option><option value='Geriatric Cardiology'>Geriatric Cardiology </option><option value='Orthogeriatrics'>Orthogeriatrics</option><option value='Geriatric Neurology'>Geriatric Neurology</option><option value='Geriatric Surgery'>Geriatric Surgery</option><option value='Geriatric Oncology'>Geriatric Oncology</option><option value='Geriatric Urology'>Geriatric Urology</option><option value='Gastroenterology'>Gastroenterology</option><option value='Pulmonology'>Pulmonology</option>	<option value='Geriatric ICU'>Geriatric ICU</option><option value='Dermatology'>Dermatology</option>	<option value='Vascular Surgery'>Vascular Surgery</option><option value='Uro Gynaecology'>Uro Gynaecology</option><option value='Nephrology and Dialysis 24/7'>Nephrology and Dialysis 24/7</option><option value='Geriatric Physiotherapy'>Geriatric Physiotherapy</option><option value='Lab Services'>Lab Services</option>");
+        } else if (val == "Geri Care Clinics  - Adyar") {
+            $("#size").html("<option value=''>Select Department</option><option value='Falls prevention (Osteoporosis) clinic'>Falls prevention (Osteoporosis) clinic </option><option value='Memory clinic'>Memory clinic</option><option value='Incontinence clinic (Urinary)'>Incontinence clinic (Urinary)</option><option value='Preventive Health Checks clinic'>Preventive Health Checks clinic</option><option value='Adult vaccination clinic'>Adult vaccination clinic</option><option value='Seniors Diabetic clinic'>Seniors Diabetic clinic</option><option value='Hypertension clinic'>Hypertension clinic</option><option value='Sleep disorder clinic'>Sleep disorder clinic</option>");
+        }else if (val == "Geri Care Clinics  - Anna Nagar") {
+            $("#size").html("<option value=''>Select Department</option><option value='Falls prevention (Osteoporosis) clinic'>Falls prevention (Osteoporosis) clinic </option><option value='Memory clinic'>Memory clinic</option><option value='Incontinence clinic (Urinary)'>Incontinence clinic (Urinary)</option><option value='Preventive Health Checks clinic'>Preventive Health Checks clinic</option><option value='Adult vaccination clinic'>Adult vaccination clinic</option><option value='Seniors Diabetic clinic'>Seniors Diabetic clinic</option><option value='Hypertension clinic'>Hypertension clinic</option><option value='Sleep disorder clinic'>Sleep disorder clinic</option>");
+        } else if (val == "item0") {
+            $("#size").html("<option value=''>Select Department</option>");
+        }
+    });
+});
+</script>
 
     @stack('scripts')
 

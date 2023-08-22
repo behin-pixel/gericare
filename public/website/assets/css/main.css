@@ -4106,26 +4106,38 @@ button.gm-ui-hover-effect {
 }
 
 .margin-top-50{margin-top:100px;}
+.margin-btm-50{margin-bottom:100px;}
 
 label.onl-respsve{display: none;}
 
 #popupvideo .modal-header{position: absolute;right: 0;z-index: 999;border: 0px;border-radius:0px;border-top-right-radius:4px;}
 
+.form-sector-appointment{background: #fff;padding:60px 170px;
+    box-shadow: 0 0 40px rgba(0, 0, 0, 0.1);text-align: center;}
 
+.form-forappointment h4{font-family: 'Red Hat Display', sans-serif;font-size: 30px;
+    font-style: normal;
+    font-weight: 700;color: #801749;
+    line-height: 42px;}
 
+.form-forappointment label{font-size: 16px;color:#000;text-align: start;float: left;margin-bottom: 5px;}
 
+.form-forappointment .form-data.cnt input[type="submit"]{padding: 14px 18px;font-family: 'Red Hat Display', sans-serif;
+    align-items: center;background: #801749;border-radius: 4px;font-size: 16px;font-size: 16px;
+    font-style: normal;line-height: 14px;margin-top: 15px;
+    font-weight: 600;}
 
+.form-forappointment .form-data.cnt input[type="submit"]:hover{background-color:#099749;}
 
+.tpz{background-color: #E3E3E3;height: 1px;width:100%;margin:20px 0px;}
 
+.our-impact h3{font-size: 30px;font-style: normal;font-weight: 700;color: #801749;font-family: 'Red Hat Display', sans-serif;margin-bottom: 40px;}
 
+.our-impact h4{font-size: 25px;font-style: normal;font-weight: 700;color: #801749;font-family: 'Red Hat Display', sans-serif;}
 
+.our-impact h5{font-size: 18px;font-style: normal;font-weight: 700;color: #000;font-family: 'Red Hat Display', sans-serif;margin-bottom: 5px;}
 
-
-
-
-
-
-
+.address-loc p{margin-bottom: 0px;}
 
 
 
@@ -4447,7 +4459,15 @@ label.onl-respsve{display: none;}
 
 @media(max-width: 1100px) {
 
+    .locate-me.text-end {
+        text-align: start !important;
+        margin-top: 10px;
+      }
 
+      .our-impact .d-flex{display: block !important;}
+
+    .form-sector-appointment {
+        padding: 60px 30px;}
     .book-apptmnt .col-lg-5 {
         padding-top: 0;
         display: none;
@@ -5471,6 +5491,7 @@ label.onl-respsve{display: none;}
 
 
 @media(max-width: 767px) {
+    .our-impact h4{margin: 15px 0px;}
     
     .leader-shipment .col-lg-7 {
         flex: 0 0 auto;
