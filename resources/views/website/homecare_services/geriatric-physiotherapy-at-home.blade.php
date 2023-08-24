@@ -35,6 +35,12 @@
 <div class="common-para">
 <p>Geriatric physiotherapy involves specialised physical therapy techniques tailored to the needs of elderly individuals. We visit the patient's home to provide assessment, exercise programs, mobility training, and rehabilitation services. These sessions focus on improving strength, balance, flexibility, and overall physical function.</p>
 </div>
+<div class="call-and-attend">
+<ul>
+<li><a href="">Request a Callback</a></li>    
+<li><a href="">Call Us at <span>+91 44 4061 4061</span></a></li>    
+</ul>
+</div>
 </div>
 
 </div>

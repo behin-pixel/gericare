@@ -616,9 +616,8 @@
                                 <span>Senior Consultant Geriatrician</span>
                             </div>
                             <div class="de-detl-btn">
-                                <a href="{{ url('dr-lakshmipathy-ramesh') }}"> Book Appointment </a>
-                                <a href="{{ url('dr-lakshmipathy-ramesh') }}"> <i class="fa fa-eye"
-                                        aria-hidden="true"></i> </a>
+                                <a href="{{ url('dr-lakshmipathy-ramesh') }}">Request an Appointment </a>
+                                <a href="{{ url('dr-lakshmipathy-ramesh') }}">Doctor's Profile </a>
                             </div>
                         </div>
 
@@ -631,8 +630,8 @@
                             </div>
                             <div class="de-detl-btn">
                                 <!-- <a href="{{ url('book-appointment') }}"> Book Appointment </a> -->
-                                <a href="{{ url('dr-srinivas') }}">Book Appointment</a>
-                                <a href="{{ url('dr-srinivas') }}"> <i class="fa fa-eye" aria-hidden="true"></i> </a>
+                                <a href="{{ url('dr-srinivas') }}"> Request an Appointment </a>
+                                <a href="{{ url('dr-srinivas') }}">Doctor's Profile </a>
                             </div>
                         </div>
 
@@ -644,8 +643,8 @@
                                 <span>Consultant Geriatrician</span>
                             </div>
                             <div class="de-detl-btn">
-                                <a href="{{ url('dr-magesh ') }}"> Book Appointment </a>
-                                <a href="{{ url('dr-magesh ') }}"> <i class="fa fa-eye" aria-hidden="true"></i> </a>
+                                <a href="{{ url('dr-magesh ') }}"> Request an Appointment </a>
+                                <a href="{{ url('dr-magesh ') }}">Doctor's Profile</a>
                             </div>
                         </div>
 
@@ -658,9 +657,8 @@
                                 <span> Physician & Diabetologist </span>
                             </div>
                             <div class="de-detl-btn">
-                                <a href="{{ url('dr-ashwin-subramaniam') }}"> Book Appointment </a>
-                                <a href="{{ url('dr-ashwin-subramaniam') }}"> <i class="fa fa-eye"
-                                        aria-hidden="true"></i> </a>
+                                <a href="{{ url('dr-ashwin-subramaniam') }}"> Request an Appointment </a>
+                                <a href="{{ url('dr-ashwin-subramaniam') }}">Doctor's Profile</a>
                             </div>
                         </div>
 
@@ -672,8 +670,8 @@
                                 <span>Consultant Geriatrician</span>
                             </div>
                             <div class="de-detl-btn">
-                                <a href="{{ url('dr-vasanth') }}"> Book Appointment </a>
-                                <a href="{{ url('dr-vasanth') }}"> <i class="fa fa-eye" aria-hidden="true"></i> </a>
+                                <a href="{{ url('dr-vasanth') }}"> Request an Appointment </a>
+                                <a href="{{ url('dr-vasanth') }}">Doctor's Profile</a>
                             </div>
                         </div>
 
@@ -847,7 +845,8 @@
 </section>
 @endif
 
-    @include('website.bottomform')
+    <!-- @include('website.bottomform') -->
 
-    @include('website.mobilebottomform')
+    <!-- @include('website.mobilebottomform') -->
+    @include('website.bottombar')
 @endsection

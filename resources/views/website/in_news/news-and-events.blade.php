@@ -23,7 +23,39 @@
       </div>
    </div>
 </section>
-<section class="news-evnts">
+<section class="pb-0 pt-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="about-link-design m-none">
+                    <ul class="justify-content-around">
+                        <li class="pe-3"><a href="{{ url('news-and-events') }}" class="@if(request()->routeIs(['in-news.news-events'])) actives @endif">News & Events</a></li>
+                        <li><a href="{{ url('media-gallery') }}" class="@if(request()->routeIs(['in-news.media-gallery'])) actives @endif">Media</a></li>
+                        <li class="pe-3"><a href="{{ url('/in-news/media-tool-kit') }}" class="@if(request()->routeIs(['in-news.media-tool-kit'])) actives @endif">Media Tool Kit</a></li>
+                        <li><a href="{{ url('video-gallery') }}" class="@if(request()->routeIs(['in-news.video-gallery'])) actives @endif">Videos</a></li>
+                        <li><a href="{{ url('gallery') }}" class="@if(request()->routeIs(['in-news.gallery'])) actives @endif">Gallery</a></li>
+                        <li><a href="https://www.gericare.in/blog" class="@if(request()->routeIs(['in-news.blog'])) actives @endif">Blogs</a></li>
+                    </ul>  
+                    <hr> 
+                </div>   
+                <div class="dropdown mobile-dropdown-menu text-center">
+                     <a class="dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                        News Room
+                     </a>
+                     <ul class="dropdown-menu dropdown-menu-w" aria-labelledby="dropdownMenuButton1">
+                        <li><a class="dropdown-item" href="{{ url('news-and-events') }}">News & Events</a></li>
+                        <li><a class="dropdown-item" href="{{ url('media-gallery') }}">Media</a></li>
+                        <li><a class="dropdown-item" href="{{ url('/in-news/media-tool-kit') }}">Media Tool Kit</a></li>
+                        <li><a class="dropdown-item" href="{{ url('video-gallery') }}">Videos</a></li>
+                        <li><a class="dropdown-item" href="{{ url('gallery') }}">Gallery</a></li>
+                        <li><a class="dropdown-item" href="https://www.gericare.in/blog">Blogs</a></li>
+                     </ul>
+                </div> 
+            </div>    
+        </div>    
+    </div>    
+</section> 
+<section class="news-evnts pt-4">
    <div class="container">
       <div class="row">
          <div class="col-lg-12 col-md-12 col-sm-12">

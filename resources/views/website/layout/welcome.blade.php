@@ -74,6 +74,7 @@
 
     <link rel="stylesheet" type="text/css" href="{{ asset('/public/website/assets/css/header.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('/public/website/assets/css/main.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('/public/website/assets/css/main-n.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('/public/website/assets/css/footer.css') }}">
 
     <script type="text/javascript">
@@ -263,7 +264,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
     <script src="{{ asset('/public/website/assets/js/main.js') }}"></script>
     <script src="{{ asset('/public/website/assets/js/mdtimepicker.min.js') }}"></script>
-    <script src="{{ asset('/public/website/assets/js/jquery.mapit.js') }}"></script>
+    <script src="{{ asset('/public/website/assets/js/jquery.mapit.js') }}"></script> 
     <script src="{{ asset('/public/website/assets/js/initializers.js') }}"></script>
 
 

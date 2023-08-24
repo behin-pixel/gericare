@@ -65,13 +65,19 @@
 <div class="menu-inrt">
 <ul> 
 <li>
-<a href="{{ url('our-doctors') }}"><img src="{{ asset('/public/website/assets/images/do.png') }}"></a>
-<span><a href="{{ url('our-doctors') }}">Find a Doctor</a></span>
-</li>
-<li>
-<a href="{{ url('contact-us#gericarelocations') }}"><img src="{{ asset('/public/website/assets/images/lo.png') }}"></a>
-<span><a href="{{ url('contact-us#gericarelocations') }}">Locate us</a></span>
+<a href="{{ url('contact-us#gericarelocations') }}"><img src="{{ asset('/public/website/assets/images/sidebar-icn-1.png') }}">
+<span>Request <br> Callback</span>
+</a>
 </li> 
+<li>
+<a href="{{ url('contact-us#gericarelocations') }}"><img src="{{ asset('/public/website/assets/images/sidebar-icn-2.png') }}">
+<span>Locations</span>
+</a>
+</li> 
+<li>
+<a href="{{ url('our-doctors') }}"><img src="{{ asset('/public/website/assets/images/sidebar-icn-3.png') }}"></a>
+<span>Find a Doctor</span>
+</li>
 </ul>
 </div>
 </div>

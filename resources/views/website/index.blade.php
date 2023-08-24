@@ -64,6 +64,7 @@
 <div class="logos-pot">
 <img src="{{ asset('/public/website/assets/images/logo-2.png') }}" alt="Geri Care Hospital">
 </div>
+<p class="d-flex align-items-center text-color"><img src="{{ asset('/public/website/assets/images/lo.png') }}" class="location-logo">Across Chennai</p>
 <span>Where internationally renowned Geriatricians take a multidisciplinary and passionate approach to the treatment and rehabilitation of seniors.</span>
 <div class="red-mre">
 <a href="{{ url('gericare-hospital') }}">Read More <img src="{{ asset('/public/website/assets/images/red-mre.png') }}" alt="Geri Care Hospital"></div></a>
@@ -87,6 +88,7 @@
 <div class="logos-pot">
 <img src="{{ asset('/public/website/assets/images/logo-1.png') }}" alt="Geri Care Hospital">
 </div>
+<p class="d-flex align-items-center text-color"><img src="{{ asset('/public/website/assets/images/lo.png') }}" class="location-logo"><a href="https://goo.gl/maps/NEQatgAkWTNK5G5y9" target="_blank">T Nagar,</a> <a href="https://www.google.com/maps/place/Geri+Care+Hospital+Velachery/@12.9800682,80.1980829,17z/data=!4m6!3m5!1s0x3a525d3c24c1dbdb:0x93067576a17cd1b8!8m2!3d12.9800682!4d80.2002716!16s%2Fg%2F11t_gzmnx0?entry=tts&shorturl=1" target="_blank">Adambakkam</a></p>
 <span>Experience the first-of-its-kind, 24x7 Assisted Living & Skilled Nursing services combined with decades <br>of geriatric expertise.</span>
 <div class="red-mre">
 <a href="{{ url('assisted-living') }}">Read More <img src="{{ asset('/public/website/assets/images/red-mre.png') }}" alt="Geri Care Hospital"></div></a>
@@ -110,6 +112,7 @@
 <div class="logos-pot">
 <img src="{{ asset('/public/website/assets/images/logo-4.png') }}" alt="Geri Care Hospital">
 </div>
+<p class="d-flex align-items-center text-color"><img src="{{ asset('/public/website/assets/images/lo.png') }}" class="location-logo"><a href="https://www.google.com/maps/dir//Geri+Care+%7C+Home+Care+%26+Consultation,+No.21,+1st+St,+Indira+Nagar,+Adyar,+Chennai,+Tamil+Nadu+600020/@12.999337,80.251917,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3a5267853522f365:0x1dc3e7d7a2a95d9!2m2!1d80.2541057!2d12.999337?entry=ttu" target="_blank">Adyar,</a> <a href="https://www.google.com/maps/dir//Plot+no.3698,+Q,+Geri+Care+Clinics+Anna+Nagar,+Block-100,+3rd+Ave,+Block+Q,+Anna+Nagar,+Chennai,+Tamil+Nadu+600040/@13.0911687,80.2178883,17z/data=!4m16!1m7!3m6!1s0x3a5265ab99a9f5b9:0xcb987054dae3920c!2sGeri+Care+Clinics+Anna+Nagar!8m2!3d13.0911687!4d80.2178883!16s%2Fg%2F11tk4bht0x!4m7!1m0!1m5!1m1!1s0x3a5265ab99a9f5b9:0xcb987054dae3920c!2m2!1d80.2178883!2d13.0911687?entry=ttu" target="_blank">Anna nagar</a></p>
 <span>Walk into the best geriatric clinic in the city and say hello to exceptional treatment,  undivided attention <br> and long-lasting care.</span>
 <div class="red-mre">
 <a href="{{ url('about-clinics') }}">Read More <img src="{{ asset('/public/website/assets/images/red-mre.png') }}" alt="Geri Care Hospital"></div></a>
@@ -133,6 +136,7 @@
 <div class="logos-pot">
 <img src="{{ asset('/public/website/assets/images/logo-3.png') }}" alt="Geri Care Hospital">
 </div>
+<p class="d-flex align-items-center text-color"><img src="{{ asset('/public/website/assets/images/lo.png') }}" class="location-logo"><a href="https://www.google.com/maps/dir//Geri+Care+Assisted+Living,+AKS+RESIDENCY,+Balamurugan+Gardens+1st+Main+Rd,+Thoraipakkam,+Tamil+Nadu+600097/@12.9441129,80.2377549,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3a525dbe8ee84dd5:0xb949e175506a9165!2m2!1d80.2403298!2d12.9441129?entry=ttu" target="_blank">Thoraipakam,</a> <a href="https://www.google.com/maps/dir//New+no.10,+Old+no.23,+Geri+Care+Assisted+Living+RA+Puram,+7th+Main+Rd,+Govindaswamy+Nagar,+Raja+Annamalai+Puram,+Chennai,+Tamil+Nadu+600028/@13.0241514,80.2558695,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3a5267215488f3b7:0x2e7865b3b3571e1a!2m2!1d80.2558699!2d13.0241779?entry=ttu" target="_blank">RA Puram</a></p>
 <span>Get immediate and timely care from our experts in the comfort of your home. Book your appointment with our doctors for comprehensive consulting.</span>
 <div class="red-mre">
 <a href="{{ url('homecare') }}">Read More <img src="{{ asset('/public/website/assets/images/red-mre.png') }}" alt="Geri Care Hospital"></div></a>
@@ -153,7 +157,7 @@
 </div>
 </section>
 
-<section class="expert-care">
+<!-- <section class="expert-care">
 <div class="container">
 <div class="row align-items-center">
 
@@ -186,7 +190,7 @@
 
 </div>
 </div>
-</section>
+</section> -->
 
 <!-- <section class="call-to-acttion">
 <div class="container">
@@ -302,6 +306,170 @@
 </div>
 </section> -->
 
+<section class="care-fromus p-0">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-lg-12 age-bars">
+
+                    <div class="row">
+
+                        <div class="col-lg-6">
+                           <img src="{{ asset('/public/website/assets/images/age-nurse.png') }}" alt="Geri Care Hospital" class="w-100 mobile-view">  
+                        </div>
+
+                        <div class="col-lg-6">
+
+                            <div class="common-heading">
+                                <h2>Why Choose Geri Care?</h2>
+                            </div>
+
+                            <div class="age-stemp">
+
+                                <div class="age-layer">
+                                    <h4>Expert Geriatricians</h4>
+                                    <p>Our experts have undergone exemplary training at renowned institutions including Madras Medical College (MMC) in Chennai and the All India Institute of Medical Sciences (AIIMS) in New Delhi. Additionally, they have gained valuable experience as consultants in esteemed hospitals overseas, particularly in the United Kingdom (UK).</p>
+                                </div>
+
+                                <div class="age-layer">
+                                    <h4>Continuity of Care</h4>
+                                    <p>From clinical interventions to comprehensive hospital treatments, and post
+                                        hospitalization home care services along with assisted living options, we ensure
+                                        continuous medical support and comfort 24/7.</p>
+                                </div>
+
+                                <div class="age-layer">
+                                    <h4>Multi-disciplinary Approach</h4>
+                                    <p>We bring cutting-edge research and innovative approaches that reflect geriatric excellence and help transform not just the lives of the elderly, but also their loved ones and family members.</p>
+                                </div>
+
+                                <div class="age-layer">
+                                    <h4>Unique Healthcare Culture</h4>
+                                    <p>We take pride over a culture that prioritizes tailored treatment plans & comprehensive care to ensure remarkable treatments along with a positive experience that helps the elderly recover and heal at ease.</p>
+                                </div>
+
+
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <a id="hospital-facilities"></a>
+            </div>
+        </div>
+</section>
+<section class="panel-of-experts">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-lg-12">
+
+                    <div class="common-heading text-center">
+                        <h2>Our Panel of Geriatric Experts</h2>
+                    </div>
+
+                    <div class="panell-drts">
+
+                        <div class="dr-panel">
+                            <img src="{{ asset('/public/website/assets/images/dr-n-lakshmipathy-ramesh.webp') }}"
+                                alt="Dr N. Lakshmipathy Ramesh - Senior Consultant Geriatrician" class="">
+                            <div class="de-detl">
+                                <h4>Dr. N. Lakshmipathy Ramesh</h4>
+                                <span>Senior Consultant Geriatrician</span>
+                            </div>
+                            <div class="de-detl-btn">
+                                <a href="{{ url('dr-lakshmipathy-ramesh') }}"> Request an Appointment </a>
+                                <a href="{{ url('dr-lakshmipathy-ramesh') }}"> Doctor's Profile</a>
+                            </div>
+                        </div>
+
+                        <div class="dr-panel">
+                            <img src="{{ asset('/public/website/assets/images/gericare-doctor-1.jpg') }}"
+                                alt="Geri Care Hospital" class="">
+                            <div class="de-detl">
+                                <h4>Dr. V. Srinivas</h4>
+                                <span>Senior Consultant Geriatrician</span>
+                            </div>
+                            <div class="de-detl-btn">
+                                <!-- <a href="{{ url('book-appointment') }}"> Book Appointment </a> -->
+                                <a href="{{ url('dr-srinivas') }}">Request an Appointment</a>
+                                <a href="{{ url('dr-srinivas') }}"> Doctor's Profile</a>
+                            </div>
+                        </div>
+
+                        <div class="dr-panel">
+                            <img src="{{ asset('/public/website/assets/images/dr-mageshr.webp') }}"
+                                alt="Dr. Magesh R - Consultant Geriatrician" class="">
+                            <div class="de-detl">
+                                <h4> Dr. Magesh R</h4>
+                                <span>Consultant Geriatrician</span>
+                            </div>
+                            <div class="de-detl-btn">
+                                <a href="{{ url('dr-magesh ') }}"> Request an Appointment </a>
+                                <a href="{{ url('dr-magesh') }}"> Doctor's Profile</a>
+                                <!-- <a href="{{ url('dr-magesh ') }}"> <i class="fa fa-eye" aria-hidden="true"></i> </a> -->
+                            </div>
+                        </div>
+
+                        <div class="dr-panel">
+                            <img src="{{ asset('/public/website/assets/images/dr-ashwin-subramaniam.webp') }}"
+                                alt="Dr. Ashwin Subramaniam, Senior Consultant- Internal Medicine & Diabetologist"
+                                class="">
+                            <div class="de-detl">
+                                <h4>Dr. Ashwin</h4>
+                                <span> Physician & Diabetologist </span>
+                            </div>
+                            <div class="de-detl-btn">
+                                <a href="{{ url('dr-ashwin-subramaniam') }}"> Request an Appointment </a>
+                                <a href="{{ url('dr-ashwin-subramaniam') }}"> Doctor's Profile</a>
+                            </div>
+                        </div>
+
+                        <div class="dr-panel">
+                            <img src="{{ asset('/public/website/assets/images/dr-k-vasanth.webp') }}"
+                                alt="Dr. K. Vasanth - Consultant Geriatrician" class="">
+                            <div class="de-detl">
+                                <h4>Dr. Vasanth</h4>
+                                <span>Consultant Geriatrician</span>
+                            </div>
+                            <div class="de-detl-btn">
+                                <a href="{{ url('dr-vasanth') }}"> Request an Appointment </a>
+                                <a href="{{ url('dr-vasanth') }}"> Doctor's Profile</a>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div class="cmn-brdrd-btn text-center">
+                        <a href="{{ url('our-doctors') }}"> View All Doctors </a>
+                    </div>
+
+                </div>
+
+                <a id="add-res-bar"></a>
+                <a id="locations"></a>
+            </div>
+        </div>
+</section>
+<section class="light-color">
+   <div class="container">
+      <div class="row">
+          <div class="col-lg-12 text-center">
+            <div class="common-heading text-center">
+              <h2>A Glimpse into Geri Care</h2>
+            </div>
+            <a data-fancybox="gallery1" href="https://www.youtube.com/watch?v=gHMbu9wWx-A" data-caption="Geri Care - True 360 degree care for Senior Citizens">
+              <img src="{{ asset('/public/website/assets/images/glimpse.jpg') }}" alt="Geri Care Hospital" class="img-fluid">
+            </a>
+          </div>  
+      </div>
+   </div> 
+</section>  
+
 <section class="why-love">
 <div class="container">
 <div class="row justify-content-center">
@@ -354,7 +522,7 @@
 </div> 
 </section>
 
-<section class="kind-geriatric">
+<!-- <section class="kind-geriatric">
 <div class="container">
 <div class="row align-items-center">
 
@@ -572,7 +740,7 @@
 
 </div>
 </div>
-</section>
+</section> -->
 
 
 <!-- <section class="press-room text-center">
@@ -638,7 +806,7 @@
 <div class="col-lg-12">
 
 <div class="common-heading text-center">
-<h2>Geri Care Diaries</h2>
+<h2>Blogs From Our Experts</h2>
 </div>
 
 <div class="blogs-strture">
@@ -698,9 +866,98 @@ Nov 04 2019
 </div>
 </div>
 </section>  
+<section class="p-0 hme-map-half">
+   <div class="container-fluid">
+     <div class="row">
+      <div class="col-lg-6">
+        @include('website.bottommap')
+      </div>
+       <div class="col-lg-6 text-start map-section minserten">
+          <div class="common-heading">
+              <h2 class="mb-4">Geri Care Locations</h2>
+          </div>
+          
+          <div class="row">
+            <div class="col-lg-12">
+              <a class="hospital-btn hs" href="{{ url('gericare-hospital') }}"> Hospital </a>
+            </div>
+               <div class="col-md-6 col-lg-5 col-xl-4 t-nagar line">
+                  <h3>T.Nagar</h3>
+                  <p class="mb-2"> 
+                      No.8, Dr.Nair road, Behind Vani mahal,
+                      T. Nagar, Chennai - 600 017
+                    </p>
+                    <a href="#" target="_blank" tabindex="0" class="mb-2">View on Maps <img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="Geri Care Hospital"></a>
+                </div> 
+              
+              <div class="col-md-6 col-lg-7 col-xl-8 t-nagar left-space">
+                  <h3>Adambakkam</h3>
+                  <p class="mb-2"> 
+                      100 Feet Adambakkam inner ring road,
+                      Ward F,<br> Block 17, Adambakkam,
+                      Chennai, Tamil Nadu 600088
+                   </p>
+                    <a href="#" target="_blank" tabindex="0" class="mb-2">View on Maps <img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="Geri Care Hospital"></a> 
+               </div>
+          </div> 
+          <div class="row">
+            
+            <div class="col-lg-12 mt-4">
+              <a class="hospital-btn cli" href="{{ url('about-clinics') }}"> Clinics </a>
+            </div>
+
+               <div class="col-md-6 col-lg-5 col-xl-4 t-nagar line">
+                  <h3>Adyar</h3>
+                  <p class="mb-2"> 
+                       No:21, 1st avenue, Indira Nagar,
+                       Adyar, Chennai - 600 020
+                    </p>
+                    <a href="#" target="_blank" tabindex="0" class="mb-2">View on Maps <img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="Geri Care Hospital"></a>
+                    
+                </div> 
+              
+              <div class="col-md-6 col-lg-7 col-xl-8 t-nagar left-space">
+                  <h3>Anna Nagar</h3>
+                  <p class="mb-2"> 
+                      Plot no.3698, Q Block-100, 3rd<br> Avenue,
+                      Anna Nagar, Chennai - 600 040
+                   </p>
+                    <a href="#" target="_blank" tabindex="0" class="mb-2">View on Maps <img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="Geri Care Hospital"></a> 
+               </div>
+          </div> 
+          <div class="row">
+            <div class="col-lg-12 mt-4">
+              <a class="hospital-btn ast" href="{{ url('assisted-living') }}"> Assisted Living </a>
+            </div> 
+               <div class="col-md-6 col-lg-5 col-xl-4 t-nagar lines">
+                  <h3>RA Puram</h3>
+                  <p class="mb-2"> 
+                      New #10, Old #23, 7th Main Road,
+                      RA Puram, Chennai - 600 028
+                    </p>
+                    <a href="#" target="_blank" tabindex="0" class="mb-2">View on Maps <img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="Geri Care Hospital"></a>
+                    <!-- <div class="mt-4">
+                      <a class="hospital-btn" href="http://192.168.0.56/gericare/our-doctors"> Assisted Living </a>
+                    </div>  -->
+                </div> 
+              
+              <div class="col-md-6 col-lg-7 col-xl-8 t-nagar left-space">
+                  <h3>Thoraipakkam</h3>
+                  <p class="mb-2"> 
+                      AKS Residency, Balamurugan Garden,
+                      1st <br> Main Road Thoraipakkam,
+                      Chennai - 600 097
+                   </p>
+                    <a href="#" target="_blank" tabindex="0" class="mb-2">View on Maps <img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="Geri Care Hospital"></a> 
+               </div>
+          </div>  
+       </div> 
+     </div> 
+   </div> 
+</section>  
 
 
-@include('website.bottomform')
+@include('website.bottombar')
 
 <!-- <section class="mobile-only-view people-lovers">
 <div class="container">
@@ -884,7 +1141,7 @@ Nov 04 2019
 </div>
 </div>
 </section>
-
+<!-- 
 <div class="modal fade" id="popupvideo" tabindex="-1" aria-labelledby="exampleModalCenterTitle" >
 	<div class="modal-dialog modal-lg modal-dialog-centered">
 	  <div class="modal-content text-center"> 
@@ -898,9 +1155,8 @@ Nov 04 2019
 	  </div>
 	  </div>
 	</div>
-  </div> 
-
-@include('website.bottommap')
+</div>  -->
+ 
 
 @endsection
 

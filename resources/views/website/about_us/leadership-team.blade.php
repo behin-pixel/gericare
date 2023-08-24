@@ -28,6 +28,22 @@
 
 </section> 
 
+<section class="pb-0 pt-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="about-link-design">
+                    <ul class="justify-content-center">
+                        <li><a href="{{ url('about-gericare') }}" class="side-line">About Geri Care</a></li>
+                        <li class="ps-3"><a href="{{ url('leadership') }}" class="@if(request()->routeIs(['about-us.leadership-team'])) actives @endif">Leadership Team</a></li>
+                    </ul>  
+                    <hr> 
+                </div>    
+            </div>    
+        </div>    
+    </div>    
+</section>
+
 <section class="leader-shipment">
 <div class="container">
 <div class="row justify-content-center">

@@ -638,8 +638,20 @@ section {
 }
 
 .full-deg-cnt {
-    padding: 66px 20px 66px 30px;
-
+    /* padding: 66px 20px 66px 30px; */
+    padding: 40px 20px 40px 30px;
+}
+.text-color {
+    color: rgba(0, 0, 0, 0.8);
+}
+.full-deg:hover .text-color img{
+    filter: brightness(13);
+}
+.full-deg:hover .text-color{
+    color: #ffff;
+}
+.location-logo {
+    width: 20px;
 }
 
 .full-deg {
@@ -667,9 +679,11 @@ section {
 .full-deg-img {
     position: relative;
 }
-
+.no-border{
+    border: 0 !important;
+}
 .logos-pot {
-    margin-bottom: 30px;
+    margin-bottom: 15px;
 }
 
 .logos-pot img {
@@ -909,8 +923,21 @@ section.call-to-acttion {
     line-height: 28px;
 }
 
-.kind-geriatric {
+.kind-geriatric, .light-color {
     background: rgba(124, 22, 75, 0.1);
+}
+.hospital-btn{
+    padding: 9px 15px;
+    display: inline-block;
+    border-radius: 4px;
+    background: #801749;
+    font-weight: 600;
+    font-size: 16px;
+    font-family: 'Red Hat Display', sans-serif;
+    line-height: 22px;
+    border: 1px solid #801749;
+    color: #fff !important;
+    overflow: hidden;
 }
 
 .gentric-systems ul {
@@ -1617,7 +1644,7 @@ img.moby {
 
 .age-bars {
     padding-bottom: 45px;
-    border-bottom: 2px solid #801749;
+    border-bottom: 2px solid #349728;
     margin-bottom: 100px;
     position: relative;
 }
@@ -1721,8 +1748,8 @@ img.moby {
 
 .de-detl {
     padding: 20px;
-    background-color: #fff;
-}
+    background-color: #fff; 
+} 
 
 .de-detl h4 {
     font-weight: 700;
@@ -1744,7 +1771,7 @@ img.moby {
 .dr-panel {
     box-shadow: 7px 7px 25px rgba(0, 0, 0, 0.1);
     border-radius: 4px;
-    padding-bottom: 50px;
+    padding-bottom: 75px;
     position: relative;
     background: #fff;
 }
@@ -1768,11 +1795,12 @@ img.moby {
 }
 
 .dr-panel a {
-    padding: 15px;
+    text-align: center;
+    padding: 10px;
     font-weight: 600;
     color: #fff;
-    border-bottom-right-radius: 4px;
-    border-bottom-left-radius: 4px;
+    /* border-bottom-right-radius: 4px;
+    border-bottom-left-radius: 4px; */
     position: relative;
     font-size: 16px;
     font-family: 'Red Hat Display', sans-serif;
@@ -1782,25 +1810,27 @@ img.moby {
 }
 
 .de-detl-btn {
-    display: flex;
+    display: block;
     justify-content: space-between;
     position: absolute;
     bottom: 0;
     width: 100%;
+    opacity: 0.6;transition: all 0.3s ease;
 }
+.dr-panel:hover .de-detl-btn {opacity: 1;transition: all 0.3s ease;}
 .de-detl-btn a:first-child {
     width: 100%;
     border-bottom-right-radius: 0;
-    background: rgba(23, 22, 26, 0.6);
+    background: #17161A;
 }
 .de-detl-btn a:first-child:hover {
     background: #17161A;
 }
 .de-detl-btn a:last-child {
     border-bottom-left-radius: 0;
-    color: #17161A;
-    background-color: #fff;
-    font-size: 22px;
+    color: #fff;
+    background-color: #800248;
+    font-size: 16px;
 }
 
 
@@ -2888,8 +2918,8 @@ ul.press-roomr li span.bts-non {
 
 .flaoting-rays {
     position: fixed;
-    right: -3px;
-    width: 65px;
+    right:-3px;
+    width: 85px;
     height: 265px;
     top: 20%;
     z-index: 5;
@@ -2908,14 +2938,13 @@ ul.press-roomr li span.bts-non {
 
 .flaoting-rays ul li {
     display: inline-block;
-    position: relative;
-    height: 45px;
-    width: 45px;
-    background-color: #fff;
+    position: relative; 
     border-radius: 4px;
     margin: 10px 0;
-    padding: 10px 0;
+    padding:0;
 }
+
+.flaoting-rays ul li a img{background-color:#fff;border-radius: 4px;padding:8px;}
 
 .flaoting-rays ul li:before {
     position: absolute;
@@ -2930,33 +2959,15 @@ ul.press-roomr li span.bts-non {
 .flaoting-rays ul li:last-child:before {
     display: none;
 }
+ 
 
-.flaoting-rays ul li:hover span {
-    right: 0;
-    transition: all 0.3s ease;
-    opacity: 1;
-}
-
-.flaoting-rays ul li span {
-    transition: all 0.3s ease;
-    background: #7C164B;
-    display: block;
-    padding: 10px;
-    top: 2px;
-    position: absolute;
-    right: -500px;
-    width: 180px;
-    text-align: left;
-    z-index: -1;
-    opacity: 0;
-    border-top-left-radius: 4px;
-    border-bottom-left-radius: 4px;
-}
-
-
-.flaoting-rays ul li span a {
-    color: #fff;
-    font-weight: 600;
+.flaoting-rays ul li span {  
+    color:#fff;
+    display: block;  
+    text-align: center; 
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: 11px;
+    margin-top: 5px;
 }
 
 .doc-tor-cnt h3 {
@@ -3164,10 +3175,11 @@ ul.press-roomr li span.bts-non {
 
 .peace-of-mind {
     position: relative;
-    padding: 120px 0;
+    padding: 120px 0px;
     background: url('../images/cta-bg.jpg');
     background-size: cover;
     background-repeat: no-repeat;
+    margin-bottom: 80px;
 }
 
 .pseofmnd {
@@ -3446,9 +3458,17 @@ ul.press-roomr li span.bts-non {
 }
 
 #map_canvas {
-    height: 600px;
+    height: 550px;
     width: 100%;
 }
+
+.hme-map-half #map_canvas {
+    height: 780px;
+    width: 100%;
+}
+
+.map-section.minserten{padding:60px 0px 35px 40px;}
+
 .gericare-services.blog-datas {
     background-color: #eeeeee;
 }
@@ -4106,7 +4126,7 @@ button.gm-ui-hover-effect {
 }
 
 .margin-top-50{margin-top:100px;}
-.margin-btm-50{margin-bottom:100px;}
+.margin-btm-50{margin-bottom:30px;}
 
 label.onl-respsve{display: none;}
 
@@ -4138,14 +4158,36 @@ label.onl-respsve{display: none;}
 .our-impact h5{font-size: 18px;font-style: normal;font-weight: 700;color: #000;font-family: 'Red Hat Display', sans-serif;margin-bottom: 5px;}
 
 .address-loc p{margin-bottom: 0px;}
+.call-btns ul{padding:0px;margin: 0px;}
+.call-btns li{display: inline-block;margin: 0px 20px;}
+.call-btns li a{font-family: 'Mulish', sans-serif;font-size: 25px;color:#000;font-style: normal;
+    font-weight: 700;
+    line-height: normal;}
+    .call-btns li a img{margin-right:10px;}
 
+ul.contact-socials{margin: 25px 0px 50px 0px;}
+ul.contact-socials li{margin:0px 5px;}
 
+.contact-bg.new-vrson{background: #fff;box-shadow: 0 0 40px rgba(0, 0, 0, 0.1);}
+.contact-bg.new-vrson:before{display: none;}
+.contact-bg.new-vrson label{text-align: start;float: left;}
+.contact-bg.new-vrson{padding:0px;}
+.dark-gray-bg .contact-bg.new-vrson h2{margin-bottom: 30px !important;}
+.pad-30.nd-some{padding:50px 115px;}
 
+a.hospital-btn{font-style: normal;border:0px;
+    font-weight: 700;font-size: 18px;}
 
+a.hospital-btn.cli{background-color:#1fa059;font-style: normal;border:0px;
+    font-weight: 700;font-size: 18px;}
 
+a.hospital-btn.ast{background-color:#000;font-style: normal;border:0px;
+        font-weight: 700;font-size: 18px;}
 
-
-
+.call-and-attend ul{margin: 0px;padding: 0px;}
+.call-and-attend ul li{display: inline-block;margin-right: 10px;}
+.call-and-attend ul li a{font-family: 'Red Hat Display', sans-serif;font-size: 16px;padding: 15px 25px;color:#fff;background-color:#87174c;border-radius: 4px;}
+.call-and-attend ul li a:hover{background-color:#09994a;}
 
 
 
@@ -4643,6 +4685,12 @@ label.onl-respsve{display: none;}
 }
 
 @media(max-width: 1000px) {
+    .map-section.minserten {
+        padding: 60px 15px 35px 15px;
+      }
+    .pad-30.nd-some {
+        padding: 50px 35px;
+      }
 
     label.onl-respsve{display: block;color:#000;margin-bottom:5px;text-align:start;font-size: 14px;}
     .leader-shipment .col-lg-7 {
@@ -5173,6 +5221,9 @@ label.onl-respsve{display: none;}
 }
 
 @media(max-width: 800px) {
+    .left-space {
+        left: 0 !important;
+      }
     .full-deg-cnt br{display: none !important;}
     .pseofmnd-lst ul li:last-child a {
         padding: 20px 44px 20px 59px;
@@ -5345,6 +5396,12 @@ label.onl-respsve{display: none;}
         border-right: 1px solid #d8d6d6;
         border-radius: 0;
     }
+
+    .flaoting-rays ul li a img {
+        background-color: transparent; 
+        padding: 3px;
+      }
+
     .flaoting-rays ul li:last-child {
         border: 0;
     }
@@ -5352,8 +5409,7 @@ label.onl-respsve{display: none;}
         display: inline-block;
     }
     .flaoting-rays ul li a img {
-        filter: brightness(100) !important;
-        width: 80%;
+        filter: brightness(100) !important; 
     }
     .bottom-bar {
         padding-bottom: 80px !important;
@@ -5561,6 +5617,8 @@ label.onl-respsve{display: none;}
 
 
 @media(max-width: 680px) {
+    
+    .call-btns li{margin:10px 15px;}
 
     .form-detilsbox {
         margin-left: 0;
@@ -6050,4 +6108,250 @@ br{display: none !important;}
 }
 .gallery-img a img {
     margin-bottom: 10px;
+}
+.mobile-view{
+    display: none;
+}
+@media (max-width: 580px){
+    .mobile-view{
+        display: block;
+        padding-bottom: 25px;
+    }
+}
+.map-section h3{
+    color: #000;
+    font-family: Red Hat Display;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 42px;
+}
+.map-section p{
+    color: var(--body-text, rgba(0, 0, 0, 0.80));
+    font-family: Mulish;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+}
+.full-deg-cnt p{
+    color: rgba(0, 0, 0, 0.80);
+    font-family: Mulish;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    gap: 5px;
+    line-height: 23px;
+}
+.full-deg-cnt p a{
+    color: rgba(0, 0, 0, 0.80);
+    font-family: Mulish;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    gap: 5px;
+    line-height: 23px;
+}
+.t-nagar a{
+    color: #6B6B6B;
+    text-align: right;
+    font-family: Red Hat Display;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 20px; 
+}
+.map-section a img{
+    transition: all 0.3s ease;
+}
+.map-section a:hover img{
+    margin-left: 10px;
+}
+.t-nagar {
+    position: relative;
+}
+.line::after{
+    position: absolute;
+    right: 0px;
+    bottom: 0;
+    content: '';
+    width: 1px;
+    height: 130px;
+    background-color: #eeeeee;
+}
+.lines::after{
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    content: '';
+    width: 1px;
+    height: 130px;
+    background-color: #eeeeee;
+}
+.left-space{
+    left: 8px;
+}
+@media (max-width: 1399px){
+    .map-section p{
+        font-size: 16px;
+    }
+}
+.bottom-bar-bg{
+    background: #801749;
+}
+.bottom-bar-img-1{
+    width: 22%;
+}
+.bottom-bar-img-2{
+    width: 28%;
+    text-align: center;
+    border-left: 1px solid #FFF;
+    border-right: 1px solid #FFF;
+}
+.bottom-bar-img-3{
+    width: 28%;
+    text-align: center;
+    border-right: 1px solid #FFF;
+}
+.bottom-bar-img-4{
+    width: 22%;
+    text-align: right;
+}
+@media(max-width: 768px){
+    .bottom-bar-img-1, .bottom-bar-img-2, .bottom-bar-img-3, .bottom-bar-img-4{
+        width: 50%;
+        border: none;
+        text-align: center;
+        margin: 10px 0px;
+        position: relative;
+    }
+    .bottom-bar-bg .d-flex{
+        flex-wrap: wrap;
+    }
+}
+.activess img{
+    opacity: 0.5;
+}
+.bottom-bar-img-1, .bottom-bar-img-2, .bottom-bar-img-3, .bottom-bar-img-4{
+    position: relative;
+}
+.activess::before{
+    position: absolute;
+    content: '';
+    background-color: #801749;
+    width: 30px;
+    height: 22px;
+    top: -52px;
+    border-bottom: 21px solid transparent;
+    border-left: 24px solid #FFF;
+    border-right: 22px solid #ffff;
+    left: calc(100% - 220px);
+}
+.activee::before{
+    position: absolute;
+    content: '';
+    background-color: #801749;
+    width: 30px;
+    height: 22px;
+    top: -52px;
+    border-bottom: 21px solid transparent;
+    border-left: 24px solid #FFF;
+    border-right: 22px solid #ffff;
+    left: calc(100% - 100px);
+}
+@media(max-width: 1000px){
+    .activess::before{
+        display: none;
+    }
+}
+.top-bar-link li{
+    list-style-type: none;
+}
+.top-bar-link li a{
+    font-size: 14px;
+    font-family: 'Red Hat Display', sans-serif;
+    line-height: 19px;
+    color: #fff;
+    margin-right: 20px;
+    font-weight: 600;
+}
+.about-link-design li{
+    list-style-type: none;
+    font-size: 17px;
+    font-family: 'Red Hat Display', sans-serif;
+    line-height: 25px;
+    /* margin-right: 20px; */
+    font-weight: 600;
+    position: relative;
+    
+}
+.about-link-design li:last-child{
+    border-right: 0px;
+}
+.about-link-design li a{
+    color: #000;
+}
+.about-link-design ul{
+    display: flex;
+    gap: 40px;
+}
+.about-link-design hr{
+    color: #7C164B1A;
+    opacity: 1;
+    border: 1px solid;
+}
+.actives {
+    color: #7C164B !important;
+}
+.mobile-dropdown-menu{
+    display: none;
+}
+.m-none li{
+    width: 20%;
+    border-right: 2px solid #e710cc1a;
+}
+@media (max-width: 768px){
+    .m-none{
+        display: none;
+    }
+    .mobile-dropdown-menu{
+        display: block;
+        background-color: #7C164B;
+        border-radius: 5px;
+    }
+    .mobile-dropdown-menu .dropdown-toggle{
+        color: #ffff;
+        padding: 10px 0px;
+    }
+    .mobile-dropdown-menu a{
+        padding: 10px 30px;
+    }
+    .dropdown-menu-w {
+        transform: translate3d(90.5px, 43px, 0px);
+        z-index: 9 !important;
+    }
+}
+ .side-line::after{
+    position: absolute;
+    content: '';
+    right: -29px;
+    width: 2px;
+    height: 30px;
+    background-color: #e714811a;
+}
+.gericare-services .col-lg-4{
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+
+@media (max-width: 1000px){
+    .top-bar-link{
+        display: none !important;
+    }
+}
+@media (min-width: 1000px){
+    .dsk-none{
+        display: none !important;
+    }
 }

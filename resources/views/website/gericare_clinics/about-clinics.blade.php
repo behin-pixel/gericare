@@ -320,8 +320,10 @@ Request Call Back
 </section>
 
 
-@include('website.bottomform')
+<!-- @include('website.bottomform') -->
 
-@include('website.mobilebottomform')
+<!-- @include('website.mobilebottomform') -->
+
+@include('website.bottombar')
 
 @endsection

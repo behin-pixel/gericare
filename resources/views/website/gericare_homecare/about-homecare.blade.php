@@ -12,9 +12,8 @@
 <div class="container">
 <div class="row">
 <div class="col-lg-12">
-<h1>India’s 1<sup>st</sup> Home Care
-<span>run by Qualified & Reliable 
-Geriatricians </span>
+<h1>Dependable Care & unwavering Support
+<span>When You Need It The Most</span>
 </h1>
 <ul>
 <li><a href="{{ url('/') }}"> Home </a></li>   
@@ -30,10 +29,10 @@ Geriatricians </span>
 
 </section> 
 
-<section class="home-gericare">
+<section class="home-gericare pb-0">
 <div class="container">
 <div class="row">
-
+ 
 <div class="col-lg-12">
 <div class="common-heading text-center">
 <h2>Comprehensive Geriatric Home Care Services <br> for your Loved Ones at Home</h2>
@@ -50,9 +49,9 @@ Our care plans involve collaboration with a multi-disciplinary team consisting o
 </div>
 </div>
 
+ 
 
-
-<div class="col-lg-12">
+<!-- <div class="col-lg-12">
 
 <div class="serveces-doctrs">
 
@@ -77,7 +76,7 @@ Our care plans involve collaboration with a multi-disciplinary team consisting o
 <a href="{{ url('book-an-appointment') }}"> Book Your Appointment <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="Geri Care Hospital" class="" /></a>
 </div>
 
-</div>
+</div> -->
 
 <!-- <div class="ambulance-runing text-end">
 <h4>24x7 Emergency Ambulance Available <br> Call Us at: <span>+91 44 4061 4061</span></h4>
@@ -96,24 +95,28 @@ Our care plans involve collaboration with a multi-disciplinary team consisting o
 <section class="prcess-img text-center pt-0">
 <div class="container">
 <div class="row align-items-center">
-
+<div class="common-heading text-center">
+<h2> How Our Home Care Services Work </h2>
+</div>
 <div class="col-lg-12">
 
 <picture>
-  <source media="(min-width:800px)" srcset="{{ asset('/public/website/assets/images/hme-cre.jpg') }}">
-  <img src="{{ asset('/public/website/assets/images/hme-cre-mob.jpg') }}"  class="img-responsive" alt="Geri Care Hospital" > 
+  <source media="(min-width:800px)" srcset="{{ asset('/public/website/assets/images/home-care-service.jpg') }}">
+  <img src="{{ asset('/public/website/assets/images/home-care-service.png') }}"  class="img-responsive w-100 mb-5" alt="Geri Care Hospital" > 
 </picture>
 
 </div>
 
-
+<div class="care-service-btn">
+   <a href="tel:+914440614061">Call Us at <b>+91 44 4061 4061</b></a>
+</div>  
 <a id="homecare-services"></a>
 </div>
 </div>
 </section>
 
 
-<section class="gericare-services">
+<!-- <section class="gericare-services">
 <div class="container">
 <div class="row">
 
@@ -248,8 +251,321 @@ Our care plans involve collaboration with a multi-disciplinary team consisting o
 
 </div>
 </div>
-</section>  
+</section>   -->
+
+<section class="gericare-services">
+<div class="container">
+<div class="row">
+
+<div class="col-lg-12">
+
+<div class="common-heading text-center">
+<h2> Home Care that Suits You </h2>
+</div>
+
+<div class="row"> 
+
+<div class="col-lg-4">
+  <div class="gericare-service-img">
+      <img src="{{ asset('/public/website/assets/images/physiotherapy.jpg') }}" alt="Physiotherapist For Home Visits" class="w-100" />
+      <div class="minrester gericare-service-crd">
+        <h4 class="mb-2 text-start">Geriatric Physiotherapy at Home</h4>
+        <!-- <p>Geriatric physiotherapy involves specialised physical therapy techniques ...</p> -->
+        <div class="text-center border-design mb-2">
+          <a href="{{ url('physio-care') }}">Know More</a>
+        </div> 
+        <div class="text-center border-design-req">
+          <a href="#">Request a Callback</a>
+        </div> 
+      </div> 
+  </div>
+</div>
+<div class="col-lg-4">
+  <div class="gericare-service-img">
+      <img src="{{ asset('/public/website/assets/images/psychiatrist-home-visit-img.jpg') }}" alt="Physiotherapist For Home Visits" class="w-100" />
+      <div class="minrester gericare-service-crd">
+        <h4 class="mb-2 text-start">Psychiatrist Home Visits</h4>
+        <!-- <p>Geriatric physiotherapy involves specialised physical therapy techniques ...</p> -->
+        <div class="text-center border-design mb-2">
+          <a href="{{ url('psychiatrist-for-home-visit') }}">Know More</a>
+        </div> 
+        <div class="text-center border-design-req">
+          <a href="#">Request a Callback</a>
+        </div> 
+      </div> 
+  </div>
+</div>
+<div class="col-lg-4">
+  <div class="gericare-service-img">
+      <img src="{{ asset('/public/website/assets/images/orthopedician-img.jpg') }}" alt="Physiotherapist For Home Visits" class="w-100" />
+      <div class="minrester gericare-service-crd">
+        <h4 class="mb-2 text-start">Orthopedician Home Visits</h4>
+        <!-- <p>Geriatric physiotherapy involves specialised physical therapy techniques ...</p> -->
+        <div class="text-center border-design mb-2">
+          <a href="{{ url('orthopedician-home-visit') }}">Know More</a>
+        </div> 
+        <div class="text-center border-design-req">
+          <a href="#">Request a Callback</a>
+        </div> 
+      </div> 
+  </div>
+</div>
+<div class="col-lg-4">
+  <div class="gericare-service-img">
+      <img src="{{ asset('/public/website/assets/images/dentist.jpg') }}" alt="Physiotherapist For Home Visits" class="w-100" />
+      <div class="minrester gericare-service-crd">
+        <h4 class="mb-2 text-start">Dentist Home Visits</h4>
+        <!-- <p>Geriatric physiotherapy involves specialised physical therapy techniques ...</p> -->
+        <div class="text-center border-design mb-2">
+          <a href="{{ url('dentist-at-home') }}">Know More</a>
+        </div> 
+        <div class="text-center border-design-req">
+          <a href="#">Request a Callback</a>
+        </div> 
+      </div> 
+  </div>
+</div>
+<div class="col-lg-4">
+  <div class="gericare-service-img">
+      <img src="{{ asset('/public/website/assets/images/fluids.jpg') }}" alt="Physiotherapist For Home Visits" class="w-100" />
+      <div class="minrester gericare-service-crd">
+        <h4 class="mb-2 text-start">IV Fluids Monitoring</h4>
+        <!-- <p>Geriatric physiotherapy involves specialised physical therapy techniques ...</p> -->
+        <div class="text-center border-design mb-2">
+          <a href="{{ url('iv-fluids-monitoring') }}">Know More</a>
+        </div> 
+        <div class="text-center border-design-req">
+          <a href="#">Request a Callback</a>
+        </div> 
+      </div> 
+  </div>
+</div>
+<div class="col-lg-4">
+  <div class="gericare-service-img">
+      <img src="{{ asset('/public/website/assets/images/urinary.jpg') }}" alt="Physiotherapist For Home Visits" class="w-100" />
+      <div class="minrester gericare-service-crd">
+        <h4 class="mb-2 text-start">Urinary Catheterization</h4>
+        <!-- <p>Geriatric physiotherapy involves specialised physical therapy techniques ...</p> -->
+        <div class="text-center border-design mb-2">
+          <a href="{{ url('urinary-catheterization-at-home') }}">Know More</a>
+        </div> 
+        <div class="text-center border-design-req">
+          <a href="#">Request a Callback</a>
+        </div> 
+      </div> 
+  </div>
+</div>
+<div class="col-lg-4">
+  <div class="gericare-service-img">
+      <img src="{{ asset('/public/website/assets/images/outpatient.jpg') }}" alt="Physiotherapist For Home Visits" class="w-100" />
+      <div class="minrester gericare-service-crd">
+        <h4 class="mb-2 text-start">Outpatient Antibiotic Administration</h4>
+        <!-- <p>Geriatric physiotherapy involves specialised physical therapy techniques ...</p> -->
+        <div class="text-center border-design mb-2">
+          <a href="{{ url('outpatient-parenteral-antimicrobial-administration') }}">Know More</a>
+        </div> 
+        <div class="text-center border-design-req">
+          <a href="#">Request a Callback</a>
+        </div> 
+      </div> 
+  </div>
+</div>
+<div class="col-lg-4">
+  <div class="gericare-service-img">
+      <img src="{{ asset('/public/website/assets/images/wound.jpg') }}" alt="Physiotherapist For Home Visits" class="w-100" />
+      <div class="minrester gericare-service-crd">
+        <h4 class="mb-2 text-start">Wound Care and Dressing</h4>
+        <!-- <p>Geriatric physiotherapy involves specialised physical therapy techniques ...</p> -->
+        <div class="text-center border-design mb-2">
+          <a href="{{ url('wound-care-dressing') }}">Know More</a>
+        </div> 
+        <div class="text-center border-design-req">
+          <a href="#">Request a Callback</a>
+        </div> 
+      </div> 
+  </div>
+</div>
+<div class="col-lg-4">
+  <div class="gericare-service-img">
+      <img src="{{ asset('/public/website/assets/images/ecg.jpg') }}" alt="Physiotherapist For Home Visits" class="w-100" />
+      <div class="minrester gericare-service-crd">
+        <h4 class="mb-2 text-start">ECG at Home</h4>
+        <!-- <p>Geriatric physiotherapy involves specialised physical therapy techniques ...</p> -->
+        <div class="text-center border-design mb-2">
+          <a href="{{ url('ecg-test-at-home') }}">Know More</a>
+        </div> 
+        <div class="text-center border-design-req">
+          <a href="#">Request a Callback</a>
+        </div> 
+      </div> 
+  </div>
+</div>
+<div class="col-lg-4">
+  <div class="gericare-service-img">
+      <img src="{{ asset('/public/website/assets/images/nurse.jpg') }}" alt="Physiotherapist For Home Visits" class="w-100" />
+      <div class="minrester gericare-service-crd">
+        <h4 class="mb-2 text-start">Skilled Nursing Care</h4>
+        <!-- <p>Geriatric physiotherapy involves specialised physical therapy techniques ...</p> -->
+        <div class="text-center border-design mb-2">
+          <a href="{{ url('nursing-care') }}">Know More</a>
+        </div> 
+        <div class="text-center border-design-req">
+          <a href="#">Request a Callback</a>
+        </div> 
+      </div> 
+  </div>
+</div>
+<div class="col-lg-4">
+  <div class="gericare-service-img">
+      <img src="{{ asset('/public/website/assets/images/sample-collection.jpg') }}" alt="Physiotherapist For Home Visits" class="w-100" />
+      <div class="minrester gericare-service-crd">
+        <h4 class="mb-2 text-start">Home Sample Collection</h4>
+        <!-- <p>Geriatric physiotherapy involves specialised physical therapy techniques ...</p> -->
+        <div class="text-center border-design mb-2">
+          <a href="{{ url('home-sample-collection') }}">Know More</a>
+        </div> 
+        <div class="text-center border-design-req">
+          <a href="#">Request a Callback</a>
+        </div> 
+      </div> 
+  </div>
+</div>
+<div class="col-lg-4">
+  <div class="gericare-service-img">
+      <img src="{{ asset('/public/website/assets/images/care.jpg') }}" alt="Physiotherapist For Home Visits" class="w-100" />
+      <div class="minrester gericare-service-crd">
+        <h4 class="mb-2 text-start">Live-in Care & Care for Bedridden Patients</h4>
+        <!-- <p>Geriatric physiotherapy involves specialised physical therapy techniques ...</p> -->
+        <div class="text-center border-design mb-2">
+          <a href="{{ url('live-in-elderly-care') }}">Know More</a>
+        </div> 
+        <div class="text-center border-design-req">
+          <a href="#">Request a Callback</a>
+        </div> 
+      </div> 
+  </div>
+</div>
+
+<!-- <div class="col-lg-4">
+<img src="{{ asset('/public/website/assets/images/Psychiatrist-Home-Visit.jpg') }}" alt="Geriatric Physiotherapy at Home" class="img-fluid" />
+<div class="minrester">
+<h4>Psychiatrist Home Visits</h4>
+<p>During these visits, our psychiatrist will assess symptoms, prescribe appropriate medications ...</p>
+<a href="{{ url('psychiatrist-for-home-visit') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="Geri Care Hospital" class="" /></a>
+</div>
+</div>
+
+<div class="col-lg-4">
+<img src="{{ asset('/public/website/assets/images/Orthopedician-Home-Visit.jpg') }}" alt="Orthopedic specialists visit patients" class="img-fluid" />
+<div class="minrester">
+<h4>Orthopedician Home Visits</h4>
+<p>Our Orthopedic specialists visit patients at their homes to assess and manage ...</p>
+<a href="{{ url('orthopedician-home-visit') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="Geri Care Hospital" class="" /></a>
+</div>
+</div>
+
+<div class="col-lg-4">
+<img src="{{ asset('/public/website/assets/images/Dentist-Home-Visit.jpg') }}" alt="Geri Care Hospital" class="img-fluid" />
+<div class="minrester">
+<h4>Dentist Home Visits</h4>
+<p> Our Geriatric Dentistry expert offers dental care at the patient's home, by performing ...</p>
+<a href="{{ url('dentist-at-home') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="Geri Care Hospital" class="" /></a>
+</div>
+</div>
+
+<div class="col-lg-4">
+<img src="{{ asset('/public/website/assets/images/IV-Fluids-Monitoring.jpg') }}" alt="iv fluids monitoring services at home" class="img-fluid" />
+<div class="minrester">
+<h4>IV Fluids Monitoring</h4>
+<p>In certain situations, such as dehydration or specific medical conditions, the administration ...</p>
+<a href="{{ url('iv-fluids-monitoring') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="Geri Care Hospital" class="" /></a>
+</div>
+</div>
+
+<div class="col-lg-4">
+<img src="{{ asset('/public/website/assets/images/Urinary-Catheterization.jpg') }}" alt="Urinary catheterisation at Home" class="img-fluid" />
+<div class="minrester">
+<h4>Urinary Catheterization</h4>
+<p>When appropriate, our professionals can perform urinary catheterization at home. ...</p>
+<a href="{{ url('urinary-catheterization-at-home') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="Geri Care Hospital" class="" /></a>
+</div>
+</div>
+
+<div class="col-lg-4">
+<img src="{{ asset('/public/website/assets/images/Outpatient-Antibiotic-Administration.jpg') }}" alt="Outpatient parenteral antimicrobial therapy at Home" class="img-fluid" />
+<div class="minrester">
+<h4>Outpatient Antibiotic Administration </h4>
+<p>In cases where patients require intravenous antibiotic therapy but do not need ...</p>
+<a href="{{ url('outpatient-parenteral-antimicrobial-administration') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="Geri Care Hospital" class="" /></a>
+</div>
+</div>
+
+<div class="col-lg-4">
+<img src="{{ asset('/public/website/assets/images/Wound-Care-and-Dressing.jpg') }}" alt="Wound Care And Dressing " class="img-fluid" />
+<div class="minrester">
+<h4>Wound Care & Dressing</h4>
+<p>Skilled healthcare professionals can provide wound care and dressing services ...</p>
+<a href="{{ url('wound-care-dressing') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="Geri Care Hospital" class="" /></a>
+</div>
+</div>
+
+<div class="col-lg-4">
+<img src="{{ asset('/public/website/assets/images/ECG-at-Home.jpg') }}" alt="ECG at Home" class="img-fluid" />
+<div class="minrester">
+<h4>ECG at Home</h4>
+<p>Electrocardiogram (ECG) is a common diagnostic test for assessing heart function. ...</p>
+<a href="{{ url('ecg-test-at-home') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="Geri Care Hospital" class="" /></a>
+</div>
+</div>
+
+<div class="col-lg-4">
+<img src="{{ asset('/public/website/assets/images/Skilled-Nursing-Care.jpg') }}" alt="Skilled Nursing Care at Home" class="img-fluid" />
+<div class="minrester">
+<h4>Skilled Nursing Care</h4>
+<p>Our skilled nurses can perform various medical tasks, including wound care, ...</p>
+<a href="{{ url('nursing-care') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="Geri Care Hospital" class="" /></a>
+</div>
+</div>
+
+<div class="col-lg-4">
+<img src="{{ asset('/public/website/assets/images/Home-Sample-Collection.jpg') }}" alt="Geri Care Hospital" class="img-fluid" />
+<div class="minrester">
+<h4>Home Sample Collection</h4>
+<p>To avoid the inconvenience of visiting a laboratory or clinic, healthcare  ...</p>
+<a href="{{ url('nursing-care') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="Geri Care Hospital" class="" /></a>
+</div>
+</div>
+
+<div class="col-lg-4">
+<img src="{{ asset('/public/website/assets/images/Live-in-Care.jpg') }}" alt="Geri Care Hospital" class="img-fluid" />
+<div class="minrester">
+<h4>Live-in Care</h4>
+<p>For patients who require round-the-clock care, nursing attendants can ...</p>
+<a href="{{ url('live-in-elderly-care') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="Geri Care Hospital" class="" /></a>
+</div>
+</div>
+
+<div class="col-lg-4">
+<img src="{{ asset('/public/website/assets/images/Care-for-Bedridden-Patients.jpg') }}" alt="Geri Care Hospital" class="img-fluid" />
+<div class="minrester">
+<h4>Care for Bedridden Patients</h4>
+<p> Our skilled nurses and nursing attendants can provide care for bedridden ...</p>
+<a href="{{ url('care-for-bedridden-elderly-at-home') }}">Know More <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="Geri Care Hospital" class="" /></a>
+</div>
+</div> -->
+
+</div>
+
+</div>
+
+</div>
+</div>
+</section> 
  
+
+
+
+
 
 <section class="peace-of-mind">
 <div class="container">
@@ -257,9 +573,9 @@ Our care plans involve collaboration with a multi-disciplinary team consisting o
 
 <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
 <div class="pseofmnd">
-To experience a method of care<br> 
-that gives you a sense of freedom...<br>
-<span>Call us today!</span>
+When aging gets challenging, <br>
+Lean on our home care services 
+{{-- <span>Call us today!</span> --}}
 </div>
 </div>
 
@@ -342,10 +658,10 @@ Request Call Back
 
 </div> 
 </section>
+@include('website.bottombar')
 
+<!-- @include('website.bottomform') -->
 
-@include('website.bottomform')
-
-@include('website.mobilebottomform')
+<!-- @include('website.mobilebottomform') -->
 
 @endsection
