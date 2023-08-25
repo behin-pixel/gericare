@@ -8,15 +8,15 @@
 <div class="row">
 
 <div class="col-lg-12">
-<h1>Geriatric Physiotherapy at Home</h1>
+<h1>Memory Clinic</h1>
 <ul>
 <li><a href="{{ url('/') }}"> Home </a></li>
 <li> > </li>
-<li> <a href="{{ url('homecare') }}">Home Care </a></li>
+<li> <a href="{{ url('about-clinics') }}">Clinic</a></li>
 <li> > </li>
 <li>  Service we Offer</li>
 <li> > </li>
-<li class="active">Geriatric Physiotherapy at Home</li>
+<li class="active">Memory Clinic</li>
 </ul>
 </div>
 
@@ -31,7 +31,7 @@
 @include('website.clinicservicessidebar')
 
 <div class="col-lg-9">
-<img src="{{ asset('/public/website/assets/images/Geriatric-Physiotherapy-at-Home.jpg') }}" alt="Physiotherapist For Home Visits" class="w-100 mb-4">
+<img src="{{ asset('/public/website/assets/images/clinic/memory_clinic.webp') }}" alt="Physiotherapist For Home Visits" class="w-100 mb-4">
 <div class="common-para">
 <p class="w-100">At our Memory Clinic, Psychiatrists working closely with Geriatricians, specialise in memory assessment and management, providing compassionate care and innovative therapies to improve cognitive function, enhance quality of life, and support individuals and their families through the challenges of memory impairment and dementia.</p>
 </div>

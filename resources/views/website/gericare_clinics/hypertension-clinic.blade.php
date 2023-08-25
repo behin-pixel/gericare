@@ -8,15 +8,15 @@
 <div class="row">
 
 <div class="col-lg-12">
-<h1>Geriatric Physiotherapy at Home</h1>
+<h1>Hypertension Clinic</h1>
 <ul>
 <li><a href="{{ url('/') }}"> Home </a></li>
 <li> > </li>
-<li> <a href="{{ url('homecare') }}">Home Care </a></li>
+<li> <a href="{{ url('about-clinics') }}">Clinic</a></li>
 <li> > </li>
 <li>  Service we Offer</li>
 <li> > </li>
-<li class="active">Geriatric Physiotherapy at Home</li>
+<li class="active">Hypertension Clinic</li>
 </ul>
 </div>
 
@@ -31,9 +31,9 @@
 @include('website.clinicservicessidebar')
 
 <div class="col-lg-9">
-<img src="{{ asset('/public/website/assets/images/Geriatric-Physiotherapy-at-Home.jpg') }}" alt="Physiotherapist For Home Visits" class="w-100 mb-4">
+<img src="{{ asset('/public/website/assets/images/clinic/hypertension_clinic.webp') }}" alt="Physiotherapist For Home Visits" class="w-100 mb-4">
 <div class="common-para">
-<p class="w-100">At our Seniors Diabetic Clinic, we understand the unique challenges of diabetes in older adults and provide expert care, helping seniors effectively manage their diabetes, prevent complications, and improve their quality of life.</p>
+<p class="w-100">Hypertension Clinic offers specialised care for individuals with high blood pressure, providing comprehensive assessments, Personalised treatment plans, and lifestyle modifications to effectively manage hypertension and reduce cardiovascular risks.</p>
 </div>
 <div class="call-and-attend">
 <ul>

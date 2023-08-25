@@ -2,45 +2,68 @@
 @section('content') 
 
 <div id="homeCarousel" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-touch="true" >
-  <!-- <div class="carousel-indicators">
+   <div class="carousel-indicators">
     <button type="button" data-bs-target="#homeCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
     <button type="button" data-bs-target="#homeCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
     <button type="button" data-bs-target="#homeCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
-  </div> -->
+    <button type="button" data-bs-target="#homeCarousel" data-bs-slide-to="3" aria-label="Slide 4"></button>
+    <button type="button" data-bs-target="#homeCarousel" data-bs-slide-to="4" aria-label="Slide 5"></button>
+  </div>  
 
   <div class="carousel-inner">
 
     <div class="carousel-item active">
-      <img src="{{ asset('/public/website/assets/images/banners/banner-1.jpg') }}" alt="Geri Care Hospital" class="desky w-100 d-none d-lg-block" />
-      <img src="{{ asset('/public/website/assets/images/banners/mobile-banner-1.jpg') }}" alt="Geri Care Hospital" class="desky w-100 d-block d-lg-none" />
+      <img src="{{ asset('/public/website/assets/images/banners/main-banners/banner-1.webp') }}" alt="Geri Care Hospital" class="desky w-100 d-none d-lg-block" />
+      <img src="{{ asset('/public/website/assets/images/banners/main-banners/mobile-banner-1.webp') }}" alt="Geri Care Hospital" class="desky w-100 d-block d-lg-none" />
       
-      <img src="{{ asset('/public/website/assets/images/banners/mobile-banner-1.jpg') }}" alt="Geri Care Hospital" class="moby w-100 d-block d-lg-none" />
+      <img src="{{ asset('/public/website/assets/images/banners/main-banners/mobile-banner-1.webp') }}" alt="Geri Care Hospital" class="moby w-100 d-block d-lg-none" />
       <div class="carousel-caption animated animatedFadeInUp fadeInUp">
-        <h1 class="text-blue">India's 1<sup>st</sup> Multi-Speciality Hospital for Senior Citizens launches its 2<sup>nd</sup> hospital in Adambakkam. </h1>
-        <!-- <span class="text-blue">for Senior Citizens Gericare Hospital Now in Adambakkam</span> -->
-    <a href="{{ url('gericare-hospital') }}">Explore More</a>
+        <h1 class="text-blue">Transforming Lives</h1>
+          <span class="text-blue">through personalised care</span> 
+       <span class="text-light">We Are Geri Care</span>  
       </div>
     </div> 
 
-<!-- <div class="carousel-item">
-  <img src="{{ asset('/public/website/assets/images/banners/Banner-2.jpg') }}" alt="Geri Care Hospital" class="w-100 d-none d-lg-block" />
-  <img src="{{ asset('/public/website/assets/images/banners/Mobile-Banner-2.jpg') }}" alt="Geri Care Hospital" class="w-100 d-block d-lg-none" />
+ <div class="carousel-item">
+  <img src="{{ asset('/public/website/assets/images/banners/main-banners/banner-2.webp') }}" alt="Geri Care Hospital" class="w-100 d-none d-lg-block" />
+  <img src="{{ asset('/public/website/assets/images/banners/main-banners/mobile-banner-2.webp') }}" alt="Geri Care Hospital" class="w-100 d-block d-lg-none" />
   <div class="carousel-caption animated animatedFadeInUp fadeInUp">
-    <h1 class="text-blue">Meet the experts of 360 care</h1>
-    <span class="text-blue">that reflects passion & utmost respect!</span>
-        <a href="{{ url('gericare-hospital') }}">Explore More</a>
+    <h1 class="text-blue">Making Life Easier</h1>
+    <span class="text-blue">for seniors & their families</span>
+        <a href="{{ url('homecare') }}">Explore Our Home Care Services</a>
   </div>
 </div> 
 
 <div class="carousel-item">
-  <img src="{{ asset('/public/website/assets/images/banners/Banner-3.jpg') }}" alt="Geri Care Hospital" class="w-100 d-none d-lg-block" />
-  <img src="{{ asset('/public/website/assets/images/banners/Mobile-Banner-3.jpg') }}" alt="Geri Care Hospital" class="w-100 d-block d-lg-none" />
+  <img src="{{ asset('/public/website/assets/images/banners/main-banners/banner-3.jpg') }}" alt="Geri Care Hospital" class="w-100 d-none d-lg-block" />
+  <img src="{{ asset('/public/website/assets/images/banners/main-banners/mobile-banner-3.jpg') }}" alt="Geri Care Hospital" class="w-100 d-block d-lg-none" />
   <div class="carousel-caption animated animatedFadeInUp fadeInUp">
-    <h1 class="text-blue">Care that lasts forever</h1>
-    <span class="text-blue">and a sense of personal freedom.</span>
-    <a href="{{ url('assisted-living') }}">Explore More</a>
+    <h1 class="text-blue">India's 1<sup>st</sup> Multi-Speciality Hospital for Senior Citizens</h1>
+    <span class="text-blue">T. Nagar | Adambakkam</span>
+    <a href="{{ url('gericare-hospital') }}">Explore More</a>
   </div>
-</div>  -->
+</div>   
+
+<div class="carousel-item">
+ <img src="{{ asset('/public/website/assets/images/banners/main-banners/banner-4.webp') }}" alt="Geri Care Hospital" class="w-100 d-none d-lg-block" />
+ <img src="{{ asset('/public/website/assets/images/banners/main-banners/mobile-banner-4.webp') }}" alt="Geri Care Hospital" class="w-100 d-block d-lg-none" />
+ <div class="carousel-caption animated animatedFadeInUp fadeInUp">
+   <h1 class="text-blue">Experience Expert Treatment</h1>
+   <span class="text-blue">at Geri Care</span>
+       <a href="{{ url('about-clinics') }}">Explore More</a>
+ </div>
+</div>  
+
+<div class="carousel-item">
+ <img src="{{ asset('/public/website/assets/images/banners/main-banners/banner-5.webp') }}" alt="Geri Care Hospital" class="w-100 d-none d-lg-block" />
+ <img src="{{ asset('/public/website/assets/images/banners/main-banners/mobile-banner-5.webp') }}" alt="Geri Care Hospital" class="w-100 d-block d-lg-none" />
+ <div class="carousel-caption animated animatedFadeInUp fadeInUp">
+   <h1 class="text-blue">A Caring Home,</h1>
+   <span class="text-blue">away from home</span>
+       <a href="{{ url('assisted-living') }}">Explore Our Assisted Living Services</a>
+ </div>
+</div> 
+
 
   </div> 
 </div>

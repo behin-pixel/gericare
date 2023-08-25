@@ -149,26 +149,26 @@
         Nephrology 
         </a> 
 
-        <a href="{{ url('ent') }}" class="@if(request()->routeIs(['departments.ent'])) active @endif nav-link">
+        <!-- <a href="{{ url('ent') }}" class="@if(request()->routeIs(['departments.ent'])) active @endif nav-link">
         <div class="geric-img">
         <img src="{{ asset('/public/website/assets/images/icn-17.png') }}" alt="Geri Care Hospital" class=""> 
         </div>     
           ENT
-        </a> 
+        </a>  -->
 
-        <a href="{{ url('ophthalmology') }}" class="@if(request()->routeIs(['departments.ophthalmology'])) active @endif nav-link">
+        <!-- <a href="{{ url('ophthalmology') }}" class="@if(request()->routeIs(['departments.ophthalmology'])) active @endif nav-link">
         <div class="geric-img">
         <img src="{{ asset('/public/website/assets/images/icn-20.png') }}" alt="Geri Care Hospital" class=""> 
         </div>     
           Ophthalmology
-        </a> 
+        </a>  -->
 
-        <a href="{{ url('dentistry') }}" class="@if(request()->routeIs(['departments.dentistry'])) active @endif nav-link">
+        <!-- <a href="{{ url('dentistry') }}" class="@if(request()->routeIs(['departments.dentistry'])) active @endif nav-link">
         <div class="geric-img">
         <img src="{{ asset('/public/website/assets/images/icn-21.png') }}" alt="Geri Care Hospital" class=""> 
         </div>     
           Dentistry
-        </a> 
+        </a>  -->
 
         <a href="{{ url('geriatric-physiotherapy') }}" class="@if(request()->routeIs(['departments.geriatric-physiotherapy'])) active @endif nav-link">
         <div class="geric-img">

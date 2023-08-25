@@ -408,13 +408,13 @@ a:hover {
 
 .carousel .carousel-caption h1 {
     font-family: 'Red Hat Display', sans-serif;
-    font-size: 36px;
+    font-size: 45px;
     line-height: 52px;
     color: #FFF;
     font-weight: 700;
     text-transform: inherit;
-    max-width: 620px;
-    margin-bottom: 25px;
+    max-width: 650px;
+    margin-bottom: 20px;
 }
 #homeCarousel.carousel .carousel-item.active {
     display: flex !important;
@@ -427,10 +427,21 @@ a:hover {
 }
 
 .carousel .carousel-caption span {
-    font-size: 22px;
+    font-size: 30px;
     line-height: 32px;
     color: #FFF;
-    font-weight: 400;
+    font-weight: 600;
+    font-family: 'Red Hat Display', sans-serif;
+    text-transform: inherit;
+    margin-bottom: 30px;
+    display: block;
+}
+
+.carousel .carousel-caption span.text-light{
+    font-size: 26px;
+    line-height: 32px;
+    color: #FFF;
+    font-weight: 700;
     font-family: 'Red Hat Display', sans-serif;
     text-transform: inherit;
     margin-bottom: 30px;
@@ -3155,10 +3166,7 @@ ul.press-roomr li span.bts-non {
 .location-fixer .common-heading h1 {
     font-size: 40px;
 }
-
-.location-fixer .common-heading h2 {
-    font-size: 40px;
-}
+ 
 .location-fixer .servce img {
     margin-bottom: 0;
 }
@@ -6372,18 +6380,40 @@ br{display: none !important;}
     width: 22%;
     text-align: right;
 }
-@media(max-width: 768px){
+@media(max-width: 600px){
     .bottom-bar-img-1, .bottom-bar-img-2, .bottom-bar-img-3, .bottom-bar-img-4{
-        width: 50%;
+        width: 45%;
         border: none;
         text-align: center;
-        margin: 10px 0px;
+        margin: 15px 0px;
         position: relative;
     }
     .bottom-bar-bg .d-flex{
         flex-wrap: wrap;
     }
+    .bottom-bar-img-1::after, .bottom-bar-img-3::after{
+        width: 2px;
+        position: absolute;
+        right: -20px;
+        content: '';
+        height: 85px;
+        background-color: rgba(255, 255, 255, 0.4);
+    }
+    .bottom-bar-img-1::before,  .bottom-bar-img-2::before{
+        height: 2px;
+        width: 155px;
+        position: absolute;
+        content: '';
+        background-color: rgba(255, 255, 255, 0.4);
+        bottom: -16px;
+    }
 }
+@media(min-width: 601px) and (max-width: 768px){
+    .bottom-bar-img-1, .bottom-bar-img-2, .bottom-bar-img-3, .bottom-bar-img-4{
+        width: 23% !important;
+        padding: 0px 20px;
+    }
+}       
 .activess img{
     opacity: 0.5;
 }

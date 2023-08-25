@@ -111,12 +111,12 @@
                   <a href="{{ url('gericare-hospital/#hospital-departments') }}">Departments</a>
                 </li>
                 <li class="@if(request()->routeIs(['gericare-hospital.hospital-doctors'])) active @endif">
-                  <a href="{{ url('our-doctors') }}">Our Doctors</a>
+                  <a href="{{ url('geriatric-medicine') }}">Our Doctors</a>
                 </li> 
-                <li class="@if(request()->routeIs(['gericare-hospital.hospital-facilities'])) active @endif">
+                {{--  <li class="@if(request()->routeIs(['gericare-hospital.hospital-facilities'])) active @endif">
                   <a href="{{ url('gericare-hospital/#hospital-facilities') }}">Facilities</a>
                 </li> 
-                {{-- <li class="@if(request()->routeIs(['gericare-hospital.hospital-facilities'])) active @endif">
+               <li class="@if(request()->routeIs(['gericare-hospital.hospital-facilities'])) active @endif">
                   <a href="{{ url('gericare-hospital/#locations') }}">Locations</a>
                 </li>  --}}
               </ul>
@@ -143,9 +143,9 @@
                 <li class="@if(request()->routeIs(['gericare-assisted-living.assisted-living-service'])) active @endif">
                   <a href="{{ url('assisted-living/#services-we-offer') }}">Services we Offer</a>
                 </li> 
-                <li class="@if(request()->routeIs(['gericare-assisted-living.assisted-living-facilities'])) active @endif">
-                  <a href="{{ url('assisted-living/#facilities-amenities') }}">Facilities & Amenities</a>
-                  {{-- <li class="@if(request()->routeIs(['gericare-hospital.hospital-facilities'])) active @endif">
+                {{-- <li class="@if(request()->routeIs(['gericare-assisted-living.assisted-living-facilities'])) active @endif">
+                  <a href="{{ url('assisted-living/#facilities-amenities') }}">Facilities</a>
+                  <li class="@if(request()->routeIs(['gericare-hospital.hospital-facilities'])) active @endif">
                   <a href="{{ url('assisted-living/#locations') }}">Locations</a>
                 </li>  --}}
                 </li> 
@@ -203,14 +203,14 @@
             </li>   
             <li id="corporate-menu" class="@if(request()->routeIs(['contact-us'])) active @endif">
               <a href="{{ url('contact-us') }}">Locations</a>
-              <ul>
-               <li class="@if(request()->routeIs(['contact-us'])) active @endif">
+              <!-- <ul>
+              <li class="@if(request()->routeIs(['contact-us'])) active @endif">
                   <a href="{{ url('contact-us') }}">Get in Touch</a>
-                </li> 
+                </li>  
                 <li class="@if(request()->routeIs(['careers'])) active @endif">
                   <a href="{{ url('career') }}">Careers</a>
                 </li>
-                 </ul> 
+                 </ul>  -->
             </li> 
           </ul>
         </nav>

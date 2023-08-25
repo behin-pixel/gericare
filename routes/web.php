@@ -173,17 +173,21 @@ Route::get('/gericare-clinics/clinics-service',[PageViewController::class,'clini
 
 
 
-Route::get('falls-prevention-clinic',[PageViewController::class,'fallsPrevention'])->name('gericare-clinics.falls-prevention');
+Route::get('falls-prevention-clinic',[PageViewController::class,'fallsPrevention'])->name('gericare-clinics.falls-prevention-clinic');
 
 Route::get('memory-clinic',[PageViewController::class,'MemoryClinic'])->name('gericare-clinics.memory-clinic');
 
 Route::get('incontinence-clinic',[PageViewController::class,'IncontinenceClinic'])->name('gericare-clinics.incontinence-clinic');
 
-Route::get('preventive-health-care-clininc',[PageViewController::class,'PreventiveHealth'])->name('gericare-clinics.preventive-health');
+Route::get('preventive-health-care-clinic',[PageViewController::class,'PreventiveHealth'])->name('gericare-clinics.preventive-health-care-clinic');
 
 Route::get('adult-vaccination-clinic',[PageViewController::class,'AdultVaccinationClinic'])->name('gericare-clinics.adult-vaccination-clinic');
 
 Route::get('seniors-diabetic-clinic',[PageViewController::class,'SeniorsDiabeticClinic'])->name('gericare-clinics.seniors-diabetic-clinic');
+
+Route::get('hypertension-clinic',[PageViewController::class,'HypertensionClinic'])->name('gericare-clinics.hypertension-clinic');
+
+Route::get('sleep-disorder-clinic',[PageViewController::class,'SleepDisorderClinic'])->name('gericare-clinics.sleep-disorder-clinic');
 
 
 

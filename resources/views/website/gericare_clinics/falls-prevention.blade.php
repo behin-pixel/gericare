@@ -8,15 +8,15 @@
 <div class="row">
 
 <div class="col-lg-12">
-<h1>Geriatric Physiotherapy at Home</h1>
+<h1>Falls Prevention (Osteoporosis) Clinic</h1>
 <ul>
 <li><a href="{{ url('/') }}"> Home </a></li>
 <li> > </li>
-<li> <a href="{{ url('homecare') }}">Home Care </a></li>
+<li> <a href="{{ url('about-clinics') }}">Clinic</a></li>
 <li> > </li>
 <li>  Service we Offer</li>
 <li> > </li>
-<li class="active">Geriatric Physiotherapy at Home</li>
+<li class="active">Falls Prevention (Osteoporosis) Clinic</li>
 </ul>
 </div>
 
@@ -31,7 +31,7 @@
 @include('website.clinicservicessidebar')
 
 <div class="col-lg-9">
-<img src="{{ asset('/public/website/assets/images/Geriatric-Physiotherapy-at-Home.jpg') }}" alt="Physiotherapist For Home Visits" class="w-100 mb-4">
+<img src="{{ asset('/public/website/assets/images/clinic/falls_clinic.webp') }}" alt="Physiotherapist For Home Visits" class="w-100 mb-4">
 <div class="common-para">
 <p class="w-100">Our Falls Clinic offers specialised care for individuals at risk of falls, providing comprehensive assessments, Personalised interventions, and preventive strategies to enhance mobility and reduce fall-related injuries.</p>
 </div>

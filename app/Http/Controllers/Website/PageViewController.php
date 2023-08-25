@@ -117,7 +117,7 @@ class PageViewController extends Controller
     }
     public function PreventiveHealth()
     {
-        return view('website.gericare_clinics.preventive-health');
+        return view('website.gericare_clinics.preventive-health-care-clinic');
     }
     public function AdultVaccinationClinic()
     {
@@ -126,6 +126,14 @@ class PageViewController extends Controller
     public function SeniorsDiabeticClinic()
     {
         return view('website.gericare_clinics.seniors-diabetic-clinic');
+    }
+    public function HypertensionClinic()
+    {
+        return view('website.gericare_clinics.hypertension-clinic');
+    }
+    public function SleepDisorderClinic()
+    {
+        return view('website.gericare_clinics.sleep-disorder-clinic');
     }
     public function hospitalDoctorsPage()
     {

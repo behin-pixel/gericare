@@ -12,7 +12,7 @@
 <ul>
 <li><a href="{{ url('/') }}"> Home </a></li>
 <li> > </li>
-<li> <a href="{{ url('homecare') }}">Home Care </a></li>
+<li> <a href="{{ url('about-clinics') }}">Home Care </a></li>
 <li> > </li>
 <li>  Service we Offer</li>
 <li> > </li>

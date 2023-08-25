@@ -6,7 +6,7 @@
 	</div>
 	<div class="bottom-bar-img-2 @if(request()->routeIs(['gericare-hospital.about-hospital'])) activess @endif">
 		<a href="{{ url('gericare-hospital') }}"><img src="{{ asset('/public/website/assets/images/bottom-bar-tnagar.png') }}" alt="Geri Care Hospital" class="img-fluid"></a>
-	</div>
+    </div>
 	<div class="bottom-bar-img-3 @if(request()->routeIs(['gericare-clinics.about-clinics'])) activess @endif">
 		<a href="{{ url('about-clinics') }}"><img src="{{ asset('/public/website/assets/images/bottom-bar-anna.png') }}" alt="Geri Care Hospital" class="img-fluid"></a>
 	</div>
@@ -86,7 +86,8 @@
 						<ul>
 							<li><a href="{{ url('/') }}">Home</a></li>
 							<li><a href="{{ url('about-gericare') }}">About Us</a></li> 
-							<li><a href="https://www.gericare.in/blog" target="_blank">Blog</a></li> 
+							<li><a href="{{ url('career') }}">Careers</a></li> 
+							
 							<li><a href="{{ url('gallery') }}">Gallery</a></li>    
 						</ul>
 				</div>
@@ -94,17 +95,17 @@
 						<ul> 
 							<li><a href="{{ url('testimonials') }}">Patient Stories</a></li>
 							<li><a href="{{ url('faqs') }}">FAQs</a></li> 
-							<li><a href="{{ url('contact-us') }}">Reach Us</a></li>  
+							<li><a href="https://www.gericare.in/blog" target="_blank">Blog</a></li>   
 							<li><a href="{{ url('terms-and-conditions') }}">Terms & Conditions</a></li>  
 						</ul>
 				</div>
 				<div class="quick-links">
 					<h4>Services</h4>
 						<ul>
-							<li><a href="{{ url('gericare-hospital') }}">Geri Care Hospital</a></li> 
-							<li><a href="{{ url('assisted-living') }}">Geri Care Assisted Living</a></li>
+						<li><a href="{{ url('homecare') }}">Geri Care Home Care</a></li> 
+							<li><a href="{{ url('gericare-hospital') }}">Geri Care Hospital</a></li> 							
 							<li><a href="{{ url('about-clinics') }}">Geri Care Clinics</a></li> 
-							<li><a href="{{ url('homecare') }}">Geri Care Home Care</a></li> 
+							<li><a href="{{ url('assisted-living') }}">Geri Care Assisted Living</a></li>
 						</ul>
 				</div>
                         <div class="contact-links">
@@ -137,7 +138,7 @@
 </a>
 </li> 
 <li>
-<a href="{{ url('our-doctors') }}"><img src="{{ asset('/public/website/assets/images/sidebar-icn-3.png') }}"></a>
+<a href="{{ url('geriatric-medicine') }}"><img src="{{ asset('/public/website/assets/images/sidebar-icn-3.png') }}"></a>
 <span>Find a Doctor</span>
 </li>
 </ul>
@@ -149,7 +150,7 @@
 		<div class="row">
 			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 			<div class="coder-line"></div>
-				<p> Copyright @ Geri Care | All Rights Reserved. Designed By <b> <a href="">Pixel Studios</a> </b> </p>
+				<p> Copyright @ Geri Care | All Rights Reserved. Designed By <b> <a href="https://www.pixel-studios.com/" target="_blank">Pixel Studios</a> </b> </p>
 			</div>
 		</div>
 	</div>

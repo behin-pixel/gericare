@@ -246,10 +246,10 @@ In addition to general medical care, we conduct comprehensive assessments and tr
     <div class="gericare-service-img">
         <img src="{{ asset('/public/website/assets/images/Falls-prevention-(Osteoporosis)-clinic.jpg') }}" alt="Physiotherapist For Home Visits" class="w-100" />
         <div class="minrester gericare-service-crd">
-          <h4 class="mb-2 text-start">Falls prevention (Osteoporosis) clinic</h4>
+          <h4 class="mb-2 text-start text-capitalize">Falls prevention (Osteoporosis) clinic</h4>
           <!-- <p>Geriatric physiotherapy involves specialised physical therapy techniques ...</p> -->
           <div class="text-center border-design mb-2">
-            <a href="#">Know More</a>
+            <a href="{{ url('falls-prevention-clinic') }}">Know More</a>
           </div> 
           <div class="text-center border-design-req">
             <a href="{{ url('request-an-appointment') }}">Request an Appointment</a>
@@ -261,10 +261,10 @@ In addition to general medical care, we conduct comprehensive assessments and tr
     <div class="gericare-service-img">
         <img src="{{ asset('/public/website/assets/images/Memory-clinic.jpg') }}" alt="Physiotherapist For Home Visits" class="w-100" />
         <div class="minrester gericare-service-crd">
-          <h4 class="mb-2 text-start">Memory clinic</h4>
+          <h4 class="mb-2 text-start text-capitalize">Memory clinic</h4>
           <!-- <p>Geriatric physiotherapy involves specialised physical therapy techniques ...</p> -->
           <div class="text-center border-design mb-2">
-            <a href="#">Know More</a>
+            <a href="{{ url('memory-clinic') }}">Know More</a>
           </div> 
           <div class="text-center border-design-req">
             <a href="{{ url('request-an-appointment') }}">Request an Appointment</a>
@@ -274,12 +274,12 @@ In addition to general medical care, we conduct comprehensive assessments and tr
   </div>
   <div class="col-lg-4">
     <div class="gericare-service-img">
-        <img src="{{ asset('/public/website/assets/images/Incontinence-clinic-(Urinary).jpg') }}" alt="Physiotherapist For Home Visits" class="w-100" />
+        <img src="{{ asset('/public/website/assets/images/clinic/incontinence_clinic_thumb.webp') }}" alt="Physiotherapist For Home Visits" class="w-100" />
         <div class="minrester gericare-service-crd">
-          <h4 class="mb-2 text-start">Incontinence clinic (Urinary)</h4>
+          <h4 class="mb-2 text-start text-capitalize">Incontinence clinic (Urinary)</h4>
           <!-- <p>Geriatric physiotherapy involves specialised physical therapy techniques ...</p> -->
           <div class="text-center border-design mb-2">
-            <a href="#">Know More</a>
+            <a href="{{ url('incontinence-clinic') }}">Know More</a>
           </div> 
           <div class="text-center border-design-req">
             <a href="{{ url('request-an-appointment') }}">Request an Appointment</a>
@@ -291,10 +291,10 @@ In addition to general medical care, we conduct comprehensive assessments and tr
     <div class="gericare-service-img">
         <img src="{{ asset('/public/website/assets/images/Preventive-Geriatric-health-check.jpg') }}" alt="Physiotherapist For Home Visits" class="w-100" />
         <div class="minrester gericare-service-crd">
-          <h4 class="mb-2 text-start">Preventive Health Checks clinic</h4>
+          <h4 class="mb-2 text-start text-capitalize">Preventive Health Checks clinic</h4>
           <!-- <p>Geriatric physiotherapy involves specialised physical therapy techniques ...</p> -->
           <div class="text-center border-design mb-2">
-            <a href="#">Know More</a>
+            <a href="{{ url('preventive-health-care-clinic') }}">Know More</a>
           </div> 
           <div class="text-center border-design-req">
             <a href="{{ url('request-an-appointment') }}">Request an Appointment</a>
@@ -306,10 +306,10 @@ In addition to general medical care, we conduct comprehensive assessments and tr
     <div class="gericare-service-img">
         <img src="{{ asset('/public/website/assets/images/Adult-vaccination-clinic.jpg') }}" alt="Physiotherapist For Home Visits" class="w-100" />
         <div class="minrester gericare-service-crd">
-          <h4 class="mb-2 text-start">Adult vaccination clinic</h4>
+          <h4 class="mb-2 text-start text-capitalize">Adult vaccination clinic</h4>
           <!-- <p>Geriatric physiotherapy involves specialised physical therapy techniques ...</p> -->
           <div class="text-center border-design mb-2">
-            <a href="#">Know More</a>
+            <a href="{{ url('adult-vaccination-clinic') }}">Know More</a>
           </div> 
           <div class="text-center border-design-req">
             <a href="{{ url('request-an-appointment') }}">Request an Appointment</a>
@@ -321,10 +321,10 @@ In addition to general medical care, we conduct comprehensive assessments and tr
     <div class="gericare-service-img">
         <img src="{{ asset('/public/website/assets/images/Seniors-Diabetic-clinic.jpg') }}" alt="Physiotherapist For Home Visits" class="w-100" />
         <div class="minrester gericare-service-crd">
-          <h4 class="mb-2 text-start">Seniors Diabetic clinic</h4>
+          <h4 class="mb-2 text-start text-capitalize">Seniors Diabetic clinic</h4>
           <!-- <p>Geriatric physiotherapy involves specialised physical therapy techniques ...</p> -->
           <div class="text-center border-design mb-2">
-            <a href="#">Know More</a>
+            <a href="{{ url('seniors-diabetic-clinic') }}">Know More</a>
           </div> 
           <div class="text-center border-design-req">
             <a href="{{ url('request-an-appointment') }}">Request an Appointment</a>
@@ -336,10 +336,10 @@ In addition to general medical care, we conduct comprehensive assessments and tr
     <div class="gericare-service-img">
         <img src="{{ asset('/public/website/assets/images/Hypertension-clinic.jpg') }}" alt="Physiotherapist For Home Visits" class="w-100" />
         <div class="minrester gericare-service-crd">
-          <h4 class="mb-2 text-start">Hypertension clinic</h4>
+          <h4 class="mb-2 text-start text-capitalize">Hypertension clinic</h4>
           <!-- <p>Geriatric physiotherapy involves specialised physical therapy techniques ...</p> -->
           <div class="text-center border-design mb-2">
-            <a href="#">Know More</a>
+            <a href="{{ url('hypertension-clinic') }}">Know More</a>
           </div> 
           <div class="text-center border-design-req">
             <a href="{{ url('request-an-appointment') }}">Request an Appointment</a>
@@ -351,10 +351,10 @@ In addition to general medical care, we conduct comprehensive assessments and tr
     <div class="gericare-service-img">
         <img src="{{ asset('/public/website/assets/images/Sleep-disorder-Clinic.jpg') }}" alt="Physiotherapist For Home Visits" class="w-100" />
         <div class="minrester gericare-service-crd">
-          <h4 class="mb-2 text-start">Sleep disorder clinic</h4>
+          <h4 class="mb-2 text-start text-capitalize">Sleep disorder clinic</h4>
           <!-- <p>Geriatric physiotherapy involves specialised physical therapy techniques ...</p> -->
           <div class="text-center border-design mb-2">
-            <a href="#">Know More</a>
+            <a href="{{ url('sleep-disorder-clinic') }}">Know More</a>
           </div> 
           <div class="text-center border-design-req">
             <a href="{{ url('request-an-appointment') }}">Request an Appointment</a>
