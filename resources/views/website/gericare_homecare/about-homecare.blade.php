@@ -101,8 +101,8 @@ Our care plans involve collaboration with a multi-disciplinary team consisting o
 <div class="col-lg-12">
 
 <picture>
-  <source media="(min-width:800px)" srcset="{{ asset('/public/website/assets/images/home-care-service.jpg') }}">
-  <img src="{{ asset('/public/website/assets/images/home-care-service.png') }}"  class="img-responsive w-100 mb-5" alt="Geri Care Hospital" > 
+  <source media="(min-width:800px)" srcset="{{ asset('/public/website/assets/images/home-care-flow-dk.jpg') }}">
+  <img src="{{ asset('/public/website/assets/images/home-care-flow-mb.jpg') }}"  class="img-responsive w-100 mb-5" alt="Geri Care Hospital" > 
 </picture>
 
 </div>

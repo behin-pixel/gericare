@@ -15,7 +15,7 @@
 	</div>
 	</div>
 	</div>
-	</section>
+</section>
 	@section('addon_script')
 		<script>
 			 
