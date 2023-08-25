@@ -35,6 +35,12 @@
 <div class="common-para">
 <p>Our Orthopedic specialists visit patients at their homes to assess and manage orthopedic conditions, such as fractures, joint problems, and musculoskeletal injuries. They can provide consultations, order diagnostic tests (such as X-rays), offer treatment options, and recommend rehabilitation programs.</p>
 </div>
+<div class="call-and-attend">
+<ul>
+<li><a href="" data-bs-toggle="modal" data-bs-target="#exampleModalCenter">Request a Callback</a></li>    
+<li><a href="tel:+914440614061">Call Us at <span>+91 44 4061 4061</span></a></li>    
+</ul>
+</div>
 </div>
 
 </div>
@@ -65,7 +71,7 @@ Bring You Peace of Mind
 <li>
 <a href="" data-bs-toggle="modal" data-bs-target="#exampleModalCenter">
 <img src="{{ asset('/public/website/assets/images/call-cta.png') }}" alt="Geri Care Hospital" class="" /> 
-Request Call Back
+Request a Call Back
 </a>
 </li>
 </ul>

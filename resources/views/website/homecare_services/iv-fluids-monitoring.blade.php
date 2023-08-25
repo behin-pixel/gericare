@@ -35,6 +35,12 @@
 <div class="common-para">
 <p>In certain situations, such as dehydration or specific medical conditions, the administration of intravenous (IV) fluids may be necessary. Healthcare professionals can provide IV fluids at home, ensuring the patient receives the necessary hydration and medical treatment.</p>
 </div>
+<div class="call-and-attend">
+    <ul>
+    <li><a href="" data-bs-toggle="modal" data-bs-target="#exampleModalCenter">Request a Callback</a></li>    
+    <li><a href="tel:+914440614061">Call Us at <span>+91 44 4061 4061</span></a></li>    
+    </ul>
+    </div>
 </div>
 
 </div>
@@ -65,7 +71,7 @@ Bring You Peace of Mind
 <li>
 <a href="" data-bs-toggle="modal" data-bs-target="#exampleModalCenter">
 <img src="{{ asset('/public/website/assets/images/call-cta.png') }}" alt="Geri Care Hospital" class="" /> 
-Request Call Back
+Request a Call Back
 </a>
 </li>
 </ul>

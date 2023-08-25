@@ -45,7 +45,7 @@ for  Senior Citizens</span>
     <div class="doctors-filters-btns mCustomScrollbar">
     <button class="nav-link active" id="v-pills-1-tab" data-bs-toggle="pill" data-bs-target="#v-pills-1" type="button" role="tab" aria-controls="v-pills-1" aria-selected="true">
     <div class="geric-img">
-    <img src="{{ asset('/public/website/assets/images/icn-2.png') }}" alt="Geri Care Hospital" class=""> 
+    <img src="{{ asset('/public/website/assets/images/icn-18.png') }}" alt="Geri Care Hospital" class=""> 
     </div>    
     Geriatric Medicine
     </button>
@@ -58,9 +58,9 @@ for  Senior Citizens</span>
 
     <button class="nav-link" id="v-pills-5-tab" data-bs-toggle="pill" data-bs-target="#v-pills-5" type="button" role="tab" aria-controls="v-pills-5" aria-selected="false">
     <div class="geric-img">
-    <img src="{{ asset('/public/website/assets/images/hip-replacement.png') }}" alt="Geri Care Hospital" class=""> 
+    <img src="{{ asset('/public/website/assets/images/icn-4.png') }}" alt="Geri Care Hospital" class=""> 
     </div>     
-    Orthogeriatrics
+    Ortho Geriatrics 
     </button>
 
 
@@ -122,27 +122,27 @@ for  Senior Citizens</span>
     </button>
 
 
-    <button class="nav-link" id="v-pills-13-tab" data-bs-toggle="pill" data-bs-target="#v-pills-13" type="button" role="tab" aria-controls="v-pills-13" aria-selected="false">
+    <button class="nav-link" id="" data-bs-toggle="pill" data-bs-target="" type="button" role="tab" aria-controls="" aria-selected="false">
     <div class="geric-img">
-    <img src="{{ asset('/public/website/assets/images/lungs-vs.png') }}" alt="Geri Care Hospital" class=""> 
+    <img src="{{ asset('/public/website/assets/images/icn-11.png') }}" alt="Geri Care Hospital" class=""> 
     </div>     
-    Vascular Surgery
+    Dermatology
     </button> 
 
   
+    <button class="nav-link" id="v-pills-13-tab" data-bs-toggle="pill" data-bs-target="#v-pills-13" type="button" role="tab" aria-controls="v-pills-13" aria-selected="false">
+    <div class="geric-img">
+    <img src="{{ asset('/public/website/assets/images/icn-12.png') }}" alt="Geri Care Hospital" class=""> 
+    </div>     
+    Vascular Surgery
+    </button> 
+   
+
     <button class="nav-link" id="v-pills-14-tab" data-bs-toggle="pill" data-bs-target="#v-pills-14" type="button" role="tab" aria-controls="v-pills-14" aria-selected="false">
     <div class="geric-img">
     <img src="{{ asset('/public/website/assets/images/icn-13.png') }}" alt="Geri Care Hospital" class=""> 
     </div>     
-Uro Gynaecology
-    </button> 
-   
-
-    <button class="nav-link" id="v-pills-16-tab" data-bs-toggle="pill" data-bs-target="#v-pills-16" type="button" role="tab" aria-controls="v-pills-15" aria-selected="false">
-    <div class="geric-img">
-    <img src="{{ asset('/public/website/assets/images/icn-15.png') }}" alt="Geri Care Hospital" class=""> 
-    </div>     
-    Nephrology
+    Uro Gynaecology 
     </button> 
 
 
@@ -157,11 +157,46 @@ Uro Gynaecology
   
 
 
+    <button class="nav-link" id="v-pills-16-tab" data-bs-toggle="pill" data-bs-target="#v-pills-16" type="button" role="tab" aria-controls="v-pills-16" aria-selected="false">
+    <div class="geric-img">
+    <img src="{{ asset('/public/website/assets/images/icn-15.png') }}" alt="Geri Care Hospital" class=""> 
+    </div>     
+    Nephrology 
+    </button> 
+
+    <button class="nav-link" id="" data-bs-toggle="pill" data-bs-target="" type="button" role="tab" aria-controls="" aria-selected="false">
+    <div class="geric-img">
+    <img src="{{ asset('/public/website/assets/images/icn-17.png') }}" alt="Geri Care Hospital" class=""> 
+    </div>     
+      ENT
+    </button> 
+
+    <button class="nav-link" id="v-pills-17-tab" data-bs-toggle="pill" data-bs-target="#v-pills-17" type="button" role="tab" aria-controls="v-pills-17" aria-selected="false">
+    <div class="geric-img">
+    <img src="{{ asset('/public/website/assets/images/icn-20.png') }}" alt="Geri Care Hospital" class=""> 
+    </div>     
+       Ophthalmology
+    </button> 
+
+    <button class="nav-link" id="v-pills-18-tab" data-bs-toggle="pill" data-bs-target="#v-pills-18" type="button" role="tab" aria-controls="v-pills-18" aria-selected="false">
+    <div class="geric-img">
+    <img src="{{ asset('/public/website/assets/images/icn-21.png') }}" alt="Geri Care Hospital" class=""> 
+    </div>     
+      Dentistry
+    </button> 
+
+    <button class="nav-link" id="v-pills-19-tab" data-bs-toggle="pill" data-bs-target="#v-pills-19" type="button" role="tab" aria-controls="v-pills-19" aria-selected="false">
+    <div class="geric-img">
+    <img src="{{ asset('/public/website/assets/images/icn-14.png') }}" alt="Geri Care Hospital" class=""> 
+    </div>     
+     Geriatric Physiotherapy
+    </button> 
+
     <button class="nav-link" id="v-pills-15-tab" data-bs-toggle="pill" data-bs-target="#v-pills-15" type="button" role="tab" aria-controls="v-pills-15" aria-selected="false">
     <div class="geric-img">
-    <img src="{{ asset('/public/website/assets/images/icn-3.png') }}" alt="Geri Care Hospital" class=""> 
+    <img src="{{ asset('/public/website/assets/images/icn-22.png') }}" alt="Geri Care Hospital" class=""> 
     </div>     
-    Pathology
+    Lab Services
     </button> 
 
   
@@ -802,7 +837,7 @@ quality of your life.<br>
 <li>
 <a href="" data-bs-toggle="modal" data-bs-target="#exampleModalCenter">
 <img src="{{ asset('/public/website/assets/images/call-cta.png') }}" alt="Geri Care Hospital" class="" /> 
-Request Call Back
+Request a Call Back
 </a>
 </li>
 </ul>

@@ -23,6 +23,110 @@ class PageViewController extends Controller
     {
         return view('website.gericare_hospital.hospital-department');
     }
+    public function geriatricMedicine()
+    {
+        return view('website.departments.geriatric-medicine');
+    }
+    public function geriatricCardiology()
+    {
+        return view('website.departments.geriatric-cardiology');
+    }
+    public function orthoGeriatrics()
+    {
+        return view('website.departments.ortho-geriatrics');
+    }
+    public function geriatricPsychiatry()
+    {
+        return view('website.departments.geriatric-psychiatry');
+    }
+    public function geriatricNeurology()
+    {
+        return view('website.departments.geriatric-neurology');
+    }
+    public function geriatricSurgery()
+    {
+        return view('website.departments.geriatric-surgery');
+    }
+    public function geriatricOncology()
+    {
+        return view('website.departments.geriatric-oncology');
+    }
+    public function geriatricUrology()
+    {
+        return view('website.departments.geriatric-urology');
+    }
+    public function gastroenTerology()
+    {
+        return view('website.departments.gastroenterology');
+    }
+    public function Pulmonology()
+    {
+        return view('website.departments.pulmonology');
+    }
+    public function GeriatricICU()
+    {
+        return view('website.departments.geriatric-icu');
+    }
+    public function Dermatology()
+    {
+        return view('website.departments.dermatology');
+    }
+    public function vascularSurgery()
+    {
+        return view('website.departments.vascular-surgery');
+    }
+    public function uroGynaecology()
+    {
+        return view('website.departments.uro-gynaecology');
+    }
+    public function Nephrology()
+    {
+        return view('website.departments.nephrology');
+    }
+    public function Pathology()
+    {
+        return view('website.departments.pathology');
+    }
+    public function geriatricPhysiotherapy()
+    {
+        return view('website.departments.geriatric-physiotherapy');
+    }
+    public function Ent()
+    {
+        return view('website.departments.ent');
+    }
+    public function Ophthalmology()
+    {
+        return view('website.departments.ophthalmology');
+    }
+    public function Dentistry()
+    {
+        return view('website.departments.dentistry');
+    }
+    public function fallsPrevention()
+    {
+        return view('website.gericare_clinics.falls-prevention');
+    }
+    public function MemoryClinic()
+    {
+        return view('website.gericare_clinics.memory-clinic');
+    }
+    public function IncontinenceClinic()
+    {
+        return view('website.gericare_clinics.incontinence-clinic');
+    }
+    public function PreventiveHealth()
+    {
+        return view('website.gericare_clinics.preventive-health');
+    }
+    public function AdultVaccinationClinic()
+    {
+        return view('website.gericare_clinics.adult-vaccination-clinic');
+    }
+    public function SeniorsDiabeticClinic()
+    {
+        return view('website.gericare_clinics.seniors-diabetic-clinic');
+    }
     public function hospitalDoctorsPage()
     {
         $title = 'Our Doctors - Geri Care';

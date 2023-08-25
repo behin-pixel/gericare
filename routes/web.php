@@ -49,6 +49,46 @@ Route::get('hospital-departments',[PageViewController::class,'hospitalDepartment
 Route::get('our-doctors',[PageViewController::class,'hospitalDoctorsPage'])->name('gericare-hospital.hospital-doctors');
 
 
+Route::get('geriatric-medicine',[PageViewController::class,'geriatricMedicine'])->name('departments.geriatric-medicine');
+
+Route::get('geriatric-cardiology',[PageViewController::class,'geriatricCardiology'])->name('departments.geriatric-cardiology');
+
+Route::get('ortho-geriatrics',[PageViewController::class,'orthoGeriatrics'])->name('departments.ortho-geriatrics');
+
+Route::get('geriatric-psychiatry',[PageViewController::class,'geriatricPsychiatry'])->name('departments.geriatric-psychiatry');
+
+Route::get('geriatric-neurology',[PageViewController::class,'geriatricNeurology'])->name('departments.geriatric-neurology');
+
+Route::get('geriatric-surgery',[PageViewController::class,'geriatricSurgery'])->name('departments.geriatric-surgery');
+
+Route::get('geriatric-oncology',[PageViewController::class,'geriatricOncology'])->name('departments.geriatric-oncology');
+
+Route::get('geriatric-urology',[PageViewController::class,'geriatricUrology'])->name('departments.geriatric-urology');
+
+Route::get('gastroenterology',[PageViewController::class,'gastroenTerology'])->name('departments.gastroenterology');
+
+Route::get('pulmonology',[PageViewController::class,'Pulmonology'])->name('departments.pulmonology');
+
+Route::get('geriatric-icu',[PageViewController::class,'GeriatricICU'])->name('departments.geriatric-icu');
+
+Route::get('dermatology',[PageViewController::class,'Dermatology'])->name('departments.dermatology');
+
+Route::get('vascular-surgery',[PageViewController::class,'vascularSurgery'])->name('departments.vascular-surgery');
+
+Route::get('uro-gynaecology',[PageViewController::class,'uroGynaecology'])->name('departments.uro-gynaecology');
+
+Route::get('nephrology',[PageViewController::class,'Nephrology'])->name('departments.nephrology');
+
+Route::get('pathology',[PageViewController::class,'Pathology'])->name('departments.pathology');
+
+Route::get('ophthalmology',[PageViewController::class,'Ophthalmology'])->name('departments.ophthalmology');
+
+Route::get('dentistry',[PageViewController::class,'Dentistry'])->name('departments.dentistry');
+
+Route::get('geriatric-physiotherapy',[PageViewController::class,'geriatricPhysiotherapy'])->name('departments.geriatric-physiotherapy');
+
+Route::get('ent',[PageViewController::class,'Ent'])->name('departments.ent');
+
 Route::get('dr-srinivas',[PageViewController::class,'drSrinivasPage'])->name('doctors-details.dr-srinivas');
 
 Route::get('dr-lakshmipathy-ramesh',[PageViewController::class,'drLakshmipathyPage'])->name('doctors-details.dr-lakshmipathy'); 
@@ -117,11 +157,6 @@ Route::get('dr-arathi-surendranath',[PageViewController::class,'aarathiPage'])->
 Route::get('dr-vikram',[PageViewController::class,'vikramPage'])->name('doctors-details.dr-vikram'); 
 
 
-
-
-
-
-
 Route::get('/gericare-hospital/hospital-facilities',[PageViewController::class,'hospitalFacilitiesPage'])->name('gericare-hospital.hospital-facilities');
 
 
@@ -137,6 +172,21 @@ Route::get('about-clinics',[PageViewController::class,'aboutClinicsPage'])->name
 Route::get('/gericare-clinics/clinics-service',[PageViewController::class,'clinicsServicePage'])->name('gericare-clinics.clinics-service');
 
 
+
+Route::get('falls-prevention-clinic',[PageViewController::class,'fallsPrevention'])->name('gericare-clinics.falls-prevention');
+
+Route::get('memory-clinic',[PageViewController::class,'MemoryClinic'])->name('gericare-clinics.memory-clinic');
+
+Route::get('incontinence-clinic',[PageViewController::class,'IncontinenceClinic'])->name('gericare-clinics.incontinence-clinic');
+
+Route::get('preventive-health-care-clininc',[PageViewController::class,'PreventiveHealth'])->name('gericare-clinics.preventive-health');
+
+Route::get('adult-vaccination-clinic',[PageViewController::class,'AdultVaccinationClinic'])->name('gericare-clinics.adult-vaccination-clinic');
+
+Route::get('seniors-diabetic-clinic',[PageViewController::class,'SeniorsDiabeticClinic'])->name('gericare-clinics.seniors-diabetic-clinic');
+
+
+
 Route::get('homecare',[PageViewController::class,'aboutHomeCarePage'])->name('gericare-homecare.about-homecare');
 
 Route::get('doctor-visit',[PageViewController::class,'doctorVisitPage'])->name('gericare-homecare.homecare-doctor-visit');
@@ -148,7 +198,6 @@ Route::get('/gericare-homecare/service-we-offer/homecare-geriatri-assessment-cou
 Route::get('/gericare-homecare/service-we-offer/homecare-attender-assistance',[PageViewController::class,'homecareAttenderAssistancePage'])->name('gericare-homecare.homecare-attender-assistance');
 
 Route::get('/gericare-homecare/service-we-offer/homecare-medical-devices',[PageViewController::class,'homecareMedicalDevicesPage'])->name('gericare-homecare.homecare-medical-devices');
-
 
 Route::get('physio-care',[PageViewController::class,'geriatricPhysiotherapyatHomePage'])->name('homecare-services.geriatric-physiotherapy-at-home'); 
 

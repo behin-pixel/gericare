@@ -12,7 +12,7 @@
 <div class="container">
 <div class="row">
 <div class="col-lg-12">
-<h1>Make an appointment
+<h1>Request an appointment
 <span>We will send you a confirmation <br>
 within 24 hours.</span>
 </h1>
@@ -190,7 +190,7 @@ within 24 hours.</span>
 <p>No.8, Dr. Nair Road, Behind Vani Mahal,<br> T.Nagar, Chennai - 600 017</p>
 </div>
 <div class="locate-me text-end">
-<a href="">View on Maps  <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="Geri Care Hospital" /></a>
+<a href="https://goo.gl/maps/u6K6owxWtpxry8EV8" target="_blank">View on Maps  <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="Geri Care Hospital" /></a>
 </div>
 </div>
 <div class="tpz"></div>
@@ -200,7 +200,7 @@ within 24 hours.</span>
 <p>100 Feet Velachery, 100 Feet Rd, Ward F,<br> Block 17, Adambakkam, Chennai - 600 088</p>
 </div>
 <div class="locate-me text-end">
-<a href="">View on Maps  <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="Geri Care Hospital" /></a>
+<a href="https://goo.gl/maps/KFAt8ytkXKEeuxZ59" target="_blank">View on Maps  <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="Geri Care Hospital" /></a>
 </div>
 </div>
 
@@ -220,7 +220,7 @@ within 24 hours.</span>
 <p>No:21, 1st avenue, Indira Nagar,<br> Adyar, Chennai 600020</p>
 </div>
 <div class="locate-me text-end">
-<a href="">View on Maps  <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="Geri Care Hospital" /></a>
+<a href="https://goo.gl/maps/iZ6WNkecYyEqYKBZ6" target="_blank">View on Maps  <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="Geri Care Hospital" /></a>
 </div>
 </div>
 <div class="tpz"></div>
@@ -230,7 +230,7 @@ within 24 hours.</span>
 <p>Plot No.3698, Q Block-100, 3rd Avenue, <br>Anna Nagar, Chennai - 600 040</p>
 </div>
 <div class="locate-me text-end">
-<a href="">View on Maps  <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="Geri Care Hospital" /></a>
+<a href="https://goo.gl/maps/FLwu1wnwvRHQEqdb7" target="_blank">View on Maps  <img src="{{ asset('/public/website/assets/images/red.png') }}" alt="Geri Care Hospital" /></a>
 </div>
 </div>
 

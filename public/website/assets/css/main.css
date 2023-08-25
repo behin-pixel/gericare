@@ -2724,7 +2724,7 @@ ul.press-roomr li span.bts-non {
 
 .doctors-page .vertical-tabdetails #v-pills-tab {
     background-color: rgba(124, 22, 75, 0.1);
-    margin-right: 20px !important;
+    margin-right: 40px !important;
     margin-top: 0 !important;
     padding: 30px;
     border-radius: 4px;
@@ -3178,8 +3178,7 @@ ul.press-roomr li span.bts-non {
     padding: 120px 0px;
     background: url('../images/cta-bg.jpg');
     background-size: cover;
-    background-repeat: no-repeat;
-    margin-bottom: 80px;
+    background-repeat: no-repeat; 
 }
 
 .pseofmnd {
@@ -3249,7 +3248,16 @@ ul.press-roomr li span.bts-non {
     background-color: transparent;
     color: #fff;
     padding: 12px 40px 12px 63px;
+    font-size: 18.5px;
 }
+
+.pseofmnd-lst ul li.appmt-btmbtn:last-child a {
+    font-weight: 600;
+font-size: 15px;
+}
+
+li.no-hover a:hover{background-color: transparent;}
+
 .pseofmnd-lst ul li:last-child a img {
     top: 6px;
     left: 16px;
@@ -3482,11 +3490,7 @@ ul.press-roomr li span.bts-non {
     color: #fff;
     padding: 2px 9px 4px;
     font-size: 12px;
-}
-
-.doctors-filters-btns {
-    height: 445px;
-}
+} 
 
 .abts-lyrs-imgs {
     position: relative;
@@ -4190,6 +4194,129 @@ a.hospital-btn.ast{background-color:#000;font-style: normal;border:0px;
 .call-and-attend ul li a:hover{background-color:#09994a;}
 
 
+.radio-btns [type="radio"]:checked,
+.radio-btns [type="radio"]:not(:checked) {
+    position: absolute;
+    left: -9999px;
+}
+.radio-btns [type="radio"]:checked + label,
+.radio-btns [type="radio"]:not(:checked) + label
+{
+    position: relative;
+    padding-left: 20px;
+    cursor: pointer;
+    line-height: 20px;
+    display: inline-block;
+    color: #515b64;
+    font-size: 16px;
+}
+.radio-btns [type="radio"]:checked + label:before,
+.radio-btns [type="radio"]:not(:checked) + label:before {
+    content: '';
+position: absolute;
+left: 0;
+top: 2px;
+width: 16px;
+height: 16px;
+border: 1px solid #ddd;
+border-radius: 100%;
+background: #fff;
+}
+.radio-btns [type="radio"]:checked + label:after,
+.radio-btns [type="radio"]:not(:checked) + label:after {
+    content: '';
+width: 8px;
+height: 8px;
+background: #7C164B;
+position: absolute;
+top: 6px;
+left: 4px;
+border-radius: 100%;
+-webkit-transition: all 0.2s ease;
+transition: all 0.2s ease;
+}
+.radio-btns [type="radio"]:not(:checked) + label:after {
+    opacity: 0;
+    -webkit-transform: scale(0);
+    transform: scale(0);
+}
+.radio-btns [type="radio"]:checked + label:after {
+    opacity: 1;
+    -webkit-transform: scale(1);
+    transform: scale(1);
+}
+
+ul.radio-btns{padding: 0px;margin: 0px;margin-bottom:20px;text-align: start;}
+ul.radio-btns li{display: inline-block;margin-right: 10px;}
+
+span.insect-tion{font-family: 'Mulish', sans-serif;font-size: 18px;
+    font-style: normal;color:#fff;
+    font-weight: 500;}
+.main-sb-box{background-color: #801749;border-radius: 6px;padding:55px 50px 55px 70px;}
+
+.main-sb-box h3{font-family: 'Red Hat Display', sans-serif;color:#fff;font-size: 30px;
+    font-style: normal;
+    font-weight: 700;line-height: 1.5;}
+
+.main-sb-box h4{font-family: 'Red Hat Display', sans-serif;color:#fff;font-size:20px;
+    font-style: normal;margin:0px;
+    font-weight: 700;line-height: 1.5;}
+    .main-sb-box a:hover{background-color: #09994a;color:#fff;}
+    .main-sb-box a{font-family: 'Red Hat Display', sans-serif;background-color: #fff;font-size: 18px;
+        font-style: normal;color:#000;padding: 14px 20px;
+        font-weight: 600;display: inline-block;
+        line-height: 16px;border-radius: 4px;}
+
+ .world-facilities.mob-response-vely{display: none;}       
+
+.world-facilities.mob-response-vely{background-color: #fff;}
+
+.lster-box{background-color: #801749;border-radius: 6px;padding:60px 60px 60px 30px;}
+
+.lster-box h3{font-family: 'Red Hat Display', sans-serif;font-weight: 700;font-size: 24px;color:#fff;line-height: 35px;}
+
+.lster-box h4{font-family: 'Red Hat Display', sans-serif;font-weight: 600;font-size: 18px;color:#fff;line-height: 28px;}
+
+.lster-box a{font-family: 'Red Hat Display', sans-serif;font-weight: 600;font-size: 20px;color:#fff;line-height: 28px;}
+ 
+.selt-deps{background-color:#f2e8ed;padding:20px;margin-bottom: 30px;border-radius: 6px;display: none;}
+
+.selt-deps h4{color: #801749;font-family: 'Red Hat Display', sans-serif;font-weight: 700;font-size: 20px;margin-bottom:15px;}
+
+.selt-deps select{background: #fff url("../images/req.png") no-repeat scroll 98% center;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -4500,6 +4627,11 @@ a.hospital-btn.ast{background-color:#000;font-style: normal;border:0px;
 }
 
 @media(max-width: 1100px) {
+    .location-fixer .common-heading h2 {font-size: 26px !important;}
+    .main-sb-box{padding:35px 30px 55px 30px;}
+    .embrance-compfort .col-lg-8{width: 100%;}
+    .embrance-compfort .col-lg-8 br{display: none;}
+    .embrance-compfort .col-lg-4.text-end{width: 100%;text-align: left !important;margin-top: 20px;}
 
     .locate-me.text-end {
         text-align: start !important;
@@ -4685,6 +4817,9 @@ a.hospital-btn.ast{background-color:#000;font-style: normal;border:0px;
 }
 
 @media(max-width: 1000px) {
+    .gericare-services .col-lg-4 { 
+        width: 50%;
+      }
     .map-section.minserten {
         padding: 60px 15px 35px 15px;
       }
@@ -5367,7 +5502,7 @@ a.hospital-btn.ast{background-color:#000;font-style: normal;border:0px;
         height: auto;
         top: auto;
         bottom: 0;
-        z-index: 999;
+        z-index: 9999;
         align-items: center;
         justify-content: space-between;
         transition: all 0.35s ease;
@@ -5425,6 +5560,8 @@ a.hospital-btn.ast{background-color:#000;font-style: normal;border:0px;
         top: 0;
         padding: 0;
     }
+
+    .flaoting-rays ul li span br{display: none;}
 
     .flaoting-rays ul li span a {
         font-size: 12px;
@@ -5547,6 +5684,10 @@ a.hospital-btn.ast{background-color:#000;font-style: normal;border:0px;
 
 
 @media(max-width: 767px) {
+    
+    .vertical-tabdetails .nav-pills .nav-link::before {left: -19px;}
+    .main-sb-box h3{font-size: 23px;
+        }
     .our-impact h4{margin: 15px 0px;}
     
     .leader-shipment .col-lg-7 {
@@ -5585,6 +5726,7 @@ a.hospital-btn.ast{background-color:#000;font-style: normal;border:0px;
     .doctors-page .vertical-tabdetails #v-pills-tab {
         display: none !important;
     }
+    .selt-deps{display: block !important;}
     .doctors-page .tab-content > .tab-pane {
         display: block;
         padding-bottom: 30px;
@@ -5618,6 +5760,11 @@ a.hospital-btn.ast{background-color:#000;font-style: normal;border:0px;
 
 @media(max-width: 680px) {
     
+    .gericare-services .col-lg-4 { 
+        width: 100%;
+      }
+    .world-facilities.mob-response-vely{display: block !important;} 
+    .why-love.infthis-layer{display: none;}
     .call-btns li{margin:10px 15px;}
 
     .form-detilsbox {
@@ -5704,6 +5851,13 @@ a.hospital-btn.ast{background-color:#000;font-style: normal;border:0px;
 }
 
 @media(max-width: 580px) {
+    #chat-bot-launcher-container.chat-bot-avatar-launcher, #chat-bot-launcher-container.chat-bot-launcher-notext {
+        bottom: 90px !important;
+        right: 6px !important;
+      }
+      .whatsapp-chat { 
+        bottom: 144px !important;
+        right: 15px !important;}
     .kind-geriatric .common-para p {
         width: 100%;}
 br{display: none !important;}
@@ -5985,6 +6139,7 @@ br{display: none !important;}
 }
 
 @media(max-width: 480px) {
+    ul.radio-btns li{margin-bottom: 15px;}
     .top-tbulars ul li {
         font-size: 16px;
         padding: 0 10px;
@@ -6205,13 +6360,13 @@ br{display: none !important;}
 .bottom-bar-img-2{
     width: 28%;
     text-align: center;
-    border-left: 1px solid #FFF;
-    border-right: 1px solid #FFF;
+    border-left: 1px solid rgba(255, 255, 255, 0.4);
+    border-right: 1px solid rgba(255, 255, 255, 0.4);
 }
 .bottom-bar-img-3{
     width: 28%;
     text-align: center;
-    border-right: 1px solid #FFF;
+    border-right: 1px solid rgba(255, 255, 255, 0.4);
 }
 .bottom-bar-img-4{
     width: 22%;
@@ -6235,35 +6390,7 @@ br{display: none !important;}
 .bottom-bar-img-1, .bottom-bar-img-2, .bottom-bar-img-3, .bottom-bar-img-4{
     position: relative;
 }
-.activess::before{
-    position: absolute;
-    content: '';
-    background-color: #801749;
-    width: 30px;
-    height: 22px;
-    top: -52px;
-    border-bottom: 21px solid transparent;
-    border-left: 24px solid #FFF;
-    border-right: 22px solid #ffff;
-    left: calc(100% - 220px);
-}
-.activee::before{
-    position: absolute;
-    content: '';
-    background-color: #801749;
-    width: 30px;
-    height: 22px;
-    top: -52px;
-    border-bottom: 21px solid transparent;
-    border-left: 24px solid #FFF;
-    border-right: 22px solid #ffff;
-    left: calc(100% - 100px);
-}
-@media(max-width: 1000px){
-    .activess::before{
-        display: none;
-    }
-}
+ 
 .top-bar-link li{
     list-style-type: none;
 }
@@ -6353,5 +6480,15 @@ br{display: none !important;}
 @media (min-width: 1000px){
     .dsk-none{
         display: none !important;
+    }
+}
+@media (max-width: 392px){
+    .dctrm-deitals a:last-child{
+        margin-left: 0px !important;
+    }
+}
+@media (min-width: 1000px) {
+    .tab-content hr{
+        margin-bottom: 10px;
     }
 }

@@ -1,4 +1,4 @@
-<section class="patron-say">
+{{-- <section class="patron-say">
 <div class="container-fluid">
 <div class="row justify-content-center">
 
@@ -101,4 +101,4 @@
             })
         })
     </script>
-@endsection
+@endsection --}}

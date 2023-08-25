@@ -260,7 +260,7 @@ Our care plans involve collaboration with a multi-disciplinary team consisting o
 <div class="col-lg-12">
 
 <div class="common-heading text-center">
-<h2> Home Care that Suits You </h2>
+<h2>Our Home Care Solutions</h2>
 </div>
 
 <div class="row"> 
@@ -275,7 +275,7 @@ Our care plans involve collaboration with a multi-disciplinary team consisting o
           <a href="{{ url('physio-care') }}">Know More</a>
         </div> 
         <div class="text-center border-design-req">
-          <a href="#">Request a Callback</a>
+          <a href="" data-bs-toggle="modal" data-bs-target="#exampleModalCenter">Request a Callback</a>
         </div> 
       </div> 
   </div>
@@ -290,7 +290,7 @@ Our care plans involve collaboration with a multi-disciplinary team consisting o
           <a href="{{ url('psychiatrist-for-home-visit') }}">Know More</a>
         </div> 
         <div class="text-center border-design-req">
-          <a href="#">Request a Callback</a>
+          <a href="" data-bs-toggle="modal" data-bs-target="#exampleModalCenter">Request a Callback</a>
         </div> 
       </div> 
   </div>
@@ -305,7 +305,7 @@ Our care plans involve collaboration with a multi-disciplinary team consisting o
           <a href="{{ url('orthopedician-home-visit') }}">Know More</a>
         </div> 
         <div class="text-center border-design-req">
-          <a href="#">Request a Callback</a>
+          <a href="" data-bs-toggle="modal" data-bs-target="#exampleModalCenter">Request a Callback</a>
         </div> 
       </div> 
   </div>
@@ -320,7 +320,7 @@ Our care plans involve collaboration with a multi-disciplinary team consisting o
           <a href="{{ url('dentist-at-home') }}">Know More</a>
         </div> 
         <div class="text-center border-design-req">
-          <a href="#">Request a Callback</a>
+          <a href="" data-bs-toggle="modal" data-bs-target="#exampleModalCenter">Request a Callback</a>
         </div> 
       </div> 
   </div>
@@ -335,7 +335,7 @@ Our care plans involve collaboration with a multi-disciplinary team consisting o
           <a href="{{ url('iv-fluids-monitoring') }}">Know More</a>
         </div> 
         <div class="text-center border-design-req">
-          <a href="#">Request a Callback</a>
+          <a href="" data-bs-toggle="modal" data-bs-target="#exampleModalCenter">Request a Callback</a>
         </div> 
       </div> 
   </div>
@@ -350,7 +350,7 @@ Our care plans involve collaboration with a multi-disciplinary team consisting o
           <a href="{{ url('urinary-catheterization-at-home') }}">Know More</a>
         </div> 
         <div class="text-center border-design-req">
-          <a href="#">Request a Callback</a>
+          <a href="" data-bs-toggle="modal" data-bs-target="#exampleModalCenter">Request a Callback</a>
         </div> 
       </div> 
   </div>
@@ -365,7 +365,7 @@ Our care plans involve collaboration with a multi-disciplinary team consisting o
           <a href="{{ url('outpatient-parenteral-antimicrobial-administration') }}">Know More</a>
         </div> 
         <div class="text-center border-design-req">
-          <a href="#">Request a Callback</a>
+          <a href="" data-bs-toggle="modal" data-bs-target="#exampleModalCenter">Request a Callback</a>
         </div> 
       </div> 
   </div>
@@ -380,7 +380,7 @@ Our care plans involve collaboration with a multi-disciplinary team consisting o
           <a href="{{ url('wound-care-dressing') }}">Know More</a>
         </div> 
         <div class="text-center border-design-req">
-          <a href="#">Request a Callback</a>
+          <a href="" data-bs-toggle="modal" data-bs-target="#exampleModalCenter">Request a Callback</a>
         </div> 
       </div> 
   </div>
@@ -395,7 +395,7 @@ Our care plans involve collaboration with a multi-disciplinary team consisting o
           <a href="{{ url('ecg-test-at-home') }}">Know More</a>
         </div> 
         <div class="text-center border-design-req">
-          <a href="#">Request a Callback</a>
+          <a href="" data-bs-toggle="modal" data-bs-target="#exampleModalCenter">Request a Callback</a>
         </div> 
       </div> 
   </div>
@@ -410,7 +410,7 @@ Our care plans involve collaboration with a multi-disciplinary team consisting o
           <a href="{{ url('nursing-care') }}">Know More</a>
         </div> 
         <div class="text-center border-design-req">
-          <a href="#">Request a Callback</a>
+          <a href="" data-bs-toggle="modal" data-bs-target="#exampleModalCenter">Request a Callback</a>
         </div> 
       </div> 
   </div>
@@ -425,7 +425,7 @@ Our care plans involve collaboration with a multi-disciplinary team consisting o
           <a href="{{ url('home-sample-collection') }}">Know More</a>
         </div> 
         <div class="text-center border-design-req">
-          <a href="#">Request a Callback</a>
+          <a href="" data-bs-toggle="modal" data-bs-target="#exampleModalCenter">Request a Callback</a>
         </div> 
       </div> 
   </div>
@@ -440,7 +440,7 @@ Our care plans involve collaboration with a multi-disciplinary team consisting o
           <a href="{{ url('live-in-elderly-care') }}">Know More</a>
         </div> 
         <div class="text-center border-design-req">
-          <a href="#">Request a Callback</a>
+          <a href="" data-bs-toggle="modal" data-bs-target="#exampleModalCenter">Request a Callback</a>
         </div> 
       </div> 
   </div>
@@ -567,7 +567,7 @@ Our care plans involve collaboration with a multi-disciplinary team consisting o
 
 
 
-<section class="peace-of-mind">
+<section class="peace-of-mind m-0">
 <div class="container">
 <div class="row align-items-center">
 
@@ -592,7 +592,7 @@ Lean on our home care services
 <li>
 <a href="" data-bs-toggle="modal" data-bs-target="#exampleModalCenter">
 <img src="{{ asset('/public/website/assets/images/call-cta.png') }}" alt="Geri Care Hospital" class="" /> 
-Request Call Back
+Request a Callback
 </a>
 </li>
 </ul>

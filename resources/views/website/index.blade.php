@@ -56,6 +56,30 @@
 </div>
 </div>
 
+<div class="col-lg-6 col-mg-6 col-sm-12 col-xs-12">
+<div class="row full-deg m-0">
+
+<div class="col-lg-6 p-0">
+<div class="full-deg-cnt">
+<div class="logos-pot">
+<img src="{{ asset('/public/website/assets/images/logo-3.png') }}" alt="Geri Care Hospital">
+</div>
+<p class="d-flex align-items-center text-color"><img src="{{ asset('/public/website/assets/images/lo.png') }}" class="location-logo">Across Chennai</p>
+<span>Get immediate and timely care from our experts in the comfort of your home. Book your appointment with our doctors for comprehensive consulting.</span>
+<div class="red-mre">
+<a href="{{ url('homecare') }}">Read More <img src="{{ asset('/public/website/assets/images/red-mre.png') }}" alt="Geri Care Hospital"></div></a>
+</div>
+</div> 
+
+<div class="col-lg-6 p-0">
+<div class="full-deg-img">
+<img src="{{ asset('/public/website/assets/images/Geri-Care-Homecare.jpg') }}" alt="Geri Care Hospital" class="w-100">
+</div>
+</div>
+
+</div>
+</div>
+
 <div class="col-lg-6 col-mg-6 col-sm-12 col-xs-12 mb-30">
 <div class="row full-deg m-0">
 
@@ -64,7 +88,7 @@
 <div class="logos-pot">
 <img src="{{ asset('/public/website/assets/images/logo-2.png') }}" alt="Geri Care Hospital">
 </div>
-<p class="d-flex align-items-center text-color"><img src="{{ asset('/public/website/assets/images/lo.png') }}" class="location-logo">Across Chennai</p>
+<p class="d-flex align-items-center text-color"><img src="{{ asset('/public/website/assets/images/lo.png') }}" class="location-logo"><a href="https://goo.gl/maps/u6K6owxWtpxry8EV8" target="_blank">T Nagar,</a> <a href="https://goo.gl/maps/KFAt8ytkXKEeuxZ59" target="_blank">Adambakkam</a></p>
 <span>Where internationally renowned Geriatricians take a multidisciplinary and passionate approach to the treatment and rehabilitation of seniors.</span>
 <div class="red-mre">
 <a href="{{ url('gericare-hospital') }}">Read More <img src="{{ asset('/public/website/assets/images/red-mre.png') }}" alt="Geri Care Hospital"></div></a>
@@ -80,30 +104,6 @@
 </div>
 </div>  
 
-<div class="col-lg-6 col-mg-6 col-sm-12 col-xs-12 mb-30">
-<div class="row full-deg m-0">
-
-<div class="col-lg-6 p-0">
-<div class="full-deg-cnt">
-<div class="logos-pot">
-<img src="{{ asset('/public/website/assets/images/logo-1.png') }}" alt="Geri Care Hospital">
-</div>
-<p class="d-flex align-items-center text-color"><img src="{{ asset('/public/website/assets/images/lo.png') }}" class="location-logo"><a href="https://goo.gl/maps/NEQatgAkWTNK5G5y9" target="_blank">T Nagar,</a> <a href="https://www.google.com/maps/place/Geri+Care+Hospital+Velachery/@12.9800682,80.1980829,17z/data=!4m6!3m5!1s0x3a525d3c24c1dbdb:0x93067576a17cd1b8!8m2!3d12.9800682!4d80.2002716!16s%2Fg%2F11t_gzmnx0?entry=tts&shorturl=1" target="_blank">Adambakkam</a></p>
-<span>Experience the first-of-its-kind, 24x7 Assisted Living & Skilled Nursing services combined with decades <br>of geriatric expertise.</span>
-<div class="red-mre">
-<a href="{{ url('assisted-living') }}">Read More <img src="{{ asset('/public/website/assets/images/red-mre.png') }}" alt="Geri Care Hospital"></div></a>
-</div>
-</div> 
-
-<div class="col-lg-6 p-0">
-<div class="full-deg-img">
-<img src="{{ asset('/public/website/assets/images/Geri-Care-Assisted-Living.jpg') }}" alt="Geri Care Hospital" class="w-100">
-</div>
-</div>
-
-</div>
-</div>  
-
 <div class="col-lg-6 col-mg-6 col-sm-12 col-xs-12">
 <div class="row full-deg m-0">
 
@@ -112,7 +112,7 @@
 <div class="logos-pot">
 <img src="{{ asset('/public/website/assets/images/logo-4.png') }}" alt="Geri Care Hospital">
 </div>
-<p class="d-flex align-items-center text-color"><img src="{{ asset('/public/website/assets/images/lo.png') }}" class="location-logo"><a href="https://www.google.com/maps/dir//Geri+Care+%7C+Home+Care+%26+Consultation,+No.21,+1st+St,+Indira+Nagar,+Adyar,+Chennai,+Tamil+Nadu+600020/@12.999337,80.251917,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3a5267853522f365:0x1dc3e7d7a2a95d9!2m2!1d80.2541057!2d12.999337?entry=ttu" target="_blank">Adyar,</a> <a href="https://www.google.com/maps/dir//Plot+no.3698,+Q,+Geri+Care+Clinics+Anna+Nagar,+Block-100,+3rd+Ave,+Block+Q,+Anna+Nagar,+Chennai,+Tamil+Nadu+600040/@13.0911687,80.2178883,17z/data=!4m16!1m7!3m6!1s0x3a5265ab99a9f5b9:0xcb987054dae3920c!2sGeri+Care+Clinics+Anna+Nagar!8m2!3d13.0911687!4d80.2178883!16s%2Fg%2F11tk4bht0x!4m7!1m0!1m5!1m1!1s0x3a5265ab99a9f5b9:0xcb987054dae3920c!2m2!1d80.2178883!2d13.0911687?entry=ttu" target="_blank">Anna nagar</a></p>
+<p class="d-flex align-items-center text-color"><img src="{{ asset('/public/website/assets/images/lo.png') }}" class="location-logo"><a href="https://goo.gl/maps/iZ6WNkecYyEqYKBZ6" target="_blank">Adyar,</a> <a href="https://goo.gl/maps/FLwu1wnwvRHQEqdb7" target="_blank">Anna nagar</a></p>
 <span>Walk into the best geriatric clinic in the city and say hello to exceptional treatment,  undivided attention <br> and long-lasting care.</span>
 <div class="red-mre">
 <a href="{{ url('about-clinics') }}">Read More <img src="{{ asset('/public/website/assets/images/red-mre.png') }}" alt="Geri Care Hospital"></div></a>
@@ -126,31 +126,31 @@
 </div>
 
 </div>
-</div>  
+</div> 
 
-<div class="col-lg-6 col-mg-6 col-sm-12 col-xs-12">
+<div class="col-lg-6 col-mg-6 col-sm-12 col-xs-12 mb-30">
 <div class="row full-deg m-0">
 
 <div class="col-lg-6 p-0">
 <div class="full-deg-cnt">
 <div class="logos-pot">
-<img src="{{ asset('/public/website/assets/images/logo-3.png') }}" alt="Geri Care Hospital">
+<img src="{{ asset('/public/website/assets/images/logo-1.png') }}" alt="Geri Care Hospital">
 </div>
-<p class="d-flex align-items-center text-color"><img src="{{ asset('/public/website/assets/images/lo.png') }}" class="location-logo"><a href="https://www.google.com/maps/dir//Geri+Care+Assisted+Living,+AKS+RESIDENCY,+Balamurugan+Gardens+1st+Main+Rd,+Thoraipakkam,+Tamil+Nadu+600097/@12.9441129,80.2377549,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3a525dbe8ee84dd5:0xb949e175506a9165!2m2!1d80.2403298!2d12.9441129?entry=ttu" target="_blank">Thoraipakam,</a> <a href="https://www.google.com/maps/dir//New+no.10,+Old+no.23,+Geri+Care+Assisted+Living+RA+Puram,+7th+Main+Rd,+Govindaswamy+Nagar,+Raja+Annamalai+Puram,+Chennai,+Tamil+Nadu+600028/@13.0241514,80.2558695,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3a5267215488f3b7:0x2e7865b3b3571e1a!2m2!1d80.2558699!2d13.0241779?entry=ttu" target="_blank">RA Puram</a></p>
-<span>Get immediate and timely care from our experts in the comfort of your home. Book your appointment with our doctors for comprehensive consulting.</span>
+<p class="d-flex align-items-center text-color"><img src="{{ asset('/public/website/assets/images/lo.png') }}" class="location-logo"><a href="https://goo.gl/maps/eZNZbkaZcb3gtZqE7" target="_blank">Thoraipakam,</a> <a href="https://goo.gl/maps/j6n7agMHAkr19NEf8" target="_blank">RA Puram</a></p>
+<span>Experience the first-of-its-kind, 24x7 Assisted Living & Skilled Nursing services combined with decades <br>of geriatric expertise.</span>
 <div class="red-mre">
-<a href="{{ url('homecare') }}">Read More <img src="{{ asset('/public/website/assets/images/red-mre.png') }}" alt="Geri Care Hospital"></div></a>
+<a href="{{ url('assisted-living') }}">Read More <img src="{{ asset('/public/website/assets/images/red-mre.png') }}" alt="Geri Care Hospital"></div></a>
 </div>
 </div> 
 
 <div class="col-lg-6 p-0">
 <div class="full-deg-img">
-<img src="{{ asset('/public/website/assets/images/Geri-Care-Homecare.jpg') }}" alt="Geri Care Hospital" class="w-100">
+<img src="{{ asset('/public/website/assets/images/Geri-Care-Assisted-Living.jpg') }}" alt="Geri Care Hospital" class="w-100">
 </div>
 </div>
 
 </div>
-</div>
+</div>   
 
 </div>
 
@@ -209,97 +209,6 @@
 </div>
 </div>
 </div>
-</div>
-
-</div>
-</div>
-</section> -->
-
-<!-- <section class="why-love">
-<div class="container">
-<div class="row justify-content-center">
-
-<div class="col-lg-10">
-<div class="common-heading text-center">
-<h2>Why People Love Us</h2>
-</div>
-
-<div class="vertical-tabdetails">
-
-<div class="d-flex align-items-start">
-  <div class="nav flex-column nav-pills me-3" id="v-pills-tab" role="tablist" aria-orientation="1">
-    <button class="nav-link active" id="v-pills-1-tab" data-bs-toggle="pill" data-bs-target="#v-pills-1" type="button" role="tab" aria-controls="v-pills-1" aria-selected="true">24x7 Availability</button>
-    <button class="nav-link" id="v-pills-2-tab" data-bs-toggle="pill" data-bs-target="#v-pills-2" type="button" role="tab" aria-controls="v-pills-2" aria-selected="false">Decades of Experience</button>
-    <button class="nav-link" id="v-pills-3-tab" data-bs-toggle="pill" data-bs-target="#v-pills-3" type="button" role="tab" aria-controls="v-pills-3" aria-selected="false">360° Personalized Care</button>
-    <button class="nav-link" id="v-pills-4-tab" data-bs-toggle="pill" data-bs-target="#v-pills-4" type="button" role="tab" aria-controls="v-pills-4" aria-selected="false">Expert Geriatricians</button>
-    <button class="nav-link" id="v-pills-5-tab" data-bs-toggle="pill" data-bs-target="#v-pills-5" type="button" role="tab" aria-controls="v-pills-5" aria-selected="false">Best-in-Class Staff</button>
-  </div>
-  <div class="tab-content" id="v-pills-tabContent">
-
-    <div class="tab-pane fade show active" id="v-pills-1" role="tabpanel" aria-labelledby="v-pills-1-tab">
-     
-    <div class="skills-img">
-    <img src="{{ asset('/public/website/assets/images/hospitalo.jpg') }}" alt="Geri Care Hospital" class="w-100">
-    <div class="skills-cnt">
-    <span>Round-the-clock availability, ensuring that patients receive immediate care and attention.</span>  
-    </div>
-    </div>
-
-    </div>
-
-    <div class="tab-pane fade" id="v-pills-2" role="tabpanel" aria-labelledby="v-pills-2-tab">
-        
-    <div class="skills-img">
-    <img src="{{ asset('/public/website/assets/images/hospitalo-1.jpg') }}" alt="Geri Care Hospital" class="w-100">
-    <div class="skills-cnt">
-    <span>Long-standing experience in treating and managing the unique medical needs of older adults.</span>  
-    </div>
-    </div>
-
-    </div>
-
-    <div class="tab-pane fade" id="v-pills-3" role="tabpanel" aria-labelledby="v-pills-3-tab">
-      
-    <div class="skills-img">
-    <img src="{{ asset('/public/website/assets/images/360-personalized-care.jpg') }}" alt="Geri Care Hospital" class="w-100">
-    <div class="skills-cnt">
-    <span>Comprehensive and customised treatment plans that are unique and enriching for seniors.</span>  
-    </div>
-    </div>
-
-    </div>
-
-    <div class="tab-pane fade" id="v-pills-4" role="tabpanel" aria-labelledby="v-pills-4-tab"> 
-      
-    <div class="skills-img">
-    <img src="{{ asset('/public/website/assets/images/expert-geriatricians.jpg') }}" alt="Geri Care Hospital" class="w-100">
-    <div class="skills-cnt">
-    <span>Medical professionals with extensive knowledge and experience in treating elderly patients.</span>  
-    </div>
-    </div>
-  
-    </div>
-
-    <div class="tab-pane fade" id="v-pills-5" role="tabpanel" aria-labelledby="v-pills-5-tab"> 
-            
-    <div class="skills-img">
-    <img src="{{ asset('/public/website/assets/images/best-in-class-staff.jpg') }}" alt="Geri Care Hospital" class="w-100">
-    <div class="skills-cnt">
-    <span>Dedicated and skilled staff that works collaboratively to ensure comfort and well-being.</span>  
-    </div>
-    </div>
-
-    </div>
-
-    <div class="dts-picx">
-    <img src="{{ asset('/public/website/assets/images/dots.png') }}" alt="Geri Care Hospital" class="w-100">  
-    </div>
-
-  </div>
-</div>
-
-</div>
-
 </div>
 
 </div>
@@ -369,7 +278,7 @@
                 <div class="col-lg-12">
 
                     <div class="common-heading text-center">
-                        <h2>Our Panel of Geriatric Experts</h2>
+                        <h2>Meet Our Doctors</h2>
                     </div>
 
                     <div class="panell-drts">
@@ -887,7 +796,7 @@ Nov 04 2019
                       No.8, Dr.Nair road, Behind Vani mahal,
                       T. Nagar, Chennai - 600 017
                     </p>
-                    <a href="#" target="_blank" tabindex="0" class="mb-2">View on Maps <img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="Geri Care Hospital"></a>
+                    <a href="https://goo.gl/maps/u6K6owxWtpxry8EV8" target="_blank" tabindex="0" class="mb-2">View on Maps <img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="Geri Care Hospital"></a>
                 </div> 
               
               <div class="col-md-6 col-lg-7 col-xl-8 t-nagar left-space">
@@ -897,7 +806,7 @@ Nov 04 2019
                       Ward F,<br> Block 17, Adambakkam,
                       Chennai, Tamil Nadu 600088
                    </p>
-                    <a href="#" target="_blank" tabindex="0" class="mb-2">View on Maps <img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="Geri Care Hospital"></a> 
+                    <a href="https://goo.gl/maps/KFAt8ytkXKEeuxZ59" target="_blank" tabindex="0" class="mb-2">View on Maps <img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="Geri Care Hospital"></a> 
                </div>
           </div> 
           <div class="row">
@@ -912,7 +821,7 @@ Nov 04 2019
                        No:21, 1st avenue, Indira Nagar,
                        Adyar, Chennai - 600 020
                     </p>
-                    <a href="#" target="_blank" tabindex="0" class="mb-2">View on Maps <img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="Geri Care Hospital"></a>
+                    <a href="https://goo.gl/maps/iZ6WNkecYyEqYKBZ6" target="_blank" tabindex="0" class="mb-2">View on Maps <img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="Geri Care Hospital"></a>
                     
                 </div> 
               
@@ -922,7 +831,7 @@ Nov 04 2019
                       Plot no.3698, Q Block-100, 3rd<br> Avenue,
                       Anna Nagar, Chennai - 600 040
                    </p>
-                    <a href="#" target="_blank" tabindex="0" class="mb-2">View on Maps <img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="Geri Care Hospital"></a> 
+                    <a href="https://goo.gl/maps/FLwu1wnwvRHQEqdb7" target="_blank" tabindex="0" class="mb-2">View on Maps <img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="Geri Care Hospital"></a> 
                </div>
           </div> 
           <div class="row">
@@ -935,7 +844,7 @@ Nov 04 2019
                       New #10, Old #23, 7th Main Road,
                       RA Puram, Chennai - 600 028
                     </p>
-                    <a href="#" target="_blank" tabindex="0" class="mb-2">View on Maps <img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="Geri Care Hospital"></a>
+                    <a href="https://goo.gl/maps/j6n7agMHAkr19NEf8" target="_blank" tabindex="0" class="mb-2">View on Maps <img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="Geri Care Hospital"></a>
                     <!-- <div class="mt-4">
                       <a class="hospital-btn" href="http://192.168.0.56/gericare/our-doctors"> Assisted Living </a>
                     </div>  -->
@@ -948,7 +857,7 @@ Nov 04 2019
                       1st <br> Main Road Thoraipakkam,
                       Chennai - 600 097
                    </p>
-                    <a href="#" target="_blank" tabindex="0" class="mb-2">View on Maps <img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="Geri Care Hospital"></a> 
+                    <a href="https://goo.gl/maps/eZNZbkaZcb3gtZqE7" target="_blank" tabindex="0" class="mb-2">View on Maps <img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="Geri Care Hospital"></a> 
                </div>
           </div>  
        </div> 

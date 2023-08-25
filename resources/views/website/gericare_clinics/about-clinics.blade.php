@@ -28,7 +28,7 @@ in the later years.</span>
 
 </section> 
 
-<section class="home-gericare">
+<section class="home-gericare pb-0">
 <div class="container">
 <div class="row">
 
@@ -48,7 +48,7 @@ In addition to general medical care, we conduct comprehensive assessments and tr
 
 
 
-<div class="col-lg-12">
+{{-- <div class="col-lg-12">
 
 <div class="serveces-doctrs">
 
@@ -75,14 +75,59 @@ In addition to general medical care, we conduct comprehensive assessments and tr
 
 </div> 
 
-</div>
-<a id="clinic-services"></a>
+</div> --}}
+
 </div>
 </div>
 </section> 
 
 
-<section class="abt-the-clinic text-center pt-0">
+
+<section class="location-fixer pt-0">
+  <div class="container">
+  <div class="row align-items-center">
+  
+  <div class="col-lg-3">
+  <div class="common-heading text-start">
+  <h2>Our Geri Care<br> Clinics are<br> located at Adyar &<br> Anna Nagar</h2>
+  </div>
+  </div>
+  
+  <div class="col-lg-9">
+  
+  
+  <div class="serveces-doctrs">
+  
+  <div class="servce">
+  <img src="{{ asset('/public/website/assets/images/location-gericare-3.jpg') }}" alt="Geri Care Clinics - Adyar" class="w-100" />
+  <div class="servrse-contest">
+  <h4> Geri Care Clinics - Adyar </h4>
+   <p>No:21, 1st avenue, Indira Nagar, <br> Adyar, Chennai 600020</p>
+  <!-- <p> No.8, Dr. Nair Road, Behind Vani<br> Mahal, T. Nagar, Chennai - 600 017 </p> -->
+  <a href="https://goo.gl/maps/iZ6WNkecYyEqYKBZ6" target="_blank"> View On Map <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="Geri Care Hospital" class="" /></a>
+  </div>
+  </div>
+  
+  <div class="servce">
+  <img src="{{ asset('/public/website/assets/images/location-gericare-4.jpg') }}" alt="Geri Care Clinics - Anna Nagar" class="w-100" />
+  <div class="servrse-contest">
+  <h4> Geri Care Clinics - Anna Nagar </h4>
+  <p>Plot No.3698, Q Block-100, 3rd Avenue, <br> Anna Nagar, Chennai - 600 040
+  </p>
+  <!-- <p> 100 Feet Velachery, 100 Feet Rd, Ward F,<br> Block 17, Adambakkam, Chennai - 600 088 </p> -->
+  <a href="https://goo.gl/maps/FLwu1wnwvRHQEqdb7" target="_blank"> View On Map <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="Geri Care Hospital" class="" /></a>
+  </div>
+  </div> 
+  
+  </div>
+  
+  </div>
+  <a id="clinic-services"></a>
+  </div>
+  </div>
+  </section> 
+
+{{-- <section class="abt-the-clinic text-center pt-0">
 <div class="container">
 <div class="row">
 
@@ -93,7 +138,7 @@ In addition to general medical care, we conduct comprehensive assessments and tr
 </div>
 
 <div class="clinics-lsts">
-
+ 
 <div class="cliinc-detlis">
 <img src="{{ asset('/public/website/assets/images/Falls-prevention-(Osteoporosis)-clinic.jpg') }}" alt="Falls prevention (Osteoporosis) clinic" class="w-100" />
 <h4>Falls prevention (Osteoporosis) clinic</h4>
@@ -183,53 +228,157 @@ In addition to general medical care, we conduct comprehensive assessments and tr
 <a id="locations"></a>
 </div>
 </div>
-</section>
+</section> --}}
 
-<section class="location-fixer">
-<div class="container">
-<div class="row align-items-center">
-
-<div class="col-lg-3">
-<div class="common-heading text-start">
-<h2>Our <br> Location</h2>
-</div>
-</div>
-
-<div class="col-lg-9">
-
-
-<div class="serveces-doctrs">
-
-<div class="servce">
-<img src="{{ asset('/public/website/assets/images/location-gericare-3.jpg') }}" alt="Geri Care Clinics - Adyar" class="w-100" />
-<div class="servrse-contest">
-<h4> Geri Care Clinics - Adyar </h4>
- <p>No:21, 1st avenue, Indira Nagar, <br> Adyar, Chennai 600020</p>
-<!-- <p> No.8, Dr. Nair Road, Behind Vani<br> Mahal, T. Nagar, Chennai - 600 017 </p> -->
-<a href="https://goo.gl/maps/iZ6WNkecYyEqYKBZ6" target="_blank"> View On Map <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="Geri Care Hospital" class="" /></a>
-</div>
-</div>
-
-<div class="servce">
-<img src="{{ asset('/public/website/assets/images/location-gericare-4.jpg') }}" alt="Geri Care Clinics - Anna Nagar" class="w-100" />
-<div class="servrse-contest">
-<h4> Geri Care Clinics - Anna Nagar </h4>
-<p>Plot No.3698, Q Block-100, 3rd Avenue, <br> Anna Nagar, Chennai - 600 040
-</p>
-<!-- <p> 100 Feet Velachery, 100 Feet Rd, Ward F,<br> Block 17, Adambakkam, Chennai - 600 088 </p> -->
-<a href="https://goo.gl/maps/FLwu1wnwvRHQEqdb7" target="_blank"> View On Map <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="Geri Care Hospital" class="" /></a>
-</div>
-</div> 
-
-</div>
-
-</div>
-
-</div>
-</div>
-</section> 
-
- 
+<section class="gericare-services">
+  <div class="container">
+  <div class="row">
+  
+  <div class="col-lg-12">
+  
+  <div class="common-heading text-center">
+  <h2>Our Clinics</h2>
+  </div>
+  
+  <div class="row"> 
+  
+  <div class="col-lg-4">
+    <div class="gericare-service-img">
+        <img src="{{ asset('/public/website/assets/images/Falls-prevention-(Osteoporosis)-clinic.jpg') }}" alt="Physiotherapist For Home Visits" class="w-100" />
+        <div class="minrester gericare-service-crd">
+          <h4 class="mb-2 text-start">Falls prevention (Osteoporosis) clinic</h4>
+          <!-- <p>Geriatric physiotherapy involves specialised physical therapy techniques ...</p> -->
+          <div class="text-center border-design mb-2">
+            <a href="#">Know More</a>
+          </div> 
+          <div class="text-center border-design-req">
+            <a href="{{ url('request-an-appointment') }}">Request an Appointment</a>
+          </div> 
+        </div> 
+    </div>
+  </div>
+  <div class="col-lg-4">
+    <div class="gericare-service-img">
+        <img src="{{ asset('/public/website/assets/images/Memory-clinic.jpg') }}" alt="Physiotherapist For Home Visits" class="w-100" />
+        <div class="minrester gericare-service-crd">
+          <h4 class="mb-2 text-start">Memory clinic</h4>
+          <!-- <p>Geriatric physiotherapy involves specialised physical therapy techniques ...</p> -->
+          <div class="text-center border-design mb-2">
+            <a href="#">Know More</a>
+          </div> 
+          <div class="text-center border-design-req">
+            <a href="{{ url('request-an-appointment') }}">Request an Appointment</a>
+          </div> 
+        </div> 
+    </div>
+  </div>
+  <div class="col-lg-4">
+    <div class="gericare-service-img">
+        <img src="{{ asset('/public/website/assets/images/Incontinence-clinic-(Urinary).jpg') }}" alt="Physiotherapist For Home Visits" class="w-100" />
+        <div class="minrester gericare-service-crd">
+          <h4 class="mb-2 text-start">Incontinence clinic (Urinary)</h4>
+          <!-- <p>Geriatric physiotherapy involves specialised physical therapy techniques ...</p> -->
+          <div class="text-center border-design mb-2">
+            <a href="#">Know More</a>
+          </div> 
+          <div class="text-center border-design-req">
+            <a href="{{ url('request-an-appointment') }}">Request an Appointment</a>
+          </div> 
+        </div> 
+    </div>
+  </div>
+  <div class="col-lg-4">
+    <div class="gericare-service-img">
+        <img src="{{ asset('/public/website/assets/images/Preventive-Geriatric-health-check.jpg') }}" alt="Physiotherapist For Home Visits" class="w-100" />
+        <div class="minrester gericare-service-crd">
+          <h4 class="mb-2 text-start">Preventive Health Checks clinic</h4>
+          <!-- <p>Geriatric physiotherapy involves specialised physical therapy techniques ...</p> -->
+          <div class="text-center border-design mb-2">
+            <a href="#">Know More</a>
+          </div> 
+          <div class="text-center border-design-req">
+            <a href="{{ url('request-an-appointment') }}">Request an Appointment</a>
+          </div> 
+        </div> 
+    </div>
+  </div>
+  <div class="col-lg-4">
+    <div class="gericare-service-img">
+        <img src="{{ asset('/public/website/assets/images/Adult-vaccination-clinic.jpg') }}" alt="Physiotherapist For Home Visits" class="w-100" />
+        <div class="minrester gericare-service-crd">
+          <h4 class="mb-2 text-start">Adult vaccination clinic</h4>
+          <!-- <p>Geriatric physiotherapy involves specialised physical therapy techniques ...</p> -->
+          <div class="text-center border-design mb-2">
+            <a href="#">Know More</a>
+          </div> 
+          <div class="text-center border-design-req">
+            <a href="{{ url('request-an-appointment') }}">Request an Appointment</a>
+          </div> 
+        </div> 
+    </div>
+  </div>
+  <div class="col-lg-4">
+    <div class="gericare-service-img">
+        <img src="{{ asset('/public/website/assets/images/Seniors-Diabetic-clinic.jpg') }}" alt="Physiotherapist For Home Visits" class="w-100" />
+        <div class="minrester gericare-service-crd">
+          <h4 class="mb-2 text-start">Seniors Diabetic clinic</h4>
+          <!-- <p>Geriatric physiotherapy involves specialised physical therapy techniques ...</p> -->
+          <div class="text-center border-design mb-2">
+            <a href="#">Know More</a>
+          </div> 
+          <div class="text-center border-design-req">
+            <a href="{{ url('request-an-appointment') }}">Request an Appointment</a>
+          </div> 
+        </div> 
+    </div>
+  </div>
+  <div class="col-lg-4">
+    <div class="gericare-service-img">
+        <img src="{{ asset('/public/website/assets/images/Hypertension-clinic.jpg') }}" alt="Physiotherapist For Home Visits" class="w-100" />
+        <div class="minrester gericare-service-crd">
+          <h4 class="mb-2 text-start">Hypertension clinic</h4>
+          <!-- <p>Geriatric physiotherapy involves specialised physical therapy techniques ...</p> -->
+          <div class="text-center border-design mb-2">
+            <a href="#">Know More</a>
+          </div> 
+          <div class="text-center border-design-req">
+            <a href="{{ url('request-an-appointment') }}">Request an Appointment</a>
+          </div> 
+        </div> 
+    </div>
+  </div>
+  <div class="col-lg-4">
+    <div class="gericare-service-img">
+        <img src="{{ asset('/public/website/assets/images/Sleep-disorder-Clinic.jpg') }}" alt="Physiotherapist For Home Visits" class="w-100" />
+        <div class="minrester gericare-service-crd">
+          <h4 class="mb-2 text-start">Sleep disorder clinic</h4>
+          <!-- <p>Geriatric physiotherapy involves specialised physical therapy techniques ...</p> -->
+          <div class="text-center border-design mb-2">
+            <a href="#">Know More</a>
+          </div> 
+          <div class="text-center border-design-req">
+            <a href="{{ url('request-an-appointment') }}">Request an Appointment</a>
+          </div> 
+        </div> 
+    </div>
+  </div>
+  <div class="col-lg-4">
+    <div class="lster-box">
+     <div class="box-dtails">
+      <h3>Your Path to Wellness<br> Starts Here</h3>
+      <h4>Reach out to us today to <br>Book Your Slot </h4>
+      <a href="tel:+914440614601"> Call Us at: <span>+91 44 4061 4601</span></a>
+     </div>
+    </div>
+  </div> 
+  
+  </div>
+  
+  </div>
+  
+  </div>
+  </div>
+  </section> 
 
 <section class="peace-of-mind">
 <div class="container">
@@ -237,9 +386,9 @@ In addition to general medical care, we conduct comprehensive assessments and tr
 
 <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
 <div class="pseofmnd">
-To experience a kind of care that<br> 
-improves the quality of your life...<br>
-<span>Call us today!</span>
+  Experience support & care<br>
+  at every step<br>
+{{-- <span>Call us today!</span> --}}
 </div>
 </div>
 
@@ -253,10 +402,11 @@ improves the quality of your life...<br>
 +91 44 4061 4061
 </a>
 </li>
-<li>
-<a href="" data-bs-toggle="modal" data-bs-target="#exampleModalCenter">
-<img src="{{ asset('/public/website/assets/images/call-cta.png') }}" alt="Geri Care Hospital" class="" /> 
-Request Call Back
+<li class="appmt-btmbtn">
+  <a href="{{ url('request-an-appointment') }}">
+  <img src="{{ asset('/public/website/assets/images/call-cta.png') }}"
+  alt="Geri Care Hospital" class="" />
+  Request an Appointment
 </a>
 </li>
 </ul>

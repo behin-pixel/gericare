@@ -101,7 +101,7 @@ class ConsultantFormController extends Controller
                 'type' => 'request_call_back',
                 'name' => $request->ecustomername,
                 'mobile_no' =>$request->emobileno,
-                'subject' => 'Website Online Request Call Back Enquiry'
+                'subject' => 'Website Online Request a Call Back Enquiry'
             ];
            // dd($mailData);
              

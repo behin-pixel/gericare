@@ -1,3 +1,65 @@
+<section class="bottom-bar-bg">
+	<div class="container">
+	<div class="d-flex align-items-center justify-content-between">
+	<div class="bottom-bar-img-1 @if(request()->routeIs(['gericare-homecare.about-homecare'])) activess @endif" >
+	  <a href="{{ url('homecare') }}"><img src="{{ asset('/public/website/assets/images/home-care-img.png') }}" alt="Geri Care Hospital" class="img-fluid"></a>
+	</div>
+	<div class="bottom-bar-img-2 @if(request()->routeIs(['gericare-hospital.about-hospital'])) activess @endif">
+		<a href="{{ url('gericare-hospital') }}"><img src="{{ asset('/public/website/assets/images/bottom-bar-tnagar.png') }}" alt="Geri Care Hospital" class="img-fluid"></a>
+	</div>
+	<div class="bottom-bar-img-3 @if(request()->routeIs(['gericare-clinics.about-clinics'])) activess @endif">
+		<a href="{{ url('about-clinics') }}"><img src="{{ asset('/public/website/assets/images/bottom-bar-anna.png') }}" alt="Geri Care Hospital" class="img-fluid"></a>
+	</div>
+	<div class="bottom-bar-img-4 @if(request()->routeIs(['gericare-assisted-living.about-assisted-living'])) activee @endif">
+		  <a href="{{ url('assisted-living') }}"> <img src="{{ asset('/public/website/assets/images/bottom-bar-ra.png') }}" alt="Geri Care Hospital" class="img-fluid"></a>
+	</div>
+	</div>
+	</div>
+	</section>
+	@section('addon_script')
+		<script>
+			 
+			$(".price").keypress(function(e) {
+				if (String.fromCharCode(e.keyCode).match(/[^.0-9]/g)) return false;
+			});
+			$('#consult_form').submit(function() {
+				$('#preloader').show();
+				event.preventDefault();
+				var formData = $('#consult_form').serialize();
+				$('#save-btn').prop('disabled', 'true');
+	
+				$.ajax({
+					url: "{{ route('consultant.form.submit') }}",
+					type: 'POST',
+					data: formData,
+					beforeSend: function() {
+					},
+					success: function(res) {
+	
+						$('#save-btn').prop('disabled', 'false');
+						$("#save-btn").attr("disabled", false);
+	
+						if (res.error == 0) {
+						   // if(res.from_page=='homepage')
+							
+						   //{						
+								window.location.href = '{{ route("consultant.thanks")}}';
+							//}	
+						  //  toastr.success('Success', res.message);
+							$('#consult_form')[0].reset();
+						} else {
+							if (res.message) {
+	
+								toastr.error("Error", res.message);
+	
+							}
+						}
+					}
+				})
+			})
+		</script>
+	@endsection
+	
 <footer>
 	<div class="container">
 		<div class="row">
@@ -65,12 +127,12 @@
 <div class="menu-inrt">
 <ul> 
 <li>
-<a href="{{ url('contact-us#gericarelocations') }}"><img src="{{ asset('/public/website/assets/images/sidebar-icn-1.png') }}">
-<span>Request <br> Callback</span>
+<a href="" data-bs-toggle="modal" data-bs-target="#exampleModalCenter"><img src="{{ asset('/public/website/assets/images/sidebar-icn-1.png') }}">
+<span>Request a<br> Callback</span>
 </a>
 </li> 
 <li>
-<a href="{{ url('contact-us#gericarelocations') }}"><img src="{{ asset('/public/website/assets/images/sidebar-icn-2.png') }}">
+<a href="{{ url('contact-us') }}"><img src="{{ asset('/public/website/assets/images/sidebar-icn-2.png') }}">
 <span>Locations</span>
 </a>
 </li> 
@@ -101,7 +163,7 @@
   <div class="modal-dialog modal-dialog-centered">
     <div class="modal-content text-center">
       <div class="modal-header text-center">
-        <h5 class="modal-title" id="exampleModalCenterTitle">Request Call Back</h5>
+        <h5 class="modal-title" id="exampleModalCenterTitle">Request a Callback</h5>
         <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close">
                             <span>×</span>
                         </button>
@@ -112,10 +174,33 @@
 			<input type="hidden" name="epagename" id="epagename" value="Home"> 
 			<input type="hidden" name="from" value="request_call_back">
 			<div class="position-relative">
+			<ul class="radio-btns">
+				<li>
+					<input type="radio" id="home Care" name="radio-group">
+					<label for="home Care">Home Care</label>
+				</li>
+				<li>
+					<input type="radio" id="hospital" name="radio-group">
+					<label for="hospital">Hospital</label>
+				</li>
+				<li>
+					<input type="radio" id="assisted living" name="radio-group">
+					<label for="assisted living">Assisted living</label>
+				</li>
+				<li>
+					<input type="radio" id="clinic" name="radio-group">
+					<label for="clinic">Clinic</label>
+				</li>
+			</ul>
+			</div>
+			<div class="position-relative">
 				<input type="text" class="form-control" name="ecustomername" id="ecustomername" required placeholder="Name*">
 			</div>
 			<div class="position-relative">
 				<input type="tel" class="form-control" name="emobileno" onkeypress="return isNumber(event)" id="emobileno" required placeholder="Phone Number*">
+			</div>
+			<div class="position-relative"> 
+				<textarea style="height:80px" class="form-control" name="message" placeholder="Message" required></textarea>
 			</div>
 			<div class="text-right">
 				<button type="submit" id="save-btn" class="submit-btn">Submit</button>

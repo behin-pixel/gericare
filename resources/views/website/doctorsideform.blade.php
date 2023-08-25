@@ -1,5 +1,5 @@
 <div class="form-detilsbox text-center">
-<h4>Book Your Appointment</h4>
+<h4>Request an Appointment</h4>
 <form class="appointment-form" name="AppointmentForm" method="post"  action="#" id="AppointmentForm">
 	@csrf	
 						<input type="hidden" name="from" value="doctor_appointment" >

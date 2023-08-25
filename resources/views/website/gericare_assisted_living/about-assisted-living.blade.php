@@ -33,7 +33,7 @@ under the expert care of Geriatricians</span>
 
 
 
-<section class="home-gericare">
+<section class="home-gericare pb-0">
 <div class="container">
 <div class="row">
 
@@ -55,7 +55,7 @@ to assist those in need. </h2> -->
 
 
 
-<div class="col-lg-12">
+{{-- <div class="col-lg-12">
 
 <div class="serveces-doctrs">
 
@@ -91,25 +91,78 @@ to assist those in need. </h2> -->
 
 </div> -->
 
-</div>
+</div> --}}
 
 </div>
 </div>
 </section> 
 
-<section class="prcess-img text-center pt-0">
+
+
+<section class="location-fixer p-0">
+  <div class="container">
+  <div class="row align-items-center">
+  
+  <div class="col-lg-3">
+  <div class="common-heading text-start">
+  <h2>Our Geri Care <br>
+  Assisted Living <br>
+  are located at<br>
+  RA Puram &<br>
+  Thoraipakkam</h2>
+  </div>
+  </div>
+  
+  <div class="col-lg-9">
+  
+  
+  <div class="serveces-doctrs">
+  
+  <div class="servce">
+  <img src="{{ asset('/public/website/assets/images/Loaction-RA Puram.jpg') }}" alt="Geri Care Hospital" class="w-100" />
+  <div class="servrse-contest">
+  <h4> Geri Care Assisted Living - RA Puram </h4>
+   <p>New #10, Old #23, 7th Main Road, <br> RA Puram, Chennai - 600028</p>
+  <!-- <p> No.8, Dr. Nair Road, Behind Vani<br> Mahal, T. Nagar, Chennai - 600 017 </p> -->
+  <a href="https://goo.gl/maps/j6n7agMHAkr19NEf8" target="_blank"> View On Map <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="Geri Care Hospital" class="" /></a>
+  </div>
+  </div>
+  
+  <div class="servce">
+  <img src="{{ asset('/public/website/assets/images/Loaction-Thoraipakkam.jpg') }}" alt="Geri Care Hospital" class="w-100" />
+  <div class="servrse-contest">
+  <h4> Geri Care Assisted Living - Thoraipakkam </h4>
+  <p>AKS Residency, Balamurugan Garden 1st Main Road, <br> Thoraipakkam, Chennai-600097</p>
+  <!-- <p> 100 Feet Velachery, 100 Feet Rd, Ward F,<br> Block 17, Adambakkam, Chennai - 600 088 </p> -->
+  <a href="https://goo.gl/maps/eZNZbkaZcb3gtZqE7" target="_blank"> View On Map <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="Geri Care Hospital" class="" /></a>
+  </div>
+  </div> 
+  
+  </div>
+  
+  </div>
+  
+  </div>
+  </div>
+  </section>
+
+<section class="prcess-img text-center pb-0">
 <div class="container">
 <div class="row align-items-center">
-
+<div class="common-heading text-center">
+<h2> Our Step-by-Step Approach </h2>
+</div>
 <div class="col-lg-12">
 
 <picture>
-  <source media="(min-width: 800px)" srcset="{{ asset('/public/website/assets/images/assisted-live-mb.png') }}" class="w-100">
-  <img src="{{ asset('/public/website/assets/images/assisted-live.png') }}"  class="img-responsive w-100" alt="Geri Care Hospital" > 
+<source media="(min-width: 800px)" srcset="{{ asset('/public/website/assets/images/assisted-live-mb.png') }}" class="w-100">
+<img src="{{ asset('/public/website/assets/images/assisted-live.png') }}"  class="img-responsive w-100 mb-5" alt="Geri Care Hospital" > 
 </picture>
 
 </div>
-
+<div class="care-service-btn">
+<a href="tel:+914440614061">Call Us at <b>+91 44 4061 4061</b></a>
+</div> 
 <a id="services-we-offer"></a>
 </div>
 </div>
@@ -269,14 +322,14 @@ to assist those in need. </h2> -->
 			  
 </div>
 </div>
-<a id="facilities-amenities"></a>
+
 </div>
 </div>
 </section>   
 
 </div>
 
-<section class="our-faacilities text-center">
+{{-- <section class="our-faacilities text-center">
 <div class="container">
 <div class="row align-items-center">
 
@@ -403,9 +456,9 @@ to assist those in need. </h2> -->
 
 </div>
 </div>
-</section>
+</section> --}}
 
-<section class="gallery-tabulars text-center">
+{{-- <section class="gallery-tabulars text-center">
 <div class="container">
 <div class="row align-items-center">
 
@@ -496,60 +549,227 @@ to assist those in need. </h2> -->
 <a id="locations"></a>
 </div>
 </div>
+</section> --}}
+
+<section class="embrance-compfort">
+<div class="container">
+<div class="row">
+  
+<div class="col-lg-12">
+
+<div class="row align-items-center main-sb-box">
+
+<div class="col-lg-8">
+<h3>Embrace Comfort and Companionship with  <br>
+Our Assisted Living Plans Starting from Only 15 Days</h3>
+<h4>Monthly, Quarterly & Annual Plans also available</h4>
+</div>
+
+<div class="col-lg-4 text-end">
+<a href="tel:+914440614061">Call Us at <span>+91 44 4061 4061</span></a>
+</div>
+
+</div>
+
+</div>
+<a id="facilities-amenities"></a>
+</div>  
+</div>  
 </section>
 
-<section class="location-fixer">
-<div class="container">
-<div class="row align-items-center">
+<section class="world-facilities">
+  <div class="container">
+      <div class="row align-items-center">
 
-<div class="col-lg-3">
-<div class="common-heading text-start">
-<h2>Our <br> Location</h2>
-</div>
-</div>
+          <div class="col-lg-4">
 
-<div class="col-lg-9">
+              <div class="common-heading text-start">
+                  <h2>Our Assisted Living<br>
+                    Facilities</h2>
+              </div>
+
+              {{-- <div class="common-para text-start">
+                  <p class="mb-0">At Geri Care, we have invested in state-of-the-art<br> facilities and world-class
+                      amenities to<br> ensure quality, accurate and reliable<br> services to the elders, who require a
+                      positive<br> mindset and emotional support.</p>
+              </div> --}}
+
+          </div>
+
+          <div class="col-lg-8">
+
+              <div class="facilities-slider text-end">
+
+                  <!-- <div class="facity-img">
+  <img src="{{ asset('/public/website/assets/images/facility-1.jpg') }}" alt="Geri Care Hospital" class="">
+  <span>State of the art ICU</span>
+  </div>  -->
+
+                  <div class="facity-img">
+                      <img src="{{ asset('/public/website/assets/images/assistedliving-facility-1.jpg') }}"
+                          alt="Geri Care Hospital" class="">
+                      <div class="facity-content-underimg">
+                          <span class="insect-tion">Daily Doctor Visit</span>
+                          {{-- <p>Instant radiology imaging services help our patients and doctors to treat patient
+                              effectively.</p> --}}
+                      </div>
+                  </div>
+ 
+
+              </div>
+
+          </div>
+
+          <a id="hospital-departments"></a>
+      </div>
+  </div>
+</section>
 
 
-<div class="serveces-doctrs">
+<section class="why-love infthis-layer">
+  <div class="container">
+  <div class="row justify-content-center">
+  
+  <div class="col-lg-10">
+  <div class="common-heading text-center">
+  <h2>Activities for Our Residents</h2>
+  </div>
+  
+  <div class="vertical-tabdetails">
+  
+  <div class="d-flex align-items-start">
+    <div class="nav flex-column nav-pills me-3" id="v-pills-tab" role="tablist" aria-orientation="1">
+      <button class="nav-link active" id="v-pills-1-tab" data-bs-toggle="pill" data-bs-target="#v-pills-1" type="button" role="tab" aria-controls="v-pills-1" aria-selected="true">Walking</button>
+      <button class="nav-link" id="v-pills-2-tab" data-bs-toggle="pill" data-bs-target="#v-pills-2" type="button" role="tab" aria-controls="v-pills-2" aria-selected="false">Outdoor Exercise</button>
+      <button class="nav-link" id="v-pills-3-tab" data-bs-toggle="pill" data-bs-target="#v-pills-3" type="button" role="tab" aria-controls="v-pills-3" aria-selected="false">Outdoor Meditation Classes</button>
+      <button class="nav-link" id="v-pills-4-tab" data-bs-toggle="pill" data-bs-target="#v-pills-4" type="button" role="tab" aria-controls="v-pills-4" aria-selected="false">Cooking or Baking</button>
+      <button class="nav-link" id="v-pills-5-tab" data-bs-toggle="pill" data-bs-target="#v-pills-5" type="button" role="tab" aria-controls="v-pills-5" aria-selected="false">Book Clubs</button>
+    </div>
+    <div class="tab-content" id="v-pills-tabContent">
+  
+      <div class="tab-pane fade show active" id="v-pills-1" role="tabpanel" aria-labelledby="v-pills-1-tab">
+       
+      <div class="skills-img">
+      <img src="{{ asset('/public/website/assets/images/assisted-living-1.jpg') }}" alt="Geri Care Hospital" class="w-100">
+      {{-- <div class="skills-cnt">
+      <span>Round-the-clock availability, ensuring that patients receive immediate care and attention.</span>  
+      </div> --}}
+      </div>
+  
+      </div>
+  
+      <div class="tab-pane fade" id="v-pills-2" role="tabpanel" aria-labelledby="v-pills-2-tab">
+          
+      <div class="skills-img">
+      <img src="{{ asset('/public/website/assets/images/hospitalo-1.jpg') }}" alt="Geri Care Hospital" class="w-100">
+      {{-- <div class="skills-cnt">
+      <span>Long-standing experience in treating and managing the unique medical needs of older adults.</span>  
+      </div> --}}
+      </div>
+  
+      </div>
+  
+      <div class="tab-pane fade" id="v-pills-3" role="tabpanel" aria-labelledby="v-pills-3-tab">
+        
+      <div class="skills-img">
+      <img src="{{ asset('/public/website/assets/images/360-personalized-care.jpg') }}" alt="Geri Care Hospital" class="w-100">
+      {{-- <div class="skills-cnt">
+      <span>Comprehensive and customised treatment plans that are unique and enriching for seniors.</span>  
+      </div> --}}
+      </div>
+  
+      </div>
+  
+      <div class="tab-pane fade" id="v-pills-4" role="tabpanel" aria-labelledby="v-pills-4-tab"> 
+        
+      <div class="skills-img">
+      <img src="{{ asset('/public/website/assets/images/expert-geriatricians.jpg') }}" alt="Geri Care Hospital" class="w-100">
+      {{-- <div class="skills-cnt">
+      <span>Medical professionals with extensive knowledge and experience in treating elderly patients.</span>  
+      </div> --}}
+      </div>
+    
+      </div>
+  
+      <div class="tab-pane fade" id="v-pills-5" role="tabpanel" aria-labelledby="v-pills-5-tab"> 
+              
+      <div class="skills-img">
+      <img src="{{ asset('/public/website/assets/images/best-in-class-staff.jpg') }}" alt="Geri Care Hospital" class="w-100">
+      {{-- <div class="skills-cnt">
+      <span>Dedicated and skilled staff that works collaboratively to ensure comfort and well-being.</span>  
+      </div> --}}
+      </div>
+  
+      </div>
+  
+      <div class="dts-picx">
+      <img src="{{ asset('/public/website/assets/images/dots.png') }}" alt="Geri Care Hospital" class="w-100">  
+      </div>
+  
+    </div>
+  </div>
+  
+  </div>
+  
+  </div>
+  
+  </div>
+  </div>
+  </section>  
 
-<div class="servce">
-<img src="{{ asset('/public/website/assets/images/Loaction-RA Puram.jpg') }}" alt="Geri Care Hospital" class="w-100" />
-<div class="servrse-contest">
-<h4> Geri Care Assisted Living - RA Puram </h4>
- <p>New #10, Old #23, 7th Main Road, <br> RA Puram, Chennai - 600028</p>
-<!-- <p> No.8, Dr. Nair Road, Behind Vani<br> Mahal, T. Nagar, Chennai - 600 017 </p> -->
-<a href="https://goo.gl/maps/j6n7agMHAkr19NEf8" target="_blank"> View On Map <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="Geri Care Hospital" class="" /></a>
-</div>
-</div>
+  <section class="world-facilities mob-response-vely">
+    <div class="container">
+        <div class="row align-items-center">
+  
+            <div class="col-lg-4">
+  
+                <div class="common-heading text-start">
+                    <h2>Activities for Our Residents</h2>
+                </div>
+  
+                {{-- <div class="common-para text-start">
+                    <p class="mb-0">At Geri Care, we have invested in state-of-the-art<br> facilities and world-class
+                        amenities to<br> ensure quality, accurate and reliable<br> services to the elders, who require a
+                        positive<br> mindset and emotional support.</p>
+                </div> --}}
+  
+            </div>
+  
+            <div class="col-lg-8">
+  
+                <div class="facilities-slider text-end">
+  
+                    <!-- <div class="facity-img">
+    <img src="{{ asset('/public/website/assets/images/facility-1.jpg') }}" alt="Geri Care Hospital" class="">
+    <span>State of the art ICU</span>
+    </div>  -->
+  
+                    <div class="facity-img">
+                        <img src="{{ asset('/public/website/assets/images/assisted-living-1.jpg') }}"
+                            alt="Geri Care Hospital" class="">
+                        <div class="facity-content-underimg">
+                            <span class="insect-tion">Walking</span>
+                            {{-- <p>Instant radiology imaging services help our patients and doctors to treat patient
+                                effectively.</p> --}}
+                        </div>
+                    </div>
+   
+  
+                </div>
+  
+            </div> 
+        </div>
+    </div>
+  </section>
 
-<div class="servce">
-<img src="{{ asset('/public/website/assets/images/Loaction-Thoraipakkam.jpg') }}" alt="Geri Care Hospital" class="w-100" />
-<div class="servrse-contest">
-<h4> Geri Care Assisted Living - Thoraipakkam </h4>
-<p>AKS Residency, Balamurugan Garden 1st Main Road, <br> Thoraipakkam, Chennai-600097</p>
-<!-- <p> 100 Feet Velachery, 100 Feet Rd, Ward F,<br> Block 17, Adambakkam, Chennai - 600 088 </p> -->
-<a href="https://goo.gl/maps/eZNZbkaZcb3gtZqE7" target="_blank"> View On Map <img src="{{ asset('/public/website/assets/images/small-arr.png') }}" alt="Geri Care Hospital" class="" /></a>
-</div>
-</div> 
-
-</div>
-
-</div>
-
-</div>
-</div>
-</section> 
-
-<section class="peace-of-mind">
+<section class="peace-of-mind m-0">
 <div class="container">
 <div class="row align-items-center">
 
 <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
 <div class="pseofmnd">
-To experience a quantum of care <br>
-that makes you feel at home...<br>
-<span>Call us today!</span>
+Experience support & care <br>
+at every step
 </div>
 </div>
 
@@ -566,7 +786,7 @@ that makes you feel at home...<br>
 <li>
 <a href="" data-bs-toggle="modal" data-bs-target="#exampleModalCenter">
 <img src="{{ asset('/public/website/assets/images/call-cta.png') }}" alt="Geri Care Hospital" class="" /> 
-Request Call Back
+Request a Callback
 </a>
 </li>
 </ul>

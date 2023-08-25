@@ -1,4 +1,4 @@
-<section class="bottom-bar-bg">
+{{-- <section class="bottom-bar-bg">
 <div class="container">
 <div class="d-flex align-items-center justify-content-between">
 <div class="bottom-bar-img-1 @if(request()->routeIs(['gericare-homecare.about-homecare'])) activess @endif" >
@@ -58,4 +58,4 @@
             })
         })
     </script>
-@endsection
+@endsection --}}

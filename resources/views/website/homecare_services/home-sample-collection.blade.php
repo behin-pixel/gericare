@@ -35,6 +35,12 @@
 <div class="common-para">
 <p>To avoid the inconvenience of visiting a laboratory or clinic, healthcare professionals can offer home blood/sample collection services. A phlebotomist or trained nurse can visit the patient's home, collect blood samples or other necessary specimens, and send them to the laboratory for testing. This service is especially beneficial for elderly patients who have mobility issues or find it challenging to travel to a healthcare facility.</p>
 </div>
+<div class="call-and-attend">
+    <ul>
+    <li><a href="" data-bs-toggle="modal" data-bs-target="#exampleModalCenter">Request a Callback</a></li>    
+    <li><a href="tel:+914440614061">Call Us at <span>+91 44 4061 4061</span></a></li>    
+    </ul>
+</div>
 </div>
 
 </div>
@@ -65,7 +71,7 @@ Bring You Peace of Mind
 <li>
 <a href="" data-bs-toggle="modal" data-bs-target="#exampleModalCenter">
 <img src="{{ asset('/public/website/assets/images/call-cta.png') }}" alt="Geri Care Hospital" class="" /> 
-Request Call Back
+Request a Call Back
 </a>
 </li>
 </ul>
