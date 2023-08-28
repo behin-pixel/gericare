@@ -192,6 +192,7 @@
                 <form name="request_call_back" id="request_call_back">
                     @csrf 
                     <input type="hidden" name="from" value="request_call_back">
+                    <input type="hidden" name="path" value="{{ request()->path() }}">
                     <div class="position-relative">
                         <ul class="radio-btns">
                             <li>

@@ -94,7 +94,7 @@ class ConsultantFormController extends Controller
             $ins['name'] = $request->ecustomername;         
             $ins['moble_no'] = $request->emobileno;
             $ins['type'] = $request->from;
-            $ins['services'] = $request->epagename ?? "" ;
+            $ins['services'] = $request->epagename ?? $request->path ;
             $ins['message'] = $request->message ?? "" ;
             
             Enquiries::create($ins);

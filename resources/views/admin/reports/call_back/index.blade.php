@@ -25,7 +25,7 @@
                     <tr>
                         <th>S.No </th>
                         <th>Name</th>         
-                        <th>Services</th>         
+                        <th>Page Path</th>         
                         <th>Mobile No</th>                          
                         <th>Enquiry Date</th>
                         <th>Message</th>                          
