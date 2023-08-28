@@ -12,8 +12,9 @@ use App\Mail\AppointmentMail;
 
 class BookAppointmentController extends Controller
 {
-    
-    public function saveAppointment(Request $request) {
+
+    public function saveAppointment(Request $request)
+    {
 
         $validator      = Validator::make($request->all(), [
             'appointment_date' => 'required',
@@ -26,11 +27,11 @@ class BookAppointmentController extends Controller
             'mobile_no' => 'required',
             //'details' => 'required',
         ]);
-       // dd($request->doctor_name);
+        // dd($request->doctor_name);
 
         if ($validator->passes()) {
             // $appointment_time = date('H:i:s', strtotime($request->appointment_time));
-            $appointment_date = str_replace('/', '-',$request->appointment_date);
+            $appointment_date = str_replace('/', '-', $request->appointment_date);
             $ins = [];
             $ins['appointment_services'] = $request->services ?? null;
             $ins['doctor_name'] = $request->doctor_name ?? null;
@@ -38,64 +39,56 @@ class BookAppointmentController extends Controller
             $ins['appointment_time'] = $request->appointment_time;
             $ins['enquiry_from'] = $request->from;
             $ins['name'] = $request->name;
-            $ins['email'] = $request->email; 
+            $ins['email'] = $request->email;
             $ins['mobile_no'] = $request->mobile_no ?? null;
             $ins['message'] = $request->details ?? null;
             $ins['enquiry_from_ip'] = $request->ip();
             BookAppointment::create($ins);
 
-            if($request->from == 'departments')
-            {
-                $subject='Website Online Department Page Appointment';
+            if ($request->from == 'departments') {
+                $subject = 'Website Online Department Page Appointment';
                 //$services=$request->services;
-                $services='';
-                $doctor_name='';
-            }   
-            else if($request->from == 'service_appointment')
-            {
-                $subject='Website Online Header Appointment';
-                $services=$request->services;
-                $doctor_name='';
-            }
-            else
-            { 
-                $subject='Website Online Doctor Appointment';
-                $services=$request->services;
-                $doctor_name=$request->doctor_name;
-
+                $services = '';
+                $doctor_name = '';
+            } else if ($request->from == 'service_appointment') {
+                $subject = 'Website Online Header Appointment';
+                $services = $request->services;
+                $doctor_name = '';
+            } else {
+                $subject = 'Website Online Doctor Appointment';
+                $services = $request->services;
+                $doctor_name = $request->doctor_name;
             }
             $mailData = [
-                'type'=> $request->from,
+                'type' => $request->from,
                 'services' => $services,
                 'doctor_name' => $doctor_name,
                 'name' => $request->name,
                 'email' =>  $request->email,
-                'mobile_no' =>$request->mobile_no,
-                'message' => $request->details ,
+                'mobile_no' => $request->mobile_no,
+                'message' => $request->details,
                 'subject' => $subject,
                 'appointment_date' => $request->appointment_date,
                 'appointment_time' =>  $request->appointment_time
             ];
-           // dd($mailData);
-             
-            Mail::to(env('CLIENT_MAIL'))->bcc(env('BCC_MAIL'))->send(new AppointmentMail($mailData));
-           
-           //acknowledgement mail function
-            Mail::to($request->email)->bcc(env('BCC_MAIL'))->send(new ThankyouMail($mailData));
-            // end
+            // dd($mailData);
 
+           try {
+            Mail::to(env('CLIENT_MAIL'))->bcc(env('BCC_MAIL'))->send(new AppointmentMail($mailData));
+            Mail::to($request->email)->bcc(env('BCC_MAIL'))->send(new ThankyouMail($mailData));
+           } catch (\Throwable $th) {
+            //throw $th;
+           }
+            // end
 
             $error                      = 0;
             $message                    = 'Appointment Book request submitted successfully';
-            $from_page                  =   $request->from; 
-
+            $from_page                  =   $request->from;
         } else {
             $error                      = 1;
             $message                    = $validator->errors()->all();
-            $from_page                  =   $request->from; 
+            $from_page                  =   $request->from;
         }
-        return response()->json(['error' => $error, 'message' => $message, 'from_page'  => $from_page ]);
-
+        return response()->json(['error' => $error, 'message' => $message, 'from_page'  => $from_page]);
     }
-
 }
