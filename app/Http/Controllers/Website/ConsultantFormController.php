@@ -83,7 +83,6 @@ class ConsultantFormController extends Controller
     }
     public function submitConsultantReqForm(Request $request)
     {
-
         $validator      = Validator::make($request->all(), [
             'ecustomername' => 'required',          
             'emobileno' => 'required',
@@ -95,7 +94,9 @@ class ConsultantFormController extends Controller
             $ins['name'] = $request->ecustomername;         
             $ins['moble_no'] = $request->emobileno;
             $ins['type'] = $request->from;
-         
+            $ins['services'] = $request->epagename ?? "" ;
+            $ins['message'] = $request->message ?? "" ;
+            
             Enquiries::create($ins);
             $mailData = [
                 'type' => 'request_call_back',
@@ -103,9 +104,11 @@ class ConsultantFormController extends Controller
                 'mobile_no' =>$request->emobileno,
                 'subject' => 'Website Online Request a Call Back Enquiry'
             ];
-           // dd($mailData);
-             
-            Mail::to(env('CLIENT_MAIL'))->bcc(env('BCC_MAIL'))->send(new EnquiryMail($mailData));
+            try {
+                Mail::to(env('CLIENT_MAIL'))->bcc(env('BCC_MAIL'))->send(new EnquiryMail($mailData));
+            } catch (\Throwable $th) {
+                //throw $th;
+            }
             $error                      = 0;
             $message                    = 'Form submitted successfully';
         } else {
@@ -141,7 +144,5 @@ class ConsultantFormController extends Controller
     public function departmentAppThanks()
     {
         return view('website.book-appointmnet-thanks');
-    }
-    
-
+    } 
 }
