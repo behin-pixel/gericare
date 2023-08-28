@@ -24,9 +24,11 @@
                 <thead> 
                     <tr>
                         <th>S.No </th>
-                        <th>Name</th>                       
+                        <th>Name</th>         
+                        <th>Services</th>         
                         <th>Mobile No</th>                          
                         <th>Enquiry Date</th>
+                        <th>Message</th>                          
                     </tr>
                 </thead>
                 <tbody></tbody>
@@ -45,9 +47,10 @@
                 columns: [
                     {data: 'DT_RowIndex', name: 'DT_RowIndex',orderable: false, searchable: false},
                     {data:"name", name : "name"},                   
+                    {data:"services", name : "services"},                   
                     {data:"moble_no", name : "moble_no"},                   
                     {data:"created_at", name : "created_at"},
-                    
+                    {data:"message", name : "message"},
                 ],
             });
         });
