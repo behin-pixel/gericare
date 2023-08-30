@@ -46,48 +46,50 @@ Route::post('/career/form/save',[CareerController::class,'applyJob'])->name('car
 
 Route::get('hospital-departments',[PageViewController::class,'hospitalDepartmentPage'])->name('gericare-hospital.hospital-department');
 
-Route::get('our-doctors',[PageViewController::class,'hospitalDoctorsPage'])->name('gericare-hospital.hospital-doctors');
+// Route::get('our-doctors',[PageViewController::class,'hospitalDoctorsPage'])->name('gericare-hospital.hospital-doctors');
 
 
-Route::get('geriatric-medicine',[PageViewController::class,'geriatricMedicine'])->name('departments.geriatric-medicine');
+Route::get('/departments/geriatric-medicine',[PageViewController::class,'geriatricMedicine'])->name('departments.geriatric-medicine');
 
-Route::get('geriatric-cardiology',[PageViewController::class,'geriatricCardiology'])->name('departments.geriatric-cardiology');
+Route::get('/departments/geriatric-cardiology',[PageViewController::class,'geriatricCardiology'])->name('departments.geriatric-cardiology');
 
-Route::get('ortho-geriatrics',[PageViewController::class,'orthoGeriatrics'])->name('departments.ortho-geriatrics');
+Route::get('/departments/ortho-geriatrics',[PageViewController::class,'orthoGeriatrics'])->name('departments.ortho-geriatrics');
 
-Route::get('geriatric-psychiatry',[PageViewController::class,'geriatricPsychiatry'])->name('departments.geriatric-psychiatry');
+Route::get('/departments/geriatric-psychiatry',[PageViewController::class,'geriatricPsychiatry'])->name('departments.geriatric-psychiatry');
 
-Route::get('geriatric-neurology',[PageViewController::class,'geriatricNeurology'])->name('departments.geriatric-neurology');
+Route::get('/departments/geriatric-neurology',[PageViewController::class,'geriatricNeurology'])->name('departments.geriatric-neurology');
 
-Route::get('geriatric-surgery',[PageViewController::class,'geriatricSurgery'])->name('departments.geriatric-surgery');
+Route::get('/departments/geriatric-surgery',[PageViewController::class,'geriatricSurgery'])->name('departments.geriatric-surgery');
 
-Route::get('geriatric-oncology',[PageViewController::class,'geriatricOncology'])->name('departments.geriatric-oncology');
+Route::get('/departments/geriatric-oncology',[PageViewController::class,'geriatricOncology'])->name('departments.geriatric-oncology');
 
-Route::get('geriatric-urology',[PageViewController::class,'geriatricUrology'])->name('departments.geriatric-urology');
+Route::get('/departments/geriatric-urology',[PageViewController::class,'geriatricUrology'])->name('departments.geriatric-urology');
 
-Route::get('gastroenterology',[PageViewController::class,'gastroenTerology'])->name('departments.gastroenterology');
+Route::get('/departments/gastroenterology',[PageViewController::class,'gastroenTerology'])->name('departments.gastroenterology');
 
-Route::get('pulmonology',[PageViewController::class,'Pulmonology'])->name('departments.pulmonology');
+Route::get('/departments/pulmonology',[PageViewController::class,'Pulmonology'])->name('departments.pulmonology');
 
-Route::get('geriatric-icu',[PageViewController::class,'GeriatricICU'])->name('departments.geriatric-icu');
+Route::get('/departments/geriatric-icu',[PageViewController::class,'GeriatricICU'])->name('departments.geriatric-icu');
 
-Route::get('dermatology',[PageViewController::class,'Dermatology'])->name('departments.dermatology');
+Route::get('/departments/dermatology',[PageViewController::class,'Dermatology'])->name('departments.dermatology');
 
-Route::get('vascular-surgery',[PageViewController::class,'vascularSurgery'])->name('departments.vascular-surgery');
+Route::get('/departments/vascular-surgery',[PageViewController::class,'vascularSurgery'])->name('departments.vascular-surgery');
 
-Route::get('uro-gynaecology',[PageViewController::class,'uroGynaecology'])->name('departments.uro-gynaecology');
+Route::get('/departments/uro-gynaecology',[PageViewController::class,'uroGynaecology'])->name('departments.uro-gynaecology');
 
-Route::get('nephrology',[PageViewController::class,'Nephrology'])->name('departments.nephrology');
+Route::get('/departments/nephrology',[PageViewController::class,'Nephrology'])->name('departments.nephrology');
 
-Route::get('pathology',[PageViewController::class,'Pathology'])->name('departments.pathology');
+Route::get('/departments/pathology',[PageViewController::class,'Pathology'])->name('departments.pathology');
 
-Route::get('ophthalmology',[PageViewController::class,'Ophthalmology'])->name('departments.ophthalmology');
+Route::get('/departments/ophthalmology',[PageViewController::class,'Ophthalmology'])->name('departments.ophthalmology');
 
-Route::get('dentistry',[PageViewController::class,'Dentistry'])->name('departments.dentistry');
+Route::get('/departments/dentistry',[PageViewController::class,'Dentistry'])->name('departments.dentistry');
 
-Route::get('geriatric-physiotherapy',[PageViewController::class,'geriatricPhysiotherapy'])->name('departments.geriatric-physiotherapy');
+Route::get('our-doctors',[PageViewController::class,'ourDoctorsList'])->name('gericare-hospital.our-doctors');
 
-Route::get('ent',[PageViewController::class,'Ent'])->name('departments.ent');
+Route::get('/departments/geriatric-physiotherapy',[PageViewController::class,'geriatricPhysiotherapy'])->name('departments.geriatric-physiotherapy');
+
+Route::get('/departments/ent',[PageViewController::class,'Ent'])->name('departments.ent');
 
 Route::get('dr-srinivas',[PageViewController::class,'drSrinivasPage'])->name('doctors-details.dr-srinivas');
 

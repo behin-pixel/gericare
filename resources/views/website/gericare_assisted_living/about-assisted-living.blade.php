@@ -657,9 +657,9 @@
                                 <span class="insect-tion">Daily Doctor Visit</span>
                                 {{-- <p>Instant radiology imaging services help our patients and doctors to treat patient
                               effectively.</p> --}}
-                            </div>
-                        </div>
-
+                      </div>
+                  </div>
+ 
 
                     </div>
 
@@ -671,45 +671,32 @@
     </section>
 
 
-    <section class="why-love infthis-layer">
-        <div class="container">
-            <div class="row justify-content-center">
-
-                <div class="col-lg-10">
-                    <div class="common-heading text-center">
-                        <h2>Activities for Our Residents</h2>
-                    </div>
-
-                    <div class="vertical-tabdetails">
-
-                        <div class="d-flex align-items-start">
-                            <div class="nav flex-column nav-pills me-3" id="v-pills-tab" role="tablist"
-                                aria-orientation="1">
-                                <button class="nav-link active" id="v-pills-1-tab" data-bs-toggle="pill"
-                                    data-bs-target="#v-pills-1" type="button" role="tab" aria-controls="v-pills-1"
-                                    aria-selected="true">Walking</button>
-                                <button class="nav-link" id="v-pills-2-tab" data-bs-toggle="pill"
-                                    data-bs-target="#v-pills-2" type="button" role="tab" aria-controls="v-pills-2"
-                                    aria-selected="false">Outdoor Exercise</button>
-                                <button class="nav-link" id="v-pills-3-tab" data-bs-toggle="pill"
-                                    data-bs-target="#v-pills-3" type="button" role="tab" aria-controls="v-pills-3"
-                                    aria-selected="false">Outdoor Meditation Classes</button>
-                                <button class="nav-link" id="v-pills-4-tab" data-bs-toggle="pill"
-                                    data-bs-target="#v-pills-4" type="button" role="tab" aria-controls="v-pills-4"
-                                    aria-selected="false">Cooking or Baking</button>
-                                <button class="nav-link" id="v-pills-5-tab" data-bs-toggle="pill"
-                                    data-bs-target="#v-pills-5" type="button" role="tab" aria-controls="v-pills-5"
-                                    aria-selected="false">Book Clubs</button>
-                            </div>
-                            <div class="tab-content" id="v-pills-tabContent">
-
-                                <div class="tab-pane fade show active" id="v-pills-1" role="tabpanel"
-                                    aria-labelledby="v-pills-1-tab">
-
-                                    <div class="skills-img">
-                                        <img src="{{ asset('/public/website/assets/images/assisted-living-1.jpg') }}"
-                                            alt="Geri Care Hospital" class="w-100">
-                                        {{-- <div class="skills-cnt">
+<section class="why-love infthis-layer">
+  <div class="container">
+  <div class="row justify-content-center">
+  
+  <div class="col-lg-10">
+  <div class="common-heading text-center">
+  <h2>Activities for Our Residents</h2>
+  </div>
+  
+  <div class="vertical-tabdetails">
+  
+  <div class="d-flex align-items-start">
+    <div class="nav flex-column nav-pills me-3" id="v-pills-tab" role="tablist" aria-orientation="1">
+      <button class="nav-link active" id="v-pills-1-tab" data-bs-toggle="pill" data-bs-target="#v-pills-1" type="button" role="tab" aria-controls="v-pills-1" aria-selected="true">Walking</button>
+      <button class="nav-link" id="v-pills-2-tab" data-bs-toggle="pill" data-bs-target="#v-pills-2" type="button" role="tab" aria-controls="v-pills-2" aria-selected="false">Outdoor Exercise</button>
+      <button class="nav-link" id="v-pills-3-tab" data-bs-toggle="pill" data-bs-target="#v-pills-3" type="button" role="tab" aria-controls="v-pills-3" aria-selected="false">Outdoor Meditation Classes</button>
+      <button class="nav-link" id="v-pills-4-tab" data-bs-toggle="pill" data-bs-target="#v-pills-4" type="button" role="tab" aria-controls="v-pills-4" aria-selected="false">Cooking or Baking</button>
+      <button class="nav-link" id="v-pills-5-tab" data-bs-toggle="pill" data-bs-target="#v-pills-5" type="button" role="tab" aria-controls="v-pills-5" aria-selected="false">Book Clubs</button>
+    </div>
+    <div class="tab-content" id="v-pills-tabContent">
+  
+      <div class="tab-pane fade show active" id="v-pills-1" role="tabpanel" aria-labelledby="v-pills-1-tab">
+       
+      <div class="skills-img">
+      <img src="{{ asset('/public/website/assets/images/assisted-living-1.jpg') }}" alt="Geri Care Hospital" class="w-100">
+      {{-- <div class="skills-cnt">
       <span>Round-the-clock availability, ensuring that patients receive immediate care and attention.</span>  
       </div> --}}
                                     </div>
@@ -799,35 +786,35 @@
                         amenities to<br> ensure quality, accurate and reliable<br> services to the elders, who require a
                         positive<br> mindset and emotional support.</p>
                 </div> --}}
-
-                </div>
-
-                <div class="col-lg-8">
-
-                    <div class="facilities-slider text-end">
-
-                        <!-- <div class="facity-img">
-        <img src="{{ asset('/public/website/assets/images/facility-1.jpg') }}" alt="Geri Care Hospital" class="">
-        <span>State of the art ICU</span>
-        </div>  -->
-
-                        <div class="facity-img">
-                            <img src="{{ asset('/public/website/assets/images/assisted-living-1.jpg') }}"
-                                alt="Geri Care Hospital" class="">
-                            <div class="facity-content-underimg">
-                                <span class="insect-tion">Walking</span>
-                                {{-- <p>Instant radiology imaging services help our patients and doctors to treat patient
-                                effectively.</p> --}}
-                            </div>
-                        </div>
-
-
-                    </div>
-
-                </div>
+  
             </div>
+  
+            <div class="col-lg-8">
+  
+                <div class="facilities-slider text-end">
+  
+                    <!-- <div class="facity-img">
+    <img src="{{ asset('/public/website/assets/images/facility-1.jpg') }}" alt="Geri Care Hospital" class="">
+    <span>State of the art ICU</span>
+    </div>  -->
+  
+                    <div class="facity-img">
+                        <img src="{{ asset('/public/website/assets/images/assisted-living-1.jpg') }}"
+                            alt="Geri Care Hospital" class="">
+                        <div class="facity-content-underimg">
+                            <span class="insect-tion">Walking</span>
+                            {{-- <p>Instant radiology imaging services help our patients and doctors to treat patient
+                                effectively.</p> --}}
+                        </div>
+                    </div>
+   
+  
+                </div>
+  
+            </div> 
         </div>
-    </section>
+    </div>
+  </section>
 
     <section class="peace-of-mind m-0">
         <div class="container">

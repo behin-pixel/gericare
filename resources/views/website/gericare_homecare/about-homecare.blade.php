@@ -267,6 +267,7 @@ Our care plans involve collaboration with a multi-disciplinary team consisting o
 
 <div class="col-lg-4">
   <div class="gericare-service-img">
+    <div>
       <img src="{{ asset('/public/website/assets/images/physiotherapy.jpg') }}" alt="Physiotherapist For Home Visits" class="w-100" />
       <div class="minrester gericare-service-crd">
         <h4 class="mb-2 text-start">Geriatric Physiotherapy at Home</h4>
@@ -278,6 +279,7 @@ Our care plans involve collaboration with a multi-disciplinary team consisting o
           <a href="" data-bs-toggle="modal" data-bs-target="#exampleModalCenter">Request a Callback</a>
         </div> 
       </div> 
+    </div>  
   </div>
 </div>
 <div class="col-lg-4">

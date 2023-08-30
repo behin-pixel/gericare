@@ -135,6 +135,10 @@ class PageViewController extends Controller
     {
         return view('website.gericare_clinics.sleep-disorder-clinic');
     }
+    public function ourDoctorsList()
+    {
+        return view('website.gericare_hospital.our-doctors');
+    }
     public function hospitalDoctorsPage()
     {
         $title = 'Our Doctors - Geri Care';

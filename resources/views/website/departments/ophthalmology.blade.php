@@ -39,6 +39,12 @@
 
     <h4>Ophthalmology</h4>
     <div class="department-content">
+    <div class="call-and-attend"><br><br>
+      <ul>
+      <li><a href="" data-bs-toggle="modal" data-bs-target="#exampleModalCenter">Request a Callback</a></li>    
+      <li><a href="tel:+914440614061">Call Us at <span>+91 44 4061 4061</span></a></li>    
+      </ul>
+    </div>
            <!-- <p>Specialising in skin health for older adults, our Geriatric Dermatology department offers tailored treatments and skincare solutions, addressing age-related dermatological conditions such as psoriasis, dry skin, bullous pemphigoid, melanoma with expertise and compassion.</p> -->
     </div>
    

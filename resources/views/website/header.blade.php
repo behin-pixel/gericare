@@ -111,7 +111,7 @@
                   <a href="{{ url('gericare-hospital/#hospital-departments') }}">Departments</a>
                 </li>
                 <li class="@if(request()->routeIs(['gericare-hospital.hospital-doctors'])) active @endif">
-                  <a href="{{ url('geriatric-medicine') }}">Our Doctors</a>
+                  <a href="{{ url('our-doctors') }}">Our Doctors</a>
                 </li> 
                 {{--  <li class="@if(request()->routeIs(['gericare-hospital.hospital-facilities'])) active @endif">
                   <a href="{{ url('gericare-hospital/#hospital-facilities') }}">Facilities</a>

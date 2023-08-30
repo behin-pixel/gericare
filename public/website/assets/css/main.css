@@ -427,7 +427,7 @@ a:hover {
 }
 
 .carousel .carousel-caption span {
-    font-size: 30px;
+    font-size: 28px;
     line-height: 32px;
     color: #FFF;
     font-weight: 600;
@@ -438,7 +438,7 @@ a:hover {
 }
 
 .carousel .carousel-caption span.text-light{
-    font-size: 26px;
+    font-size: 32px;
     line-height: 32px;
     color: #FFF;
     font-weight: 700;
@@ -1799,6 +1799,9 @@ img.moby {
     grid-column-gap: 20px;
     grid-row-gap: 20px;
 }
+.our-doctors-list .panell-drts{
+    grid-template-columns: repeat(5, 1fr);
+}
 
 .dr-panel img {
     border-top-left-radius: 4px;
@@ -2460,6 +2463,9 @@ ul.press-release li {
 @media(max-width: 767px) {
     .gallery ul.press-release li {
         width: 98%;
+    }
+    .our-doctors-list .selt-deps h4{
+        width: 100%;
     }
 }
 ul.press-release li {
@@ -4190,10 +4196,10 @@ ul.contact-socials li{margin:0px 5px;}
 a.hospital-btn{font-style: normal;border:0px;
     font-weight: 700;font-size: 18px;}
 
-a.hospital-btn.cli{background-color:#1fa059;font-style: normal;border:0px;
+a.hospital-btn.cli{background-color: #877179;;font-style: normal;border:0px;
     font-weight: 700;font-size: 18px;}
 
-a.hospital-btn.ast{background-color:#000;font-style: normal;border:0px;
+a.hospital-btn.ast{background-color: #8E578C;;font-style: normal;border:0px;
         font-weight: 700;font-size: 18px;}
 
 .call-and-attend ul{margin: 0px;padding: 0px;}
@@ -4768,7 +4774,7 @@ span.insect-tion{font-family: 'Mulish', sans-serif;font-size: 18px;
         max-width: 380px;
     }
     .carousel .carousel-caption span {
-        font-size: 16px;
+        font-size: 18px;
     }
     .carousel .carousel-caption a {
         padding: 8px 15px;
@@ -4918,6 +4924,10 @@ span.insect-tion{font-family: 'Mulish', sans-serif;font-size: 18px;
         margin-bottom: 15px;
     }
     .panell-drts {
+        grid-template-columns: repeat(3, 1fr);
+        grid-row-gap: 30px;
+    }
+    .our-doctors-list .panell-drts{
         grid-template-columns: repeat(3, 1fr);
         grid-row-gap: 30px;
     }
@@ -5726,6 +5736,9 @@ span.insect-tion{font-family: 'Mulish', sans-serif;font-size: 18px;
         margin-left: 0;
         margin-top: 30px;
     }
+    .department-title {
+        text-align: center;
+    }
 
 
     .vertical-tabdetails #v-pills-tabContent {
@@ -6000,7 +6013,13 @@ br{display: none !important;}
     }
     .carousel .carousel-caption h1 {
         font-size: 24px;
-        margin-bottom: 20px;
+        margin-bottom: 5px;
+    }
+    .carousel .carousel-caption span.text-light{
+        font-size: 22px;
+    }
+    .mobile-margin {
+        margin-bottom: 10px !important;
     }
     .carousel .carousel-caption span {
         margin-bottom: 20px;
@@ -6145,6 +6164,12 @@ br{display: none !important;}
 
 
 }
+@media (max-width: 660px) {
+    .our-doctors-list .panell-drts {
+        grid-template-columns: repeat(2, 1fr);
+        margin: 0px 20px;
+      }
+}
 
 @media(max-width: 480px) {
     ul.radio-btns li{margin-bottom: 15px;}
@@ -6156,8 +6181,12 @@ br{display: none !important;}
         grid-template-columns: repeat(1, 1fr);
         margin: 0px 20px;
       }
+      .our-doctors-list .panell-drts {
+        grid-template-columns: repeat(1, 1fr);
+        margin: 0px 20px;
+      }
     .dr-panel a {
-        font-size: 12px;
+        font-size: 16px;
     }
     .age-bars::before {
         bottom: -29.3%;
@@ -6228,6 +6257,7 @@ br{display: none !important;}
         padding: 10px 20px;
     }
 }
+
 .servrse-contest-p h3 {
     color: black;
     font-weight: 700;
@@ -6446,11 +6476,17 @@ br{display: none !important;}
     border-right: 0px;
 }
 .about-link-design li a{
-    color: #000;
+    color: #0000007a;
+}
+.common-bg-color{
+    background: #f2e7ed;
 }
 .about-link-design ul{
     display: flex;
-    gap: 40px;
+}
+.about-link-design ul li a{
+    display: block;
+    text-align: center;
 }
 .about-link-design hr{
     color: #7C164B1A;
@@ -6467,10 +6503,12 @@ br{display: none !important;}
     width: 20%;
     border-right: 2px solid #e710cc1a;
 }
+.no-line li{
+    border-right: none;
+}
+
+
 @media (max-width: 768px){
-    .m-none{
-        display: none;
-    }
     .mobile-dropdown-menu{
         display: block;
         background-color: #7C164B;
@@ -6488,10 +6526,12 @@ br{display: none !important;}
         z-index: 9 !important;
     }
 }
+
  .side-line::after{
     position: absolute;
     content: '';
-    right: -29px;
+    right: 0px;
+    top: 0px;
     width: 2px;
     height: 30px;
     background-color: #e714811a;
@@ -6505,6 +6545,9 @@ br{display: none !important;}
 @media (max-width: 1000px){
     .top-bar-link{
         display: none !important;
+    }
+    .m-none{
+        display: none;
     }
 }
 @media (min-width: 1000px){
@@ -6522,3 +6565,39 @@ br{display: none !important;}
         margin-bottom: 10px;
     }
 }
+.our-doctors-list .selt-deps{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+.our-doctors-list .selt-deps h4{
+    width: 55%;
+    font-size: 16px;
+}
+@media (min-width: 992px) and (max-width: 1200px) {
+    .our-doctors-list .selt-deps h4 {
+        width: 60%;
+        font-size: 13px;
+    }
+}
+.our-doctors-list .department-title{
+    font-weight: 700;
+    margin-bottom: 15px;
+    font-size: 22px;
+    color: #7C164B;
+    font-family: 'Red Hat Display', sans-serif;
+    line-height: 42px;
+}
+.our-doctors-list .dr-panel{
+    margin-bottom: 25px;
+}
+@media (min-width: 768px) and (max-width: 1000px){
+    .our-doctors-list .selt-deps h4{
+        width: 35%;
+    }
+}
+.no-margins #v-pills-tab{
+    margin: 0px 45px 0px 0px !important;
+}
+
+.dark-gray-bg {background: #f7f7f7;}

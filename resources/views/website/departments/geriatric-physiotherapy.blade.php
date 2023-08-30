@@ -43,11 +43,11 @@
     </div>
    
     <div class="call-and-attend"><br><br>
-<ul>
-<li><a href="" data-bs-toggle="modal" data-bs-target="#exampleModalCenter">Request a Callback</a></li>    
-<li><a href="tel:+914440614061">Call Us at <span>+91 44 4061 4061</span></a></li>    
-</ul>
-</div>
+      <ul>
+      <li><a href="" data-bs-toggle="modal" data-bs-target="#exampleModalCenter">Request a Callback</a></li>    
+      <li><a href="tel:+914440614061">Call Us at <span>+91 44 4061 4061</span></a></li>    
+      </ul>
+    </div>
 
   </div> 
       

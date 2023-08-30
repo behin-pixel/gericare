@@ -19,7 +19,7 @@
       <img src="{{ asset('/public/website/assets/images/banners/main-banners/mobile-banner-1.webp') }}" alt="Geri Care Hospital" class="moby w-100 d-block d-lg-none" />
       <div class="carousel-caption animated animatedFadeInUp fadeInUp">
         <h1 class="text-blue">Transforming Lives</h1>
-          <span class="text-blue">through personalised care</span> 
+          <span class="text-blue mobile-margin">through personalised care</span> 
        <span class="text-light">We Are Geri Care</span>  
       </div>
     </div> 
@@ -819,7 +819,7 @@ Nov 04 2019
                       No.8, Dr.Nair road, Behind Vani mahal,
                       T. Nagar, Chennai - 600 017
                     </p>
-                    <a href="https://goo.gl/maps/u6K6owxWtpxry8EV8" target="_blank" tabindex="0" class="mb-2">View on Maps <img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="Geri Care Hospital"></a>
+                    <a href="https://goo.gl/maps/u6K6owxWtpxry8EV8" target="_blank" tabindex="0" class="mb-2">View on Maps <img src="https://www.gericare.in/public/website/assets/images/red.png" alt="Geri Care Hospital"></a>
                 </div> 
               
               <div class="col-md-6 col-lg-7 col-xl-8 t-nagar left-space">
@@ -829,7 +829,7 @@ Nov 04 2019
                       Ward F,<br> Block 17, Adambakkam,
                       Chennai, Tamil Nadu 600088
                    </p>
-                    <a href="https://goo.gl/maps/KFAt8ytkXKEeuxZ59" target="_blank" tabindex="0" class="mb-2">View on Maps <img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="Geri Care Hospital"></a> 
+                    <a href="https://goo.gl/maps/KFAt8ytkXKEeuxZ59" target="_blank" tabindex="0" class="mb-2">View on Maps <img src="https://www.gericare.in/public/website/assets/images/red.png" alt="Geri Care Hospital"></a> 
                </div>
           </div> 
           <div class="row">
@@ -844,7 +844,7 @@ Nov 04 2019
                        No:21, 1st avenue, Indira Nagar,
                        Adyar, Chennai - 600 020
                     </p>
-                    <a href="https://goo.gl/maps/iZ6WNkecYyEqYKBZ6" target="_blank" tabindex="0" class="mb-2">View on Maps <img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="Geri Care Hospital"></a>
+                    <a href="https://goo.gl/maps/iZ6WNkecYyEqYKBZ6" target="_blank" tabindex="0" class="mb-2">View on Maps <img src="https://www.gericare.in/public/website/assets/images/red.png" alt="Geri Care Hospital"></a>
                     
                 </div> 
               
@@ -854,7 +854,7 @@ Nov 04 2019
                       Plot no.3698, Q Block-100, 3rd<br> Avenue,
                       Anna Nagar, Chennai - 600 040
                    </p>
-                    <a href="https://goo.gl/maps/FLwu1wnwvRHQEqdb7" target="_blank" tabindex="0" class="mb-2">View on Maps <img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="Geri Care Hospital"></a> 
+                    <a href="https://goo.gl/maps/FLwu1wnwvRHQEqdb7" target="_blank" tabindex="0" class="mb-2">View on Maps <img src="https://www.gericare.in/public/website/assets/images/red.png" alt="Geri Care Hospital"></a> 
                </div>
           </div> 
           <div class="row">
@@ -867,7 +867,7 @@ Nov 04 2019
                       New #10, Old #23, 7th Main Road,
                       RA Puram, Chennai - 600 028
                     </p>
-                    <a href="https://goo.gl/maps/j6n7agMHAkr19NEf8" target="_blank" tabindex="0" class="mb-2">View on Maps <img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="Geri Care Hospital"></a>
+                    <a href="https://goo.gl/maps/j6n7agMHAkr19NEf8" target="_blank" tabindex="0" class="mb-2">View on Maps <img src="https://www.gericare.in/public/website/assets/images/red.png" alt="Geri Care Hospital"></a>
                     <!-- <div class="mt-4">
                       <a class="hospital-btn" href="http://192.168.0.56/gericare/our-doctors"> Assisted Living </a>
                     </div>  -->
@@ -880,7 +880,7 @@ Nov 04 2019
                       1st <br> Main Road Thoraipakkam,
                       Chennai - 600 097
                    </p>
-                    <a href="https://goo.gl/maps/eZNZbkaZcb3gtZqE7" target="_blank" tabindex="0" class="mb-2">View on Maps <img src="http://192.168.0.56/gericare/public/website/assets/images/red.png" alt="Geri Care Hospital"></a> 
+                    <a href="https://goo.gl/maps/eZNZbkaZcb3gtZqE7" target="_blank" tabindex="0" class="mb-2">View on Maps <img src="https://www.gericare.in/public/website/assets/images/red.png" alt="Geri Care Hospital"></a> 
                </div>
           </div>  
        </div> 
@@ -1052,9 +1052,9 @@ Nov 04 2019
 </section> -->
 
 
-@include('website.mobilebottomform')
+<!-- @include('website.mobilebottomform') -->
 
-<section class="mobile-only-view call-acton">
+<!-- <section class="mobile-only-view call-acton">
 <div class="container">
 <div class="row">
 
@@ -1072,7 +1072,7 @@ Nov 04 2019
 
 </div>
 </div>
-</section>
+</section> -->
 <!-- 
 <div class="modal fade" id="popupvideo" tabindex="-1" aria-labelledby="exampleModalCenterTitle" >
 	<div class="modal-dialog modal-lg modal-dialog-centered">

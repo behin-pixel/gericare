@@ -8,15 +8,15 @@
 <div class="row">
 
 <div class="col-lg-12">
-<h1>Geriatric Physiotherapy at Home</h1>
+<h1>Preventive Health Checks Clinic</h1>
 <ul>
-<li><a href="{{ url('/') }}"> Home </a></li>
-<li> > </li>
-<li> <a href="{{ url('about-clinics') }}">Home Care </a></li>
-<li> > </li>
+<li><a href="http://192.168.0.56/gericare"> Home </a></li>
+<li> &gt; </li>
+<li> <a href="http://192.168.0.56/gericare/about-clinics">Clinic</a></li>
+<li> &gt; </li>
 <li>  Service we Offer</li>
-<li> > </li>
-<li class="active">Geriatric Physiotherapy at Home</li>
+<li> &gt; </li>
+<li class="active">Preventive Health Checks Clinic</li>
 </ul>
 </div>
 
@@ -37,7 +37,8 @@
 </div>
 <div class="call-and-attend">
 <ul>
-<li><a href="" data-bs-toggle="modal" data-bs-target="#exampleModalCenter">Request a Callback</a></li>    
+<!-- <li><a href="" data-bs-toggle="modal" data-bs-target="#exampleModalCenter">Request an Appointment</a></li>     -->
+<li><a href="{{ url('request-an-appointment') }}">Request an Appointment</a></li>
 <li><a href="tel:+914440614061">Call Us at <span>+91 44 4061 4061</span></a></li>    
 </ul>
 </div>
@@ -68,10 +69,16 @@ Bring You Peace of Mind
 +91 44 4061 4061
 </a>
 </li>
-<li>
+<!-- <li>
 <a href="" data-bs-toggle="modal" data-bs-target="#exampleModalCenter">
 <img src="{{ asset('/public/website/assets/images/call-cta.png') }}" alt="Geri Care Hospital" class="" /> 
-Request Call Back
+Request an Appointment
+</a>
+</li> -->
+<li>
+<a href="{{ url('request-an-appointment') }}">
+<img src="{{ asset('/public/website/assets/images/call-cta.png') }}" alt="Geri Care Hospital" class="" /> 
+Request an Appointment
 </a>
 </li>
 </ul>

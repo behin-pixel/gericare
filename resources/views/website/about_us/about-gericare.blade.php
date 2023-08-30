@@ -30,23 +30,22 @@ in the Country</span>
 
 </section> 
 
-<section class="pb-0 pt-5">
+<section class="pb-3 pt-3 common-bg-color m-none no-line">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
                 <div class="about-link-design">
                     <ul class="justify-content-center">
                         <li class="text-center side-line"><a href="{{ url('about-gericare') }}" class="@if(request()->routeIs(['about-us.about-gericare'])) actives @endif">About Geri Care</a></li>
-                        <li class="ps-3"><a href="{{ url('leadership') }}">Leadership Team</a></li>
-                    </ul>  
-                    <hr> 
+                        <li class=""><a href="{{ url('leadership') }}">Leadership Team</a></li>
+                    </ul>   
                 </div>    
             </div>    
         </div>    
     </div>    
 </section>    
 
-<section class="about-the-hosptl pt-5">
+<section class="about-the-hosptl">
 <div class="container">
 <div class="row align-items-center">
 

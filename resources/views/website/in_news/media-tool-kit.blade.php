@@ -28,11 +28,11 @@
 </div>
 
 </section> 
-<section class="pb-0 pt-5">
+<section class="pb-3 pt-3 common-bg-color m-none">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
-                <div class="about-link-design m-none">
+                <div class="about-link-design">
                     <ul class="justify-content-around">
                         <li class="pe-3"><a href="{{ url('news-and-events') }}" class="@if(request()->routeIs(['in-news.news-events'])) actives @endif">News & Events</a></li>
                         <li><a href="{{ url('media-gallery') }}" class="@if(request()->routeIs(['in-news.media-gallery'])) actives @endif">Media</a></li>
@@ -41,9 +41,8 @@
                         <li><a href="{{ url('gallery') }}" class="@if(request()->routeIs(['in-news.gallery'])) actives @endif">Gallery</a></li>
                         <li><a href="https://www.gericare.in/blog" class="@if(request()->routeIs(['in-news.blog'])) actives @endif">Blogs</a></li>
                     </ul>  
-                    <hr> 
                 </div> 
-                <div class="dropdown mobile-dropdown-menu text-center">
+                <!-- <div class="dropdown mobile-dropdown-menu text-center">
                      <a class="dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
                         News Room
                      </a>
@@ -55,13 +54,13 @@
                         <li><a class="dropdown-item" href="{{ url('gallery') }}">Gallery</a></li>
                         <li><a class="dropdown-item" href="https://www.gericare.in/blog">Blogs</a></li>
                      </ul>
-                </div>   
+                </div>    -->
             </div>    
         </div>    
     </div>    
 </section> 
 
-<section class="media-toolkit pt-4">
+<section class="media-toolkit">
 <div class="container">
 <div class="row justify-content-center">
 
