@@ -193,19 +193,19 @@
                     <div class="position-relative">
                         <ul class="radio-btns">
                             <li>
-                                <input type="radio" value="homecare" {{ request()->path() == 'homecare' ? 'checked' : '' }} id="home Care" name="epagename">
+                                <input type="radio" value="homecare"  {{ activeClass(['homecare','physio-care','psychiatrist-for-home-visit','orthopedician-home-visit','dentist-at-home','iv-fluids-monitoring','urinary-catheterization-at-home','outpatient-parenteral-antimicrobial-administration','wound-care-dressing','ecg-test-at-home','nursing-care','home-sample-collection','live-in-elderly-care','care-for-bedridden-elderly-at-home'],'checked') }} id="home Care" name="epagename">
                                 <label for="home Care">Home Care</label>
                             </li>
                             <li>
-                                <input type="radio" value="gericare-hospital" {{ request()->path() == 'gericare-hospital' ? 'checked' : '' }}  id="hospital" name="epagename">
+                                <input type="radio" value="gericare-hospital" {{ activeClass(['gericare-hospital'],'checked') }}   id="hospital" name="epagename">
                                 <label for="hospital">Hospital</label>
                             </li>
                             <li>
-                                <input type="radio" value="assisted-living" {{ request()->path() == 'assisted-living' ? 'checked' : '' }} id="assisted living" name="epagename">
+                                <input type="radio" value="assisted-living"  {{ activeClass(['assisted-living'],'checked') }} id="assisted living" name="epagename">
                                 <label for="assisted living">Assisted living</label>
                             </li>
                             <li>
-                                <input type="radio" value="about-clinics" {{ request()->path() == 'about-clinics' ? 'checked' : '' }} id="clinic" name="epagename">
+                                <input type="radio" value="about-clinics" {{ activeClass(['about-clinics','falls-prevention-clinic','memory-clinic','incontinence-clinic','preventive-health-care-clinic','adult-vaccination-clinic','seniors-diabetic-clinic','hypertension-clinic','sleep-disorder-clinic'],'checked') }}  id="clinic" name="epagename">
                                 <label for="clinic">Clinic</label>
                             </li>
                         </ul>

@@ -36,7 +36,7 @@ if (!function_exists('fetchOrder')) {
 if (!function_exists('OrderId')) {
     function OrderId($id)
     {
-        $prefix = 'ADL/'.date("Y").'/';
+        $prefix = 'ADL/' . date("Y") . '/';
         if (strlen($id) == 1) {
             return  $prefix . "0000" . $id;
         }
@@ -76,7 +76,7 @@ if (!function_exists('asset_url')) {
                 return url('/storage/app/' . $value);
             }
         }
-        if(str_contains($value,'http')) {
+        if (str_contains($value, 'http')) {
             return $value;
         }
         return asset('public/images/no-image.jpg');
@@ -101,34 +101,30 @@ if (!function_exists('auth_id')) {
         return Sentinel::getUser()->name;
     }
 }
-if(!function_exists('permission_check'))
-{
-    function permission_check($data){
+if (!function_exists('permission_check')) {
+    function permission_check($data)
+    {
 
         $id = Sentinel::getUser()->id;
-        if($id != 1)
-        {
-            $role =  RoleUsers::where('user_id',$id)->select('role_id')->first();
-            $role = Roles::where('id',$role['role_id'])->select('permissions')->first();
+        if ($id != 1) {
+            $role =  RoleUsers::where('user_id', $id)->select('role_id')->first();
+            $role = Roles::where('id', $role['role_id'])->select('permissions')->first();
             $ss = json_decode($role['permissions']);
-            
-             try {
-                if($ss->$data == 1) 
-                {
+
+            try {
+                if ($ss->$data == 1) {
                     return true;
                 }
-             } catch (\Throwable $th) {
+            } catch (\Throwable $th) {
                 return false;
-             }
-          
+            }
+
             return false;
-        }
-        else if($id == 1)
-        {
+        } else if ($id == 1) {
             return true;
         }
-        
-      
+
+
 
         // print_r($user);
     }
@@ -170,8 +166,8 @@ if (!function_exists('button')) {
         if ($type == 'phone') {
             return '<a href="tel:' . $url . '" title="' . $url . '" class="m-1 shadow-sm btn btn-sm text-primary btn-outline-light"><i class="fa fa-phone"></i></a>';
         }
-        if ($type == 'email') { 
-            return '<a  href="mailto:'.$url.'" title="' . $url . '" class="m-1 shadow-sm btn btn-sm text-warning btn-outline-light"><i class="fa fa-envelope"></i></a>';
+        if ($type == 'email') {
+            return '<a  href="mailto:' . $url . '" title="' . $url . '" class="m-1 shadow-sm btn btn-sm text-warning btn-outline-light"><i class="fa fa-envelope"></i></a>';
         }
     }
 }
@@ -192,15 +188,16 @@ if (!function_exists('toggleButton')) {
         }
     }
 
-    if(!function_exists('getApiMaster')) {
-        function getApiMaster($type) {
+    if (!function_exists('getApiMaster')) {
+        function getApiMaster($type)
+        {
             $data = ApiConfig::where('apiType', (string) $type)->get()->toArray();
             $result = [];
-            if(!is_null($data)) {
-                foreach($data as $api) {
+            if (!is_null($data)) {
+                foreach ($data as $api) {
                     $result[] = [
                         "location" =>  $api['location_slug'],
-                        "http" => $api['apiUrl']."?CorporateID=".$api['corporateID']."&passCode=".$api['passCode']
+                        "http" => $api['apiUrl'] . "?CorporateID=" . $api['corporateID'] . "&passCode=" . $api['passCode']
                     ];
                 }
             }
@@ -208,46 +205,56 @@ if (!function_exists('toggleButton')) {
         }
     }
 
-    if(!function_exists('PaymentApiConfig')) {
-        function PaymentApiConfig() {
+    if (!function_exists('PaymentApiConfig')) {
+        function PaymentApiConfig()
+        {
             return PaymentConfig::find(1);
         }
     }
-    if(!function_exists('breadcrumbTitle')) {
-        function breadcrumbTitle() {
+    if (!function_exists('breadcrumbTitle')) {
+        function breadcrumbTitle()
+        {
             $text = request()->route()->getName();
-            $result =  ucfirst(str_replace(['.','-','_'],' ',$text));
-            return str_replace('show', 'Detail view', str_replace('index','',$result));
+            $result =  ucfirst(str_replace(['.', '-', '_'], ' ', $text));
+            return str_replace('show', 'Detail view', str_replace('index', '', $result));
         }
     }
 
-    if(!function_exists('OrderStatus')) {
-        function OrderStatus($status) {
-            if($status == null || $status == "0") {
+    if (!function_exists('OrderStatus')) {
+        function OrderStatus($status)
+        {
+            if ($status == null || $status == "0") {
                 return '<span class="badge-secondary"><span class="fa fa-clock-o me-1"></span> Pending</span>';
             }
-            if($status == "1") {
+            if ($status == "1") {
                 return '<span class="badge-success"><span class="fa fa-check me-1"></span> Accepted</span>';
             }
-            if($status == "2") {
+            if ($status == "2") {
                 return '<span class="badge-danger"><span class="fa fa-ban me-1"></span> Denied</span>';
             }
-            if($status == "3") {
+            if ($status == "3") {
                 return '<span class="badge-warning"><span class="fa fa-ban me-1"></span> Cancel Requested</span>';
             }
-            if($status == "4") {
+            if ($status == "4") {
                 return '<span class="badge-warning"><span class="fa fa-times-circle me-1"></span> Order Cancelled </span>';
             }
-            if($status == "5") {
+            if ($status == "5") {
                 return '<span class="badge-danger"><span class="fa fa-ban me-1"></span> Cancel Request Dined</span>';
             }
         }
     }
 
     if (!function_exists('sendMail')) {
-        function sendMail($modal,$data)
+        function sendMail($modal, $data)
         {
-            return dispatch(new EmailJobs( new $modal(),$data));
+            return dispatch(new EmailJobs(new $modal(), $data));
+        }
+    }
+
+    if (!function_exists('activeClass')) {
+        function activeClass($array, $class)
+        {
+            return in_array(request()->path(), $array) ? $class : '';
         }
     }
 }
