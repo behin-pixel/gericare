@@ -10,7 +10,7 @@
     $name='Dr. Srinivas Rajkumar T';
     @endphp 
 <div class="col-lg-12">
-<h1>Our Doctors</h1>
+<h2>Our Doctors</h2>
 <ul>
 <li><a href="{{ url('/') }}"> Home </a></li>
 <li> > </li>
@@ -45,7 +45,7 @@
 
 <div class="col-lg-7">
 <div class="doc-tor-cnt">
-<h3>Dr. Srinivas Rajkumar T<span>Consultant Psychiatrist</span></h3>
+<h1>Dr. Srinivas Rajkumar T<span>Consultant Psychiatrist</span></h1>
 <h4><img src="{{ asset('/public/website/assets/images/expe.png') }}" alt="Geri Care Hospital" class=""> Experience <span> 9+ Years</span></h4>
 <h4><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="Geri Care Hospital" class=""> Education <span>MD (Psychiatry)</span></h4>
 <h4><img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="Geri Care Hospital" class=""> Languages <span> Tamil, English, Hindi</span></h4>

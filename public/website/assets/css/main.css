@@ -2904,6 +2904,15 @@ ul.press-roomr li span.bts-non {
     margin-bottom: 0;
     text-transform: none;
 }
+.inner-layer-banner h2 {
+    font-family: 'Red Hat Display', sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    color: #FFFFFF;
+    line-height: 54px;
+    margin-bottom: 0;
+    text-transform: none;
+}
 .inner-layer-banner ul {
     padding: 0;
     margin: 0;
@@ -2996,6 +3005,25 @@ ul.press-roomr li span.bts-non {
 }
 
 .doc-tor-cnt h3 span {
+    font-weight: 500;
+    color: #666666;
+    font-size: 14px;
+    line-height: 21px;
+    display: block;
+    margin-bottom: 20px;
+}
+
+.doc-tor-cnt h1 {
+    font-weight: 700;
+    color: #7C164B;
+    font-size: 28px;
+    font-family: 'Red Hat Display', sans-serif;
+    line-height: 42px;
+    margin-bottom: .5rem;
+    text-transform: capitalize;
+}
+
+.doc-tor-cnt h1 span {
     font-weight: 500;
     color: #666666;
     font-size: 14px;
@@ -5890,6 +5918,10 @@ br{display: none !important;}
     .age-layer p{margin-bottom:0px;}
 
     .inner-layer-banner h1 {
+        font-size: 22px;
+    }
+
+    .inner-layer-banner h2 {
         font-size: 22px;
     }
 

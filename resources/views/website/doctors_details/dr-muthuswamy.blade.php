@@ -10,7 +10,7 @@
     $name='Dr. Muthuswamy';
     @endphp 
 <div class="col-lg-12">
-<h1>Our Doctors</h1>
+<h2>Our Doctors</h2>
 <ul>
 <li><a href="{{ url('/') }}"> Home </a></li>
 <li> > </li>
@@ -45,7 +45,7 @@
 
 <div class="col-lg-7">
 <div class="doc-tor-cnt">
-<h3>Dr. Muthuswamy<span>Senior Interventional Consultant Cardiologist</span></h3>
+<h1>Dr. Muthuswamy<span>Senior Interventional Consultant Cardiologist</span></h1>
 <h4><img src="{{ asset('/public/website/assets/images/expe.png') }}" alt="Geri Care Hospital" class=""> Experience <span> 35+ Years </span></h4>
 <h4 class="educaton"><img src="{{ asset('/public/website/assets/images/cap.png') }}" alt="Geri Care Hospital" class=""> Education <span>MB MRCP(UK) MRCP(Ire) FRCP(Lon) MRCP(Edin) FACC</span></h4>
  <h4><img src="{{ asset('/public/website/assets/images/lang.png') }}" alt="Geri Care Hospital" class=""> Languages <span> Tamil, English  </span></h4>
